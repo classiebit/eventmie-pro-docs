@@ -1,3 +1,3 @@
-## Eventmie Pro Docs
+# Eventmie Pro Docs
 
-Eventmie pro documentation
+**Host Single, multiple and repetitive days Events**

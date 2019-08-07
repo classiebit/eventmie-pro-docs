@@ -1,9 +1,9 @@
-# Eventmie
+# Eventmie Pro
 
-**Anonymous feedback system <em>Remastered</em>**
+**Host Single, multiple and repetitive days Events**
 
 <br>
-Receive honest feedbacks and specific question's answers from your co-workers, friends and people around you.
+
 
 
 > {primary.fa-youtube} Here's a complete video tutorial guide for getting started quickly ✌️
