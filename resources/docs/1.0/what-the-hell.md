@@ -4,7 +4,7 @@
 
 <br>
 
-
+Laravel package
 
 > {primary.fa-youtube} Here's a complete video tutorial guide for getting started quickly ✌️
 
