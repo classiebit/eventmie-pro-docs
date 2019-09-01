@@ -16,7 +16,7 @@ return [
     'docs'        => [
         'route'   => '/docs',
         'path'    => '/resources/docs',
-        'landing' => 'what-the-hell',
+        'landing' => 'intro',
     ],
 
     /*
@@ -117,8 +117,8 @@ return [
         'fav'            => 'logo.png',     // eg: fav.png
         'fa_v4_shims'    => true, // Add FontAwesome v4 shims prevent BC break
         'colors'         => [
-            'primary'    => '#6c80f3',
-            'secondary'  => '#172b4d'
+            'primary'    => '#1b89ef',
+            'secondary'  => '#ec398b'
         ],
     ],
 
