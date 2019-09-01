@@ -69,7 +69,7 @@ return [
     */
 
     'cache'       => [
-        'enabled' => env('APP_ENV') == 'staging' ? false : false,
+        'enabled' => env('APP_ENV') == 'staging' ? true : false,
         'period'  => 1440 // 24 hours
     ],
 
