@@ -11,10 +11,10 @@
     
 
 - ## Organiser Account
-    - [My Events](/{{route}}/{{version}}/o-account/myevents)
-    - [My Speakers](/{{route}}/{{version}}/o-account/myspeakers)
-    - [My Sponsors](/{{route}}/{{version}}/o-account/mysponsors)
-    - [My Bookings](/{{route}}/{{version}}/o-account/mybookings)
+    - [Manage Events](/{{route}}/{{version}}/o-account/manageevents)
+    - [Manage Speakers](/{{route}}/{{version}}/o-account/managespeakers)
+    - [Manage Sponsors](/{{route}}/{{version}}/o-account/managesponsors)
+    - [Manage Bookings](/{{route}}/{{version}}/o-account/managebookings)
 
 - ## Customer Account
     - [My Bookings](/{{route}}/{{version}}/c-account/mybookings)

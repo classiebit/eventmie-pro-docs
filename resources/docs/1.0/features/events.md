@@ -1,112 +1,158 @@
 # Events
 
-You can create single and multiple days events. And you can also schedule repetitive events. Basically you can create any type of event and sell its tickets. 
+You can create single, multiple and repetitive days events. You can also create repetitive classes using repetitive schedules e.g Yoga classes, fitness classes, etc.
 
 <br>
-There are three types of users who manage the site with different roles and permissions. 
-
-1. Admin - can create an event by selecting an organiser and manage everything.
-2. Organiser - can create event from the front end and manages the data related to his/her event only.
-3. Customer - can book events and manage their bookings and cancellations.
-
----
-As an Admin, go to `Admin panel -> Events -> Add New`. And as an Organiser hover on your name on the top menu and go to `My Events -> Create Event`.
-
----
-
-> {primary} Organiser can manage only their own events, bookings, speakers, sponsors, tickets, etc. Whereas Admin can manage everything.
-
----
-
-> {info} Event management feature is common for `Admin` and `Organiser`. As a Admin, when you click on `Create` or `Edit` event button on the `Admin Panel`, you'll be redirected to the front end's `Manage Event` page.
+Each event belongs to an organizer. And according to the different roles of each user, we've created three types of user groups. Each group will be having different permissions throughout the site.
 
 <br>
-Below are the steps on how to create and manage events. You can `Publish` or `Un-publish` your event from the last step. And to publish an event, you need to complete all the steps.
+1. **Admin** - Access admin panel, create events, bookings and manage everything.
 
----
+2. **Organiser** - Create events, speakers, sponsors and manage bookings of their own events from the front-end. Organiser have no access to admin panel.
 
+3. **Customer** - Book events and manage their bookings and cancellations from the front-end. Customer have no access to admin panel.
+
+
+
+- [Create Event](#Create-Event)
+- [Manage Event](#Manage-Event)
 - [Details](#Details)
-- [Location](#Location)
 - [Timing](#Timing)
-- [Repetitive Schedule](#Repetitive-Schedule)
+- [Add Repetitive Schedule](#Add-Repetitive-Schedule)
 - [Tickets](#Tickets)
+- [Location](#Location)
 - [Media](#Media)
 - [SEO](#SEO)
 - [Sponsors & Speakers](#Sponsors-Speakers)
+
+---
+
+
+<a name="Create-Event"></a>
+## How To Create Event
+
+### For Admin & Organiser
+
+1. Click on &nbsp;<larecipe-button type="primary" size="sm" rounded>Create Event</larecipe-button>
+2. Complete all the steps.
+3. Then from the last step `Powered By`, click on &nbsp;<larecipe-button type="success" size="sm" rounded>Publish Event</larecipe-button>
+
+
+> {primary} After successfully publishing the event, you'll see the event on event listing page &nbsp;<larecipe-button type="secondary" size="sm" rounded>Browse Events</larecipe-button>
+
+
+---
+
+
+<a name="Manage-Event"></a>
+## How To Manage Events
+
+### For Admin
+
+1. Go to Admin Panel.
+2. In the sidebar, Click on `Manage Events` -> `Events`.
+3. Then click on &nbsp;<larecipe-button type="primary" size="sm" rounded>Edit</larecipe-button>
+
+
+### For Organiser
+
+1. In the header, hover over your account name and click on `Manage Events` 
+2. You'll see all your events in the list.
+3. Then click on &nbsp;<larecipe-button type="primary" size="sm" rounded>Edit</larecipe-button>
+
+
+> {primary} Admin can see all the organisers events on the `Admin panel`, while Organiser can see only their own events on the `front-end`.
+
+
+---
+
+
+## Event Creation Steps Explained
+
+Below are all the steps explained. You can `Publish` or `Un-publish` your event from the last step. And to publish an event, you need to complete all the steps.
 
 
 <a name="Details"></a>
 ## Details
 
-You need to fill in the event details to proceed to next step. If you're logged in as Admin, then you need to select an Organiser. And if you're logged in as Organiser then you will be the organiser of the event.
+You need to fill in the event details to proceed to next step. If you're Admin, you need to `select an Organiser` and if you're Organiser, you will be the organiser of the event.
 
 <br>
-**Fields**
+**Form Fields**
 
 - Title (Event name)
-- Slug  (Event URL)
+- Slug  (Event URL will be auto-generated)
 - Description
 - More Info (Why to attend your event?)
 - Category
 
 
 
-<a name="Location"></a>
-## Location
-You can add your events Location details and also can add `Google map Lat-long` to show your event venue in the Google Map on the event preview page.
-
-**Fields**
-
-- Venue
-- Google Map Lat-Long
-- Address
-- City
-- State
-- Zipcode
-- Country
-
-
 <a name="Timing"></a>
 ## Timing
 
-You can select the event time period for single day or for multiple days, months or even years.
+Enter the event timings. Timings can be for single or multiple days event.
 
-**Fields**
+<br>
+**Form Fields**
 
 - Start date
 - Start time
 - End date
 - End time
-- Repetitive Type - Daily | Weekly | Monthly
-- Repetitive Dates - 1st - 31st
-- Repetitive Days - Monday to Sunday
+
+>{info} If your event occurs for a single time, do not check the `Add Repetitive Schedules` checkbox. Just save it and proceed to next step. 
 
 
-<a name="Repetitive-Schedule"></a>
-## Repetitive Schedule
+---
 
-If your event is repetitive, then you can add repetitive schedules. Just check the `Add Repetitive Schedules` checkbox and select `Repetitive Type` like `Daily` `Weekly` or `Monthly`. Then the schedules will be auto generated according to the `Start date` and `End date` you selected.
+<a name="Add-Repetitive-Schedule"></a>
+## Add Repetitive Schedule
+
+If your Event is a Repetitive Event, then you can check the `Add Repetitive Schedules` checkbox. 
+
+<br>
+**You can create also `Classes` e.g Yoga, dance, fitness, education or any other classes**
+
+---
+
+>{info} The schedules will be auto generated according to the `Total Months` in the `Start date` & `End date`. So that you can customise each month timing seperately.
+
+---
+>{primary} Suppose an event occurs on 3rd, 4th and 5th in first month, while it occurs on 15th, 16th or 17th in second month and so on.
+
+---
+
+### Let's first see what's `Daily` `Weekly` and `Monthly` types are.
+
+- **Daily** - the event repeats every `day` from the start to end date.
+- **Weekly** - the event repeats every `week` from the start to end date.
+- **Month** - the event repeats every `month` from the start to end date.
 
 
-###How Repetitive schedules generated and work
+<br>
+**Form Fields**
 
-Schedules are generated on the basis of **total number of months** in the `Start date` and `End date`. And in each schedule, there are two options - 
+- Repetitive Type & Repetitive Dates/Days are connected to each other. When you select-
+    
+    - **Daily** - it ask you for **Repetitive Dates (Repeat Except)** that means, choose the dates on which the event `DO NOT` repeats.
 
-- `Repetitive Dates` to include or exclude dates or days throughout each month. And this will decide which Date will show up or not on the event preview page.
-- `Start-End time` if in case you have different timing of your repetitive event every month.
+    - **Weekly** - it ask you for **Repetitive Days** that means, choose the weekdays on which the event repeats.
+    
+    - **Monthly** - it ask you for **Repetitive Dates (Repeat Every)** that means, choose the dates on which the event repeats.
 
-> {primary} These options gives more flexibility to the repetitive schedules. And you can schedule any type of event.
+- Start Time - Set event start time for each month.
+- End Time - Set event end time for each month.
 
+---
 
-### Repetitive Type
+>{success} You can set different repetitive dates and time for each month schedule.
 
-You can select how often your event repeats - Daily, Weekly or Monthly.
+---
 
-- `Daily` - for daily repeating events and from the `Repetitive Dates` option, you can exclude dates like 10th, 12th, 13th, etc from each month. 
+> {primary} These options gives you more flexibility to customize each month's repetitive scheduled at a greater extent.
 
-- `Weekly` - for weekly repeating events and from the `Repetitive Dates` option, you can choose the weekday like Friday, saturday, etc on which your event repeats.
-
-- `Monthly` - for monthly repeating events and from the `Repetitive Dates` option, you can choose the dates on which your event repeats.
+---
 
 
 
@@ -122,6 +168,24 @@ You can create tickets for your event `Free` and `Paid` both, and also you can a
 - Capacity (max bookings each ticket)
 - Description (ticket amenities)
 - Applicable Tax
+
+
+
+<a name="Location"></a>
+## Location
+
+Enter your Event Location details and add `Google map Lat-long` to show your Event Venue in the Google Map on the Event page.
+
+**Form Fields**
+
+- Venue
+- Google Map Lat
+- Google Map Long
+- Address
+- City
+- State
+- Zipcode
+- Country
 
 
 <a name="Media"></a>
