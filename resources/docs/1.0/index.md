@@ -6,18 +6,9 @@
 
 - ## Features
     - [Events](/{{route}}/{{version}}/features/events)
-    - [Booking](/{{route}}/{{version}}/features/booking)
+    - [Bookings](/{{route}}/{{version}}/features/bookings)
     - [Commission](/{{route}}/{{version}}/features/commission)
-    
-
-- ## Organiser Account
-    - [Manage Events](/{{route}}/{{version}}/o-account/manageevents)
-    - [Manage Speakers](/{{route}}/{{version}}/o-account/managespeakers)
-    - [Manage Sponsors](/{{route}}/{{version}}/o-account/managesponsors)
-    - [Manage Bookings](/{{route}}/{{version}}/o-account/managebookings)
-
-- ## Customer Account
-    - [My Bookings](/{{route}}/{{version}}/c-account/mybookings)
+    - [Speakers & Sponsors](/{{route}}/{{version}}/features/speakers-sponsors)
 
 - ## Admin Panel
     - [Dashboard](/{{route}}/{{version}}/admin/dashboard)

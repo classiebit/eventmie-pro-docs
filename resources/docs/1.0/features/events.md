@@ -63,6 +63,9 @@ Each event belongs to an organizer. And according to the different roles of each
 
 > {primary} Admin can see all the organisers events on the `Admin panel`, while Organiser can see only their own events on the `front-end`.
 
+---
+
+>{danger} Organiser can only disable their events, only Admin have permission to delete an event.
 
 ---
 
