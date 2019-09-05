@@ -41,3 +41,19 @@ You can manage your commission and organisers earnings from this page.
 ## Taxes
 
 You can add taxes from this page and when adding tickets to an event, you can choose from these taxes.
+
+**Fields**
+
+- Tax Title - Name of the Taxe
+- Rate Type
+    - Percent - calculate the tax in percentage
+    - Fixed - add a fixed amount
+- Net Price 
+    - Including - if the tax is inclusive in the ticket price
+    - Excluding - if the tax is exclusive (ticket price + tax)
+- Status
+    - Enabled - show the tax in taxes options on the front-end
+    - Disabled - hide the tax in taxes options on the front-end
+
+
+>{info} Tax can be selected for each Ticket price seperately. And the selected tax will be applied on each ticket price at the time of `Checkout`.

@@ -10,3 +10,10 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 myhelper.md
+
+# OSX Specific files
+.DS_Store
+/__MACOXS
+
+# Vscode Specific files
+/.vscode

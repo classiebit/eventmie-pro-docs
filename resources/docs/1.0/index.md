@@ -9,6 +9,8 @@
     - [Bookings](/{{route}}/{{version}}/features/bookings)
     - [Commission](/{{route}}/{{version}}/features/commission)
     - [Speakers & Sponsors](/{{route}}/{{version}}/features/speakers-sponsors)
+    - [Multi Vendor](/{{route}}/{{version}}/features/multi-vendor)
+    
 
 - ## Admin Panel
     - [Dashboard](/{{route}}/{{version}}/admin/dashboard)
