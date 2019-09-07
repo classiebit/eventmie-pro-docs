@@ -57,3 +57,7 @@ You can add taxes from this page and when adding tickets to an event, you can ch
 
 
 >{info} Tax can be selected for each Ticket price seperately. And the selected tax will be applied on each ticket price at the time of `Checkout`.
+
+---
+
+>{warning} Only Admin can add & modify taxes from the Admin Panel. On the front-end, organisers can only select a Tax that is added by the admin, and cannot add or modify a tax.

@@ -192,3 +192,23 @@ Region specific configurations.
 |:-|:-|
 |Timezone|`list`|Choose your region specific timezone|
 |Currency|`list`|Choose your default currency|
+
+
+<br>
+
+#### When you set a Timezone as default, date & time that are storing in the database, are converted according to the default timezone.
+
+- Suppose you've set the timezone `America/Los_Angeles` as default and a customer is visiting your site from `India/Kolkata` then, the customer will see the date & time according to `India/Kolkata` timezone i.e `America/Los_Angeles` to `India` automatic timezone conversion.
+
+- And suppose you've an Organiser is accessing your website from `India/Kolkata` and submitting an event on your site, then the date & time will be converted from `India/Kolkata` to `America/Los_Angeles` and in your database, date & time will be stored according to `America/Los_Angeles` timezone.
+
+
+---
+
+> {success} We detect the visitor's timezone and do all these conversions behind the scenes.
+
+--- 
+
+> {primary} This way, you can run your Event organisation business globally.
+
+---

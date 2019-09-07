@@ -10,6 +10,7 @@
     - [Commission](/{{route}}/{{version}}/features/commission)
     - [Speakers & Sponsors](/{{route}}/{{version}}/features/speakers-sponsors)
     - [Multi Vendor](/{{route}}/{{version}}/features/multi-vendor)
+    - [Notifications](/{{route}}/{{version}}/features/notifications)
     
 
 - ## Admin Panel
