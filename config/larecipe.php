@@ -16,7 +16,8 @@ return [
     'docs'        => [
         'route'   => '/docs',
         'path'    => '/resources/docs',
-        'landing' => 'intro',
+        'landing' => 'introduction',
+        'middleware' => ['web'],
     ],
 
     /*
@@ -52,7 +53,7 @@ return [
 
     'settings'       => [
         'auth'       => false,
-        'ga_id'      => ''
+        'ga_id'      => env('APP_ENV') == 'production' ? 'UA-148180654-1' : '',
     ],
 
     /*
@@ -69,8 +70,8 @@ return [
     */
 
     'cache'       => [
-        'enabled' => env('APP_ENV') == 'staging' ? false : false,
-        'period'  => 1440 // 24 hours
+        'enabled' => false,
+        'period'  => 5
     ],
 
     /*
@@ -114,11 +115,11 @@ return [
 
     'ui'                 => [
         'code_theme'     => 'dark', // or: light
-        'fav'            => 'logo.png',     // eg: fav.png
+        'fav'            => '',     // eg: fav.png
         'fa_v4_shims'    => true, // Add FontAwesome v4 shims prevent BC break
         'colors'         => [
-            'primary'    => '#1b89ef',
-            'secondary'  => '#ec398b'
+            'primary'    => '#787AF6',
+            'secondary'  => '#2b9cf2'
         ],
     ],
 
@@ -136,14 +137,13 @@ return [
 
     'seo'                 => [
         'author'          => 'classiebit',
-        'description'     => 'Receive honest feedbacks and specific question\'s answers from your co-workers, friends and people around you.',
-        'keywords'        => 'eventmie, docs, anonymous, feedback, messaging, social, network, personal, questions, answers',
+        'description'     => 'Launch a dedicated platform for Event planning on your domain.',
         'og'              => [
             'title'       => 'Eventmie Pro - Docs',
             'type'        => 'article',
-            'url'         => 'http://docs.eventmie-pro.classiebit.com',
-            'image'       => 'http://docs.eventmie-pro.classiebit.com/logo.png',
-            'description' => 'Receive honest feedbacks and specific question\'s answers from your co-workers, friends and people around you.',
+            'url'         => 'https://eventmie-pro-docs.classiebit.com',
+            'image'       => 'https://eventmie-pro-docs.classiebit.com/logo.png',
+            'description' => 'Launch a dedicated platform for Event planning on your domain.',
         ]
     ],
 
