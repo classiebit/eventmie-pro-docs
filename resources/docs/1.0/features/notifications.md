@@ -1,29 +1,41 @@
 # Notifications
 
-Each user (admin, organiser & customer) will receive notifications seperately. According to their own updates. 
+**Admin**, **Organizer** and **Customer**, everyone receives notifications separately. 
 
-<br>
+---
 
-#### The users will receive the following types of notifications.
+>{primary} Notifications are received via **Email** and on the **Website** (the 🔔 icon)
+
+---
+
+
+#### Types of notifications.
+
 
 1. **Customer**
-    - Books an event
-    - Request for cancellation
-    - Signup on the website
-    - Forgot password email
+
+    - New Event Booking
+    - Booking Cancellation Request
+    - Welcome message on Signup
 
 
-2. **Organiser** 
-    - Organiser creates a new event
-    - Customer books the organiser event
-    - Customer request cancellation for the organiser event
+2. **Organizer** 
+
+    - Creating a New Event
+    - When Customer Books the Organizer Event
+    - Customer Request Cancellation for the Organizer Event
 
 3. **Admin**
-    - Every new event created
-    - Every new event booking
-    - Every new booking cancellation
-    - New contact message from contact us page
+    
+    - Newly Created Event
+    - New Event Booking
+    - New Booking Cancellation Request
+    - New Contact Message from Contact Us page
     - New User signup
 
 
->{info} Admin can set the email credentials from the admin panel to start receiving emails.
+---
+
+>{info} Setup `Mail Credentials` from `Admin Panel` to start receiving emails.
+
+---

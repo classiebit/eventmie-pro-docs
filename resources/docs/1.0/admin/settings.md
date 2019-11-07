@@ -1,14 +1,7 @@
 # Settings
 
-Here you can manage Eventmie Pro global settings.
+Manage Eventmie Pro global settings here.
 
-> {warning} Please, carefully read all the guidelines provided below for each setting, or else it may break down the your site.
-
----
-
-> {danger} Please make sure you use the exact same setting value type e.g string, numeric, etc.
-
----
 
 - [Site](#Site)
 - [SEO](#SEO)
@@ -24,15 +17,15 @@ Here you can manage Eventmie Pro global settings.
 <a name="Site"></a>
 ## Site
 
-Change your website branding here.
+Setup website brand identity.
 
 
 |Setting Name|Type|Description|
 |:-|:-|
 |Site Name|`alpha`|brand name|
-|Site Slogan|`alpha`|brand tagline|
-|Site Logo|`image:jpg|jpeg|png`|brand Logo image|
-|Site Favicon|`image:jpg|jpeg|png`|website favicon|
+|Site Slogan|`alpha`|Tagline|
+|Site Logo|`image:jpg|jpeg|png`|Logo|
+|Site Favicon|`image:jpg|jpeg|png`|Favicon/icon|
 
 
 
@@ -44,8 +37,8 @@ Website SEO
 
 |Setting Name|Type|Description|
 |:-|:-|
-|Meta Title|`alpha`|short title of your website|
-|Meta Tags|`alpha`|comma seperated unique words that describes your website|
+|Meta Title|`alpha`|short title explaining your business|
+|Meta Keywords|`alpha`|comma separated unique keywords that describe your website in-short|
 |Meta Description|`alpha`|short description of your website|
 
 
@@ -53,15 +46,15 @@ Website SEO
 <a name="Social"></a>
 ## Social
 
-About your social existence.
+About your social-media existence.
 
 
 |Setting Name|Type|Description|
 |:-|:-|
-|Facebook Page Username|`alpha`|Enter your Facebook page **username** only|
-|Twitter Account Username|`alpha`|Enter your Twitter account **username** only|
-|Instagram URL|`url`|Enter your Instagram profile **URL**|
-|Linkedin URL|`url`|Enter your Linkedin profile **URL**|
+|Facebook Page Username|`alpha`|Facebook page **username** only|
+|Twitter Account Username|`alpha`|Twitter account **username** only|
+|Instagram URL|`url`|Instagram profile **URL**|
+|Linkedin URL|`url`|Linkedin profile/company **URL**|
 
 
 
@@ -69,14 +62,14 @@ About your social existence.
 <a name="Contact"></a>
 ## Contact
 
-Your contact info.
+Contact details
 
 
 |Setting Name|Type|Description|
 |:-|:-|
-|Address|`alpha`|Enter your office address|
-|Phone|`numeric`|Enter your office phone number|
-|Email|`email`|Enter your official email address|
+|Address|`alpha`|office address|
+|Phone|`numeric`|office phone number|
+|Email|`email`|office email|
 |Google Map Lat|`numeric`|Google map coordinates **Lat** of your office address| 
 |Google Map Long|`numeric`|Google map coordinates **Long** of your office address| 
 
@@ -86,15 +79,15 @@ Your contact info.
 <a name="Booking"></a>
 ## Booking
 
-Bookings and Events global settings.
+Bookings & Events global settings.
 
 
 |Setting Name|Type|Description|
 |:-|:-|
-|Pre Booking Time|`integer`|Enter total hours for how many hours before a customer can book an event|
-|Pre Cancellation Time|`integer`|Enter total hours for how many hours before a customer can request for Cancellation|
-|Maximum Ticket Quantity|`integer`|Enter max ticket quantity to limit quantity per ticket|
-|Hide Expired Events|`bool`|If you want to show or hide the expired events on the website|
+|Pre Booking Time|`integer`|total hours before a customer can book an event|
+|Pre Cancellation Time|`integer`|total hours before a customer can request Booking Cancellation|
+|Maximum Ticket Quantity|`integer`|Max ticket quantity per booking|
+|Hide Expired Events|`bool`|Show/Hide expired events on event listing page|
 
 
 
@@ -103,19 +96,12 @@ Bookings and Events global settings.
 <a name="Multi-Vendor"></a>
 ## Multi-Vendor
 
-Flexibility to use Eventmie as a - 
-
-- multi-vendor website where other organisers can host their events, or 
-- you as a single organisation wanna host events.
-
+Switch between Multi-vendor mode
 
 |Setting Name|Type|Description|
 |:-|:-|
 |Multi Vendor|`bool`|turn on or off the multi-vendor option|
-|Admin Commission|`numeric|gte:0`|In multi-vendor mode, set your commission in (%) percentage. (must be positive value)|
-
-
-
+|Admin Commission|`numeric|gte:0`|set your commission in (%) percentage. (must be positive value)|
 
 
 
@@ -138,6 +124,7 @@ Admin panel content settings
 
 
 
+
 <a name="Apps"></a>
 ## Apps
 
@@ -151,8 +138,8 @@ External Apps credentials
 |Google Map Key|`string`|Google Map Key|
 |Facebook App Id|`string`|Facebook OAuth app id|
 |Facebook App Secret|`string`|Facebook OAuth app secret|
-|PayPal Client Id|`string`|Paypal client id (New Rest APi)|
-|PayPal Secret|`string`|Paypal secret (New Rest APi)|
+|PayPal Client Id|`string`|Paypal client id (New Rest API)|
+|PayPal Secret|`string`|Paypal secret (New Rest API)|
 |PayPal Production Mode|`bool`|Turn on/off production (real) mode payments|
 
 
@@ -173,7 +160,7 @@ Mail sending configurations
 |Mail Port|`string`|Mail Port e.g 1025|
 |Mail Username|`string`|Mail Username e.g testuser|
 |Mail Password|`string`|Mail Password e.g testpwd|
-|Mail Encryption|`list`|disable, ssl, tls|
+|Mail Encryption|`list`|disable, SSL, TLS|
 |Mail Sender Email|`email`|Sender email e.g eventmie@classiebit.com|
 |Mail Sender Name|`string`|Sender Name e.g Eventmie|
 
@@ -185,7 +172,7 @@ Mail sending configurations
 <a name="Regional"></a>
 ## Regional
 
-Region specific configurations.
+Region-specific configurations.
 
 
 |Setting Name|Type|Description|
@@ -196,19 +183,19 @@ Region specific configurations.
 
 <br>
 
-#### When you set a Timezone as default, date & time that are storing in the database, are converted according to the default timezone.
+---
 
-- Suppose you've set the timezone `America/Los_Angeles` as default and a customer is visiting your site from `India/Kolkata` then, the customer will see the date & time according to `India/Kolkata` timezone i.e `America/Los_Angeles` to `India` automatic timezone conversion.
+#### Setting Default Timezone affects Events Date & Time that are storing in the database, they're converted accordingly.
 
-- And suppose you've an Organiser is accessing your website from `India/Kolkata` and submitting an event on your site, then the date & time will be converted from `India/Kolkata` to `America/Los_Angeles` and in your database, date & time will be stored according to `America/Los_Angeles` timezone.
+- Suppose the default timezone is `America/Los_Angeles` and a customer visiting the site from `India/Kolkata`, then the customer will see the date & time according to `India/Kolkata` timezone
 
+>{info} i.e Auto Timezone Conversion from `Server-side` to `Client-side` & vice versa.
 
 ---
 
-> {success} We detect the visitor's timezone and do all these conversions behind the scenes.
-
---- 
-
-> {primary} This way, you can run your Event organisation business globally.
+> {success} Eventmie detects visitor's timezone and does all the conversions behind the scenes.
 
 ---
+
+> {warning} Please read the guidelines provided below each setting, and follow exactly mentioned, or else it may break down your site.
+

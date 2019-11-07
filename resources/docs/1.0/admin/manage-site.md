@@ -1,13 +1,13 @@
 # Manage Site
 
-Here you can manage site content like welcome page banners, pages e.g about us, terms, etc and other media images that are uploaded by other users.
-
+Manage site content like welcome page banners, pages e.g about us, terms, etc and other media images that are uploaded by the users.
 
 ---
 
 - [Banners](#Banners)
 - [Pages](#Pages)
-- [Media](#Media)
+- [Media Manager](#Media-Manager)
+- [Blog Posts](#Blog-Posts)
 
 
 <a name="Banners"></a>
@@ -25,11 +25,17 @@ Manage pages -
 2. Privacy Policy
 3. Terms and conditions
 
-<br>
-and also you can add other custom pages as well. 
+
+>{success} You can add extra custom pages as well. 
 
 
-<a name="Media"></a>
-## Media
+<a name="Media-Manager"></a>
+## Media Manager
 
-This is like an online file manager, here you can manage all your site images and also you can upload any other media content like videos, audio files, etc. And create their public URL as well.
+Online File Manager provided by **Laravel Voyager**, all the site images and any other media content like videos, audio files, etc can be managed easily from this page.
+
+
+<a name="Blog-Posts"></a>
+## Blog Posts
+
+Eventmie Pro comes with fully featured Blog management functionality. When you add and publish a blog post from the Admin Panel, it gets published on the front-end. And the front-end users can visit and read your blog posts. 

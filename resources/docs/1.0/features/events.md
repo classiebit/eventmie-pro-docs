@@ -1,24 +1,25 @@
 # Events
 
-You can create single, multiple and repetitive days events. You can also create repetitive classes using repetitive schedules e.g Yoga classes, fitness classes, etc.
+Create events, sell tickets and manage everything on your domain. In Eventmie Pro, create single, multiple and repetitive events. Also, you can create repetitive classes like e.g Yoga classes, fitness classes and more using repetitive schedules
 
 <br>
-Each event belongs to an organizer. And according to the different roles of each user, we've created three types of user groups. Each group will be having different permissions throughout the site.
+Each event belongs to an organizer. And according to the different roles of each user, Eventmie Pro has three types of pre-defined user groups. Each group has different permissions throughout the site.
 
 <br>
-1. **Admin** - Access admin panel, create events, bookings and manage everything.
 
-2. **Organiser** - Create events, speakers, sponsors and manage bookings of their own events from the front-end. Organiser have no access to admin panel.
+1. **Admin** - Manage everything from Admin Panel to Front-end.
 
-3. **Customer** - Book events and manage their bookings and cancellations from the front-end. Customer have no access to admin panel.
+2. **Organizer** - Create events, speakers, sponsors and manage bookings only of their own events, from the front-end. The organizer has no access to the admin panel.
 
+3. **Customer** - Make event bookings, manage their bookings and cancellations from the front-end. The customer has no access to the admin panel.
 
 
 - [Create Event](#Create-Event)
 - [Manage Event](#Manage-Event)
 - [Details](#Details)
 - [Timing](#Timing)
-- [Add Repetitive Schedule](#Add-Repetitive-Schedule)
+- [Repetitive Schedule](#Repetitive-Schedule)
+- [Monthly/Weekly Payment](#Monthly-or-weekly-payment)
 - [Tickets](#Tickets)
 - [Location](#Location)
 - [Media](#Media)
@@ -29,23 +30,27 @@ Each event belongs to an organizer. And according to the different roles of each
 
 
 <a name="Create-Event"></a>
-## How To Create Event
+## Create Event
 
-### For Admin & Organiser
+### For Admin & Organizer
 
 1. Click on &nbsp;<larecipe-button type="primary" size="sm" rounded>Create Event</larecipe-button>
 2. Complete all the steps.
 3. Then from the last step `Powered By`, click on &nbsp;<larecipe-button type="success" size="sm" rounded>Publish Event</larecipe-button>
 
+---
 
-> {primary} After successfully publishing the event, you'll see the event on event listing page &nbsp;<larecipe-button type="secondary" size="sm" rounded>Browse Events</larecipe-button>
+>{info} Admin needs to select an `Organizer` while creating an event. 
 
+---
+
+> {primary} After successfully publishing the event, see the event on listing page &nbsp;<larecipe-button type="secondary" size="sm" rounded>Browse Events</larecipe-button>
 
 ---
 
 
 <a name="Manage-Event"></a>
-## How To Manage Events
+## Manage Events
 
 ### For Admin
 
@@ -54,49 +59,47 @@ Each event belongs to an organizer. And according to the different roles of each
 3. Then click on &nbsp;<larecipe-button type="primary" size="sm" rounded>Edit</larecipe-button>
 
 
-### For Organiser
+### For Organizer
 
-1. In the header, hover over your account name and click on `Manage Events` 
-2. You'll see all your events in the list.
-3. Then click on &nbsp;<larecipe-button type="primary" size="sm" rounded>Edit</larecipe-button>
+1. On the Front-end, go to header, hover over the account name and click on `Manage Events` 
+2. Then click on &nbsp;<larecipe-button type="primary" size="sm" rounded>Edit</larecipe-button>
 
 
-> {primary} Admin can see all the organisers events on the `Admin panel`, while Organiser can see only their own events on the `front-end`.
-
----
-
->{danger} Organiser can only disable their events, only Admin have permission to delete an event.
+> {primary} Admin can see & manage all organizers events, while Organizer can see & manage only their own events.
 
 ---
 
+>{danger} Organizer can only disable their events, only Admin have permission to delete events.
 
-## Event Creation Steps Explained
+---
 
-Below are all the steps explained. You can `Publish` or `Un-publish` your event from the last step. And to publish an event, you need to complete all the steps.
+## Event Setup Form
 
 
 <a name="Details"></a>
 ## Details
 
-You need to fill in the event details to proceed to next step. If you're Admin, you need to `select an Organiser` and if you're Organiser, you will be the organiser of the event.
+The first step is mandatory to proceed to the next step.
 
 <br>
+
 **Form Fields**
 
-- Title (Event name)
-- Slug  (Event URL will be auto-generated)
-- Description
-- More Info (Why to attend your event?)
 - Category
+- Event name
+- Event URL (auto-generated)
+- Description
+- More Info (Why to attend?)
 
 
 
 <a name="Timing"></a>
 ## Timing
 
-Enter the event timings. Timings can be for single or multiple days event.
+Set timing for single or multiple days event.
 
 <br>
+
 **Form Fields**
 
 - Start date
@@ -104,67 +107,75 @@ Enter the event timings. Timings can be for single or multiple days event.
 - End date
 - End time
 
->{info} If your event occurs for a single time, do not check the `Add Repetitive Schedules` checkbox. Just save it and proceed to next step. 
+>{info} Do not check the `Add Repetitive Schedules` if the event is not repetitive. Just save it and proceed to the next step. 
 
 
 ---
 
-<a name="Add-Repetitive-Schedule"></a>
-## Add Repetitive Schedule
+<a name="Repetitive-Schedule"></a>
+## Repetitive Schedule
 
-If your Event is a Repetitive Event, then you can check the `Add Repetitive Schedules` checkbox. 
+In the case of Repetitive Event, check the `Add Repetitive Schedules` checkbox. 
 
 <br>
-**You can create also `Classes` e.g Yoga, dance, fitness, education or any other classes**
+
+**You can create also `Repetitive Classes` using the same process, keep reading**
 
 ---
 
->{info} The schedules will be auto generated according to the `Total Months` in the `Start date` & `End date`. So that you can customise each month timing seperately.
-
----
->{primary} Suppose an event occurs on 3rd, 4th and 5th in first month, while it occurs on 15th, 16th or 17th in second month and so on.
+>{primary} The schedules will be auto-generated according to `Total no. of Months` in `Start-End date`. So that you can customize each month's timing separately.
 
 ---
 
-### Let's first see what's `Daily` `Weekly` and `Monthly` types are.
+### Let's first see what's `Daily` `Weekly` & `Monthly` types stands for.
 
-- **Daily** - the event repeats every `day` from the start to end date.
-- **Weekly** - the event repeats every `week` from the start to end date.
+- **Daily** - the event repeats every `day` from the start to the end date.
+- **Weekly** - the event repeats every `week` from the start to the end date.
 - **Month** - the event repeats every `month` from the start to end date.
 
 
 <br>
+
 **Form Fields**
 
-- Repetitive Type & Repetitive Dates/Days are connected to each other. When you select-
+- Repetitive Type & Repetitive Dates/Days are connected. When you select-
     
-    - **Daily** - it ask you for **Repetitive Dates (Repeat Except)** that means, choose the dates on which the event `DO NOT` repeats.
+    - **Daily** - it asks you for **Repetitive Dates (Repeat Except)** which means, choose the dates on which the event `DO NOT` repeats.
 
-    - **Weekly** - it ask you for **Repetitive Days** that means, choose the weekdays on which the event repeats.
+    - **Weekly** - it asks you for **Repetitive Days** which means, choose the weekdays on which the event repeats.
     
-    - **Monthly** - it ask you for **Repetitive Dates (Repeat Every)** that means, choose the dates on which the event repeats.
+    - **Monthly** - it asks you for **Repetitive Dates (Repeat Every)** which means, choose the dates on which the event repeats.
 
 - Start Time - Set event start time for each month.
-- End Time - Set event end time for each month.
+- End Time - Set the event end time for each month.
 
 ---
 
->{success} You can set different repetitive dates and time for each month schedule.
+>{success} You can set different repetitive dates and times for each month's schedule separately.
 
 ---
 
-> {primary} These options gives you more flexibility to customize each month's repetitive scheduled at a greater extent.
+> {primary} These options provide more flexibility in customizing the repetitive schedule.
 
 ---
+
+<a name="Monthly-or-weekly-payment"></a>
+## Monthly/Weekly Payment
+
+>{primary} One of the most exclusive features of Eventmie Pro.
+
+In the case of Repetitive Events or Classes, sometimes you'll want to get paid on a `Monthly` or `Weekly` basis. That means, The customer can attend the event for the whole month/week by paying the whole month/week price. So when you check the `Monthly or Weekly Payment` checkbox, you'll need to add the ticket price for the whole month/week.
 
 
 
 <a name="Tickets"></a>
 ## Tickets
 
-You can create tickets for your event `Free` and `Paid` both, and also you can add tax in your `Paid Tickets`. Alteast one ticket is required.
+Create tickets for the event. Tickets can be `Free` or `Paid` both. Taxes can be applied to each ticket separately. Alteast one ticket is required.
 
-**Fields**
+<br>
+
+**Form Fields**
 
 - Title
 - Price (0 for Free ticket)
@@ -177,7 +188,9 @@ You can create tickets for your event `Free` and `Paid` both, and also you can a
 <a name="Location"></a>
 ## Location
 
-Enter your Event Location details and add `Google map Lat-long` to show your Event Venue in the Google Map on the Event page.
+Event location details. Add `Google map Lat-long` to show the Event Venue in the Google Map on the Event page.
+
+<br>
 
 **Form Fields**
 
@@ -194,30 +207,35 @@ Enter your Event Location details and add `Google map Lat-long` to show your Eve
 <a name="Media"></a>
 ## Media
 
-In this step, you can add your event poster and images. Upload the images with the mentioned dimensions and also you can directly crop and adjust the images.
-Also you can add a YouTube video link if any and that video will be shown on the event preview page.
+Upload event poster and images. Please follow the mentioned dimensions. While you crop and adjust them live.
 
-**Fields**
+<br>
+
+**Form Fields**
 
 - Thumbnail
-- Cover/Poster Image
-- Multiple Images (gallery)
+- Poster Image
+- Images Gallery (multiple images)
 - Video link
 
 
 <a name="SEO"></a>
 ## SEO
 
-Write meta title, tags and description. These tags will be specific for each event. 
+Write meta titles, tags, and descriptions. These tags will be specific for each event. 
 
 **Fields**
 
 - Meta Title
-- Meta Tags
+- Meta Tags (keywords)
 - Meta Description
 
 
 <a name="Sponsors-Speakers"></a>
 ## Sponsors & Speakers
 
-This is the last step, here you can choose multiple Sponsors and Speakers for your event. Alteast one speaker is required for an event. While sponsors are optional.
+The last step, choose event Sponsors and Speakers. A minimum of one speaker is required for an event. While sponsors are optional.
+
+<br>
+
+`Publish` Event after completing all the steps. An event can be switch to `Publish` or `Un-publish`.

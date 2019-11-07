@@ -1,8 +1,5 @@
 # Support 🙏
 
-You can contact us via submitting a support ticket regarding any customisation work or bug report.
-
-### Submit ticket here [classiebit.com](https://classiebit.com)
-
+You can contact us on info@classiebit.com or submit an issue or bug report on - [Classiebit website](https://classiebit.com)
 
 ---

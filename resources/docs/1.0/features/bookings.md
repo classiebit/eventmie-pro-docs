@@ -1,79 +1,73 @@
 # Bookings
 
-To book an event is super simple and smooth. We've made a two clicks checkout system. In just two clicks you can book an event.
+To make a booking for an event is super simple. It's just a matter of two clicks. We've made a secure & simple checkout system. Hmmm.. ☝️ ✌️
 
 <br>
-Admin, organiser and customer, all of them can book an event from the front-end in similar ways.
+
+**Admin**, **Organizer** & **Customer**, all can book an event from the front-end in similar ways.
 
 <br>
-1. **Admin** - Make booking for a customer using `Direct Payment` (without making any online payment).
 
-2. **Organiser** - Make booking for a customer using `Online Payment`.
+1. **Admin** - Make a booking for a customer.
 
-3. **Customer** - Make booking for their own using `Online Payment`.
+2. **Organizer** - Make booking only of their own events for a customer.
+
+3. **Customer** - Make a booking for their own.
 
 
 
-- [Make booking](#Make-Booking)
-- [Cancel booking](#Cancel-Booking)
-- [Cancellation Statuses](#Cancellation-Statuses)
+- [Create booking](#Make-Booking)
+- [Booking Cancellation](#Booking-Cancellation)
+- [Cancellation Status](#Cancellation-Status)
 
 ---
 
 
 <a name="Make-Booking"></a>
-## How To Make Booking For An Event
+## Make Booking
 
 
-### For Admin & Organiser
+### For Admin & Organizer
 
-1. Click on &nbsp;<larecipe-button type="secondary" size="sm" rounded>Browse Events</larecipe-button>
-2. Click on an event you want to book.
-3. Then on the event page, scroll down to `Get your tickets now` section. 
-4. Click on &nbsp;<larecipe-button type="success" size="sm" rounded>Get Tickets</larecipe-button>
-5. If it's a repetitive event, then click on an `Event Schedule Date`.
-6. Then on the Checkout Popup, `Select a customer`.
-7. Select each ticket quantity. You can select single or multiple tickets.
-8. At the bottom of the popup, you'll see the order total.
-9. Finally click on &nbsp;<larecipe-button type="secondary" size="sm" rounded>Checkout</larecipe-button>
-10. If you're Admin, you'll be redirected to `Admin panel -> Bookings` page.
-11. If you're Organiser, you'll first need to make an online payment, and then you'll be redirected to `Organiser Manage Bookings` page.
+1. On the Event page, scroll down to `Get your tickets now` section. 
+2. Click on &nbsp;<larecipe-button type="success" size="sm" rounded>Get Tickets</larecipe-button>
+    <br>
+    In case of repetitive event, click on an `Event Schedule`.
+    <br>
+
+3. `Select Customer` & `Ticket Quantity` and click &nbsp;<larecipe-button type="secondary" size="sm" rounded>Checkout</larecipe-button>
+
 
 
 ### For Customer
 
-1. Click on &nbsp;<larecipe-button type="secondary" size="sm" rounded>Browse Events</larecipe-button>
-2. Click on an event you want to book.
-3. Then on the event page, scroll down to `Get your tickets now` section. 
-4. Click on &nbsp;<larecipe-button type="success" size="sm" rounded>Get Tickets</larecipe-button>
-5. If it's a repetitive event, then click on an `Event Schedule Date`.
-6. Select each ticket quantity. You can select single or multiple tickets.
-8. At the bottom of the popup, you'll see the order total.
-9. Finally click on &nbsp;<larecipe-button type="secondary" size="sm" rounded>Checkout</larecipe-button>
-10. You'll be redirected to payment gateway for making online payment.
-11. After successful payment, you'll redirected back to `Customer Manage Bookings` page.
+1. On the Event page, scroll down to `Get your tickets now` section. 
+2. Click on &nbsp;<larecipe-button type="success" size="sm" rounded>Get Tickets</larecipe-button>
+    In case of repetitive event, then click on any `Event Schedule`.
+3. Choose `Ticket Quantity` and click &nbsp;<larecipe-button type="secondary" size="sm" rounded>Checkout</larecipe-button>
 
 
 
-> {info} If the tickets are free, then you don't have to go through Payment gateway to finish checkout.
+> {info} Free Tickets can be booked directly without going through Payment Gateway.
 
 ---
 
-> {primary} We're gonna add `Pay at venue` option for cashless checkout in the next upcoming version.
+> {primary} We'll add `Pay at venue` option for cashless checkout in the next version.
 
 ---
 
 
 
-<a name="Cancel-Booking"></a>
-## How To Cancel Booking
+<a name="Booking-Cancellation"></a>
+## Booking Cancellation
 
-Booking cancellation is also a simple. First customer request for a booking cancellation, and then organiser or admin can proceed further with that cancellation request.
+The customer can request for booking cancellation, and then the organizer or admin can proceed further with that cancellation request.
 
 <br>
+
 1. **Admin** - Can manage and update cancellation request status from the `Admin panel -> Bookings` page.
 
-2. **Organiser** - Can manage and update cancellation request status from the `Front-end -> Manage Bookings` page.
+2. **Organizer** - Can manage and update cancellation request status from the `Front-end -> Manage Bookings` page.
 
 3. **Customer** - Can request for booking cancellation `Front-end -> My Bookings` page.
 
@@ -81,41 +75,40 @@ Booking cancellation is also a simple. First customer request for a booking canc
 ### For Customer
 
 1. On the header, click on `My Bookings`.
-2. You'll see all your bookings. Click on &nbsp;<larecipe-button type="danger" size="sm" rounded>Cancel</larecipe-button>
-3. Once you request for cancellation, you can track your booking status (`Pending` | `Approved` | `Refunded`) here on the same page. 
-4. The `status` will show you if your ticket is `Enabled - valid` or `Disabled - invalid`.  
+2. Click on &nbsp;<larecipe-button type="danger" size="sm" rounded>Cancel</larecipe-button>
+3. Once after requesting booking cancellation, booking status will keep updating (`Pending` | `Approved` | `Refunded`) and customers can track the booking status here on the same page. 
+4. The `status` shows a particular booking is `Enabled - Valid` or `Disabled - In-valid`.  
 
 
-### For Organiser
+### For Organizer
 
-1. On the header, hover over your account name and click on `Manage Bookings`.
-2. You'll see all your bookings. Click on &nbsp;<larecipe-button type="primary" size="sm" rounded>Edit</larecipe-button>
-3. A popup will open, in the popup, you can update the Cancellation status to `No Cancellation` | `Pending` | `Approved` | `Refunded`.
-4. Once you approved the cancellation request and refund the booking amount to the customer, you can permanently `Disable` the booking.
-5. If you want to see booking details like customer info, payment info, etc. Then you can click on &nbsp;<larecipe-button type="success" size="sm" rounded>View</larecipe-button>
+1. On the header, hover over the account name and click on `Manage Bookings`.
+2. Click on &nbsp;<larecipe-button type="primary" size="sm" rounded>Edit</larecipe-button>
+3. In the popup, the organizer can update the Cancellation status to `No Cancellation` | `Pending` | `Approved` | `Refunded`.
+4. After refunding the booking amount, booking can permanently be disabled by changing the `Status` to `Disable`.
 
 
 ### For Admin
 
-1. Go to admin panel, and then go to `Manage Bookings -> Bookings`.
-2. You'll see all the bookings. Click on &nbsp;<larecipe-button type="primary" size="sm" rounded>Edit</larecipe-button>
-3. Then on the next page, you can update the Cancellation status to `No Cancellation` | `Pending` | `Approved` | `Refunded`.
-4. Once the cancellation approved and amount refunded to the customer, you can permanently `Disable` the booking.
-5. If you want to see booking details like customer info, payment info, etc. Then you can click on &nbsp;<larecipe-button type="success" size="sm" rounded>View</larecipe-button>
+1. Go to admin panel, and click on `Manage Bookings -> Bookings`.
+2. Click on &nbsp;<larecipe-button type="primary" size="sm" rounded>Edit</larecipe-button>
+3. Admin can update the Cancellation status to `No Cancellation` | `Pending` | `Approved` | `Refunded`.
+4. After refunding the booking amount, booking can permanently disabled by changing the `Status` to `Disable`.
 
 
 <a name="Cancellation-Statuses"></a>
-## Cancellation Statuses Explained
+## Cancellation Status Explained
 
-All the cancellation statuses are only for tracking purpose. They have to functionality behind. The only thing that have functionality behind is the `Status` - `Enabled - booking is valid` or `Disabled - booking is invalid`.
+The `cancellation status` are only for tracking purpose. They have no major functionality. The main thing is **Booking Status**. Change `Status` - `Enabled - Valid Booking` or `Disabled - In-valid Booking`.
 
 <br>
-- **No Cancellation** - means the booking status is normal and customer ticket is valid.
-- **Pending** - means the customer has applied for the cancellation, but still the customer ticket is valid.
-- **Approved** - means the cancellation request is approved and refund under process and the customer ticket has become in-valid.
-- **Refunded** - means the cancellation request is approved and ticket amount is refunded to the customer and the ticket has become in-valid.
+
+- **No Cancellation** - the booking status is normal and the customer ticket is valid.
+- **Pending** - the customer has applied for the cancellation, but still, the customer ticket is valid.
+- **Approved** - the cancellation request is approved and refund under process and the customer ticket has become invalid.
+- **Refunded** - the cancellation request is approved and the ticket amount is refunded to the customer and the ticket has become invalid.
 
 
->{info} Once after you make Cancellation Status to `Approved` or `Refunded`, you should turn the Booking Status to `Disabled`.
+>{info} On updating `Cancellation Status` to `Approved` or `Refunded`, you must change the Booking Status to `Disabled`.
 
 

@@ -27,8 +27,8 @@
                 </larecipe-button>
             @endif
 
-            <larecipe-button tag="a" href="#" target="__blank" type="black" class="mx-2 px-4">
-                <i class="fab fa-github"></i>
+            <larecipe-button tag="a" href="https://classiebit.com/eventmie-pro" target="__blank" type="info" class="mx-2 px-4">
+                <i class="fas fa-globe"></i>
             </larecipe-button>
 
             {{-- versions dropdown --}}

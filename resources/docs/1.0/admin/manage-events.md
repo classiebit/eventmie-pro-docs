@@ -1,6 +1,6 @@
 # Manage Events
 
-Here you can manage all the information related to events.
+Manage all the Events from `Admin Panel`
 
 
 ---
@@ -13,19 +13,15 @@ Here you can manage all the information related to events.
 <a name="Events"></a>
 ## Events
 
-As an Admin you can see all the events from the organisers on this page. You can delete an event from here.
+All the Events can be managed from this page.
 
-### Add & Edit Event 
-
-When you click on &nbsp;<larecipe-button type="success" size="sm" rounded>Add New</larecipe-button> or &nbsp;<larecipe-button type="info" size="sm" rounded>Edit</larecipe-button> button, you'll be redirected to the frontend manage event page. From where you can create and edit events.
-
-> {warning} Once an event is linked to an organiser, you can't change the organiser of the event.
+> {warning} Once an event is linked to an organizer, you can't change the Organizer of the event.
 
 
 <a name="Categories"></a>
 ## Categories
 
-You can manage event categories from this page. Each event belongs to a category.
+All the categories can be managed from this page. Each Event belongs to a category.
 
 > {info} Categories can only be managed from the admin panel.
 
@@ -33,4 +29,4 @@ You can manage event categories from this page. Each event belongs to a category
 <a name="Speakers-Sponsors"></a>
 ## Speakers & Sponsors
 
-You can manage event speakers and sponsors from admin panel. Each speaker and sponsor belongs to an Organiser and to many events of that organiser. Organiser can manage their speakers and sponsors from the frontend. While Admin can manage them from admin panel.
+All the Speakers & Sponsors can be managed from the Admin panel as well.
