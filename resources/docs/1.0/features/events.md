@@ -5,6 +5,12 @@ Create events, sell tickets and manage everything on your domain. In Eventmie Pr
 <br>
 Each event belongs to an organizer. And according to the different roles of each user, Eventmie Pro has three types of pre-defined user groups. Each group has different permissions throughout the site.
 
+---
+
+![Event landing page](https://eventmie-pro-docs.classiebit.com/images/0-event.jpg "Event landing page")
+
+---
+
 <br>
 
 1. **Admin** - Manage everything from Admin Panel to Front-end.
@@ -81,6 +87,12 @@ Each event belongs to an organizer. And according to the different roles of each
 
 The first step is mandatory to proceed to the next step.
 
+---
+
+![Event Detail Form](https://eventmie-pro-docs.classiebit.com/images/1-event-detail.jpg "Event Detail Form")
+
+---
+
 <br>
 
 **Form Fields**
@@ -107,8 +119,13 @@ Set timing for single or multiple days event.
 - End date
 - End time
 
->{info} Do not check the `Add Repetitive Schedules` if the event is not repetitive. Just save it and proceed to the next step. 
+---
 
+![Event Timing Form](https://eventmie-pro-docs.classiebit.com/images/2-event-timing.jpg "Event Timing Form")
+
+---
+
+>{info} Do not check the `Add Repetitive Schedules` if the event is not repetitive. Just save it and proceed to the next step. 
 
 ---
 
@@ -151,6 +168,10 @@ In the case of Repetitive Event, check the `Add Repetitive Schedules` checkbox.
 
 ---
 
+![Repetitive events & classes](https://eventmie-pro-docs.classiebit.com/images/3-repetitive-schedule.jpg "Repetitive events & classes")
+
+---
+
 >{success} You can set different repetitive dates and times for each month's schedule separately.
 
 ---
@@ -173,6 +194,12 @@ In the case of Repetitive Events or Classes, sometimes you'll want to get paid o
 
 Create tickets for the event. Tickets can be `Free` or `Paid` both. Taxes can be applied to each ticket separately. Alteast one ticket is required.
 
+---
+
+![Events free & paid tickets with taxes](https://eventmie-pro-docs.classiebit.com/images/4-event-ticket.jpg "Events free & paid tickets with taxes")
+
+---
+
 <br>
 
 **Form Fields**
@@ -189,6 +216,12 @@ Create tickets for the event. Tickets can be `Free` or `Paid` both. Taxes can be
 ## Location
 
 Event location details. Add `Google map Lat-long` to show the Event Venue in the Google Map on the Event page.
+
+---
+
+![Events venue & google map location](https://eventmie-pro-docs.classiebit.com/images/5-event-location.jpg "Events venue & google map location")
+
+---
 
 <br>
 
@@ -208,6 +241,12 @@ Event location details. Add `Google map Lat-long` to show the Event Venue in the
 ## Media
 
 Upload event poster and images. Please follow the mentioned dimensions. While you crop and adjust them live.
+
+---
+
+![Upload Event cover images & youtube video URL](https://eventmie-pro-docs.classiebit.com/images/6-event-media.jpg "Upload Event cover images & youtube video URL")
+
+---
 
 <br>
 
@@ -239,3 +278,9 @@ The last step, choose event Sponsors and Speakers. A minimum of one speaker is r
 <br>
 
 `Publish` Event after completing all the steps. An event can be switch to `Publish` or `Un-publish`.
+
+---
+
+![Publish event to audience](https://eventmie-pro-docs.classiebit.com/images/7-event-publish.jpg "Publish event to audience")
+
+---

@@ -3,6 +3,7 @@
 Multiple speakers and sponsors can belong to an event. And each speaker and sponsor belongs to an organizer 😴. Basically, Organizer can add speakers & sponsors, and link them to their events.  
 
 <br>
+
 ```bash
 
                         -> Speaker-1
@@ -16,6 +17,14 @@ Organizer-1 -> Event-1  -> Sponsor-2
 
 
 ```
+
+---
+
+![Organizer Speakers](https://eventmie-pro-docs.classiebit.com/images/14-speakers.jpg "Organizer Speakers")
+
+---
+
+![Organizer Sponsors](https://eventmie-pro-docs.classiebit.com/images/15-sponsors.jpg "Organizer Sponsors")
 
 ---
 

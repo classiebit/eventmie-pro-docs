@@ -14,6 +14,11 @@ So, here's a **semi-automatic** commission system in which you can set `commissi
 
 At first, all ticket sales amounts will go into the website owner's account and then the owner will distribute the amount to each organizer manually and can update the `transfer` status on the commission module.
 
+---
+
+![Admin & Organizer Booking Commission](https://eventmie-pro-docs.classiebit.com/images/11-commission.jpg "Admin & Organizer Booking Commission")
+
+---
 
 > {primary} We're gonna add more functionality to this commission system in the next version.
 
@@ -30,6 +35,14 @@ At first, all ticket sales amounts will go into the website owner's account and 
 <a name="Set-Commission"></a>
 ## Set-Commission
 
+---
+
+![Set commision from admin panel](https://eventmie-pro-docs.classiebit.com/images/13-commission-setting.jpg "Set commision from admin panel")
+
+---
+
+<br>
+
 1. Go to Admin Panel
 2. Click on `Settings` on the sidebar and then click on the `Multi-vendor` tab.
 3. Here, either `On` or `Off` the `multi-vendor` mode.
@@ -38,6 +51,12 @@ At first, all ticket sales amounts will go into the website owner's account and 
 
 <a name="Commission-Processing"></a>
 ## Commission Processing
+
+---
+
+![Commission processing](https://eventmie-pro-docs.classiebit.com/images/12-commission-processing.jpg "Commission processing")
+
+---
 
 After enabling the `Multi-vendor` mode and setting the `Admin Commission`. Eventmie will start recording commissions on each ticket sale. To view the commissions **organizer-wise**
 

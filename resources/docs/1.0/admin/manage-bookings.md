@@ -2,6 +2,9 @@
 
 Manage all the Event's Bookings from `Admin Panel`
 
+---
+
+![Admin panel bookings](https://eventmie-pro-docs.classiebit.com/images/17-admin-bookings.jpg "Admin panel bookings")
 
 ---
 
@@ -26,6 +29,12 @@ Admin can create a new booking for a customer from the front-end only. We have t
 ## Taxes
 
 New Taxes can be added and managed from this page and when while adding tickets to an event, these taxes can be applied.
+
+---
+
+![Admin panel taxes](https://eventmie-pro-docs.classiebit.com/images/18-admin-taxes.jpg "Admin panel taxes")
+
+---
 
 **Form Fields**
 

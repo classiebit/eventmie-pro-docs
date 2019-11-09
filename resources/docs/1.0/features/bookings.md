@@ -37,6 +37,12 @@ To make a booking for an event is super simple. It's just a matter of two clicks
 
 3. `Select Customer` & `Ticket Quantity` and click &nbsp;<larecipe-button type="secondary" size="sm" rounded>Checkout</larecipe-button>
 
+---
+
+![Admin & Organizer checkout](https://eventmie-pro-docs.classiebit.com/images/8-booking-admin.jpg "Admin & Organizer checkout")
+
+---
+
 
 
 ### For Customer
@@ -46,7 +52,11 @@ To make a booking for an event is super simple. It's just a matter of two clicks
     In case of repetitive event, then click on any `Event Schedule`.
 3. Choose `Ticket Quantity` and click &nbsp;<larecipe-button type="secondary" size="sm" rounded>Checkout</larecipe-button>
 
+---
 
+![Customer checkout](https://eventmie-pro-docs.classiebit.com/images/9-booking-customer.jpg "Customer checkout")
+
+---
 
 > {info} Free Tickets can be booked directly without going through Payment Gateway.
 
@@ -62,6 +72,12 @@ To make a booking for an event is super simple. It's just a matter of two clicks
 ## Booking Cancellation
 
 The customer can request for booking cancellation, and then the organizer or admin can proceed further with that cancellation request.
+
+---
+
+![Customer booking cancellation](https://eventmie-pro-docs.classiebit.com/images/10-booking-cancellation.jpg "Customer booking cancellation")
+
+---
 
 <br>
 
