@@ -52,6 +52,9 @@ Eventmie Pro can be installed via composer. Bruhhh... 💪
 
 2. Unzip the `eventmie-pro.zip` file, copy the `eventmie-pro` folder and place it in your Laravel application root directory.
 
+    >{warning} The folder name must be `eventmie-pro` in your Laravel website directory.
+    
+
 3. Open your Laravel application `composer.json` file and paste the below code in the end (right before last curly `}` bracket)
 
     ```json
