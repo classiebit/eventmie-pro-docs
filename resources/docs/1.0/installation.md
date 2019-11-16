@@ -4,7 +4,7 @@ Eventmie Pro can be installed via composer. Bruhhh... 💪
 
 ---
 
-> {info.fa-youtube} Here's a complete video tutorial guide for getting started quickly **[Eventmie Pro Academy](https://classiebit.com/academy/eventmie-pro/getting-started)** ✌️
+> {info.fa-youtube} A complete video tutorial guide for getting started quickly is **Coming Soon**
 
 ---
 
