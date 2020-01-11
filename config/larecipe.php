@@ -47,6 +47,9 @@ return [
     | These options configure the additional behaviors of your documentation
     | where you can limit the access to only authenticated users in your
     | system. It is false initially so that guests can view your docs.
+    | Middleware can be defined if auth is set to false. For example, if you want all users to be able to access your docs,
+    | use web middleware. If you want just auth users, use auth middleware. Or, make your own middleware
+    | to handle who can see your docs (don't forget to use gates for more granular control!).
     |
     |
     */
@@ -54,6 +57,9 @@ return [
     'settings'       => [
         'auth'       => false,
         'ga_id'      => env('APP_ENV') == 'production' ? 'UA-148180654-1' : '',
+        'middleware' => [
+            'web',
+        ]
     ],
 
     /*
@@ -117,10 +123,13 @@ return [
         'code_theme'     => 'dark', // or: light
         'fav'            => '',     // eg: fav.png
         'fa_v4_shims'    => true, // Add FontAwesome v4 shims prevent BC break
+        'show_side_bar'  => true,
         'colors'         => [
             'primary'    => '#787AF6',
             'secondary'  => '#2b9cf2'
         ],
+
+        'theme_order'    => null // ['LaRecipeDarkTheme', 'customTheme']
     ],
 
     /*
@@ -138,6 +147,7 @@ return [
     'seo'                 => [
         'author'          => 'classiebit',
         'description'     => 'Launch a dedicated platform for Event planning on your domain.',
+        'keywords'        => '',
         'og'              => [
             'title'       => 'Eventmie Pro - Docs',
             'type'        => 'article',
