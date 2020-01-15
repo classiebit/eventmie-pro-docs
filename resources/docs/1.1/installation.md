@@ -144,17 +144,33 @@ To start with Eventmie Pro web-installer. After purchase & downloading Eventmie 
 Follow these simple steps for getting started with web-installer.
 
 1. Copy all the folders & files from `eventmie-pro-web installer` and paste them inside the website directory. e.g `public_html`
-2. Then visit the website URL, and it'll first ask for License code. Enter it and click Proceed.
-3. After successful license verification, it'll redirect to the Eventmie Pro web-installer steps form.
-4. In the steps form, everything is self-explanatory.
+2. Open the `.env` file at `public_html/.env` and enter the database credentials. It's important to enter database credentials manually before proceeding to web-installer.
+
+    ```php
+        .
+        .
+        .
+
+        DB_DATABASE=<database-name>
+        DB_USERNAME=<database-user-username>
+        DB_PASSWORD=<database-user-password>
+
+        .
+        .
+        .
+    ```
+
+3. Then visit the website URL, and it'll first ask for License code. Enter it and click Proceed.
+4. After successful license verification, it'll redirect to the Eventmie Pro web-installer steps form.
+5. In the steps form, everything is self-explanatory.
 
     * Step-1: Check server requirements. It'll auto check the webserver requirements, and will point out if some PHP extension is missing. If in case some extensions missing, you simply contact your web server/hosting provider, and they'll install those missing extensions, after that, return to the installer and try again.
 
     * Step-2: Check Folder Permissions. If you see some red cross. Change two folder permissions `storage` & `bootstrap`. (you'll see more info about this on the installer page.)
 
-    * Step-3: Enter Website Name, URL & Database Credentials. 
+    * Step-3: Enter Website Name, URL & Database Credentials.
 
-5. Final step: Click install.
+6. Final step: Click install.
 
 
 
