@@ -9,6 +9,7 @@ Eventmie Pro can be installed via composer. Bruhhh... 💪
 ---
 
 - [Prerequisites](#Prerequisites)
+- [Server Requirements](#Server-Requirements)
 - [Install](#Install)
 - [Web Installer](#Web-Installer)
 - [Purchased From Codecanyon](#Purchased-From-Codecanyon)
@@ -22,6 +23,26 @@ Eventmie Pro can be installed via composer. Bruhhh... 💪
 * Make sure to install the Eventmie Pro package on a **Fresh** or **Existing** Laravel application. 
 * We also assume that you've set up the database.
 * If you're running MySql version older than < 5.7 then disable strict mode in Laravel `config/database.php` `'strict' => false`
+
+
+<a name="Server-Requirements"></a> 
+## Server Requirements
+
+Before you start. Make sure your server meets atleast the below requirements. **(necessarily required!!!)**
+
+- PHP >= 7.1.3
+- MySql >= 5.7.7
+- MariaDB >= 10.2.2 (if you're using MariaDB)
+- BCMath PHP Extension
+- Ctype PHP Extension
+- JSON PHP Extension
+- Mbstring PHP Extension
+- OpenSSL PHP Extension
+- PDO PHP Extension
+- Tokenizer PHP Extension
+- XML PHP Extension
+
+>{success} Before buying a hosting, simply confirm these requirements with their support team.
 
 
 <a name="Install"></a>
