@@ -10,6 +10,7 @@ Eventmie Pro can be installed via composer. Bruhhh... 💪
 
 - [Prerequisites](#Prerequisites)
 - [Server Requirements](#Server-Requirements)
+- [Installation Errors](#Installation-Errors)
 - [Install](#Install)
 - [Web Installer](#Web-Installer)
 - [Purchased From Codecanyon](#Purchased-From-Codecanyon)
@@ -43,6 +44,27 @@ Before you start. Make sure your server meets atleast the below requirements. **
 - XML PHP Extension
 
 >{success} Before buying a hosting, simply confirm these requirements with their support team.
+
+
+<a name="Installation-Errors"></a>
+## Installation Errors
+
+If you're getting error - `1071 Specified key was too long;` while installation, it's due to older Mysql version. To resolve these, follow the below simple step and then try installing again.
+
+* Go to file `config/database.php` and change these values in `mysql` section
+
+    ```php
+    .
+    .
+    .
+    'charset'   => 'utf8',
+    'collation' => 'utf8_unicode_ci',
+    'strict'    => false,
+    'engine'    => 'InnoDB ROW_FORMAT=DYNAMIC',
+    .
+    .
+    .
+    ```
 
 
 <a name="Install"></a>
@@ -192,7 +214,6 @@ Follow these simple steps for getting started with web-installer.
     * Step-3: Enter Website Name, URL & Database Credentials.
 
 6. Final step: Click install.
-
 
 
 <a name="Purchased-From-Codecanyon"></a>
