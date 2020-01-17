@@ -27,4 +27,4 @@
     - [Support](/{{route}}/{{version}}/contact/support)
     
 - ## Changelog
-    - [V1.1](/{{route}}/{{version}}/changelog/V1.1)
+    - [V1.1.x](/{{route}}/{{version}}/changelog/V1.1.x)
