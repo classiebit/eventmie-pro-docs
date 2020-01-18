@@ -171,7 +171,7 @@ If you're getting error - `1071 Specified key was too long;` while installation,
 ---
 
 
-Eventmie Pro `v1.1.0` introduced a new web-installer, which installs Eventmie Pro directly on the web-server in few clicks.
+Eventmie Pro `v1.1.1` introduced a new web-installer, which installs Eventmie Pro directly on the web-server in few clicks.
 
 >{warning} Recommended way to install Eventmie Pro is from the above manual method. Developers must go with the manual method. First, install it locally then deploy it to a live server. Web Installer method is only for non-developers who want to install Eventmie Pro directly on web-server/hosting/CPANEL.
 
