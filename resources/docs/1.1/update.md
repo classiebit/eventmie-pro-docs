@@ -15,3 +15,18 @@ Updating Eventmie Pro is simple. Just download the latest version of Eventmie Pr
     ```php
     composer update
     ```
+
+* Then run these cache clear commands
+
+    ```php
+    php artisan config:clear
+    php artisan cache:clear
+    php artisan view:clear
+    php artisan route:clear
+    ```
+
+* On production (live) server, run this command as well
+
+    ```php
+    composer install --optimize-autoloader --no-dev
+    ```
