@@ -42,6 +42,7 @@ Before you start. Make sure your server meets atleast the below requirements. **
 - PDO PHP Extension
 - Tokenizer PHP Extension
 - XML PHP Extension
+- iconv PHP Extension
 
 >{success} Before buying a hosting, simply confirm these requirements with their support team.
 
