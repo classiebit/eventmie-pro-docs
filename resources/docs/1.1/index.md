@@ -1,7 +1,7 @@
 - ## Quick Start
     - [Introduction](/{{route}}/{{version}}/introduction)
     - [Installation](/{{route}}/{{version}}/installation)
-    - [Update](/{{route}}/{{version}}/update)
+    - [Upgrade](/{{route}}/{{version}}/upgrade)
     - [Demo Accounts](/{{route}}/{{version}}/demo-accounts)
 
 - ## Features

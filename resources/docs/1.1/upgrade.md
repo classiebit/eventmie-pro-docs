@@ -1,11 +1,11 @@
-# Update to v1.1.x
+# Upgrade to v1.1.x
 
 Updating Eventmie Pro is simple. Just download the latest version of Eventmie Pro from [Classiebit.com - Downloads page](https://classiebit.com/downloads) after login into your account.
 
-- [Update](#update)
+- [Steps to upgrade](#Steps-to-upgrade)
 
-<a name="update"></a> 
-## Update
+<a name="Steps-to-upgrade"></a> 
+## Steps to upgrade
 
 * Extract the **eventmie-pro-v1.1.x.zip** file. 
 * Copy the **eventmie-pro** folder and go to your website directory.
