@@ -37,6 +37,7 @@ Before you start. Make sure your server meets atleast the below requirements. **
 - BCMath PHP Extension
 - Ctype PHP Extension
 - JSON PHP Extension
+- fileinfo PHP Extension
 - Mbstring PHP Extension
 - OpenSSL PHP Extension
 - PDO PHP Extension
