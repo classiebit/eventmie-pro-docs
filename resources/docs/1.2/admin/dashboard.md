@@ -4,5 +4,23 @@ The dashboard shows the total number of Events, Bookings, Net Revenue, Users and
 
 ---
 
-> {primary} We're gonna add charts and graphs on the dashboard in the next version.
+> {primary} As promised, we've added Sales Revenue chart & Sales report tables. To track each and everything.
+
+---
+
+1. TOP 10 SELLING EVENTS Chart
+
+---
+
+![TOP 10 SELLING EVENTS Chart](http://eventmie-pro-docs.test/images/dashboard-1.jpg "TOP 10 SELLING EVENTS Chart")
+
+---
+
+2. EVENT SALES REPORT Table with Event Filter
+
+---
+
+![EVENT SALES REPORT Table with Event Filter](http://eventmie-pro-docs.test/images/dashboard-2.jpg "EVENT SALES REPORT Table with Event Filter")
+
+---
 

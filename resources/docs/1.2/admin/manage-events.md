@@ -10,7 +10,7 @@ Manage all the Events from `Admin Panel`
 
 - [Events](#Events)
 - [Categories](#Categories)
-- [Speakers & Sponsors](#Speakers-Sponsors)
+- [Tags](#Tags)
 
 
 <a name="Events"></a>
@@ -29,7 +29,7 @@ All the categories can be managed from this page. Each Event belongs to a catego
 > {info} Categories can only be managed from the admin panel.
 
 
-<a name="Speakers-Sponsors"></a>
-## Speakers & Sponsors
+<a name="Tags"></a>
+## Tags
 
-All the Speakers & Sponsors can be managed from the Admin panel as well.
+All the Tags can be managed from the Admin panel as well.

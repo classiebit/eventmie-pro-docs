@@ -10,17 +10,17 @@ Eventmie Pro can be installed via composer. Bruhhh... 💪
 
 - [Prerequisites](#Prerequisites)
 - [Server Requirements](#Server-Requirements)
-- [Installation Errors](#Installation-Errors)
 - [Install](#Install)
 - [Web Installer](#Web-Installer)
 - [Purchased From Codecanyon](#Purchased-From-Codecanyon)
 - [Configurations](#Configurations)
+- [Installation Errors](#Installation-Errors)
 
 
 <a name="Prerequisites"></a> 
 ## Prerequisites
 
-* Laravel version 5.5 / 5.6 / 5.7 / 5.8 / 6.x and above
+* Laravel version 5.5 / 5.6 / 5.7 / 5.8 / 6.x
 * Make sure to install the Eventmie Pro package on a **Fresh** or **Existing** Laravel application. 
 * We also assume that you've set up the database.
 * If you're running MySql version older than < 5.7 then disable strict mode in Laravel `config/database.php` `'strict' => false`
@@ -46,27 +46,6 @@ Before you start. Make sure your server meets atleast the below requirements. **
 - iconv PHP Extension
 
 >{success} Before buying a hosting, simply confirm these requirements with their support team.
-
-
-<a name="Installation-Errors"></a>
-## Installation Errors
-
-If you're getting error - `1071 Specified key was too long;` while installation, it's due to older Mysql version. To resolve these, follow the below simple step and then try installing again.
-
-* Go to file `config/database.php` and change these values in `mysql` section
-
-    ```php
-    .
-    .
-    .
-    'charset'   => 'utf8',
-    'collation' => 'utf8_unicode_ci',
-    'strict'    => false,
-    'engine'    => 'InnoDB ROW_FORMAT=DYNAMIC',
-    .
-    .
-    .
-    ```
 
 
 <a name="Install"></a>
@@ -261,4 +240,25 @@ After installation, you'll see the Eventmie config `config/eventmie` file. You c
         'ur', // urdu
         'ml' // malayalam
     ],
+    ```
+
+
+<a name="Installation-Errors"></a>
+## Installation Errors
+
+If you're getting error - `1071 Specified key was too long;` while installation, it's due to older Mysql version. To resolve these, follow the below simple step and then try installing again.
+
+* Go to file `config/database.php` and change these values in `mysql` section
+
+    ```php
+    .
+    .
+    .
+    'charset'   => 'utf8',
+    'collation' => 'utf8_unicode_ci',
+    'strict'    => false,
+    'engine'    => 'InnoDB ROW_FORMAT=DYNAMIC',
+    .
+    .
+    .
     ```

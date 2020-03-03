@@ -9,13 +9,20 @@
     - [Bookings](/{{route}}/{{version}}/features/bookings)
     - [Commission](/{{route}}/{{version}}/features/commission)
     - [Multi Vendor](/{{route}}/{{version}}/features/multi-vendor)
-    - [Speakers & Sponsors](/{{route}}/{{version}}/features/speakers-sponsors)
     - [Notifications](/{{route}}/{{version}}/features/notifications)
     - [Tickets (v1.1)](/{{route}}/{{version}}/features/tickets)
+    - [Tags (v1.2)](/{{route}}/{{version}}/features/tags)
+    - [Social Sharing (v1.2)](/{{route}}/{{version}}/features/social-sharing)
+
+- ## Organizer (v1.2)
+    - [Bank Details](/{{route}}/{{version}}/features/bank-details)
+    - [Bookings](/{{route}}/{{version}}/features/organizer-bookings)
+    - [Earnings](/{{route}}/{{version}}/features/organizer-earnings)
+    - [Ticket Scanner](/{{route}}/{{version}}/features/ticket-scanner)
     
 
 - ## Admin Panel
-    - [Dashboard](/{{route}}/{{version}}/admin/dashboard)
+    - [Dashboard (v1.2)](/{{route}}/{{version}}/admin/dashboard)
     - [Manage Events](/{{route}}/{{version}}/admin/manage-events)
     - [Manage Bookings](/{{route}}/{{version}}/admin/manage-bookings)
     - [Manage Users](/{{route}}/{{version}}/admin/manage-users)
@@ -27,4 +34,4 @@
     - [Support](/{{route}}/{{version}}/contact/support)
     
 - ## Changelog
-    - [V1.1.x](/{{route}}/{{version}}/changelog/V1.1.x)
+    - [V1.2.x](/{{route}}/{{version}}/changelog/V1.2.x)

@@ -1,4 +1,4 @@
-# Upgrade to v1.1.x
+# Upgrade to v1.2.x
 
 Updating Eventmie Pro is simple. Just download the latest version of Eventmie Pro from [Classiebit.com - Downloads page](https://classiebit.com/downloads) after login into your account.
 
@@ -7,7 +7,7 @@ Updating Eventmie Pro is simple. Just download the latest version of Eventmie Pr
 <a name="Steps-to-upgrade"></a> 
 ## Steps to upgrade
 
-* Extract the **eventmie-pro-v1.1.x.zip** file. 
+* Extract the **eventmie-pro-v1.2.x.zip** file. 
 * Copy the **eventmie-pro** folder and go to your website directory.
 * Delete the current **eventmie-pro** folder & replace it by the new one.
 * Then run the composer update command
@@ -22,11 +22,8 @@ Updating Eventmie Pro is simple. Just download the latest version of Eventmie Pr
     composer install --optimize-autoloader --no-dev
     ```
 
-* At last, run these cache clear commands
+* Finally, run the auto-updater command
 
     ```php
-    php artisan config:clear
-    php artisan cache:clear
-    php artisan view:clear
-    php artisan route:clear
+    php artisan eventmie:update
     ```
