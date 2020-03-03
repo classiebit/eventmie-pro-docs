@@ -4,7 +4,7 @@ Organizer can now manage their Event earnings easily with the new dedicated Earn
 
 ---
 
-![Organizer Earnings Management](http://eventmie-pro-docs.test/images/organizer-earnings.jpg "Organizer Earnings Management")
+![Organizer Earnings Management](https://eventmie-pro-docs.classiebit.com/images/organizer-earnings.jpg "Organizer Earnings Management")
 
 ---
 
