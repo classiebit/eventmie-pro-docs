@@ -15,7 +15,7 @@ Each event belongs to an organizer. And according to the different roles of each
 
 1. **Admin** - Manage everything from Admin Panel to Front-end.
 
-2. **Organizer** - Create events, speakers, sponsors and manage bookings only of their own events, from the front-end. The organizer has no access to the admin panel.
+2. **Organizer** - Create events, tags and manage bookings & earnings only of their own events, from the front-end. The organizer has no access to the admin panel.
 
 3. **Customer** - Make event bookings, manage their bookings and cancellations from the front-end. The customer has no access to the admin panel.
 
@@ -30,7 +30,7 @@ Each event belongs to an organizer. And according to the different roles of each
 - [Location](#Location)
 - [Media](#Media)
 - [SEO](#SEO)
-- [Sponsors & Speakers](#Sponsors-Speakers)
+- [Tags](#Tags)
 
 ---
 
@@ -270,10 +270,10 @@ Write meta titles, tags, and descriptions. These tags will be specific for each 
 - Meta Description
 
 
-<a name="Sponsors-Speakers"></a>
-## Sponsors & Speakers
+<a name="Tags"></a>
+## Tags
 
-The last step, choose event Sponsors and Speakers. A minimum of one speaker is required for an event. While sponsors are optional.
+The last step, add tags to event which is now optional and publish the event.
 
 <br>
 
@@ -281,6 +281,6 @@ The last step, choose event Sponsors and Speakers. A minimum of one speaker is r
 
 ---
 
-![Publish event to audience](https://eventmie-pro-docs.classiebit.com/images/7-event-publish.jpg "Publish event to audience")
+![Publish event to audience](https://eventmie-pro-docs.classiebit.com/images/event-publish.jpg.jpg "Publish event to audience")
 
 ---
