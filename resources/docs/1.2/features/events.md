@@ -281,6 +281,6 @@ The last step, add tags to event which is now optional and publish the event.
 
 ---
 
-![Publish event to audience](https://eventmie-pro-docs.classiebit.com/images/event-publish.jpg.jpg "Publish event to audience")
+![Publish event to audience](https://eventmie-pro-docs.classiebit.com/images/event-publish.jpg "Publish event to audience")
 
 ---
