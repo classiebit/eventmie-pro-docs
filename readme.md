@@ -8,7 +8,7 @@ Welcome to Eventmie Pro documentation.
 
 ---
 
-> Here's a complete video tutorial guide for getting started quickly **[Eventmie Pro Academy](http://classiebit.test/academy/eventmie-pro/eventmie-pro-installation-with-installer)** 🤟
+> Here's a complete video tutorial guide for getting started quickly **[Eventmie Pro Academy](https://classiebit.com/academy/eventmie-pro/eventmie-pro-installation-with-installer)** 🤟
 
 ---
 
