@@ -8,7 +8,7 @@ Welcome to Eventmie Pro documentation.
 
 ---
 
-> {info.fa-youtube} Here's a complete video tutorial guide for getting started quickly **[Eventmie Pro Academy](http://classiebit.test/academy/eventmie-pro/eventmie-pro-installation-with-installer)** 🤟
+> Here's a complete video tutorial guide for getting started quickly **[Eventmie Pro Academy](http://classiebit.test/academy/eventmie-pro/eventmie-pro-installation-with-installer)** 🤟
 
 ---
 
@@ -37,7 +37,7 @@ Just **install** it into a brand new Laravel application or an existing one and 
 
 ---
 
->{primary} This is Eventmie Pro version documentation
+> This is Eventmie Pro version documentation
 
 ---
 
