@@ -2,15 +2,9 @@
 
 Demo accounts have got `demo data` to easily showcase all the features of Eventmie Pro.
 
-<br>
-1. We refresh the database every day.
-2. While in demo mode, there are no restrictions except -
-
-    - Deleting or Disabling user account.
-    - Changing User email and password.
-    - Deleting categories and events.
-    - Modifying admin panel settings.
-
+---
+ 
+>{primary} We refresh the database every day.
 
 ---
 
