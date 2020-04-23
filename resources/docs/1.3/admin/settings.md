@@ -32,6 +32,7 @@ Setup website brand identity.
 |Site Slogan|`alpha`|Tagline|
 |Site Logo|`image:jpg|jpeg|png`|Logo|
 |Site Favicon|`image:jpg|jpeg|png`|Favicon/icon|
+|Extra Footer Credits (v1.3)|`rich-text`|Change footer credits|
 
 
 
@@ -92,7 +93,7 @@ Bookings & Events global settings.
 |:-|:-|
 |Pre Booking Time|`integer`|total hours before a customer can book an event|
 |Pre Cancellation Time|`integer`|total hours before a customer can request Booking Cancellation|
-|Maximum Ticket Quantity|`integer`|Max ticket quantity per booking|
+|Max Ticket Qty Limit Per Order (v1.3)|`integer`|Set Max ticket quantity limit to be purchased in single order. WARNING: keep it under 100|
 |Hide Expired Events|`bool`|Show/Hide expired events on event listing page|
 
 

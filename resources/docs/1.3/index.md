@@ -6,7 +6,7 @@
 
 - ## Features
     - [Events](/{{route}}/{{version}}/features/events)
-    - [Bookings](/{{route}}/{{version}}/features/bookings)
+    - [Bookings (v1.3)](/{{route}}/{{version}}/features/bookings)
     - [Commission](/{{route}}/{{version}}/features/commission)
     - [Multi Vendor](/{{route}}/{{version}}/features/multi-vendor)
     - [Notifications](/{{route}}/{{version}}/features/notifications)
@@ -18,7 +18,7 @@
     - [Bank Details](/{{route}}/{{version}}/features/bank-details)
     - [Bookings](/{{route}}/{{version}}/features/organizer-bookings)
     - [Earnings](/{{route}}/{{version}}/features/organizer-earnings)
-    - [Ticket Scanner](/{{route}}/{{version}}/features/ticket-scanner)
+    - [Ticket Scanner (v1.3)](/{{route}}/{{version}}/features/ticket-scanner)
     
 
 - ## Admin Panel
@@ -27,11 +27,11 @@
     - [Manage Bookings](/{{route}}/{{version}}/admin/manage-bookings)
     - [Manage Users](/{{route}}/{{version}}/admin/manage-users)
     - [Manage Site](/{{route}}/{{version}}/admin/manage-site)
-    - [Settings](/{{route}}/{{version}}/admin/settings)
+    - [Settings (v1.3)](/{{route}}/{{version}}/admin/settings)
     - [Multi-Language](/{{route}}/{{version}}/admin/multi-language)
 
 - ## Contact
     - [Support](/{{route}}/{{version}}/contact/support)
     
 - ## Changelog
-    - [V1.2.x](/{{route}}/{{version}}/changelog/V1.2.x)
+    - [V1.3.x](/{{route}}/{{version}}/changelog/V1.3.x)

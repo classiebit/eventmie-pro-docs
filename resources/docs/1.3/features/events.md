@@ -30,7 +30,7 @@ Each event belongs to an organizer. And according to the different roles of each
 - [Location](#Location)
 - [Media](#Media)
 - [SEO](#SEO)
-- [Tags](#Tags)
+- [Tags (v1.3)](#Tags)
 
 ---
 
@@ -271,7 +271,7 @@ Write meta titles, tags, and descriptions. These tags will be specific for each 
 
 
 <a name="Tags"></a>
-## Tags
+## Tags (v1.3)
 
 The last step, add tags to event which is now optional and publish the event.
 
@@ -281,6 +281,6 @@ The last step, add tags to event which is now optional and publish the event.
 
 ---
 
-![Publish event to audience](https://eventmie-pro-docs.classiebit.com/images/event-publish.jpg "Publish event to audience")
+![Publish event to audience](https://eventmie-pro-docs.classiebit.com/images/event-tag-types-display.jpg "Publish event to audience")
 
 ---

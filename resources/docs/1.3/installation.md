@@ -43,6 +43,7 @@ Before you start. Make sure your server meets atleast the below requirements. **
 - JSON PHP Extension
 - fileinfo PHP Extension
 - Mbstring PHP Extension
+- Mcrypt PHP Extension
 - OpenSSL PHP Extension
 - PDO PHP Extension
 - Tokenizer PHP Extension
@@ -72,7 +73,7 @@ Before you start. Make sure your server meets atleast the below requirements. **
     ```php
     composer require laravel/ui --dev
 
-    php artisan ui vue --auth
+    php artisan ui bootstrap --auth
 
     npm install && npm run dev
 
