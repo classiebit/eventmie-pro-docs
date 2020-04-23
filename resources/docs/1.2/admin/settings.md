@@ -108,8 +108,8 @@ Switch between Multi-vendor mode
 |:-|:-|
 |Multi Vendor|`bool`|turn on or off the multi-vendor option|
 |Admin Commission|`numeric|gte:0`|set your commission in (%) percentage. (must be positive value)|
-|Verify Email Before Login|`enable/disable`|If enabled, users will need to verify email after signup|
-|Publish Event After Admin Approval|`enable/disable`|If enabled, event will go live only after Admin approval|
+|Verify Email Before Login (v1.2)|`enable/disable`|If enabled, users will need to verify email after signup|
+|Publish Event After Admin Approval (v1.2)|`enable/disable`|If enabled, event will go live only after Admin approval|
 
 
 
