@@ -124,7 +124,7 @@ return [
 
     'ui'                 => [
         'code_theme'     => 'dark', // or: light
-        'fav'            => '',     // eg: fav.png
+        'fav'            => 'eventmie-pro-logo.png',     // eg: fav.png
         'fa_v4_shims'    => true, // Add FontAwesome v4 shims prevent BC break
         'show_side_bar'  => true,
         'colors'         => [
@@ -149,14 +149,14 @@ return [
 
     'seo'                 => [
         'author'          => 'classiebit',
-        'description'     => 'Launch a dedicated platform for Event planning on your domain.',
+        'description'     => 'Self-hosted event planning and management multi-organization script.',
         'keywords'        => '',
         'og'              => [
             'title'       => 'Eventmie Pro - Docs',
             'type'        => 'article',
             'url'         => 'https://eventmie-pro-docs.classiebit.com',
-            'image'       => 'https://eventmie-pro-docs.classiebit.com/logo.png',
-            'description' => 'Launch a dedicated platform for Event planning on your domain.',
+            'image'       => 'https://eventmie-pro-docs.classiebit.com/images/eventmie-pro-logo.png',
+            'description' => 'Self-hosted event planning and management multi-organization script.',
         ]
     ],
 
