@@ -4,7 +4,7 @@ Eventmie Pro is a flexible event hosting solution. You can use it as a Multi-org
 
 <br>
 
-In the case of multi-vendor, you as a website owner can invite event organizers to signup and create events on your website. And that's where you'll also need a commission system, for sharing profit.
+In the case of the multi-vendor, you as a website owner can invite event organizers to signup and create events on your website. And that's where you'll also need a commission system, for sharing the profit.
 
 <br>
 
@@ -30,6 +30,7 @@ At first, all ticket sales amounts will go into the website owner's account and 
 
 - [Set Commission](#Set-Commission)
 - [Commission Processing](#Commission-Processing)
+- [Cancelled Booking <small>*(v1.3)*</small>](#Cancelled-Booking)
 
 
 <a name="Set-Commission"></a>
@@ -64,7 +65,7 @@ After enabling the `Multi-vendor` mode and setting the `Admin Commission`. Event
 
 2. Click on `Manage Bookings -> Commissions`.
 
-3. Here, you'll see all the organizers `Net Bookings`, `Net Organizer Profit` and your (admin) `Net Commission`.
+3. Here, you'll see all the organizers `Net Bookings`, `Net Organizer Profit`, and your (admin) `Net Commission`.
 
 4. Click on &nbsp;<larecipe-button type="warning" size="sm" rounded>View</larecipe-button> to view organizer bookings and net revenue in detail.
 
@@ -78,3 +79,12 @@ After enabling the `Multi-vendor` mode and setting the `Admin Commission`. Event
 
 
 >{success} Doing the above, means, being a website owner, you'll be able to know to which organizer you've paid or not each month.
+
+
+<a name="Cancelled-Booking"></a>
+## Cancelled Booking <small>*(v1.3)*</small>
+
+When a booking is canceled, the commission of that canceled booking get excluded automatically and won't be sum-up in the Organizer earnings.
+
+
+>{primary} Make sure you turn the booking `status` to `Disabled` after making a refund.

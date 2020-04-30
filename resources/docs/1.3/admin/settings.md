@@ -9,11 +9,11 @@ Manage Eventmie Pro global settings here.
 ---
 
 
-- [Site](#Site)
+- [Site <small>*(v1.3)*</small>](#Site)
 - [SEO](#SEO)
 - [Social](#Social)
 - [Contact](#Contact)
-- [Booking](#Booking)
+- [Booking <small>*(v1.3)*</small>](#Booking)
 - [Multi-Vendor](#Multi-Vendor)
 - [Admin](#Admin)
 - [Apps](#Apps)
@@ -28,11 +28,11 @@ Setup website brand identity.
 
 |Setting Name|Type|Description|
 |:-|:-|
-|Site Name|`alpha`|brand name|
-|Site Slogan|`alpha`|Tagline|
+|Site Name|`text`|brand name|
+|Site Slogan|`text`|Tagline|
 |Site Logo|`image:jpg|jpeg|png`|Logo|
 |Site Favicon|`image:jpg|jpeg|png`|Favicon/icon|
-|Extra Footer Credits (v1.3)|`rich-text`|Change footer credits|
+|Extra Footer Credits <small>*(v1.3)*</small>|`rich-text`|Change footer credits|
 
 
 
@@ -44,9 +44,9 @@ Website SEO
 
 |Setting Name|Type|Description|
 |:-|:-|
-|Meta Title|`alpha`|short title explaining your business|
-|Meta Keywords|`alpha`|comma separated unique keywords that describe your website in-short|
-|Meta Description|`alpha`|short description of your website|
+|Meta Title|`text`|short title explaining your business|
+|Meta Keywords|`text`|comma separated unique keywords that describe your website in-short|
+|Meta Description|`text`|short description of your website|
 
 
 
@@ -58,8 +58,8 @@ About your social-media existence.
 
 |Setting Name|Type|Description|
 |:-|:-|
-|Facebook Page Username|`alpha`|Facebook page **username** only|
-|Twitter Account Username|`alpha`|Twitter account **username** only|
+|Facebook Page Username|`text`|Facebook page **username** only|
+|Twitter Account Username|`text`|Twitter account **username** only|
 |Instagram URL|`url`|Instagram profile **URL**|
 |Linkedin URL|`url`|Linkedin profile/company **URL**|
 
@@ -74,11 +74,11 @@ Contact details
 
 |Setting Name|Type|Description|
 |:-|:-|
-|Address|`alpha`|office address|
-|Phone|`numeric`|office phone number|
+|Address|`text`|office address|
+|Phone|`number`|office phone number|
 |Email|`email`|office email|
-|Google Map Lat|`numeric`|Google map coordinates **Lat** of your office address| 
-|Google Map Long|`numeric`|Google map coordinates **Long** of your office address| 
+|Google Map Lat|`coordinates`|Google map coordinates **Lat** of your office address| 
+|Google Map Long|`coordinates`|Google map coordinates **Long** of your office address| 
 
 
 
@@ -91,14 +91,18 @@ Bookings & Events global settings.
 
 |Setting Name|Type|Description|
 |:-|:-|
-|Pre Booking Time|`integer`|total hours before a customer can book an event|
-|Pre Cancellation Time|`integer`|total hours before a customer can request Booking Cancellation|
-|Max Ticket Qty Limit Per Order (v1.3)|`integer`|Set Max ticket quantity limit to be purchased in single order. WARNING: keep it under 100|
-|Hide Expired Events|`bool`|Show/Hide expired events on event listing page|
+|Pre Booking Time|`number`|total number of hours before, a customer can book an event|
+|Pre Cancellation Time|`number`|total number of hours before, a customer can request Booking Cancellation|
+|Hide Expired Events|`enable/disable`|Show/Hide expired events on event listing page|
+|Max Ticket Qty Limit Per Order <small>*(v1.3)*</small>|`number`|Set Max ticket quantity limit to be purchased in a single order. WARNING: keep it under 100|
+|Allow Offline Payment For Organizer <small>*(v1.3)*</small>|`enable/disable`|Enable/Disable offline payment method for Organizers|
+|Allow Offline Payment For Customer <small>*(v1.3)*</small>|`enable/disable`|Enable/Disable offline payment method for Customers|
 
+---
 
+>{primary} Admin can always make a booking via the Offline Payment method.
 
-
+---
 
 <a name="Multi-Vendor"></a>
 ## Multi-Vendor
@@ -107,10 +111,10 @@ Switch between Multi-vendor mode
 
 |Setting Name|Type|Description|
 |:-|:-|
-|Multi Vendor|`bool`|turn on or off the multi-vendor option|
-|Admin Commission|`numeric|gte:0`|set your commission in (%) percentage. (must be positive value)|
-|Verify Email Before Login (v1.2)|`enable/disable`|If enabled, users will need to verify email after signup|
-|Publish Event After Admin Approval (v1.2)|`enable/disable`|If enabled, event will go live only after Admin approval|
+|Multi Vendor|`enable/disable`|turn on or off the multi-vendor option|
+|Admin Commission|`number`|set your commission in (%) percentage. (must be positive value)|
+|Verify Email Before Login <small>*(v1.2)*</small>|`enable/disable`|If enabled, users will need to verify email after signup|
+|Publish Event After Admin Approval <small>*(v1.2)*</small>|`enable/disable`|If enabled, event will go live only after Admin approval|
 
 
 
@@ -123,8 +127,8 @@ Admin panel content settings
 |Setting Name|Type|Description|
 |:-|:-|
 |Admin Background Image|`image:jpg,jpeg,png`|admin login page background image|
-|Admin Title|`alpha`|admin login page title & header title|
-|Admin Description|`alpha`|admin login page sub-title|
+|Admin Title|`text`|admin login page title & header title|
+|Admin Description|`text`|admin login page sub-title|
 |Admin Loader|`image:jpg,jpeg,png`|admin login page sub-title|
 |Admin Icon Image|`image:jpg,jpeg,png`|admin panel logo|
 
@@ -149,7 +153,7 @@ External Apps credentials
 |Facebook App Secret|`string`|Facebook OAuth app secret|
 |PayPal Client Id|`string`|Paypal client id (New Rest API)|
 |PayPal Secret|`string`|Paypal secret (New Rest API)|
-|PayPal Production Mode|`bool`|Turn on/off production (real) mode payments|
+|PayPal Production Mode|`enable/disable`|Turn on/off production (real) mode payments|
 
 
 

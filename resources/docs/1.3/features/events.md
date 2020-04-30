@@ -30,7 +30,7 @@ Each event belongs to an organizer. And according to the different roles of each
 - [Location](#Location)
 - [Media](#Media)
 - [SEO](#SEO)
-- [Tags (v1.3)](#Tags)
+- [Tags <small>*(v1.3)*</small>](#Tags)
 
 ---
 
@@ -271,7 +271,7 @@ Write meta titles, tags, and descriptions. These tags will be specific for each 
 
 
 <a name="Tags"></a>
-## Tags (v1.3)
+## Tags <small>*(v1.3)*</small>
 
 The last step, add tags to event which is now optional and publish the event.
 

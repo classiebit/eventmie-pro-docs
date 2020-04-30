@@ -19,7 +19,7 @@ To make a booking for an event is super simple. It's just a matter of two clicks
 - [Make Booking](#Make-Booking)
 - [Booking Cancellation](#Booking-Cancellation)
 - [Cancellation Status](#Cancellation-Status)
-- [Booking Process (v1.3)](#Booking-Process-behind-the-scenes)
+- [Booking Process <small>*(v1.3)*</small>](#Booking-Process-behind-the-scenes)
 
 ---
 
@@ -133,7 +133,7 @@ The `cancellation status` are only for tracking purpose. They have no major func
 
 
 <a name="Booking-Process-behind-the-scenes"></a>
-## Booking Process (behind the scenes) (v1.3)
+## Booking Process (behind the scenes) <small>*(v1.3)*</small>
 
 **v1.3** introduced a new faster & smoother checkout process. The new checkout process is separated into a few micro-services. 
 Before, on clicking the Checkout button, these are all the tasks happening concurrently behind the scenes-

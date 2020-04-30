@@ -12,8 +12,38 @@ Eventmie supports multiple languages, including Russian, Portuguese, Chinese, Ja
 
 ---
 
+- [Set Default Language](#Set-Default-Language)
 - [Add New Language](#Add-New-Language)
 - [Delete Language](#Delete-Language)
+
+
+<a name="Set-Default-Language"></a>
+## Set Default Language
+
+Changing the default language is very simple. Go to Eventmie config `config/eventmie` file and change the `default_lang` to your preferred language.
+
+<br>
+
+```php
+'default_lang'  => 'hi'
+```
+
+<br>
+
+Here's a list of all available languages-
+
+1. **en**       - English
+2. **ar**       - عربى
+3. **de**       - Deutsche
+4. **fr**       - Française
+5. **hi**       - हिन्दी
+6. **it**       - Italiano
+7. **ja**       - 日本語
+8. **nl**       - Nederlands
+9. **ru**       - русский
+10. **zh-CN**   - 中国
+11. **zh-TW**   - 中國
+
 
 
 <a name="Add-Language"></a>
