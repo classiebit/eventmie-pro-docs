@@ -1,6 +1,7 @@
 - ## Quick Start
     - [Introduction](/{{route}}/{{version}}/introduction)
     - [Installation](/{{route}}/{{version}}/installation)
+    - [What's New (v1.3)](/{{route}}/{{version}}/changelog/V1.3.x)
     - [Upgrade](/{{route}}/{{version}}/upgrade)
     - [Demo Accounts](/{{route}}/{{version}}/demo-accounts)
 
