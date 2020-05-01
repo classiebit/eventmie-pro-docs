@@ -14,6 +14,10 @@ To make a booking for an event is super simple. It's just a matter of two clicks
 
 3. **Customer** - Make a booking for their own.
 
+---
+
+![new-checkout-ui-design](https://eventmie-pro-docs.classiebit.com/images/new-checkout-ui-design.jpg "new-checkout-ui-design")
+
 
 
 - [Make Booking](#Make-Booking)
@@ -36,11 +40,12 @@ To make a booking for an event is super simple. It's just a matter of two clicks
     In case of repetitive event, click on an `Event Schedule`.
     <br>
 
-3. `Select Customer` & `Ticket Quantity` and click &nbsp;<larecipe-button type="secondary" size="sm" rounded>Checkout</larecipe-button>
+3. `Select Customer` & `Ticket Quantity`. You can also select multiple tickets at once. 
+4. Select a `Payment Option` and click &nbsp;<larecipe-button type="secondary" size="sm" rounded>Checkout</larecipe-button>
 
 ---
 
-![Admin & Organizer checkout](https://eventmie-pro-docs.classiebit.com/images/8-booking-admin.jpg "Admin & Organizer checkout")
+![Admin & Organizer checkout](https://eventmie-pro-docs.classiebit.com/images/new-checkout-ui-design-admin-organizer.jpg "Admin & Organizer checkout")
 
 ---
 
@@ -51,11 +56,12 @@ To make a booking for an event is super simple. It's just a matter of two clicks
 1. On the Event page, scroll down to `Get your tickets now` section. 
 2. Click on &nbsp;<larecipe-button type="success" size="sm" rounded>Get Tickets</larecipe-button>
     In case of repetitive event, then click on any `Event Schedule`.
-3. Choose `Ticket Quantity` and click &nbsp;<larecipe-button type="secondary" size="sm" rounded>Checkout</larecipe-button>
+3. Select `Ticket Quantity`.
+4. Select a `Payment Option` and click &nbsp;<larecipe-button type="secondary" size="sm" rounded>Checkout</larecipe-button>
 
 ---
 
-![Customer checkout](https://eventmie-pro-docs.classiebit.com/images/9-booking-customer.jpg "Customer checkout")
+![Customer checkout](https://eventmie-pro-docs.classiebit.com/images/new-checkout-ui-design-customer.jpg "Customer checkout")
 
 ---
 
@@ -76,7 +82,7 @@ The customer can request for booking cancellation, and then the organizer or adm
 
 ---
 
-![Customer booking cancellation](https://eventmie-pro-docs.classiebit.com/images/10-booking-cancellation.jpg "Customer booking cancellation")
+![Customer booking cancellation](https://eventmie-pro-docs.classiebit.com/images/customer-manage-bookings.jpg "Customer booking cancellation")
 
 ---
 
