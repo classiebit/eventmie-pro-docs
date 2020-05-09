@@ -4,7 +4,7 @@ Manage all the Event's Bookings from `Admin Panel`
 
 ---
 
-![Admin panel bookings](https://eventmie-pro-docs.classiebit.com/images/17-admin-bookings.jpg "Admin panel bookings")
+![Admin panel bookings](https://eventmie-pro-docs.classiebit.com/images/admin-panel-bookings.jpg "Admin panel bookings")
 
 ---
 
