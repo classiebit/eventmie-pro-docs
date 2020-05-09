@@ -16,7 +16,7 @@ Manage all the Event's Bookings from `Admin Panel`
 <a name="Bookings"></a>
 ## Bookings
 
-All the bookings can be managed from this page.
+All the bookings can be managed from this page. When you disable a Booking from the Admin Panel, it's equal to force cancel the booking. Ticket scanner will also not allow disabled bookings for check-in.
 
 
 ### Create New Booking
@@ -28,7 +28,7 @@ Admin can create a new booking for a customer from the front-end only. We have t
 <a name="Taxes"></a>
 ## Taxes
 
-New Taxes can be added and managed from this page and when while adding tickets to an event, these taxes can be applied.
+New Taxes can be added and managed from this page and when while adding tickets to an event, these taxes can be applied. When you disable a Tax, then that tax becomes invisible from everywhere on the front-end. And the disabled tax also becomes unselectable for new tickets and unapplicable for existing tickets while checkout.
 
 ---
 
@@ -58,3 +58,9 @@ New Taxes can be added and managed from this page and when while adding tickets 
 ---
 
 >{warning} Admin can add & modify taxes from the Admin Panel. While, on the front-end, Organizers can only select those Taxes, and cannot modify them.
+
+---
+
+>{primary} The disable (soft-delete) feature gives you more power to control different kinds of data on your site in different conditions.
+
+---

@@ -1,13 +1,13 @@
 # Events
 
-Create events, sell tickets and manage everything on your domain. In Eventmie Pro, create single, multiple and repetitive events. Also, you can create repetitive classes like e.g Yoga classes, fitness classes and more using repetitive schedules
+Create events, sell tickets, and manage everything on your domain. In Eventmie Pro, create single, multiple, and repetitive events. Also, you can create repetitive classes like e.g Yoga classes, fitness classes and more using repetitive schedules
 
 <br>
 Each event belongs to an organizer. And according to the different roles of each user, Eventmie Pro has three types of pre-defined user groups. Each group has different permissions throughout the site.
 
 ---
 
-![Event landing page](https://eventmie-pro-docs.classiebit.com/images/0-event.jpg "Event landing page")
+![Event landing page](https://eventmie-pro-docs.classiebit.com/images/new-ui-event-repetitive-schedules.jpg "Event landing page")
 
 ---
 
@@ -15,7 +15,7 @@ Each event belongs to an organizer. And according to the different roles of each
 
 1. **Admin** - Manage everything from Admin Panel to Front-end.
 
-2. **Organizer** - Create events, tags and manage bookings & earnings only of their own events, from the front-end. The organizer has no access to the admin panel.
+2. **Organizer** - Create events, tags and manage bookings & earnings only of their events, from the front-end. The organizer has no access to the admin panel.
 
 3. **Customer** - Make event bookings, manage their bookings and cancellations from the front-end. The customer has no access to the admin panel.
 
@@ -146,9 +146,31 @@ In the case of Repetitive Event, check the `Add Repetitive Schedules` checkbox.
 
 ### Let's first see what's `Daily` `Weekly` & `Monthly` types stands for.
 
+Have a look at the screenshots, this is how each type of schedules looks like on the event page.
+
 - **Daily** - the event repeats every `day` from the start to the end date.
+
+    ---
+
+    ![Daily Repetitive Event](https://eventmie-pro-docs.classiebit.com/images/daily-repetitive-event.jpg "Daily Repetitive Event")
+
+    ---
+
 - **Weekly** - the event repeats every `week` from the start to the end date.
+
+    ---
+
+    ![Weekly Repetitive Event](https://eventmie-pro-docs.classiebit.com/images/weekly-repetitive-event.jpg "Weekly Repetitive Event")
+
+    ---
+
 - **Month** - the event repeats every `month` from the start to end date.
+
+    ---
+
+    ![Monthly Repetitive Event](https://eventmie-pro-docs.classiebit.com/images/monthly-repetitive-event.jpg "Monthly Repetitive Event")
+
+    ---
 
 
 <br>
@@ -187,6 +209,11 @@ In the case of Repetitive Event, check the `Add Repetitive Schedules` checkbox.
 
 In the case of Repetitive Events or Classes, sometimes you'll want to get paid on a `Monthly` or `Weekly` basis. That means, The customer can attend the event for the whole month/week by paying the whole month/week price. So when you check the `Monthly or Weekly Payment` checkbox, you'll need to add the ticket price for the whole month/week.
 
+---
+
+![Monthly/Weekly Payment Type Event](https://eventmie-pro-docs.classiebit.com/images/monthly-weekly-payment-event.jpg "Monthly/Weekly Payment Type Event")
+
+---
 
 
 <a name="Tickets"></a>
@@ -273,7 +300,7 @@ Write meta titles, tags, and descriptions. These tags will be specific for each 
 <a name="Tags"></a>
 ## Tags <small>*(v1.3)*</small>
 
-The last step, add tags to event which is now optional and publish the event.
+In the last step, add tags to an event that is now optional and publish the event.
 
 <br>
 
@@ -281,6 +308,6 @@ The last step, add tags to event which is now optional and publish the event.
 
 ---
 
-![Publish event to audience](https://eventmie-pro-docs.classiebit.com/images/event-tag-types-display.jpg "Publish event to audience")
+![Publish the event to the audience](https://eventmie-pro-docs.classiebit.com/images/event-tag-types-display.jpg "Publish the event to the audience")
 
 ---
