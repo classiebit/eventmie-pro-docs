@@ -11,7 +11,7 @@
     - [Multi Vendor](/{{route}}/{{version}}/features/multi-vendor)
     - [Speakers & Sponsors](/{{route}}/{{version}}/features/speakers-sponsors)
     - [Notifications](/{{route}}/{{version}}/features/notifications)
-    - [Tickets (v1.1)](/{{route}}/{{version}}/features/tickets)
+    - [Tickets <small>*v1.1*</small>](/{{route}}/{{version}}/features/tickets)
     
 
 - ## Admin Panel

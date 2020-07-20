@@ -1,0 +1,16 @@
+/* version style */
+
+small em {
+  font-size: 0.65rem;
+  font-weight: 500;
+}
+
+small.v1-3 em {
+  background: #19b5fe;
+  color: #fff;
+  padding: 0.05rem 0.3rem 0.05rem 0.25rem;
+  font-size: 0.7rem;
+  font-weight: 500;
+  border-radius: 7px;
+}
+

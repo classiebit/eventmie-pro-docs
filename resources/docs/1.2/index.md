@@ -10,11 +10,11 @@
     - [Commission](/{{route}}/{{version}}/features/commission)
     - [Multi Vendor](/{{route}}/{{version}}/features/multi-vendor)
     - [Notifications](/{{route}}/{{version}}/features/notifications)
-    - [Tickets (v1.1)](/{{route}}/{{version}}/features/tickets)
-    - [Tags (v1.2)](/{{route}}/{{version}}/features/tags)
-    - [Social Sharing (v1.2)](/{{route}}/{{version}}/features/social-sharing)
+    - [Tickets <small>*v1.1*</small>](/{{route}}/{{version}}/features/tickets)
+    - [Tags <small>*v1.2*</small>](/{{route}}/{{version}}/features/tags)
+    - [Social Sharing <small>*v1.2*</small>](/{{route}}/{{version}}/features/social-sharing)
 
-- ## Organizer (v1.2)
+- ## Organizer <small>*v1.2*</small>
     - [Bank Details](/{{route}}/{{version}}/features/bank-details)
     - [Bookings](/{{route}}/{{version}}/features/organizer-bookings)
     - [Earnings](/{{route}}/{{version}}/features/organizer-earnings)
@@ -22,7 +22,7 @@
     
 
 - ## Admin Panel
-    - [Dashboard (v1.2)](/{{route}}/{{version}}/admin/dashboard)
+    - [Dashboard <small>*v1.2*</small>](/{{route}}/{{version}}/admin/dashboard)
     - [Manage Events](/{{route}}/{{version}}/admin/manage-events)
     - [Manage Bookings](/{{route}}/{{version}}/admin/manage-bookings)
     - [Manage Users](/{{route}}/{{version}}/admin/manage-users)

@@ -25,6 +25,7 @@
 
         <!-- CSS -->
         <link rel="stylesheet" href="{{ larecipe_assets('css/app.css') }}">
+        <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 
         <!-- Favicon -->
         <link rel="apple-touch-icon" href="{{ asset(config('larecipe.ui.fav')) }}">
