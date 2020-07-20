@@ -4,7 +4,7 @@ Download Event Tickets PDF. The Ticket PDF contains a QR code, which can be scan
 
 ---
 
-![Event Ticket PDF with QrCode](https://eventmie-pro-docs.classiebit.com/images/event-ticket-download.jpg "Event Ticket PDF with QrCode")
+![Event Ticket PDF with QrCode](http://eventmie-pro-docs.test/images/event-ticket-download.jpg "Event Ticket PDF with QrCode")
 
 ---
 
@@ -22,7 +22,7 @@ Admin, organizer and customers, all of them can download tickets from their Book
 
     ---
 
-    ![Admin - event ticket download](https://eventmie-pro-docs.classiebit.com/images/download-ticket-admin.jpg "Admin - event ticket download")
+    ![Admin - event ticket download](http://eventmie-pro-docs.test/images/download-ticket-admin.jpg "Admin - event ticket download")
 
     ---
 
@@ -30,7 +30,7 @@ Admin, organizer and customers, all of them can download tickets from their Book
 
     ---
 
-    ![Organizer - event ticket download](https://eventmie-pro-docs.classiebit.com/images/download-ticket-organizer.jpg "Organizer - event ticket download")
+    ![Organizer - event ticket download](http://eventmie-pro-docs.test/images/download-ticket-organizer.jpg "Organizer - event ticket download")
 
     ---
 
@@ -38,7 +38,7 @@ Admin, organizer and customers, all of them can download tickets from their Book
 
     ---
 
-    ![Customer - event ticket download](https://eventmie-pro-docs.classiebit.com/images/download-ticket-customer.jpg "Customer - event ticket download")
+    ![Customer - event ticket download](http://eventmie-pro-docs.test/images/download-ticket-customer.jpg "Customer - event ticket download")
 
     ---
 
@@ -50,6 +50,6 @@ Organizers require their event attendees list, like their audience details who a
 
 ---
 
-![Export Events Attendees](https://eventmie-pro-docs.classiebit.com/images/export-event-attendees.jpg "Export Events Attendees")
+![Export Events Attendees](http://eventmie-pro-docs.test/images/export-event-attendees.jpg "Export Events Attendees")
 
 ---

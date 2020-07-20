@@ -82,6 +82,9 @@ code, kbd, samp {
     margin-bottom: .5rem;
     border-radius: 1rem;
 }
+.medium-zoom-overlay, img.medium-zoom-image--opened {
+    border-radius: 1rem;
+}
 .documentation ol>li, .documentation ul>li {
     padding-top: 0.8rem;
     padding-bottom: 0;

@@ -4,7 +4,7 @@ The most awaited feature. Now, organizers and admin can scan the Event attendees
 
 ---
 
-![Ticket QrCode scanner](https://eventmie-pro-docs.classiebit.com/images/ticket-scanner.jpg "Ticket QrCode scanner")
+![Ticket QrCode scanner](http://eventmie-pro-docs.test/images/ticket-scanner.jpg "Ticket QrCode scanner")
 
 
 
@@ -29,7 +29,7 @@ After login as Organizer or Admin -
 
 ---
 
-![Ticket Check-in](https://eventmie-pro-docs.classiebit.com/images/ticket-check-in.jpg "Ticket Check-in")
+![Ticket Check-in](http://eventmie-pro-docs.test/images/ticket-check-in.jpg "Ticket Check-in")
 
 ---
 
@@ -53,7 +53,7 @@ QrCode requires the below things to work-
 
 ---
 
-![Ticket QrCode scanner prompt](https://eventmie-pro-docs.classiebit.com/images/qrcode-scanner-allow-camera.jpg "Ticket QrCode scanner prompt")
+![Ticket QrCode scanner prompt](http://eventmie-pro-docs.test/images/qrcode-scanner-allow-camera.jpg "Ticket QrCode scanner prompt")
 
 ---
 
@@ -65,11 +65,11 @@ QrCode requires the below things to work-
 
 ---
 
-![qrcode-scanner-no-camera-detected](https://eventmie-pro-docs.classiebit.com/images/qrcode-scanner-no-camera-detected.jpg "qrcode-scanner-no-camera-detected")
+![qrcode-scanner-no-camera-detected](http://eventmie-pro-docs.test/images/qrcode-scanner-no-camera-detected.jpg "qrcode-scanner-no-camera-detected")
 
 ---
 
-![qrcode-scanner-no-camera-permission](https://eventmie-pro-docs.classiebit.com/images/qrcode-scanner-no-camera-permission.jpg "qrcode-scanner-no-camera-permission")
+![qrcode-scanner-no-camera-permission](http://eventmie-pro-docs.test/images/qrcode-scanner-no-camera-permission.jpg "qrcode-scanner-no-camera-permission")
 
 ---
 

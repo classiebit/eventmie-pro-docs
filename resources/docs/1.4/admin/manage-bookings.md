@@ -4,7 +4,7 @@ Manage all the Event's Bookings from `Admin Panel`
 
 ---
 
-![Admin panel bookings](https://eventmie-pro-docs.classiebit.com/images/admin-panel-bookings.jpg "Admin panel bookings")
+![Admin panel bookings](http://eventmie-pro-docs.test/images/admin-panel-bookings.jpg "Admin panel bookings")
 
 ---
 
@@ -32,7 +32,7 @@ New Taxes can be added and managed from this page and when while adding tickets 
 
 ---
 
-![Admin panel taxes](https://eventmie-pro-docs.classiebit.com/images/18-admin-taxes.jpg "Admin panel taxes")
+![Admin panel taxes](http://eventmie-pro-docs.test/images/18-admin-taxes.jpg "Admin panel taxes")
 
 ---
 

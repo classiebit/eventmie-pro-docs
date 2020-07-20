@@ -4,7 +4,7 @@ Manage all the Events from `Admin Panel`
 
 ---
 
-![Admin panel events](https://eventmie-pro-docs.classiebit.com/images/admin-panel-events.jpg "Admin panel events")
+![Admin panel events](http://eventmie-pro-docs.test/images/admin-panel-events.jpg "Admin panel events")
 
 ---
 

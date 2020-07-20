@@ -28,7 +28,7 @@ Admin can manage all organizers tags from Admin Panel -> Tags. While Organizer c
 
 ---
 
-![Add Tags](https://eventmie-pro-docs.classiebit.com/images/add-tag.jpg "Add Tags")
+![Add Tags](http://eventmie-pro-docs.test/images/add-tag.jpg "Add Tags")
 
 ---
 
@@ -47,7 +47,7 @@ Admin can manage all organizers tags from Admin Panel -> Tags. While Organizer c
 
 ---
 
-![Link Tags](https://eventmie-pro-docs.classiebit.com/images/link-tags.jpg "Link Tags")
+![Link Tags](http://eventmie-pro-docs.test/images/link-tags.jpg "Link Tags")
 
 ---
 
@@ -59,6 +59,6 @@ Admin can manage all organizers tags from Admin Panel -> Tags. While Organizer c
 
 ---
 
-![View Tags](https://eventmie-pro-docs.classiebit.com/images/view-tags.jpg "View Tags")
+![View Tags](http://eventmie-pro-docs.test/images/view-tags.jpg "View Tags")
 
 ---

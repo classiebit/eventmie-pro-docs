@@ -4,7 +4,7 @@ Event can be shared on social media websites from the Event detail page.
 
 ---
 
-![Social sharing](https://eventmie-pro-docs.classiebit.com/images/social-sharing.jpg "Social sharing")
+![Social sharing](http://eventmie-pro-docs.test/images/social-sharing.jpg "Social sharing")
 
 ---
 
