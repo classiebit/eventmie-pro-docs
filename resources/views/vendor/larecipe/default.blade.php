@@ -27,9 +27,11 @@
         <link rel="stylesheet" href="{{ larecipe_assets('css/app.css') }}">
         <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 
-        <!-- Favicon -->
-        <link rel="apple-touch-icon" href="{{ asset(config('larecipe.ui.fav')) }}">
-        <link rel="shortcut icon" type="image/png" href="{{ asset(config('larecipe.ui.fav')) }}"/>
+        @if (config('larecipe.ui.fav'))
+            <!-- Favicon -->
+            <link rel="apple-touch-icon" href="{{ asset(config('larecipe.ui.fav')) }}">
+            <link rel="shortcut icon" type="image/png" href="{{ asset(config('larecipe.ui.fav')) }}"/>
+        @endif
 
         <!-- FontAwesome -->
         <link rel="stylesheet" href="{{ larecipe_assets('css/font-awesome.css') }}">
@@ -44,8 +46,13 @@
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
         @foreach(LaRecipe::allStyles() as $name => $path)
-            <link rel="stylesheet" href="{{ route('larecipe.styles', $name) }}">
+            @if (preg_match('/^https?:\/\//', $path))
+                <link rel="stylesheet" href="{{ $path }}">
+            @else
+                <link rel="stylesheet" href="{{ route('larecipe.styles', $name) }}">
+            @endif
         @endforeach
+
     </head>
     <body>
         <div id="app" v-cloak>
@@ -61,6 +68,12 @@
 
         <script>
             window.config = @json([]);
+        </script>
+
+        <script type="text/javascript">
+            if(localStorage.getItem('larecipeSidebar') == null) {
+                localStorage.setItem('larecipeSidebar', !! {{ config('larecipe.ui.show_side_bar') ?: 0 }});
+            }
         </script>
 
         <script src="{{ larecipe_assets('js/app.js') }}"></script>
@@ -83,7 +96,11 @@
         <!-- /Google Analytics -->
 
         @foreach (LaRecipe::allScripts() as $name => $path)
-            <script src="{{ route('larecipe.scripts', $name) }}"></script>
+            @if (preg_match('/^https?:\/\//', $path))
+                <script src="{{ $path }}"></script>
+            @else
+                <script src="{{ route('larecipe.scripts', $name) }}"></script>
+            @endif
         @endforeach
 
         <script>
