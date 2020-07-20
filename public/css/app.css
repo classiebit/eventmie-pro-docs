@@ -1,16 +1,134 @@
+/* Left sidebar */
+
+.sidebar {
+  width: 17rem;
+  border-right-width: 0px;
+  margin-top: 2.5rem;
+}
+
+.sidebar > ul > li > h2 {
+  padding: 1rem;
+  color: #3d4852;
+  font-size: 0.8rem;
+  margin-bottom: 0;
+}
+
+.sidebar > ul > li > ul > li.is-active {
+  padding-left: 0;
+}
+
+.sidebar > ul > li > ul > li.is-active:before {
+  width: 5px;
+  height: 28px;
+}
+
+.sidebar > ul > li > ul > li a {
+  font-size: 0.85rem;
+  padding: 0 1.5rem;
+}
+
+.sidebar > ul > li > ul > li.is-active a {
+  color: #777af6;
+}
+
+/* Right sidebar */
+
+.documentation > ul:first-of-type {
+  width: 15%;
+}
+
+.documentation > ul:first-of-type li a {
+  font-size: 0.75rem;
+}
+
+/* Middle section */
+
+.documentation {
+  width: 80%;
+}
+
 /* version style */
 
 small em {
   font-size: 0.65rem;
   font-weight: 500;
+  margin-left: 0.3rem;
 }
 
 small.v1-3 em {
   background: #19b5fe;
   color: #fff;
-  padding: 0.05rem 0.3rem 0.05rem 0.25rem;
-  font-size: 0.7rem;
+  padding: 0.1rem 0.4rem 0.18rem 0.3rem;
+  font-size: 0.65rem;
   font-weight: 500;
-  border-radius: 7px;
+  border-radius: 6px;
+}
+
+/* defaults */
+
+h1 {
+  font-size: 1.4em;
+}
+
+h2 {
+  font-size: 1.3rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
+p,
+.documentation p {
+  font-size: 0.9rem;
+}
+
+code,
+kbd,
+samp {
+  font-size: 0.9rem;
+}
+
+.documentation h2 a:before {
+  margin-top: 0.1rem;
+}
+
+.documentation img {
+  box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.11), 0 5px 15px 0 rgba(0, 0, 0, 0.08);
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-radius: 1rem;
+}
+
+.documentation ol > li,
+.documentation ul > li {
+  padding-top: 0.8rem;
+  padding-bottom: 0;
+  font-size: 0.9rem;
+}
+
+.documentation hr {
+  border-top-width: 2px;
+  border-style: dashed;
+  border-color: #f1f5f8;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.alert {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+.button {
+  padding: 0.5rem 1rem;
+  border-radius: 0.6rem;
+  font-size: 0.8rem;
+}
+
+.text-sm {
+  font-size: 0.8rem;
 }
 
