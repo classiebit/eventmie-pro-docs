@@ -2,9 +2,8 @@
     - [Introduction](/{{route}}/{{version}}/introduction)
     - [Installation <small class="v">v1.4</small>](/{{route}}/{{version}}/installation)
     - [Configuration <small class="v">v1.4</small>](/{{route}}/{{version}}/configuration)
-    - [Upgrade](/{{route}}/{{version}}/upgrade)
-    - [Demo Accounts](/{{route}}/{{version}}/demo-accounts)
-    - [What's New <small class="v">*v1.3*</small>](/{{route}}/{{version}}/changelog/V1.3.x)
+    - [Upgrade <small class="v">v1.4</small>](/{{route}}/{{version}}/upgrade)
+    - [What's New <small class="v">*v1.4*</small>](/{{route}}/{{version}}/changelog/changes)
 
 <!-- - ## 2. Admin Panel
 - ## 3. Events
@@ -37,10 +36,9 @@
     - [Users <small class="v">*v1.3*</small>](/{{route}}/{{version}}/admin/manage-users)
     - [Site](/{{route}}/{{version}}/admin/manage-site)
     - [Settings <small class="v">*v1.3*</small>](/{{route}}/{{version}}/admin/settings)
-    - [Multi-Language](/{{route}}/{{version}}/admin/multi-language)
 
 - ## Contact
     - [Support](/{{route}}/{{version}}/contact/support)
     
-- ## Changelog
-    - [V1.3.x](/{{route}}/{{version}}/changelog/V1.3.x)
+- ## Live Preview
+    - [Demo Accounts](/{{route}}/{{version}}/demo-accounts)

@@ -214,13 +214,13 @@ img.medium-zoom-image--opened {
 .sidebar > ul > li > ul > li a {
   font-size: 0.85rem;
   padding: 0 1.5rem;
-  transition: all 0.2s ease-out;
 }
 
 .sidebar > ul > li > ul > li a:hover {
   color: #1b89ef;
   font-weight: 600;
-  transition: all 0.2s ease-in;
+  padding: 0 1.5rem;
+  font-size: 0.85rem;
 }
 
 .sidebar > ul > li > ul > li.is-active a {

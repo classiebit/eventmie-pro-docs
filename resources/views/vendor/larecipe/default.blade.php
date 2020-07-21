@@ -66,7 +66,7 @@
         </div>
 
         <div class="docs-carbon">
-            <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7IK53N&placement=classiebitcom" id="_carbonads_js"></script>
+            {{-- <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7IK53N&placement=classiebitcom" id="_carbonads_js"></script> --}}
         </div>
 
 

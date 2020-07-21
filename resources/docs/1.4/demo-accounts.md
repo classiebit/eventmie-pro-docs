@@ -1,10 +1,16 @@
 # Demo Accounts
 
+---
+
+>{primary} Below are all the demo accounts for accessing the Eventmie Pro online demo **[Eventmie Pro Live Preview](https://eventmie-pro.classiebit.com/)** 👈
+
+---
+
 Demo accounts have got `demo data` to easily showcase all the features of Eventmie Pro. And the demo database auto resets every day. So, you can just freely test the demo site by modifying every setting to have a deeper look.
 
 ---
 
-> {info} Password is same for all - `password`
+>{success} Password is same for all - `password`
 
 ### Customer Accounts
 
