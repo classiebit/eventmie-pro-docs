@@ -15,6 +15,6 @@ All the site users can be managed from this page. There are three prefined user 
 
 ---
 
-### Disable User Account <small>*(v1.3)*</small>
+### Disable User Account
 
 When you disable a user from the Admin Panel, the disabled user can't be able to log in. The user sees "Account disabled error." while login.

@@ -1,11 +1,12 @@
-# Manage Site
+# Site Content
 
 Manage site content like welcome page banners, pages e.g about us, terms, etc and other media images that are uploaded by the users.
 
 ---
 
-- [Banners](#Banners)
-- [Pages](#Pages)
+- [Categories](#categories)
+- [Banners](#banners)
+- [Pages](#pages)
 - [Media Manager](#Media-Manager)
 - [Blog Posts](#Blog-Posts)
 

@@ -9,7 +9,7 @@ The most awaited feature. Now, organizers and admin can scan the Event attendees
 
 
 - [QrCode Scanner](#QrCode-Scanner)
-- [QrCode Scanner Prerequisites <small>*(v1.3)*</small>](#QrCode-Scanner-Prerequisites)
+- [QrCode Scanner Prerequisites](#QrCode-Scanner-Prerequisites)
 
 ---
 
@@ -39,7 +39,7 @@ After login as Organizer or Admin -
 
 
 <a name="QrCode-Scanner-Prerequisites"></a>
-## QrCode Scanner Prerequisites <small>*(v1.3)*</small>
+## QrCode Scanner Prerequisites
 
 QrCode requires the below things to work-
 

@@ -30,7 +30,7 @@ At first, all ticket sales amounts will go into the website owner's account and 
 
 - [Set Commission](#Set-Commission)
 - [Commission Processing](#Commission-Processing)
-- [Cancelled Booking <small>*(v1.3)*</small>](#Cancelled-Booking)
+- [Cancelled Booking](#Cancelled-Booking)
 
 
 <a name="Set-Commission"></a>
@@ -82,7 +82,7 @@ After enabling the `Multi-vendor` mode and setting the `Admin Commission`. Event
 
 
 <a name="Cancelled-Booking"></a>
-## Cancelled Booking <small>*(v1.3)*</small>
+## Cancelled Booking
 
 When a booking is canceled, the commission of that canceled booking get excluded automatically and won't be sum-up in the Organizer earnings.
 

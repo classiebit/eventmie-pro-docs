@@ -6,6 +6,15 @@ Welcome to Eventmie Pro documentation for version 1.4. Simply read this document
 
 We've improved the docs for v1.4 to make it easier to read and understand. We've also added proper steps along with live screenshots so that you can follow it along very easily.
 
+<br>
+
+We've organized the docs in perfect sequential order, so that, if you read from start to finish in sequence, then you're going to grab 100% out of it without missing even a single option or feature. We're going to start from- 
+
+1. Installation & configs.
+2. Admin Panel Overview & global settings. 
+3. And then Front End features and so on.
+
+
 ---
 
 ![Eventmie Pro - Event planning reimagined with Laravel](http://eventmie-pro-docs.test/images/eventmie-pro-docs-banner-1.jpg "Eventmie Pro - Event planning reimagined with Laravel")
@@ -112,7 +121,7 @@ To enhance the performance, security, and scalability of Eventmie Pro, we've int
 <a name="customisation-services"></a>
 ## Customisation Services
 
-We provide full customization services and support for Eventmie Pro. Customization services includes, modification of existing features, addition of new features, or any other custom project development from scratch.
+We provide full customization services and support for Eventmie Pro. Customization services include modification of existing features, the addition of new features, or any other custom project development from scratch.
 
 <br>
 

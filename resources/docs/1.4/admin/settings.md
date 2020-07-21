@@ -1,19 +1,21 @@
 # Settings
 
-Manage Eventmie Pro global settings here.
+Let's first start by setting up Eventmie Pro global settings. We're starting from Admin Panel, so that we can set some initial data before moving on to front-end.
 
 ---
 
-![Eventmie pro master settings](http://eventmie-pro-docs.test/images/20-admin-settings.jpg "Eventmie pro master settings")
+>{primary} To visit Settings, log in as Admin and then `Admin Panel -> Settings`
 
 ---
 
+> {warning} Please read the guidelines provided below each setting, and follow exactly mentioned.
 
-- [Site <small>*(v1.3)*</small>](#Site)
+
+- [Site](#Site)
 - [SEO](#SEO)
 - [Social](#Social)
 - [Contact](#Contact)
-- [Booking <small>*(v1.3)*</small>](#Booking)
+- [Booking](#Booking)
 - [Multi-Vendor](#Multi-Vendor)
 - [Admin](#Admin)
 - [Apps](#Apps)
@@ -32,14 +34,14 @@ Setup website brand identity.
 |Site Slogan|`text`|Tagline|
 |Site Logo|`image:jpg|jpeg|png`|Logo|
 |Site Favicon|`image:jpg|jpeg|png`|Favicon/icon|
-|Extra Footer Credits <small>*(v1.3)*</small>|`rich-text`|Change footer credits|
+|Extra Footer Credits|`rich-text`|Change footer credits|
 
 
 
 <a name="SEO"></a>
 ## SEO
 
-Website SEO
+Set website's global SEO meta tags.
 
 
 |Setting Name|Type|Description|
@@ -94,9 +96,9 @@ Bookings & Events global settings.
 |Pre Booking Time|`number`|total number of hours before, a customer can book an event|
 |Pre Cancellation Time|`number`|total number of hours before, a customer can request Booking Cancellation|
 |Hide Expired Events|`enable/disable`|Show/Hide expired events on event listing page|
-|Max Ticket Qty Limit Per Order <small>*(v1.3)*</small>|`number`|Set Max ticket quantity limit to be purchased in a single order. WARNING: keep it under 100|
-|Allow Offline Payment For Organizer <small>*(v1.3)*</small>|`enable/disable`|Enable/Disable offline payment method for Organizers|
-|Allow Offline Payment For Customer <small>*(v1.3)*</small>|`enable/disable`|Enable/Disable offline payment method for Customers|
+|Max Ticket Qty Limit Per Order|`number`|Set Max ticket quantity limit to be purchased in a single order. WARNING: keep it under 100|
+|Allow Offline Payment For Organizer|`enable/disable`|Enable/Disable offline payment method for Organizers|
+|Allow Offline Payment For Customer|`enable/disable`|Enable/Disable offline payment method for Customers|
 
 ---
 
@@ -113,8 +115,8 @@ Switch between Multi-vendor mode
 |:-|:-|
 |Multi Vendor|`enable/disable`|turn on or off the multi-vendor option|
 |Admin Commission|`number`|set your commission in (%) percentage. (must be positive value)|
-|Verify Email Before Login <small>*(v1.2)*</small>|`enable/disable`|If enabled, users will need to verify email after signup|
-|Publish Event After Admin Approval <small>*(v1.2)*</small>|`enable/disable`|If enabled, event will go live only after Admin approval|
+|Verify Email Before Login|`enable/disable`|If enabled, users will need to verify email after signup|
+|Publish Event After Admin Approval|`enable/disable`|If enabled, the event will go live only after Admin approval|
 
 
 
@@ -196,19 +198,15 @@ Region-specific configurations.
 
 <br>
 
----
+#### Auto Timezone Conversion from Server-side to Client-side & vice versa.
 
-#### Setting Default Timezone affects Events Date & Time that are storing in the database, they're converted accordingly.
+- Suppose the default timezone is `America/Los_Angeles` and a customer visiting the website from `India/Kolkata`, then the customer will see the date & time according to `India/Kolkata` timezone.
 
-- Suppose the default timezone is `America/Los_Angeles` and a customer visiting the site from `India/Kolkata`, then the customer will see the date & time according to `India/Kolkata` timezone
+    ---
 
->{info} i.e Auto Timezone Conversion from `Server-side` to `Client-side` & vice versa.
+    > {success} Eventmie Pro detects visitor's timezone and does all the conversions behind the scenes.
 
----
+    ---
 
-> {success} Eventmie detects visitor's timezone and does all the conversions behind the scenes.
 
----
-
-> {warning} Please read the guidelines provided below each setting, and follow exactly mentioned, or else it may break down your site.
 

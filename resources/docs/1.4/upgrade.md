@@ -6,7 +6,13 @@
 
 ---
 
+>{success} Upgrading will **NEVER MODIFY OR DELETE** your website's existing users data (file uploads) & database tables data. 
+
+---
+
+
 To upgrade to v1.4.x, first, download the latest version from [Classiebit.com - Downloads page](https://classiebit.com/downloads) and then follow the below steps.
+
 
 - [Steps to upgrade](#Steps-to-upgrade)
 - [Update Config](#update-config)

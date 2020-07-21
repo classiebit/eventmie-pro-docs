@@ -1,107 +1,42 @@
-# What's New/Changelog v1.4.x
+# What's New <small>changelog</small> v1.4.x
 
-- [v1.3.1 (11-May-20)](#v1.3.1)
-- [v1.3.0 (01-May-20)](#v1.3.0)
-
----
-
->{danger} You must first upgrade to v1.2.x. Please DO NOT directly upgrade to v1.3.x from v1.1.x.
+- [v1.4.0 (01-Aug-2020)](#v1.4.0)
 
 ---
 
+>{danger} You must be on v1.3.x to upgrade to v1.4.x. Please DO NOT directly upgrade to v1.4.x from v1.2.x.
 
-<a name="v1.3.1"></a> 
-## Version 1.3.1 (Released - 11-May-20)
+---
 
-v1.3.1 is a minor patch release. It includes a few minor but important bug fixes reported by a client. Besides, there are also a few improvements & optimizations.
+<a name="v1.4.0"></a> 
+## v1.4.0 <small>released on 01-Aug-2020</small>
 
-### New Features & Improvements & Optimizations
+v1.4.0 is a major release. It includes a lot of new & most requested features, improvements, optimizations, and bug fixes.
 
-1. New UI for Repetitive Schedules. More clean & user-friendly approach to let customer book ticket instantly.<br>
-[eventmie-pro-docs.classiebit.com/docs/1.3/features/events](https://eventmie-pro-docs.classiebit.com/docs/1.3/features/events)
 
-2. Added a Payment Type that tracks if the payment is made online or offline (cash-on-arrival). Organizers and Admin both can see this.
+### New Features & Improvements
 
-3. On Admin Panel, reduced the font size of tables to give a better compact view for larger tables.
+- Online Events with Zoom, Google Meet and all other group public/private online meeting and events.
+- Multiple Taxes- Organizers will be able to apply multiple taxes on each ticket.
+- Multiple Admin Taxes- Admin (site-owners) will be able to create and apply multiple default taxes on all tickets, like a fixed admin fee to the customers. 
+- Private customers- Organizers will only be able to make a booking for a customer with email. The old Customers dropdown which shows all site customers is replaced by a new dropdown with search option.
+- New design for Ticket PDF with QrCode and reduced data in QrCode for faster scanning.
+- Location filters on Event listing page (Browse Events). You'll be able to filter by city, state and country.
 
-4. On Admin Panel, added disable/enable (soft-delete) functionality for-
+- Multi-lingual Admin Panel. 
+- Multi-lingual Calendars.
+- Added Export Attendees button on Organizer Manage Events page.
+- is_paid or not booking status. Offline payment- default is_paid = 0, Online payment- default is_paid = 1
 
-    * Categories - disabling category also disables all its belonging events on the front-end.
-
-    * Tags  - disabling tag makes tag invisible from everywhere on the front-end.
-
-    * Events - disabling event makes the event invisible from everywhere on the front-end and shows 404 on the event page.
-
-    * Bookings - disabling booking is equal to force cancel the booking. The ticket scanner will also not allow it for check-in.
-
-    * Taxes - disabling tax makes the tax invisible & unselectable for new tickets (for organizers) and unapplicable on existing tickets (for customers) on the front-end.
-    
-    * Users - disabling user disables the user account and the user can't be able to log in. The user sees an "Account disabled error."
+- Alert when switching to tabs on event form
+- Upgrade to Laravel 7.x and Voyager 1.4
+- Disable past event in schedules on Event detail page
+- Improved Customer & Organizer bookings page on Front-end
 
 
 ### Bugs Resolved
 
-1. Admin commission was showing incorrect value, while the organizer earning calculation was correct. Hence, we've resolved this issue, and also added a database query that automatically corrects all your existing Admin Commission values when you run `php artisan eventmie:update` command.
-
-2. A few minor mobile responsive design issues.
-
-
-
-<a name="v1.3.0"></a> 
-## Version 1.3.0 (Released - 01-May-20)
-
-v1.3.0 is a major release. It includes a lot of new requested features addition, improvements, optimizations, and bug fixes.
-
-### New Features & Improvements & Optimizations
-
-1. Added new faster & smoother checkout process.<br>
-[eventmie-pro-docs.classiebit.com/docs/1.3/features/bookings#Booking-Process-behind-the-scenes](https://eventmie-pro-docs.classiebit.com/docs/1.3/features/bookings#Booking-Process-behind-the-scenes)
-
-2. New UI design for Checkout Popup.<br>
-[eventmie-pro-docs.classiebit.com/docs/1.3/features/bookings](https://eventmie-pro-docs.classiebit.com/docs/1.3/features/bookings)
-
-3. Added new Offline payment method (cash-on-arrival).<br>
-[eventmie-pro-docs.classiebit.com/docs/1.3/features/payment-methods#Offline-Payment](https://eventmie-pro-docs.classiebit.com/docs/1.3/features/payment-methods#Offline-Payment)
-
-4. Added option in Admin Panel -> Settings -> Bookings, to enable/disable Offline Payment method for Organizers & Customers.<br>
-[eventmie-pro-docs.classiebit.com/docs/1.3/admin/settings#Booking](https://eventmie-pro-docs.classiebit.com/docs/1.3/admin/settings#Booking)
-
-5. Added option in Admin Panel -> Settings -> Site, to change footer credits.<br>
-[eventmie-pro-docs.classiebit.com/docs/1.3/admin/settings#Site](https://eventmie-pro-docs.classiebit.com/docs/1.3/admin/settings#Site)
-
-6. Optimized QrCode Scanner page and added an alert to Allow the camera.<br>
-[eventmie-pro-docs.classiebit.com/docs/1.3/features/ticket-scanner](https://eventmie-pro-docs.classiebit.com/docs/1.3/features/ticket-scanner)
-
-7. Now, the event start date can be equal or greater than today instead of tomorrow.<br>
-[eventmie-pro-docs.classiebit.com/docs/1.3/features/events#Timing](https://eventmie-pro-docs.classiebit.com/docs/1.3/features/events#Timing)
-
-8. Added tags types display e.g John Doe (speaker) in the Tag selection box, Event setup form -> Poweredby Tab.<br>
-[eventmie-pro-docs.classiebit.com/docs/1.3/features/events#Tags](https://eventmie-pro-docs.classiebit.com/docs/1.3/features/events#Tags)
-
-9. Disable Events option removed for Organizer. The organizer can publish/unpublish event while Admin can force disable the event. Disabled events aren't visible to the site visitors & customers.<br>
-[eventmie-pro-docs.classiebit.com/docs/1.3/features/events#Manage-Event](https://eventmie-pro-docs.classiebit.com/docs/1.3/features/events#Manage-Event)
-
-10. When a booking is canceled, the commission of that canceled booking get excluded automatically and won't be sum-up in the Organizer earnings.<br>
-[eventmie-pro-docs.classiebit.com/docs/1.3/features/commission#Cancelled-Booking](https://eventmie-pro-docs.classiebit.com/docs/1.3/features/commission#Cancelled-Booking)
-
-11. On the homepage, we changed the order of the featured events section to the top.
-12. Optimized VueJS files for better performance.
-13. Added Laravel Mix Polyfill to make better cross browsers support.
-
-
-### Bugs Resolved
-
-1. Resolve event slug error. 404 error when adding a slash (/) in the event title.<br>
-[eventmie-pro-docs.classiebit.com/docs/1.3/features/events#Details](https://eventmie-pro-docs.classiebit.com/docs/1.3/features/events#Details)
-
-2. Admin commission event not showing issue resolved.<br>
-[eventmie-pro-docs.classiebit.com/docs/1.3/features/organizer-earnings](https://eventmie-pro-docs.classiebit.com/docs/1.3/features/organizer-earnings)
-
-3. Resolved Checkout popup freezing issue. It was happening when you increase the Max Ticket Quantity Per Order by 1000.<br>
-[eventmie-pro-docs.classiebit.com/docs/1.3/admin/settings#Booking](https://eventmie-pro-docs.classiebit.com/docs/1.3/admin/settings#Booking)
-
-4. Center align the Tags section on the Event detail page.
-
-5. Fetch browser tab title from the App name in case of an empty site title (brand name).
-
-6. Admin Panel -> Dashboard -> TOP 10 SELLING EVENTS Chart: limit the event title length to 25 words.
+- Redirect user to event page after login
+- Removed mili-seconds from Event setup form -> Timings tab
+- Organizer manage bookings page, Date filter is not working correctly.
+- resolve GDPR issue

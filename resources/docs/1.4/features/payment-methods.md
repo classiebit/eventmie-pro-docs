@@ -23,7 +23,7 @@ Eventmie Pro comes with an integrated **PayPal** express checkout system. And no
 
 
 - [PayPal](#PayPal)
-- [Offline Payment <small>*(v1.3)*</small>](#Offline-Payment)
+- [Offline Payment](#Offline-Payment)
 
 
 ---
@@ -43,7 +43,7 @@ To get started with PayPal, simply-
 
 
 <a name="Offline-Payment"></a>
-## Offline Payment <small>*(v1.3)*</small>
+## Offline Payment
 
 By default, the offline payment method is disabled. You need to enable it first. To get started with Offline Payment, simply-
 
