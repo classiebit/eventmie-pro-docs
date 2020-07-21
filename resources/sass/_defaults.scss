@@ -1,0 +1,28 @@
+/* defaults */
+h1 {
+    font-size: 1.4em;
+}
+h2 {
+    font-size: 1.3rem;
+}
+h3 {
+    font-size: 1.2rem;
+}
+p, .documentation p {
+    font-size: 0.9rem;
+}
+code, kbd, samp {
+    font-size: 0.9rem;
+}
+.documentation h2 a:before {
+    margin-top: 0.1rem;
+}
+
+/* Hr */
+.documentation hr {
+    border-top-width: 2px;
+    border-style: dashed;
+    border-color: #f1f5f8;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}

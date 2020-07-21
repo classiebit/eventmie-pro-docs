@@ -1,0 +1,15 @@
+/* version style */
+small.v {
+    font-size: 0.65rem;
+    font-weight: 500;
+    margin-left: .3rem;
+}
+// highlight latest version
+small.v {
+    background: #fff;
+    color: $primary;
+    padding: 0.1rem 0.3rem 0.18rem 0.3rem;
+    font-size: 0.65rem;
+    font-weight: 500;
+    border-radius: 6px;
+}

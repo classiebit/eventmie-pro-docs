@@ -4,40 +4,48 @@ Eventmie Pro can be installed via composer. Bruhhh... 💪
 
 ---
 
-> {info.fa-youtube} Here's a complete video tutorial guide for getting started quickly **[Eventmie Pro Academy](https://classiebit.com/academy/eventmie-pro/eventmie-pro-installation-with-installer)** 🤟
+> {primary.fa-youtube} Here's a complete video tutorial guide for getting started quickly **[Eventmie Pro Academy](https://classiebit.com/academy/eventmie-pro/eventmie-pro-installation-with-installer)** 👈
 
 ---
 
-![Eventmie Pro - Installation with Web-installer Video Tutorial](http://eventmie-pro-docs.test/images/eventmie-pro-installation-with-webinstaller-youtube.jpg "Eventmie Pro - Installation with Web-installer Video Tutorial")
-
----
-
-- [Prerequisites](#Prerequisites)
-- [Server Requirements](#Server-Requirements)
-- [Install](#Install)
-- [Web Installer](#Web-Installer)
-- [Purchased From Codecanyon](#Purchased-From-Codecanyon)
-- [Configurations](#Configurations)
-- [Installation Errors](#Installation-Errors)
+- [Prerequisites](#prerequisites)
+- [Server Requirements](#server-requirements)
+- [Download Eventmie-pro](#download-eventmie-pro)
+- [Install via Composer](#install-via-composer)
+- [Install via Web-Installer](#install-via-web-installer)
+- [Purchased From Codecanyon](#purchased-from-codecanyon)
+- [Configurations](#configurations)
+- [Installation Errors](#installation-errors)
 
 
-<a name="Prerequisites"></a> 
+<a name="prerequisites"></a> 
 ## Prerequisites
 
-* Laravel version 5.5 / 5.6 / 5.7 / 5.8 / 6.x
-* Make sure to install the Eventmie Pro package on a **Fresh** or **Existing** Laravel application. 
-* We also assume that you've set up the database.
-* If you're running MySql version older than < 5.7 then disable strict mode in Laravel `config/database.php` `'strict' => false`
+You can install Eventmie Pro on a **Fresh** or **Existing** Laravel application. 
+
+---
+
+> {primary} Laravel installation guide **[Laravel Installation](https://laravel.com/docs/)** 👈
+
+---
+
+* Laravel version 6.x / 7.x
+* Setup database
 
 
-<a name="Server-Requirements"></a> 
+<a name="server-requirements"></a> 
 ## Server Requirements
 
-Before you start. Make sure your server meets atleast the below requirements. **(necessarily required!!!)**
+Before you start. Make sure your server meets atleast the below requirements. **(MUST HAVE!)**
 
-- PHP >= 7.1.3
-- MySql >= 5.7.7
-- MariaDB >= 10.2.2 (if you're using MariaDB)
+---
+
+>{primary} Before buying a hosting, simply confirm these requirements with their support team.
+
+---
+
+- PHP >= 7.3
+- MySql >= 5.7.7 or MariaDB >= 10.2.2 
 - BCMath PHP Extension
 - Ctype PHP Extension
 - JSON PHP Extension
@@ -49,41 +57,55 @@ Before you start. Make sure your server meets atleast the below requirements. **
 - Tokenizer PHP Extension
 - XML PHP Extension
 - iconv PHP Extension
+- Imagick PHP Extension
 
->{success} Before buying a hosting, simply confirm these requirements with their support team.
 
 
-<a name="Install"></a>
-## Install
 
-1. If installing Eventmie Pro on an existing Laravel application and you already have Auth system then **skip this step**
+<a name="download-eventmie-pro"></a> 
+## Download Eventmie-pro
 
-    if installing Eventmie Pro on **Fresh Laravel application** then run 
+* Download Eventmie-pro from `classiebit.com/downloads`.
+* On the same `classiebit.com/downloads` page, make sure you add domain name to authorize domain, on which you're going to install Eventmie-pro.
+* No need of domain authorization for `localhost`.
+* Unzip the Eventmie Pro script that you've downloaded. 
+* You'll find two more ZIP files inside. 
+    1. `eventmie-pro.zip` is Laravel package for **install via Composer**.
+    2. `eventmie-pro-webinstaller.zip` is web-installer for **install via Web-installer**.
+    
 
-    **For Laravel 5.5 to 5.8**
+
+<a name="install-via-composer"></a>
+## Install via Composer
+
+---
+
+>{primary} If you already have Laravel Authentication, skip step 1.
+
+---
+
+1. Setup Laravel Authentication
 
     ```php
-    php artisan make:auth
-
-    php artisan migrate
-    ```
-
-    **For Laravel 6.x**
-
-    ```php
-    composer require laravel/ui --dev
+    composer require laravel/ui
 
     php artisan ui bootstrap --auth
 
-    npm install && npm run dev
-
     php artisan migrate
     ```
 
 
-2. Unzip the `eventmie-pro.zip` file, copy the `eventmie-pro` folder and place it in your Laravel application root directory.
+2.  Unzip `eventmie-pro.zip` file, copy `eventmie-pro` folder and place it in your Laravel application root directory.
 
-    >{warning} The folder name must be `eventmie-pro` in your Laravel website directory.
+    ---
+
+    >{primary} The folder name must be `eventmie-pro` in your Laravel website directory.
+    
+    ---
+
+    ![Install via Composer](http://eventmie-pro-docs.test/images/installation-directories.jpg "Install via Composer")
+
+    ---
     
 
 3. Open your Laravel application `composer.json` file and paste the below code in the end (right before last curly `}` bracket)
@@ -95,41 +117,6 @@ Before you start. Make sure your server meets atleast the below requirements. **
     }]
     ```
 
-    (once you complete, the `composer.json` file will look something like this) 
-
-    ```json
-    {
-        .
-        .
-        .
-        .
-        .
-        
-        "minimum-stability": "dev",
-        "prefer-stable": true,
-        "scripts": {
-            "post-autoload-dump": [
-                "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
-                "@php artisan package:discover --ansi"
-            ],
-            "post-root-package-install": [
-                "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
-            ],
-            "post-create-project-cmd": [
-                "@php artisan key:generate --ansi"
-            ]
-        },
-
-
-        "repositories": [{
-            "type": "path",
-            "url": "eventmie-pro/"
-        }]
-
-    }
-
-    ```
-
 4. Install Eventmie Pro via Composer
 
     ```php
@@ -139,27 +126,24 @@ Before you start. Make sure your server meets atleast the below requirements. **
 5. Run Eventmie Pro install command
 
     ```php
-    php artisan eventmie:install
+    php artisan eventmie-pro:install
     ```
 
 6. While installation, it will ask you for the license code. Enter the license code to complete the installation process.
 
-    >{info} Remember, one license code is valid for one domain only. Contact support for more details.
+    >{primary} Remember, one license code is valid for one domain only. Contact support for more details.
 
 
-<a name="Web-Installer"></a>
-## Web Installer
+<a name="install-via-web-installer"></a>
+## Install via Web-Installer
 
----
-
-![Eventmie Web Installer](http://eventmie-pro-docs.test/images/eventmie-pro-web-installer.jpg "Eventmie Web Installer")
+Eventmie Pro also comes with web-installer for those, who are not familiar with Laravel framework. The web-installer installs Eventmie Pro directly on the web-server in few clicks. No technical or coding skills needed.
 
 ---
 
+![Eventmie Web Installer](http://eventmie-pro-docs.test/images/installation-web-installer.jpg "Eventmie Web Installer")
 
-Eventmie Pro `v1.1.1` introduced a new web-installer, which installs Eventmie Pro directly on the web-server in few clicks.
-
->{warning} Recommended way to install Eventmie Pro is from the above manual method. Developers must go with the manual method. First, install it locally then deploy it to a live server. Web Installer method is only for non-developers who want to install Eventmie Pro directly on web-server/hosting/CPANEL.
+---
 
 To start with Eventmie Pro web-installer. After purchase & downloading Eventmie Pro, on extracting eventmie-pro.zip, you'll get two folders-
 
@@ -167,7 +151,7 @@ To start with Eventmie Pro web-installer. After purchase & downloading Eventmie 
 2. `eventmie-pro-web installer` - This is **eventmie-pro WEB-INSTALLER**, to install Eventmie-pro via the web interface.
 
 
->{info} Web-installer installs everything including - Laravel Framework + Eventmie Pro package + Database + all other composer dependencies. So if you're not a developer, you can use web-installer to install Eventmie Pro easily in few clicks.
+>{primary} Web-installer installs everything including - Laravel Framework + Eventmie Pro package + Database + all other composer dependencies. So if you're not a developer, you can use web-installer to install Eventmie Pro easily in few clicks.
 
 
 Follow these simple steps for getting started with web-installer.
@@ -202,7 +186,7 @@ Follow these simple steps for getting started with web-installer.
 6. Final step: Click install.
 
 
-<a name="Purchased-From-Codecanyon"></a>
+<a name="purchased-from-codecanyon"></a>
 ## Purchased From Codecanyon
 
 If you've purchased Eventmie Pro from Codecanyon `codecanyon.net` then follow these simple steps-
@@ -216,7 +200,7 @@ If you've purchased Eventmie Pro from Codecanyon `codecanyon.net` then follow th
 
 
 
-<a name="Configurations"></a>
+<a name="configurations"></a>
 ## Configurations
 
 After installation, you'll see the Eventmie config `config/eventmie` file. You can make the following changes-
@@ -248,10 +232,10 @@ After installation, you'll see the Eventmie config `config/eventmie` file. You c
     ```
 
 
-<a name="Installation-Errors"></a>
+<a name="installation-errors"></a>
 ## Installation Errors
 
-If you're getting error - `1071 Specified key was too long;` while installation, it's due to older Mysql version. To resolve these, follow the below simple step and then try installing again.
+1. If you're getting error - `1071 Specified key was too long;` while installation, it's due to older Mysql version. To resolve these, follow the below simple step and then try installing again.
 
 * Go to file `config/database.php` and change these values in `mysql` section
 
@@ -263,6 +247,19 @@ If you're getting error - `1071 Specified key was too long;` while installation,
     'collation' => 'utf8_unicode_ci',
     'strict'    => false,
     'engine'    => 'InnoDB ROW_FORMAT=DYNAMIC',
+    .
+    .
+    .
+    ```
+
+
+2. If you're running MySql `5.7` or older, then disable strict mode in `config/database.php`
+
+    ```php
+    .
+    .
+    .
+    'strict'    => false,
     .
     .
     .

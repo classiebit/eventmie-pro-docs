@@ -1,0 +1,35 @@
+/* Left sidebar */
+.sidebar {
+    width: 15rem;
+    border-right-width: 0px;
+    margin-top: 2.5rem;
+}
+.sidebar>ul>li>h2 {
+    padding: 1rem;
+    color: #3d4852;
+    font-size: 0.8rem;
+    margin-bottom: 0;
+}
+.sidebar>ul>li>ul>li.is-active {
+    padding-left: 0;
+}
+.sidebar>ul>li>ul>li.is-active:before {
+    width: 5px;
+    height: 28px;
+}
+.sidebar>ul>li>ul>li a {
+    font-size: 0.85rem;
+    padding: 0 1.5rem;
+}
+.sidebar>ul>li>ul>li.is-active a {
+    color: $primary;
+}
+
+/* Right sidebar */
+.documentation>ul:first-of-type {
+    width: 15%;
+    top: 23%;
+}
+.documentation>ul:first-of-type li a {
+    font-size: 0.75rem;
+}
