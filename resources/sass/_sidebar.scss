@@ -20,6 +20,13 @@
 .sidebar>ul>li>ul>li a {
     font-size: 0.85rem;
     padding: 0 1.5rem;
+    transition: all .2s ease-out;
+
+    &:hover {
+        color: $primary;
+        font-weight: 600;
+        transition: all .2s ease-in;
+    }
 }
 .sidebar>ul>li>ul>li.is-active a {
     color: $primary;

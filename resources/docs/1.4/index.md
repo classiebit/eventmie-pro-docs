@@ -1,9 +1,16 @@
-- ## Quick Start
+- ## 1. Getting Started
     - [Introduction](/{{route}}/{{version}}/introduction)
     - [Installation <small class="v">v1.4</small>](/{{route}}/{{version}}/installation)
-    - [What's New <small class="v">*v1.3*</small>](/{{route}}/{{version}}/changelog/V1.3.x)
+    - [Configuration <small class="v">v1.4</small>](/{{route}}/{{version}}/configuration)
     - [Upgrade](/{{route}}/{{version}}/upgrade)
     - [Demo Accounts](/{{route}}/{{version}}/demo-accounts)
+    - [What's New <small class="v">*v1.3*</small>](/{{route}}/{{version}}/changelog/V1.3.x)
+
+<!-- - ## 2. Admin Panel
+- ## 3. Events
+- ## 4. Bookings
+- ## 5. Commissions -->
+
 
 - ## Features
     - [Events <small class="v">*v1.3*</small>](/{{route}}/{{version}}/features/events)

@@ -14,7 +14,6 @@ Eventmie Pro can be installed via composer. Bruhhh... 💪
 - [Install via Composer](#install-via-composer)
 - [Install via Web-Installer](#install-via-web-installer)
 - [Purchased From Codecanyon](#purchased-from-codecanyon)
-- [Configurations](#configurations)
 - [Installation Errors](#installation-errors)
 
 
@@ -73,6 +72,11 @@ Before you start. Make sure your server meets atleast the below requirements. **
     1. `eventmie-pro.zip` is Laravel package for **install via Composer**.
     2. `eventmie-pro-webinstaller.zip` is web-installer for **install via Web-installer**.
     
+---
+
+>{primary} `eventmie-pro-webinstaller.zip` is complete Laravel website, simply extra it in your website directory and follow the **Install via Web-installer** guide below.
+
+---
 
 
 <a name="install-via-composer"></a>
@@ -80,7 +84,7 @@ Before you start. Make sure your server meets atleast the below requirements. **
 
 ---
 
->{primary} If you already have Laravel Authentication, skip step 1.
+>{primary} If you already have/installed Laravel Authentication, skip step 1.
 
 ---
 
@@ -131,7 +135,7 @@ Before you start. Make sure your server meets atleast the below requirements. **
 
 6. While installation, it will ask you for the license code. Enter the license code to complete the installation process.
 
-    >{primary} Remember, one license code is valid for one domain only. Contact support for more details.
+    >{primary} Remember, one license code is valid for one domain only. Read license agreement here - **[Classiebit Licenses](https://classiebit.com/license)** 👈.
 
 
 <a name="install-via-web-installer"></a>
@@ -141,49 +145,44 @@ Eventmie Pro also comes with web-installer for those, who are not familiar with 
 
 ---
 
+>{primary} Extract the `eventmie-pro-webinstaller.zip` inside the website directory e.g `public_html` or `www`.
+
+---
+
 ![Eventmie Web Installer](http://eventmie-pro-docs.test/images/installation-web-installer.jpg "Eventmie Web Installer")
 
 ---
 
-To start with Eventmie Pro web-installer. After purchase & downloading Eventmie Pro, on extracting eventmie-pro.zip, you'll get two folders-
+>{primary} Web-installer installs everything - Laravel Framework + Eventmie Pro package + composer dependencies.
 
-1. `eventmie-pro` - This is **eventmie-pro PACKAGE** for installation via the above manual method (command line)
-2. `eventmie-pro-web installer` - This is **eventmie-pro WEB-INSTALLER**, to install Eventmie-pro via the web interface.
-
-
->{primary} Web-installer installs everything including - Laravel Framework + Eventmie Pro package + Database + all other composer dependencies. So if you're not a developer, you can use web-installer to install Eventmie Pro easily in few clicks.
-
+---
 
 Follow these simple steps for getting started with web-installer.
 
-1. Copy all the folders & files from `eventmie-pro-web installer` and paste them inside the website directory. e.g `public_html`
-2. Open the `.env` file at `public_html/.env` and enter the database credentials. It's important to enter database credentials manually before proceeding to web-installer.
+1. Create a database on the CPANEL/server and copy the database credentials- `database name`, `username` & `password`.
+2. Then after extracting `eventmie-pro-webinstaller.zip` in website directory, go to the website directory. 
+3. Open the `.env` file at the root `public_html/.env` and enter the database credentials. 
 
     ```php
-        .
-        .
-        .
-
         DB_DATABASE=<database-name>
         DB_USERNAME=<database-user-username>
         DB_PASSWORD=<database-user-password>
-
-        .
-        .
-        .
     ```
 
-3. Then visit the website URL, and it'll first ask for License code. Enter it and click Proceed.
+3. Visit the website URL. It'll ask for the License code, enter it and click Proceed.
 4. After successful license verification, it'll redirect to the Eventmie Pro web-installer steps form.
-5. In the steps form, everything is self-explanatory.
+5. In the steps form, things are self-explanatory.
 
-    * Step-1: Check server requirements. It'll auto check the webserver requirements, and will point out if some PHP extension is missing. If in case some extensions missing, you simply contact your web server/hosting provider, and they'll install those missing extensions, after that, return to the installer and try again.
+    * **Step-1: Check server requirements** <br>
+    It'll auto check the webserver requirements, and will point out if any PHP extension is missing. If in case of missing extensions, you need to your web server/hosting provider or install missing PHP extension yourself. After installing missing PHP extensions, return to the installer page and refresh.
 
-    * Step-2: Check Folder Permissions. If you see some red cross. Change two folder permissions `storage` & `bootstrap`. (you'll see more info about this on the installer page.)
+    
+    * **Step-2: Check Folder Permissions** <br> 
+    If you see some red cross. Change two folder permissions `storage` & `bootstrap`. (you'll see more info about this on the installer page.)
 
-    * Step-3: Enter Website Name, URL & Database Credentials.
+    * **Step-3: Final Step** <br>
+    Enter Website Name & URL and Click Install.
 
-6. Final step: Click install.
 
 
 <a name="purchased-from-codecanyon"></a>
@@ -195,41 +194,8 @@ If you've purchased Eventmie Pro from Codecanyon `codecanyon.net` then follow th
 2. Visit [classiebit.com](https://classiebit.com), signup as new user and go to [Downloads](https://classiebit.com/downloads)
 3. Click on <larecipe-button radius="half" type="black">Purchased from Codecanyon?</larecipe-button>
 4. In the popup, enter the Purchase-code and submit. You'll see the product on the download list.
-5. At last, add the authorized domain. And you're good to go. 👍
+5. Finally, add the authorized domain, where you're going to install Eventmie Pro, and you're good to go. 👍
 
-
-
-
-<a name="configurations"></a>
-## Configurations
-
-After installation, you'll see the Eventmie config `config/eventmie` file. You can make the following changes-
-
-<br>
-
-1. Route config - whether to run Eventmie as a base site e.g `example.com` or on a specific URL e.g `example.com/myevents`
-
-    ```php
-    'route' => [
-        'prefix'            => null, // for front-end
-        'admin_prefix'      => 'admin', // for admin panel
-    ],
-    ```
-
-
-
-2. RTL Languages - Eventmie detects RTL language from this list and changes site direction accordingly. You can add any other RTL language to the list.
-
-    ```php
-    'rtl_langs'        => [
-        'ar', // arabic
-        'fa', // persian
-        'he', // hebrew
-        'ms', // malay
-        'ur', // urdu
-        'ml' // malayalam
-    ],
-    ```
 
 
 <a name="installation-errors"></a>
@@ -240,27 +206,15 @@ After installation, you'll see the Eventmie config `config/eventmie` file. You c
 * Go to file `config/database.php` and change these values in `mysql` section
 
     ```php
-    .
-    .
-    .
     'charset'   => 'utf8',
     'collation' => 'utf8_unicode_ci',
     'strict'    => false,
     'engine'    => 'InnoDB ROW_FORMAT=DYNAMIC',
-    .
-    .
-    .
     ```
 
 
-2. If you're running MySql `5.7` or older, then disable strict mode in `config/database.php`
+2. If you're running MySql `5.7` or older, then disable strict mode inside `mysql` section in `config/database.php`
 
     ```php
-    .
-    .
-    .
     'strict'    => false,
-    .
-    .
-    .
     ```
