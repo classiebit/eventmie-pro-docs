@@ -46,7 +46,7 @@ Each event belongs to an organizer. And according to the different roles of each
 
 ---
 
->{info} Admin needs to select an `Organizer` while creating an event. 
+>{primary} Admin needs to select an `Organizer` while creating an event. 
 
 ---
 
@@ -125,7 +125,7 @@ Set timing for single or multiple days event.
 
 ---
 
->{info} Do not check the `Add Repetitive Schedules` if the event is not repetitive. Just save it and proceed to the next step. 
+>{primary} Do not check the `Add Repetitive Schedules` if the event is not repetitive. Just save it and proceed to the next step. 
 
 ---
 

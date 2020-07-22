@@ -49,7 +49,7 @@ QrCode requires the below things to work-
 
 ---
 
->{info} On the QrCode scanner page, it automatically opens a prompt to **Allow Camera**. Once you allow the camera, it never prompts again and works seamlessly.
+>{primary} On the QrCode scanner page, it automatically opens a prompt to **Allow Camera**. Once you allow the camera, it never prompts again and works seamlessly.
 
 ---
 

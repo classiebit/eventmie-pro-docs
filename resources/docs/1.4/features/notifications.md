@@ -36,6 +36,6 @@
 
 ---
 
->{info} Setup `Mail Credentials` from `Admin Panel` to start receiving emails.
+>{primary} Setup `Mail Credentials` from `Admin Panel` to start receiving emails.
 
 ---

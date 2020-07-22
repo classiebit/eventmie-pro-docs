@@ -8,20 +8,24 @@ In the case of the multi-vendor, you as a website owner can invite event organiz
 
 <br>
 
-So, here's a **semi-automatic** commission system in which you can set `commission percentage (%)` from `Admin panel -> Settings -> Commission` and then the commission on each booking will be calculated and recorded on `Admin Panel -> Commissions` page.
+So, here's a **semi-automatic** commission system in which you can set `commission percentage (%)` from Admin Panel, and then commissions on each booking will be calculated automatically.
 
 <br>
 
-At first, all ticket sales amounts will go into the website owner's account and then the owner will distribute the amount to each organizer manually and can update the `transfer` status on the `Admin Panel -> Commissions -> View`.
+At first, all bookings credit goes to the website owner's (Admin) bank account and then the owner distributes the organizer's payout manually and can update the `Payout Transfer` status on the Admin Panel.
 
 <br>
 
-#### Watch out the below steps from setting commission to transferring organizer payout.
+Eventmie Pro makes the payout transfer system as smooth as cheese 🧀. Follow the below guidelines, and you'll become master in it, in no time. 
 
 
 - [Set Commission](#set-commission)
 - [Commission Processing & Payouts](#commission-processing-payouts)
+- [Organiser Bank Details](#organiser-bank-details)
 - [Cancelled Booking](#cancelled-booking)
+- [Multi-Vendor On](#multi-vendor-on)
+- [Become Organiser](#become-organiser)
+- [Multi-Vendor Off](#multi-vendor-off)
 
 
 <a name="set-commission"></a>
@@ -76,6 +80,25 @@ After setting the `Admin Commission`. Eventmie Pro will start recording commissi
     ---
 
 
+<a name="organiser-bank-details"></a>
+## Organiser Bank Details
+
+The organizer can add their bank account details from their profile page on the front-end.
+
+---
+
+![Organizer bank details](http://eventmie-pro-docs.test/images/commissions-organizer-bank-details.jpg "Organizer bank details")
+
+---
+
+Admin can find these details on `Admin Panel -> Users -> View`, for transferring the payouts to the organizer's bank account.
+
+---
+
+![Admin Panel bank details](http://eventmie-pro-docs.test/images/commissions-bank-details.jpg "Admin Panel bank details")
+
+---
+
 <a name="cancelled-booking"></a>
 ## Cancelled Booking
 
@@ -86,3 +109,72 @@ When a booking is canceled, the commission of that canceled booking get excluded
 >{primary} Make sure you turn the booking `status` to `Disabled` after making a refund.
 
 ---
+
+
+
+<a name="multi-vendor-on"></a>
+## Multi Vendor On
+
+Eventmie Pro supports a single organization and multi-organization (multi-vendor, like a SaaS platform). You can toggle between these two modes with a click of a button from the `Admin Panel -> Settings -> Multi-vendor` tab.
+
+<br>
+
+In the case of `multi-vendor` mode `on`. A user, after `Signup` as a customer, can `Become Organizer`.
+
+1. After signup as `customer`, go to `Profile`.
+
+2. Click on &nbsp;<larecipe-button radius="half" type="black">Become Organizer</larecipe-button>
+
+3. In the popup, fill in your `Organization name/Brand name` and click on &nbsp;<larecipe-button radius="half" type="info">Submit</larecipe-button>
+
+4. After submission, the user's `Group` will be changed from `Customer` to `Organizer`.
+
+
+<a name="become-organiser"></a>
+## Become Organiser
+
+There are some set of rules about what an Organizer **CAN** and **CANNOT** do.
+
+1. Organizer **CANNOT** become Customer again. The process is `irreversible`.
+
+2. Organizer **CAN** create and manage their **own** events, but **CANNOT** book any event for their **own**.
+
+3. Organizer **CAN** book only their **own** events for any other Customer (users) of the site.
+
+4. Organizer **CAN** book event for a customer **ONLY IF**, the organizer knows the customer email.
+
+4. Organizers **CAN** manage bookings of their **own** events only.
+
+    ---
+
+    >{success} The above actions can be performed by the Organizer from the front-end.
+
+    ---
+
+    >{primary} While Admin can do anything, without any limitations.
+
+    ---
+
+
+<a name="multi-vendor-off"></a>
+## Multi Vendor Off
+
+When the multi-vendor mode is `Off`, then on the front-end, all the options for `Become Organizer`, `Create Event` or anything else related to `multi-vendor` functionality, get invisible. In that case, Admin manages everything on behalf of an Organizer.
+
+<br>
+
+Admin can create a separate `User` from the admin panel and assign the `User` the `Organizer - Role`. Follow these steps to do so.
+
+1. Go to `Admin Panel -> Manage Users`.
+
+2. Click on &nbsp;<larecipe-badge type="primary" rounded>Add New</larecipe-badge>
+
+3. Fill in the Organizer's name, email, and password (you can fill your own).
+
+4. Select the `Default Role` to `Organizer`.
+
+    ---
+
+    >{primary} After creating an organizer, Admin can use the organizer everywhere, whenever it asks to `Select Organizer`.
+
+    ---

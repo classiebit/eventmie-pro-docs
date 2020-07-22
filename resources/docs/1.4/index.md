@@ -12,29 +12,26 @@
     - [2.4 Dashboard](/{{route}}/{{version}}/admin/dashboard)
     - [2.5 Administration](/{{route}}/{{version}}/admin/administration)
     - [2.6 Commissions](/{{route}}/{{version}}/admin/commissions)
-    
 
+- ## 3. Events
+    - [3.1 Simple Events](/{{route}}/{{version}}/events/simple-events)
+    - [3.2 Repetitive Events](/{{route}}/{{version}}/events/repetitive-events)
+    - [3.3 Online Events <small class="v">v1.4</small>](/{{route}}/{{version}}/events/online-events)
 
 
 - ## Features
     - [Events](/{{route}}/{{version}}/features/events)
     - [Bookings](/{{route}}/{{version}}/features/bookings)
-    - [Payment Methods](/{{route}}/{{version}}/features/payment-methods)
-    - [Multi Vendor](/{{route}}/{{version}}/features/multi-vendor)
     - [Notifications](/{{route}}/{{version}}/features/notifications)
     - [Tickets](/{{route}}/{{version}}/features/tickets)
     - [Tags](/{{route}}/{{version}}/features/tags)
     - [Social Sharing](/{{route}}/{{version}}/features/social-sharing)
 
 - ## Organizer
-    - [Bank Details](/{{route}}/{{version}}/features/bank-details)
     - [Bookings](/{{route}}/{{version}}/features/organizer-bookings)
     - [Earnings](/{{route}}/{{version}}/features/organizer-earnings)
     - [Ticket Scanner](/{{route}}/{{version}}/features/ticket-scanner)
     
-
-- ## Contact
-    - [Support](/{{route}}/{{version}}/contact/support)
     
 - ## Live Preview
     - [Demo Accounts](/{{route}}/{{version}}/demo-accounts)

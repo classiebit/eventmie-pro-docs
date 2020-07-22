@@ -133,7 +133,7 @@ The `cancellation status` are only for tracking purpose. They have no major func
 
 ---
 
->{info} On updating `Cancellation Status` to `Approved` or `Refunded`, you must change the Booking Status to `Disabled`.
+>{primary} On updating `Cancellation Status` to `Approved` or `Refunded`, you must change the Booking Status to `Disabled`.
 
 ---
 

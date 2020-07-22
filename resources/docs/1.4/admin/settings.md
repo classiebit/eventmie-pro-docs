@@ -19,6 +19,9 @@ Let's first start by setting up Eventmie Pro global settings. We're starting fro
 - [Multi-Vendor](#Multi-Vendor)
 - [Admin](#Admin)
 - [Apps](#Apps)
+- [Payment Methods](#payment-methods)
+- [PayPal](#paypal)
+- [Offline Payment](#offline-payment)
 - [Mail](#Mail)
 - [Regional](#Regional)
 
@@ -158,6 +161,57 @@ External Apps credentials
 |PayPal Production Mode|`enable/disable`|Turn on/off production (real) mode payments|
 
 
+
+<a name="payment-methods"></a>
+## Payment Methods
+
+Eventmie Pro comes with **PayPal** express checkout system and **Offline Payment** method.
+
+---
+
+>{success} In case of Free tickets, users can book tickets directly without going through the payment gateway.
+
+---
+
+
+1. **Admin** - Can only use the Offline Payment method to make bookings for customers.
+
+2. **Organizer** - Can use PayPal & Offline Payment method to make bookings for customers.
+
+3. **Customer** - Can use PayPal & Offline Payment method to make bookings for themselves.
+
+---
+
+>{primary} We've excluded PayPal for Admin, because, it does not make any sense to pay yourself. 🤑
+
+---
+
+<a name="paypal"></a>
+## PayPal
+
+To get started with PayPal, simply-
+
+1. Go to `Admin Panel -> Settings -> Apps Tab`.
+2. Add your PayPal account `Client Id` & `Secret`.
+3. Add the **Callback URL** to your PayPal account- `<yourwebsite.com>/bookings/paypal/callback`.
+4. Then, first, keep the `PayPal Production Mode` disabled, and make a test booking.
+5. If test booking successful, enable the production mode to start receiving real payments.
+
+
+<a name="offline-payment"></a>
+## Offline Payment
+
+Offline payment means, booking a premium ticket without making online payment. By default, the offline payment method is disabled. You need to enable it first. To get started with Offline Payment, simply-
+
+1. Go to `Admin Panel -> Settings -> Bookings Tab`.
+2. Turn on `Allow Offline Payment For Organizer` & `Allow Offline Payment For Customer`.
+3. You can turn on/off offline payment for Organizers & Customers separately, depending on your requirements.
+
+---
+
+>{primary} Admin can always make a booking via the Offline Payment method.
+
+---
 
 
 
