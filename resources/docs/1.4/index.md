@@ -9,17 +9,16 @@
     - [2.1 Settings](/{{route}}/{{version}}/admin/settings)
     - [2.2 Taxes <small class="v">v1.4</small>](/{{route}}/{{version}}/admin/taxes)
     - [2.3 Site Content](/{{route}}/{{version}}/admin/site-content)
-    - [Dashboard](/{{route}}/{{version}}/admin/dashboard)
-    - [Events](/{{route}}/{{version}}/admin/manage-events)
-    - [Bookings](/{{route}}/{{version}}/admin/manage-bookings)
-    - [Users](/{{route}}/{{version}}/admin/manage-users)
+    - [2.4 Dashboard](/{{route}}/{{version}}/admin/dashboard)
+    - [2.5 Administration](/{{route}}/{{version}}/admin/administration)
+    - [2.6 Commissions](/{{route}}/{{version}}/admin/commissions)
+    
 
 
 
 - ## Features
     - [Events](/{{route}}/{{version}}/features/events)
     - [Bookings](/{{route}}/{{version}}/features/bookings)
-    - [Commission](/{{route}}/{{version}}/features/commission)
     - [Payment Methods](/{{route}}/{{version}}/features/payment-methods)
     - [Multi Vendor](/{{route}}/{{version}}/features/multi-vendor)
     - [Notifications](/{{route}}/{{version}}/features/notifications)

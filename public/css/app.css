@@ -3,8 +3,9 @@
 .alert {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
-  padding: 0.6rem;
+  padding: 0.6rem 2rem 0.6rem 1rem;
   border-radius: 0.9rem;
+  display: inline-block;
 }
 
 .alert a {
@@ -131,6 +132,10 @@ code,
 kbd,
 samp {
   font-size: 0.9rem;
+}
+
+.documentation h2 {
+  margin-top: 3.5rem;
 }
 
 .documentation h2 a:before {

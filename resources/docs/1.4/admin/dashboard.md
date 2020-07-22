@@ -1,26 +1,31 @@
 # Dashboard
 
-The dashboard shows the total number of Events, Bookings, Net Revenue, Users and Notifications.
+The dashboard shows an overview of the overall site data with a statistic chart and table.
+
+- [Top Selling Events](#top-selling-events)
+- [Sales Report](#sales-report)
+
+
+<a name="top-selling-events"></a>
+## Top Selling Events
+
+A quick view of the topmost selling event with the total number of bookings.
 
 ---
 
-> {primary} As promised, we've added Sales Revenue chart & Sales report tables. To track each and everything.
+![TOP 10 SELLING EVENTS Chart](http://eventmie-pro-docs.test/images/dashboard-top-selling.jpg "TOP 10 SELLING EVENTS Chart")
 
 ---
 
-1. TOP 10 SELLING EVENTS Chart
+
+<a name="sales-report"></a>
+## Sales Report
+
+Overall sales reports of all the events with organizer earnings, admin commission, payout status, and more. You can also filter sales reports by Events.
 
 ---
 
-![TOP 10 SELLING EVENTS Chart](http://eventmie-pro-docs.test/images/dashboard-1.jpg "TOP 10 SELLING EVENTS Chart")
-
----
-
-2. EVENT SALES REPORT Table with Event Filter
-
----
-
-![EVENT SALES REPORT Table with Event Filter](http://eventmie-pro-docs.test/images/dashboard-2.jpg "EVENT SALES REPORT Table with Event Filter")
+![EVENT SALES REPORT Table with Event Filter](http://eventmie-pro-docs.test/images/dashboard-sales-report.jpg "EVENT SALES REPORT Table with Event Filter")
 
 ---
 
