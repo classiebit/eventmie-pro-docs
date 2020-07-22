@@ -134,6 +134,10 @@ samp {
   font-size: 0.9rem;
 }
 
+.documentation h1:first-of-type {
+  border-left-width: 6px;
+}
+
 .documentation h2 {
   margin-top: 3.5rem;
 }
