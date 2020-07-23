@@ -21,7 +21,6 @@ In Eventmie Pro, you can create a single & multiple days event. Each event belon
 - [Media](#Media)
 - [SEO](#SEO)
 - [Powered By](#powered-by)
-- [Manage Event](#Manage-Event)
 
 
 <a name="create-simple-event"></a>
@@ -90,7 +89,7 @@ Create tickets for the event.
 - Price (set 0 for Free ticket)
 - Capacity (max bookings each ticket)
 - Description (ticket amenities info)
-- Applicable Tax (optional)
+- Taxes (optional)
 
 ---
 
@@ -102,20 +101,20 @@ Create tickets for the event.
 <a name="Location"></a>
 ## Location
 
-Event location details. You `Google map Lat-long` manually, to show the Event Venue Pin in the Google Map on the Event page.
+Event location details. You need to enter `Google map Lat-long` manually to show venue pinned on the google map on the event page.
 
 <br>
 
 **Form Fields**
 
-- Venue
-- Google Map Lat
-- Google Map Long
-- Address
-- City
-- State
-- Zipcode
-- Country
+- Venue (required)
+- Google Map Lat (optional)
+- Google Map Long (optional)
+- Address (optional)
+- City (optional)
+- State (optional)
+- Zipcode (optional)
+- Country (optional)
 
 ---
 
@@ -131,7 +130,7 @@ Event location details. You `Google map Lat-long` manually, to show the Event Ve
 <a name="Media"></a>
 ## Media
 
-Upload event poster, thumbnail, and images. Please upload the mentioned sizes of images. You can also crop and adjust them.
+Upload event poster, thumbnail, and images. Please upload the mentioned size of images. You can also crop and adjust them.
 
 <br>
 
@@ -155,7 +154,7 @@ Upload event poster, thumbnail, and images. Please upload the mentioned sizes of
 
 Write meta titles, keywords, and descriptions. These tags will be specific for each event. 
 
-**Fields**
+**Form Fields**
 
 - Meta Title
 - Meta Tags (keywords)
