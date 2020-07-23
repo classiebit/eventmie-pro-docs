@@ -4,6 +4,10 @@ In Eventmie Pro, you can create a single & multiple days event. Each event belon
 
 ---
 
+![Simple event view](http://eventmie-pro-docs.test/images/events-simple-event-view.jpg "Simple event view")
+
+---
+
 >{success} We'll discuss repetitive & online events and classes in the next sections. We'll focus on each option in their own section to avoid confusion. 
 
 ---
@@ -38,7 +42,7 @@ The first step is mandatory to proceed to the next step. Add these details to pr
 - Event name
 - Event URL (auto-generated)
 - Description
-- More Info (Why to attend?)
+- More Info (optional)
 
 ---
 
@@ -88,7 +92,7 @@ Create tickets for the event.
 - Title
 - Price (set 0 for Free ticket)
 - Capacity (max bookings each ticket)
-- Description (ticket amenities info)
+- Description (ticket amenities info) (optional)
 - Taxes (optional)
 
 ---
@@ -107,7 +111,7 @@ Event location details. You need to enter `Google map Lat-long` manually to show
 
 **Form Fields**
 
-- Venue (required)
+- Venue
 - Google Map Lat (optional)
 - Google Map Long (optional)
 - Address (optional)
@@ -138,8 +142,8 @@ Upload event poster, thumbnail, and images. Please upload the mentioned size of 
 
 - Thumbnail
 - Poster Image 
-- Images Gallery (multiple images) 
-- Video link (YouTube video ID)
+- Images Gallery (optional)
+- YouTube Video ID (optional)
 
 ---
 
@@ -152,13 +156,13 @@ Upload event poster, thumbnail, and images. Please upload the mentioned size of 
 <a name="SEO"></a>
 ## SEO
 
-Write meta titles, keywords, and descriptions. These tags will be specific for each event. 
+Write meta titles, keywords, and descriptions. These tags will be specific for each event, for event specific SEO.
 
 **Form Fields**
 
-- Meta Title
-- Meta Tags (keywords)
-- Meta Description
+- Meta Title (optional)
+- Meta Tags/Keywords (optional)
+- Meta Description (optional)
 
 ---
 
@@ -176,6 +180,10 @@ Final step-
 2. Click &nbsp;<larecipe-button type="info" size="sm" rounded>Save</larecipe-button>
 3. Then click &nbsp;<larecipe-button type="success" size="sm" rounded>Publish</larecipe-button>
 4. You can `Un-publish` / `Publish` anytime. 
+
+---
+
+>{primary} You can also create new Tags directly from Powered By Tab. We'll guide you about this in Tags section.
 
 ---
 
