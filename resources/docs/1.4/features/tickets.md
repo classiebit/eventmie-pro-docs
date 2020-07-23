@@ -10,7 +10,7 @@ Download Event Tickets PDF. The Ticket PDF contains a QR code, which can be scan
 
 
 - [Download Tickets](#Download-Tickets)
-- [Export Attendies](#Export-Attendies)
+
 
 
 <a name="Download-Tickets"></a>
@@ -43,13 +43,3 @@ Admin, organizer and customers, all of them can download tickets from their Book
     ---
 
 
-<a name="Export-Attendees"></a>
-## Export Attendees
-
-Organizers require their event attendees list, like their audience details who are going to attend their event. Now, with a click of a button, Organizers and Admin can download a `CSV` file containing all the booking details of event attendees. &nbsp;<larecipe-button type="black" size="sm">Export Attendees</larecipe-button> button can be found on **Event Update form -> Powered By tab**.
-
----
-
-![Export Events Attendees](http://eventmie-pro-docs.test/images/export-event-attendees.jpg "Export Events Attendees")
-
----

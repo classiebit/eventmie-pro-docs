@@ -17,15 +17,15 @@
     - [3.1 Simple Events](/{{route}}/{{version}}/events/simple-events)
     - [3.2 Repetitive Events](/{{route}}/{{version}}/events/repetitive-events)
     - [3.3 Online Events <small class="v">v1.4</small>](/{{route}}/{{version}}/events/online-events)
+    - [3.4 Manage Events](/{{route}}/{{version}}/events/manage-events)
+
+- ## 4. Bookings
 
 
 - ## Features
-    - [Events](/{{route}}/{{version}}/features/events)
     - [Bookings](/{{route}}/{{version}}/features/bookings)
     - [Notifications](/{{route}}/{{version}}/features/notifications)
     - [Tickets](/{{route}}/{{version}}/features/tickets)
-    - [Tags](/{{route}}/{{version}}/features/tags)
-    - [Social Sharing](/{{route}}/{{version}}/features/social-sharing)
 
 - ## Organizer
     - [Bookings](/{{route}}/{{version}}/features/organizer-bookings)

@@ -48,6 +48,8 @@ All the Organiser's Events can be managed from the Admin Panel.
 - Once an event is linked to an organizer, you can't change the Organizer of the event.
 - Only Admin can disable an Event.
 - The disabled event gets invisible from the front-end and shows 404 if visited directly via event URL.
+- Organizer can only **Unpublish** their events, while, only admin can delete events.
+
 
 
 
