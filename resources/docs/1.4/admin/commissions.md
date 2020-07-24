@@ -21,11 +21,15 @@ Eventmie Pro makes the payout transfer system as smooth as cheese 🧀. Follow t
 
 - [Set Commission](#set-commission)
 - [Commission Processing & Payouts](#commission-processing-payouts)
+- [Commission Calculations](#commission-calculations)
 - [Organiser Bank Details](#organiser-bank-details)
 - [Cancelled Booking](#cancelled-booking)
 - [Multi-Vendor On](#multi-vendor-on)
 - [Become Organiser](#become-organiser)
 - [Multi-Vendor Off](#multi-vendor-off)
+
+
+
 
 
 <a name="set-commission"></a>
@@ -78,6 +82,37 @@ After setting the `Admin Commission`. Eventmie Pro will start recording commissi
     >{success} Doing the above, means, being a website owner, you can keep a record of the organizer's payouts transfers.
 
     ---
+
+
+<a name="commission-calculations"></a>
+## Commission Calculations
+
+This is how, the Admin Commission and Organizer earnings are calculated behind the scenes. Let us explain from an example.
+
+<br>
+
+|Payables|Rates|Calculations|Total|
+|:-|:-|:-|:-|
+|Ticket Price (TP)|$100|$100|$100|
+|Organizer Tax (OT)|5% + 5%|(5% of $100) + (5% of $100)|$10|
+|Admin Commission (AC)|5%|5% of ($100 + $10)|$5.5|
+|Admin Tax (AT)|3% + 3%|(3% of $100) + (3% of $100)|$6|
+
+---
+
+>{primary} Admin Commission = 5% of (Ticket Price + Organizer Tax)
+
+---
+
+>{primary} Admin Tax won't be a part of Organizer earning. It'll completely go to Admin account.
+
+---
+
+|Total Customer Paid|Total Organizer Earning|Total Admin Commission|
+|:-|:-|:-|
+|TP + OT + AC + AT|(TP + OT) - AC|AC + AT|
+|$100 + $10 + $6 + $5 = $121|$110 - $5.5 = 104.5|$5.5 + $6 = $11.5|
+
 
 
 <a name="organiser-bank-details"></a>

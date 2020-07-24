@@ -125,4 +125,4 @@ We provide full customization services and support for Eventmie Pro. Customizati
 
 <br>
 
-Simply email us on **info@classiebit.com** for any type of queries. We would love to help you out. ❤️
+Simply email us on **info@classiebit.com** for any type of queries. We would love to do business with you. 🙏 🤝 

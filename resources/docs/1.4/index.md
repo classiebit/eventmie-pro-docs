@@ -20,11 +20,13 @@
     - [3.4 Manage Events](/{{route}}/{{version}}/events/manage-events)
 
 - ## 4. Bookings
+    - [4.1 Booking Tickets](/{{route}}/{{version}}/bookings/booking-tickets)
+    - [4.2 Email Notifications](/{{route}}/{{version}}/bookings/email-notifications)
+    - [4.3 Manage Bookings](/{{route}}/{{version}}/bookings/manage-bookings)
 
 
 - ## Features
     - [Bookings](/{{route}}/{{version}}/features/bookings)
-    - [Notifications](/{{route}}/{{version}}/features/notifications)
     - [Tickets](/{{route}}/{{version}}/features/tickets)
 
 - ## Organizer

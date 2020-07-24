@@ -1,47 +1,18 @@
 # Bookings
 
-To make a booking for an event is super simple. It's just a matter of two clicks. We've made a secure & simple checkout system. Hmmm.. ☝️ ✌️
-
-<br>
-
-**Admin**, **Organizer** & **Customer**, all can book an event from the front-end in similar ways.
-
-<br>
-
-1. **Admin** - Make a booking for a customer.
-
-2. **Organizer** - Make booking only of their own events for a customer.
-
-3. **Customer** - Make a booking for their own.
-
 ---
 
 ![new-checkout-ui-design](http://eventmie-pro-docs.test/images/new-checkout-ui-design.jpg "new-checkout-ui-design")
 
+---
 
 
-- [Make Booking](#Make-Booking)
 - [Booking Cancellation](#Booking-Cancellation)
 - [Cancellation Status](#Cancellation-Status)
-- [Booking Process](#Booking-Process-behind-the-scenes)
-
----
 
 
 <a name="Make-Booking"></a>
 ## Make Booking
-
-
-### For Admin & Organizer
-
-1. On the Event page, scroll down to `Get your tickets now` section. 
-2. Click on &nbsp;<larecipe-button type="success" size="sm" rounded>Get Tickets</larecipe-button>
-    <br>
-    In case of repetitive event, click on an `Event Schedule`.
-    <br>
-
-3. `Select Customer` & `Ticket Quantity`. You can also select multiple tickets at once. 
-4. Select a `Payment Option` and click &nbsp;<larecipe-button type="secondary" size="sm" rounded>Checkout</larecipe-button>
 
 ---
 
@@ -53,26 +24,11 @@ To make a booking for an event is super simple. It's just a matter of two clicks
 
 ### For Customer
 
-1. On the Event page, scroll down to `Get your tickets now` section. 
-2. Click on &nbsp;<larecipe-button type="success" size="sm" rounded>Get Tickets</larecipe-button>
-    In case of repetitive event, then click on any `Event Schedule`.
-3. Select `Ticket Quantity`.
-4. Select a `Payment Option` and click &nbsp;<larecipe-button type="secondary" size="sm" rounded>Checkout</larecipe-button>
-
 ---
 
 ![Customer checkout](http://eventmie-pro-docs.test/images/new-checkout-ui-design-customer.jpg "Customer checkout")
 
 ---
-
-> {info} Free Tickets can be booked directly without going through Payment Gateway.
-
----
-
-> {primary} We'll add `Pay at venue` option for cashless checkout in the next version.
-
----
-
 
 
 <a name="Booking-Cancellation"></a>
@@ -138,38 +94,3 @@ The `cancellation status` are only for tracking purpose. They have no major func
 ---
 
 
-<a name="Booking-Process-behind-the-scenes"></a>
-## Booking Process (behind the scenes)
-
-**v1.3** introduced a new faster & smoother checkout process. The new checkout process is separated into a few micro-services. 
-Before, on clicking the Checkout button, these are all the tasks happening concurrently behind the scenes-
-
-<br>
-- Payment Processing
-- Ticket PDF generation
-- Ticket email sending
-
-<br>
-These were the tasks that increase the checkout processing time. So we redesigned the whole process. And separated all these tasks into the pre & post-booking process.
-
-
-### New Booking Process
-
-On clicking the Checkout button
-
-<br>
-* Initiate a loader popup to show checkout progress (start pre-booking process).
-* Validate the booking
-* Process payment
-* On successful payment, finish the booking process. (finish pre-booking process).
-* On the bookings page, initiate a loader popup (start post-booking process)
-* Start generating Ticket PDF
-* Send Ticket emails
-* Finally, show finish booking notification and close the loader popup. (finish post-booking process).
-
-### New Checkout Process Benefits
-
-* Independent pre-booking & post-booking process.
-* Faster checkout, lesser waiting time.
-* More reliable, e.g if email sending fails, it won't affect other belonging tasks.
-* More clarity for each task, a user can track each process and can contact support about the exact issue.
