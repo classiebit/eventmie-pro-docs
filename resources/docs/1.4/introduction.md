@@ -24,7 +24,7 @@ We've organized the docs in perfect sequential order, so that, if you read from 
 
 ---
 
-![Eventmie Pro - Event planning reimagined with Laravel](http://eventmie-pro-docs.test/images/eventmie-pro-docs-banner-1.jpg "Eventmie Pro - Event planning reimagined with Laravel")
+![eventmie-pro-docs-banner-zoom-googlemeet-jiomeet](http://eventmie-pro-docs.test/images/eventmie-pro-docs-banner-zoom-googlemeet-jiomeet.jpg "eventmie-pro-docs-banner-zoom-googlemeet-jiomeet")
 
 ---
 
