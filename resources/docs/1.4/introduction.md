@@ -14,6 +14,13 @@ We've organized the docs in perfect sequential order, so that, if you read from 
 2. Admin Panel Overview & global settings. 
 3. And then Front End features and so on.
 
+---
+
+>{primary} Don't miss these Blue notification boxes. They contains important Informations.
+
+---
+
+>{success} Don't miss these Green notification boxes as well. They contains important ToDos.
 
 ---
 

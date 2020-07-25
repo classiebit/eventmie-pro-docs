@@ -23,16 +23,13 @@
     - [4.1 Booking Tickets](/{{route}}/{{version}}/bookings/booking-tickets)
     - [4.2 Email Notifications](/{{route}}/{{version}}/bookings/email-notifications)
     - [4.3 Manage Bookings](/{{route}}/{{version}}/bookings/manage-bookings)
+    - [4.4 Cancellation & Refund](/{{route}}/{{version}}/bookings/cancellation-refund)
+    - [4.5 Ticket Scanner](/{{route}}/{{version}}/bookings/ticket-scanner)
 
 
-- ## Features
-    - [Bookings](/{{route}}/{{version}}/features/bookings)
+<!-- - ## Features
     - [Tickets](/{{route}}/{{version}}/features/tickets)
-
-- ## Organizer
-    - [Bookings](/{{route}}/{{version}}/features/organizer-bookings)
-    - [Earnings](/{{route}}/{{version}}/features/organizer-earnings)
-    - [Ticket Scanner](/{{route}}/{{version}}/features/ticket-scanner)
+    - [Ticket Scanner](/{{route}}/{{version}}/features/ticket-scanner) -->
     
     
 - ## Live Preview

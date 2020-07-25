@@ -31,7 +31,8 @@ v1.4.0 is a major release. It includes a lot of new & most requested features, i
 - Alert when switching to tabs on event form
 - Upgrade to Laravel 7.x and Voyager 1.4
 - Disable past event in schedules on Event detail page
-- Improved Customer & Organizer bookings page on Front-end
+- Improved Customer & Organizer bookings page on Front-end.
+- If the Booking is Disabled or Is Paid No, in any of these cases, customer won't be able to Download ticket, access online event secret details, request cancellation.
 
 
 ### Bugs Resolved

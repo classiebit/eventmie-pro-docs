@@ -6,6 +6,13 @@ Eventmie Pro has a super simple, secure & fast checkout process. 💪
 
 A user needs to be registered & signed-in to book a ticket (purchase tickets).
 
+---
+
+>{success} After login, the user will be redirected back to Event checkout page, if in case, the user has tried to checkout before login.
+
+---
+
+
 1. **Customer** can make bookings of any events, for themselves.
 2. **Admin** can make bookings of any events, for **Customer**. 
 3. **Organizer** can make a booking of **THEIR OWN** events only, for **Customer**. 
@@ -23,6 +30,7 @@ A user needs to be registered & signed-in to book a ticket (purchase tickets).
 - [Payment Option: Free](#payment-option-free)
 - [Payment Option: Offline](#payment-option-offline)
 - [Payment Option: Online](#payment-option-online)
+- [Paid or UnPaid Booking](#paid-unpaid-booking)
 - [Booking Process](#booking-process)
 
 
@@ -64,7 +72,7 @@ For an Organizer, to book a ticket for a customer-
 <a name="admin-booking-tickets"></a>
 ## Admin: Booking Tickets
 
-Admin can book tickets for customers of **ALL** events. Admin also need to enter the `Customer Email`
+Admin can book tickets for customers of **ALL** events. Admin also need to enter the `Customer Email`.
 
 ---
 
@@ -103,6 +111,7 @@ Offline (Cash on Arrival). This option means you can make a paid booking without
 
 * Organizers & Admin can make bookings for customers directly, without making any online payment. 
 * And then, they can collect the money via some external payment sources or in cash.
+* 
 
 ---
 
@@ -127,6 +136,30 @@ Online Payment via payment gateways. Eventmie Pro comes with an integrated `PayP
 ---
 
 >{success} If you want any other online payment gateway, we can integrate it for you. Simply send us an email on `info@classiebit.com`.
+
+---
+
+
+<a name="paid-unpaid-booking"></a>
+## Paid or UnPaid Booking
+
+In `v1.4`, we've added a new Booking Status called `Is Paid` - `Yes` or `No`. It shows, whether the booking amount has been paid by the customer or not.
+
+<br>
+
+As there are having different types of `Payment Options`, the `Is Paid` status varies accordingly-
+
+1. **Free Checkout**- `Is Paid` status is always `Yes`.
+2. **Online Payment**- `Is Paid` status is always `Yes`.
+3. **Offline Payment**- `Is Paid` status is always `No`.
+
+<br>
+
+After receiving the payment in case of `Offline Payment`, Admin or Organizer can update the `Is Paid` status to `Yes`.
+
+---
+
+>{primary} If `Is Paid` is `No`, then the customer WILL NOT be able `Download Tickets` or `Access Online Event Secret Details`.
 
 ---
 

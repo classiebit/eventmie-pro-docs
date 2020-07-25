@@ -11,12 +11,27 @@
 ---
 
 
-To upgrade to v1.4.x, first, download the latest version from [Classiebit.com - Downloads page](https://classiebit.com/downloads) and then follow the below steps.
-
-
+- [Prerequisites](#prerequisites)
 - [Steps to upgrade](#Steps-to-upgrade)
 - [Update Config](#update-config)
 - [Update Languages](#update-languages)
+
+
+<a name="prerequisites"></a> 
+## Prerequisites
+
+To upgrade to v1.4.x-
+
+1. You must be on v1.3.x.
+2. If you're running Laravel 5.8, you must first upgrade to Laravel 6.x or 7.x. [Laravel Upgrade Guide](https://laravel.com/docs/7.x/upgrade)
+3. Download the latest version from [Classiebit.com - Downloads page](https://classiebit.com/downloads)
+
+---
+
+>{primary} If you want us to upgrade your website with all latest versions, we also provide `Upgrade Service`. Simply send us an email on `info@classiebit.com`. 
+
+---
+
 
 <a name="Steps-to-upgrade"></a> 
 ## Steps to upgrade
