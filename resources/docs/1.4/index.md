@@ -24,7 +24,7 @@
     - [4.2 Email Notifications](/{{route}}/{{version}}/bookings/email-notifications)
     - [4.3 Manage Bookings](/{{route}}/{{version}}/bookings/manage-bookings)
     - [4.4 Cancellation & Refund](/{{route}}/{{version}}/bookings/cancellation-refund)
-    - [4.5 Ticket Scanner](/{{route}}/{{version}}/bookings/ticket-scanner)
+    - [4.5 Ticket Scanner](/{{route}}/{{version}}0/bookings/ticket-scanner)
 
 
 <!-- - ## Features
