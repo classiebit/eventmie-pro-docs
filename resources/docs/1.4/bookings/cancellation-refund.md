@@ -4,7 +4,7 @@ Customers, Organizers & Admin, all of them can manage cancellations from their r
 
 <br>
 
-Admin or Organizer can decide whether to provide the refund to the customers, and after that, they can update the cancellation status, so that the customer can track the cancellation status from their `Bookings` page.
+Admin or Organizer can decide whether to provide a refund to the customers and after that, they can update the cancellation status so that the customer can track the cancellation status from their `Bookings` page.
 
 ---
 
@@ -28,23 +28,23 @@ To submit a cancellation request, customer from their `Bookings` page-
 1. Click on &nbsp;<larecipe-button type="danger" size="sm" rounded>Cancel</larecipe-button> on a booking row.
 2. Booking status will keep updating (`Pending` | `Approved` | `Refunded`) when the Organizer or Admin updates cancellation status.
 3. Once the cancellation request submitted and cancellation status updated, it can never be re-submitted again.
-4. Also, after `Check-In - Yes`, customer can't submit cancellation request.
+4. Also, after `Check-In - Yes`, customer can't submit a cancellation request.
 4. The `status` shows if the booking is `Enabled - Valid` or `Disabled - In-valid`.
-5. After refunding booking amount, the booking `status` becomes `Disabled` and customer won't be able to 
+5. After refunding booking amount, the booking `status` becomes `Disabled` and the customer won't be able to 
     - Download Ticket
     - Access Online Event Secret Details
     - Check-in through ticket scanner
 
 ---
 
->{primary} On new cancellation request and cancellation status update, all releated users notified via email. 
+>{primary} On new cancellation request and cancellation status update, all related users notified via email. 
 
 ---
 
 <a name="organizer-cancellations"></a>
 ## Organizer's: Cancellations
 
-From the `Bookings` page, Organizer can manage and update cancellation requests-
+From the `Bookings` page, the Organizer can manage and update cancellation requests-
 
 1. Click on &nbsp;<larecipe-button type="primary" size="sm" rounded>Edit</larecipe-button> on a booking row.
 2. In the popup, the organizer can update- 
@@ -59,7 +59,7 @@ From the `Bookings` page, Organizer can manage and update cancellation requests-
 
 ---
 
->{success} `Admin` can do the same things as Organizer, from the `Admin Panel -> Bookings`.
+>{success} `Admin` can do the same things as the Organizer, from the `Admin Panel -> Bookings`.
 
 ---
 
@@ -76,7 +76,7 @@ Cancellation Status only gives info about the refund progress, like you can let 
 
 <br>
 
-After making a refund and updating cancellation status, you must change the `Booking Status` to `Disabled`, to actually disable a booking, or make it in-valid. So that the customer cannot enter or access the event.
+After making a refund and updating cancellation status, you must change the `Booking Status` to `Disabled`, to disable a booking, or make it invalid. So that the customer cannot enter or access the event.
 
 
 - **No Cancellation** - the booking status is active and the ticket is valid.

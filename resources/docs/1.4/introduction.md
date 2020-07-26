@@ -1,4 +1,4 @@
-# Introduction 🙏
+# Introduction
 
 Welcome to Eventmie Pro documentation for version 1.4. Simply read this documentation from start to end, without skipping a single page. And you'll become master in it, just in an hour or less.
 
@@ -13,14 +13,6 @@ We've organized the docs in perfect sequential order, so that, if you read from 
 1. Installation & configs.
 2. Admin Panel Overview & global settings. 
 3. And then Front End features and so on.
-
----
-
->{primary} Don't miss these Blue notification boxes. They contains important Informations.
-
----
-
->{success} Don't miss these Green notification boxes as well. They contains important ToDos.
 
 ---
 
@@ -45,7 +37,7 @@ It's an event planning, management, and ticket selling script. With Eventmie Pro
 
 <br>
 
-**Install** it into a brand new Laravel website or an existing one and start selling your events in your way. **ZERO commission** & **100% PROFIT**.
+**Install** it as a new website or into an existing one and start selling your events in your way. **ZERO commission** & **100% PROFIT**.
 
 <br>
 

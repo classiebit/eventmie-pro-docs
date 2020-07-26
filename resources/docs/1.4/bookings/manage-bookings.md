@@ -1,6 +1,6 @@
-# Manage Bookings
+# Manage Bookings <small class="v">v1.4</small>
 
-Managing the bookings is breeze. Customers, Organizers and Admin, all of them have seperate `Bookings` pages, where they can see all of their existing event ticket bookings.
+Managing the bookings is a breeze. Customers, Organizers, and Admin, all of them have separate `Bookings` pages, where they can see all of their existing event ticket bookings.
 
 
 - [Customer's: Bookings](#customer-bookings)
@@ -12,9 +12,9 @@ Managing the bookings is breeze. Customers, Organizers and Admin, all of them ha
 <a name="customer-bookings"></a>
 ## Customer's: Bookings
 
-Customers can see all of their bookings on `My Bookings` page. To visit, click on `My Bookings` on the header. On the `My Bookings` page, customers can- 
+Customers can see all of their bookings on the `My Bookings` page. To visit, click on `My Bookings` on the header. On the `My Bookings` page, customers can- 
 
-- See all their the booked tickets.
+- See all their booked tickets.
 - Check booking & payment status.
 - Download the tickets.
 - Get online event secret access details.
@@ -31,9 +31,9 @@ Customers can see all of their bookings on `My Bookings` page. To visit, click o
 <a name="admin-bookings"></a>
 ## Admin's: Bookings
 
-Admins can see all event's bookings on `Admin Panel -> Bookings` page. To visit, click on `Bookings` on the Admin Panel. On the `Bookings` page, Admin can- 
+Admins can see all event's bookings on the `Admin Panel -> Bookings` page. To visit, click on `Bookings` on the Admin Panel. On the `Bookings` page, Admin can- 
 
-- See all their Event's booked tickets.
+- See all their Events booked tickets.
 - Check booking & payment status.
 - Modify booking Is Paid status & disable/enable it.
 - Update booking cancellation requests status, if it's approved or amount refunded with <larecipe-button type="info" size="sm" rounded>Edit</larecipe-button>
@@ -49,9 +49,9 @@ Admins can see all event's bookings on `Admin Panel -> Bookings` page. To visit,
 <a name="organizer-bookings"></a>
 ## Organizer's: Bookings
 
-Organizers can see all of their event's bookings on `Manage Bookings` page. To visit, click on `Manage Bookings` on the header, account's dropdown. On the `Manage Bookings` page, Organizers can- 
+Organizers can see all of their event's bookings on the `Manage Bookings` page. To visit, click on `Manage Bookings` on the header, account's dropdown. On the `Manage Bookings` page, Organizers can- 
 
-- See all their Event's booked tickets.
+- See all their Events booked tickets.
 - Check booking & payment status.
 - Modify booking Is Paid status & disable/enable it.
 - Update booking cancellation requests status, if it's approved or amount refunded with <larecipe-button type="info" size="sm" rounded>Edit</larecipe-button>
@@ -67,7 +67,7 @@ Organizers can see all of their event's bookings on `Manage Bookings` page. To v
 <a name="organizer-earnings"></a>
 ## Organizer's: Earnings
 
-Organizers can see all of their event's earnings on `Manage Earnings` page. To visit, click on `Manage Earnings` on the header, account's dropdown. On the `Manage Earnings` page, Organizers can- 
+Organizers can see all of their event's earnings on the `Manage Earnings` page. To visit, click on `Manage Earnings` on the header, account's dropdown. On the `Manage Earnings` page, Organizers can- 
 
 - See the overview of their Event's sales and earnings like 
     - Total `Bookings` amount of all sales.

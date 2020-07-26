@@ -16,28 +16,54 @@ v1.4.0 is a major release. It includes a lot of new & most requested features, i
 
 ### New Features & Improvements
 
-- Online Events with Zoom, Google Meet and all other group public/private online meeting and events.
-- Multiple Taxes- Organizers will be able to apply multiple taxes on each ticket.
-- Multiple Admin Taxes- Admin (site-owners) will be able to create and apply multiple default taxes on all tickets, like a fixed admin fee to the customers. 
-- Private customers- Organizers will only be able to make a booking for a customer with email. The old Customers dropdown which shows all site customers is replaced by a new dropdown with search option.
+- Online Events with Zoom, Google Meet and all other public/private video conferencing or live streaming apps. 
+[eventmie-pro-docs.classiebit.com/docs/1.4/events/online-events](https://eventmie-pro-docs.classiebit.com/docs/1.4/events/online-events)
+
+- Multiple Taxes- Organizers can apply multiple taxes on each ticket.
+[eventmie-pro-docs.classiebit.com/docs/1.4/events/simple-events#Tickets](https://eventmie-pro-docs.classiebit.com/docs/1.4/events/simple-events#Tickets)
+
+- Multiple Admin Taxes- Admin (site-owners) will be able to create and apply multiple default taxes on all tickets, like a fixed admin fee to the customers.
+[eventmie-pro-docs.classiebit.com/docs/1.4/admin/taxes#admin-taxes](https://eventmie-pro-docs.classiebit.com/docs/1.4/admin/taxes#admin-taxes)
+ 
+- Private customers- Organizers will only be able to make a booking for a customer with email. The old Customers dropdown which shows all site customers, is replaced by a new dropdown with search option.
+[eventmie-pro-docs.classiebit.com/docs/1.4/bookings/booking-tickets#organizer-booking-tickets](https://eventmie-pro-docs.classiebit.com/docs/1.4/bookings/booking-tickets#organizer-booking-tickets)
+
 - New design for Ticket PDF with QrCode and reduced data in QrCode for faster scanning.
-- Location filters on Event listing page (Browse Events). You'll be able to filter by city, state and country.
+[eventmie-pro-docs.classiebit.com/docs/1.4/bookings/ticket-scanner](https://eventmie-pro-docs.classiebit.com/docs/1.4/bookings/ticket-scanner)
 
-- Multi-lingual Admin Panel. 
+- Location filters on the Event listing page (Browse Events). You'll be able to filter by city, state, and country.
 - Multi-lingual Calendars.
-- Added Export Attendees button on Organizer Manage Events page.
-- is_paid or not booking status. Offline payment- default is_paid = 0, Online payment- default is_paid = 1
+[eventmie-pro.classiebit.com/events](https://eventmie-pro.classiebit.com/events)
 
-- Alert when switching to tabs on event form
-- Upgrade to Laravel 7.x and Voyager 1.4
-- Disable past event in schedules on Event detail page
-- Improved Customer & Organizer bookings page on Front-end.
-- If the Booking is Disabled or Is Paid No, in any of these cases, customer won't be able to Download ticket, access online event secret details, request cancellation.
+- Multi-lingual Admin Panel. 
+[eventmie-pro-docs.classiebit.com/docs/1.4/configuration#multiple-languages](https://eventmie-pro-docs.classiebit.com/docs/1.4/configuration#multiple-languages)
+
+
+- Multi-lingual Notifications email i.e Booking emails, registration emails, etc.
+- Improved email notification and email templates. Added more info in every email.
+[eventmie-pro-docs.classiebit.com/docs/1.4/bookings/email-notifications](https://eventmie-pro-docs.classiebit.com/docs/1.4/bookings/email-notifications)
+
+- Added Export Attendees button on the Organizer Manage Events page.
+[eventmie-pro-docs.classiebit.com/docs/1.4/events/manage-events](https://eventmie-pro-docs.classiebit.com/docs/1.4/events/manage-events)
+
+- Added `is_paid` or not booking status. Offline payment- default `is_paid = 0`, Online payment- default `is_paid = 1`.
+[eventmie-pro-docs.classiebit.com/docs/1.4/events/manage-events](https://eventmie-pro-docs.classiebit.com/docs/1.4/events/manage-events)
+
+- Upgrade to Laravel 7.x and Voyager 1.4.
+[eventmie-pro-docs.classiebit.com/docs/1.4/installation](https://eventmie-pro-docs.classiebit.com/docs/1.4/installation)
+
+- Improved Customer's `My Bookings` page.
+[eventmie-pro-docs.classiebit.com/docs/1.4/installation](https://eventmie-pro-docs.classiebit.com/docs/1.4/installation)
+
+
+- Confirmation alert popup before switching to tabs on the event form.
+- Disabled past events in schedules on the Event page.
+- If the Booking is `Disabled` or Is Paid `No` then, the customer won't be able to Download the ticket, access online event secret details, or request cancellation.
 
 
 ### Bugs Resolved
 
-- Redirect user to event page after login
-- Removed mili-seconds from Event setup form -> Timings tab
-- Organizer manage bookings page, Date filter is not working correctly.
+- Redirect the user to the event page after login
+- Removed millisecond from Event setup form -> Timings tab
+- Resolve Date Filter issues on Organizer's `Manage Bookings` page.
 - resolve GDPR issue

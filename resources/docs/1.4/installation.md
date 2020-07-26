@@ -35,7 +35,7 @@ You can install Eventmie Pro on a **Fresh** or **Existing** Laravel application.
 <a name="server-requirements"></a> 
 ## Server Requirements
 
-Before you start. Make sure your server meets atleast the below requirements. **(MUST HAVE!)**
+Before you start. Make sure your server meets at least the below requirements. **(MUST HAVE!)**
 
 ---
 
@@ -65,16 +65,16 @@ Before you start. Make sure your server meets atleast the below requirements. **
 ## Download Eventmie-pro
 
 * Download Eventmie-pro from `classiebit.com/downloads`.
-* On the same `classiebit.com/downloads` page, make sure you add domain name to authorize domain, on which you're going to install Eventmie-pro.
-* No need of domain authorization for `localhost`.
+* On the same `classiebit.com/downloads` page, make sure you add a domain name to authorize domain, on which you're going to install Eventmie-pro.
+* No need for domain authorization for `localhost`.
 * Unzip the Eventmie Pro script that you've downloaded. 
 * You'll find two more ZIP files inside. 
-    1. `eventmie-pro.zip` is Laravel package for **install via Composer**.
+    1. `eventmie-pro.zip` is the Laravel package for **install via Composer**.
     2. `eventmie-pro-webinstaller.zip` is web-installer for **install via Web-installer**.
     
 ---
 
->{primary} `eventmie-pro-webinstaller.zip` is complete Laravel website, simply extra it in your website directory and follow the **Install via Web-installer** guide below.
+>{primary} `eventmie-pro-webinstaller.zip` is a complete Laravel website, simply extra it in your website directory and follow the **Install via Web-installer** guide below.
 
 ---
 
@@ -141,7 +141,7 @@ Before you start. Make sure your server meets atleast the below requirements. **
 <a name="install-via-web-installer"></a>
 ## Install via Web-Installer
 
-Eventmie Pro also comes with web-installer for those, who are not familiar with Laravel framework. The web-installer installs Eventmie Pro directly on the web-server in few clicks. No technical or coding skills needed.
+Eventmie Pro also comes with web-installer for those, who are not familiar with the Laravel framework. The web-installer installs Eventmie Pro directly on the web-server in few clicks. No technical or coding skills needed.
 
 ---
 
@@ -160,7 +160,7 @@ Eventmie Pro also comes with web-installer for those, who are not familiar with 
 Follow these simple steps for getting started with web-installer.
 
 1. Create a database on the CPANEL/server and copy the database credentials- `database name`, `username` & `password`.
-2. Then after extracting `eventmie-pro-webinstaller.zip` in website directory, go to the website directory. 
+2. Then after extracting `eventmie-pro-webinstaller.zip` in the website directory, go to the website directory. 
 3. Open the `.env` file at the root `public_html/.env` and enter the database credentials. 
 
     ```php
@@ -174,7 +174,7 @@ Follow these simple steps for getting started with web-installer.
 5. In the steps form, things are self-explanatory.
 
     * **Step-1: Check server requirements** <br>
-    It'll auto check the webserver requirements, and will point out if any PHP extension is missing. If in case of missing extensions, you need to your web server/hosting provider or install missing PHP extension yourself. After installing missing PHP extensions, return to the installer page and refresh.
+    It'll auto check the webserver requirements, and will point out if any PHP extension is missing. If in case of missing extensions, you need your web server/hosting provider or install missing PHP extension yourself. After installing missing PHP extensions, return to the installer page and refresh.
 
     
     * **Step-2: Check Folder Permissions** <br> 

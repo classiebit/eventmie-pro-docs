@@ -1,6 +1,7 @@
-# Online Events
+# Online Events <small class="v">v1.4</small>
 
-In Eventmie Pro, you can create online events and classes as well. An online event can be any type of virtual event that is being streamed via YouTube, Vimeo, Zoom, Google Meet, or any other private video streaming or group video meetings apps.
+In Eventmie Pro, you can create online events and classes as well. An online event can be any type of virtual event that is being streamed via YouTube, Vimeo, Zoom, Google Meet, or any other public/private video conferencing, live streaming, or group video calling apps. 
+
 
 <br>
 

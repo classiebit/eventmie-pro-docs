@@ -12,7 +12,7 @@ The organizer can manage only own their events from the front end, while Admin c
 
 ---
 
-- [Export Attendees](#Export-Attendees)
+- [Export Attendees <small class="v">v1.4</small>](#Export-Attendees)
 - [Manage Tags](#manage-tags)
 - [Create Tag](#create-tag)
 - [Share Event](#share-event)
@@ -20,7 +20,7 @@ The organizer can manage only own their events from the front end, while Admin c
 
 
 <a name="Export-Attendees"></a>
-## Export Attendees
+## Export Attendees <small class="v">v1.4</small>
 
 Organizers can export their event's attendees list to a `CSV` file, with full booking & customer details.
 

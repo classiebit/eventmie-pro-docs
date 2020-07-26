@@ -6,7 +6,7 @@
 
 ---
 
->{success} Upgrading will **NEVER MODIFY OR DELETE** your website's existing users data (file uploads) & database tables data. 
+>{success} Upgrading will **NEVER MODIFY OR DELETE** your website's existing users' data (file uploads) & database tables data. 
 
 ---
 
@@ -28,7 +28,7 @@ To upgrade to v1.4.x-
 
 ---
 
->{primary} If you want us to upgrade your website with all latest versions, we also provide `Upgrade Service`. Simply send us an email on `info@classiebit.com`. 
+>{primary} If you want us to upgrade your website with all the latest versions, we also provide `Upgrade Service`. Simply send us an email on `info@classiebit.com`. 
 
 ---
 

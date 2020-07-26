@@ -83,7 +83,7 @@ Create tickets for the event.
 
 - Tickets can be `Free` or `Paid`. 
 - Taxes can be applied to each ticket separately.
-- Multiple taxes can also be applied to each ticket.
+- Multiple taxes can also be applied to each ticket. <small class="v">v1.4</small>
 
 <br>
 
@@ -105,7 +105,7 @@ Create tickets for the event.
 <a name="Location"></a>
 ## Location
 
-Event location details. You need to enter `Google map Lat-long` manually to show venue pinned on the google map on the event page.
+Event location details. You need to enter `Google map Lat-long` manually to show the venue pinned on the google map on the event page.
 
 <br>
 
@@ -156,7 +156,7 @@ Upload event poster, thumbnail, and images. Please upload the mentioned size of 
 <a name="SEO"></a>
 ## SEO
 
-Write meta titles, keywords, and descriptions. These tags will be specific for each event, for event specific SEO.
+Write meta titles, keywords, and descriptions. These tags will be specific for each event, for event-specific SEO.
 
 **Form Fields**
 
@@ -183,7 +183,7 @@ Final step-
 
 ---
 
->{primary} You can also create new Tags directly from Powered By Tab. We'll guide you about this in Tags section.
+>{primary} You can also create new Tags directly from Powered By Tab. We'll guide you about this in the Tags section.
 
 ---
 

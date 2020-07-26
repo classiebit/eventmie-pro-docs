@@ -8,7 +8,7 @@ A user needs to be registered & signed-in to book a ticket (purchase tickets).
 
 ---
 
->{success} After login, the user will be redirected back to Event checkout page, if in case, the user has tried to checkout before login.
+>{success} After login, the user will be redirected back to the Event checkout page if in case, the user has tried to checkout before login.
 
 ---
 
@@ -25,7 +25,7 @@ A user needs to be registered & signed-in to book a ticket (purchase tickets).
 
 
 - [Customer: Booking Tickets](#customer-booking-tickets)
-- [Organizer: Booking Tickets](#organizer-booking-tickets)
+- [Organizer: Booking Tickets <small class="v">v1.4</small>](#organizer-booking-tickets)
 - [Admin: Booking Tickets](#admin-booking-tickets)
 - [Payment Option: Free](#payment-option-free)
 - [Payment Option: Offline](#payment-option-offline)
@@ -46,7 +46,7 @@ Customers can book tickets within few clicks.
 
 
 <a name="organizer-booking-tickets"></a>
-## Organizer: Booking Tickets
+## Organizer: Booking Tickets <small class="v">v1.4</small>
 
 An organizer can book tickets for customers, only of **THEIR OWN** events. 
 
@@ -72,7 +72,7 @@ For an Organizer, to book a ticket for a customer-
 <a name="admin-booking-tickets"></a>
 ## Admin: Booking Tickets
 
-Admin can book tickets for customers of **ALL** events. Admin also need to enter the `Customer Email`.
+Admin can book tickets for customers of **ALL** events. Admin also needs to enter the `Customer Email`.
 
 ---
 
@@ -155,7 +155,7 @@ As there are having different types of `Payment Options`, the `Is Paid` status v
 
 <br>
 
-After receiving the payment in case of `Offline Payment`, Admin or Organizer can update the `Is Paid` status to `Yes`.
+After receiving the payment in case of `Offline Payment`, Admin, or Organizer can update the `Is Paid` status to `Yes`.
 
 ---
 
