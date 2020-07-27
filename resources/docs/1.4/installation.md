@@ -29,7 +29,7 @@ You can install Eventmie Pro on a **Fresh** or **Existing** Laravel application.
 ---
 
 * Laravel version 6.x / 7.x
-* Setup database
+* Laravel Authentication must be installed.
 
 
 <a name="server-requirements"></a> 
@@ -82,24 +82,7 @@ Before you start. Make sure your server meets at least the below requirements. *
 <a name="install-via-composer"></a>
 ## Install via Composer
 
----
-
->{primary} If you already have/installed Laravel Authentication, skip step 1.
-
----
-
-1. Setup Laravel Authentication
-
-    ```php
-    composer require laravel/ui
-
-    php artisan ui bootstrap --auth
-
-    php artisan migrate
-    ```
-
-
-2.  Unzip `eventmie-pro.zip` file, copy `eventmie-pro` folder and place it in your Laravel application root directory.
+1.  Unzip `eventmie-pro.zip` file, copy `eventmie-pro` folder and place it in your Laravel application root directory.
 
     ---
 
@@ -112,7 +95,7 @@ Before you start. Make sure your server meets at least the below requirements. *
     ---
     
 
-3. Open your Laravel application `composer.json` file and paste the below code in the end (right before last curly `}` bracket)
+2. Open your Laravel application `composer.json` file and paste the below code in the end (right before last curly `}` bracket)
 
     ```json
     "repositories": [{
@@ -121,21 +104,25 @@ Before you start. Make sure your server meets at least the below requirements. *
     }]
     ```
 
-4. Install Eventmie Pro via Composer
+3. Install Eventmie Pro via Composer
 
     ```php
     composer require classiebit/eventmie-pro
     ```
 
-5. Run Eventmie Pro install command
+4. Run Eventmie Pro install command
 
     ```php
     php artisan eventmie-pro:install
     ```
 
-6. While installation, it will ask you for the license code. Enter the license code to complete the installation process.
+5. While installation, it will ask you for the license code. Enter the license code to complete the installation process.
+
+    ---
 
     >{primary} Remember, one license code is valid for one domain only. Read license agreement here - **[Classiebit Licenses](https://classiebit.com/license)** 👈.
+
+    ---
 
 
 <a name="install-via-web-installer"></a>
