@@ -8,28 +8,12 @@ Eventmie Pro can be installed via composer. Bruhhh... 💪
 
 ---
 
-- [Prerequisites](#prerequisites)
 - [Server Requirements](#server-requirements)
 - [Download Eventmie-pro](#download-eventmie-pro)
 - [Install via Composer](#install-via-composer)
 - [Install via Web-Installer](#install-via-web-installer)
 - [Purchased From Codecanyon](#purchased-from-codecanyon)
 - [Installation Errors](#installation-errors)
-
-
-<a name="prerequisites"></a> 
-## Prerequisites
-
-You can install Eventmie Pro on a **Fresh** or **Existing** Laravel application. 
-
----
-
-> {primary} Laravel installation guide **[Laravel Installation](https://laravel.com/docs/)** 👈
-
----
-
-* Laravel version 6.x / 7.x
-* Laravel Authentication must be installed.
 
 
 <a name="server-requirements"></a> 
@@ -81,6 +65,25 @@ Before you start. Make sure your server meets at least the below requirements. *
 
 <a name="install-via-composer"></a>
 ## Install via Composer
+
+### Prerequisites
+
+* Laravel version 6.x / 7.x
+* Laravel Authentication must be installed.
+
+---
+
+>{success} You can install Eventmie Pro on a **Fresh** or **Existing** Laravel application. 
+
+---
+
+> {primary} Laravel installation guide **[Laravel Installation](https://laravel.com/docs/)** 👈
+
+---
+
+
+### Start Eventmie Pro installation
+
 
 1.  Unzip `eventmie-pro.zip` file, copy `eventmie-pro` folder and place it in your Laravel application root directory.
 
