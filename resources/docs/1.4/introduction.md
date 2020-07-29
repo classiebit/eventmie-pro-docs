@@ -20,7 +20,7 @@ We've organized the docs in perfect sequential order, so that, if you read from 
 
 ---
 
-> {primary.fa-youtube} Here's a video tutorial to install it via web-installer **[Eventmie Pro Academy](https://classiebit.com/academy/eventmie-pro/eventmie-pro-installation-with-installer)** 👈
+> {primary.fa-youtube} **New** <small class="v">v1.4</small> **(added more videos)** Here's a complete video tutorial guide for getting started quickly **[Eventmie Pro Academy](https://classiebit.com/academy/eventmie-pro/eventmie-pro-installation-with-installer)** 👈
 
 ---
 
