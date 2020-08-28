@@ -37,7 +37,7 @@ Eventmie Pro makes the payout transfer system as smooth as cheese 🧀. Follow t
 
 ---
 
-![Set commision from admin panel](http://eventmie-pro-docs.test/images/commissions-setting.jpg "Set commision from admin panel")
+![Set commision from admin panel](https://eventmie-pro-docs.classiebit.com/images/commissions-setting.jpg "Set commision from admin panel")
 
 ---
 
@@ -63,7 +63,7 @@ After setting the `Admin Commission`. Eventmie Pro will start recording commissi
 
     ---
 
-    ![Admin & Organizer Booking Commission](http://eventmie-pro-docs.test/images/commissions.jpg "Admin & Organizer Booking Commission")
+    ![Admin & Organizer Booking Commission](https://eventmie-pro-docs.classiebit.com/images/commissions.jpg "Admin & Organizer Booking Commission")
 
     ---
 
@@ -75,7 +75,7 @@ After setting the `Admin Commission`. Eventmie Pro will start recording commissi
 
     ---
 
-    ![Commission processing](http://eventmie-pro-docs.test/images/commissions-manage.jpg "Commission processing")
+    ![Commission processing](https://eventmie-pro-docs.classiebit.com/images/commissions-manage.jpg "Commission processing")
 
     ---
 
@@ -122,7 +122,7 @@ The organizer can add their bank account details from their profile page on the 
 
 ---
 
-![Organizer bank details](http://eventmie-pro-docs.test/images/commissions-organizer-bank-details.jpg "Organizer bank details")
+![Organizer bank details](https://eventmie-pro-docs.classiebit.com/images/commissions-organizer-bank-details.jpg "Organizer bank details")
 
 ---
 
@@ -130,7 +130,7 @@ Admin can find these details on `Admin Panel -> Users -> View`, for transferring
 
 ---
 
-![Admin Panel bank details](http://eventmie-pro-docs.test/images/commissions-bank-details.jpg "Admin Panel bank details")
+![Admin Panel bank details](https://eventmie-pro-docs.classiebit.com/images/commissions-bank-details.jpg "Admin Panel bank details")
 
 ---
 

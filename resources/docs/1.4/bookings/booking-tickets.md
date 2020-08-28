@@ -19,7 +19,7 @@ A user needs to be registered & signed-in to book a ticket (purchase tickets).
 
 ---
 
-![new-checkout-ui-design](http://eventmie-pro-docs.test/images/bookings-checkout.jpg "new-checkout-ui-design")
+![new-checkout-ui-design](https://eventmie-pro-docs.classiebit.com/images/bookings-checkout.jpg "new-checkout-ui-design")
 
 ---
 
@@ -119,7 +119,7 @@ Offline (Cash on Arrival). This option means you can make a paid booking without
 
 ---
 
-![bookings-offline-mode-on-off](http://eventmie-pro-docs.test/images/bookings-offline-mode-on-off.jpg "bookings-offline-mode-on-off")
+![bookings-offline-mode-on-off](https://eventmie-pro-docs.classiebit.com/images/bookings-offline-mode-on-off.jpg "bookings-offline-mode-on-off")
 
 ---
 

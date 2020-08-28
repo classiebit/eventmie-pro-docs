@@ -12,7 +12,7 @@
 
 ---
 
-![email-notification](http://eventmie-pro-docs.test/images/email-notifications.jpg "email-notification")
+![email-notification](https://eventmie-pro-docs.classiebit.com/images/email-notifications.jpg "email-notification")
 
 ---
 
@@ -37,7 +37,7 @@ The customer receives notifications on-
 
 ---
 
-![email-notifications-cancellation-organizer](http://eventmie-pro-docs.test/images/email-notifications-cancellation-organizer.jpg "email-notifications-cancellation-organizer")
+![email-notifications-cancellation-organizer](https://eventmie-pro-docs.classiebit.com/images/email-notifications-cancellation-organizer.jpg "email-notifications-cancellation-organizer")
 
 ---
 
@@ -53,7 +53,7 @@ Organizer receives notifications on-
 
 ---
 
-![email-notifications-new-event](http://eventmie-pro-docs.test/images/email-notifications-new-event.jpg "email-notifications-new-event")
+![email-notifications-new-event](https://eventmie-pro-docs.classiebit.com/images/email-notifications-new-event.jpg "email-notifications-new-event")
 
 ---
 
@@ -78,6 +78,6 @@ Email notifications are sent in multiple languages. The emails will be translate
 
 ---
 
-![email-notifications-multi-lingual](http://eventmie-pro-docs.test/images/email-notifications-multi-lingual.jpg "email-notifications-multi-lingual")
+![email-notifications-multi-lingual](https://eventmie-pro-docs.classiebit.com/images/email-notifications-multi-lingual.jpg "email-notifications-multi-lingual")
 
 ---

@@ -23,7 +23,7 @@ Customers can see all of their bookings on the `My Bookings` page. To visit, cli
 
 ---
 
-![manage-bookings-customer](http://eventmie-pro-docs.test/images/manage-bookings-customer.jpg "manage-bookings-customer")
+![manage-bookings-customer](https://eventmie-pro-docs.classiebit.com/images/manage-bookings-customer.jpg "manage-bookings-customer")
 
 ---
 
@@ -41,7 +41,7 @@ Admins can see all event's bookings on the `Admin Panel -> Bookings` page. To vi
 
 ---
 
-![manage-bookings-admin](http://eventmie-pro-docs.test/images/manage-bookings-admin.jpg "manage-bookings-admin")
+![manage-bookings-admin](https://eventmie-pro-docs.classiebit.com/images/manage-bookings-admin.jpg "manage-bookings-admin")
 
 ---
 
@@ -59,7 +59,7 @@ Organizers can see all of their event's bookings on the `Manage Bookings` page. 
 
 ---
 
-![manage-bookings-organizer](http://eventmie-pro-docs.test/images/manage-bookings-organizer.jpg "manage-bookings-organizer")
+![manage-bookings-organizer](https://eventmie-pro-docs.classiebit.com/images/manage-bookings-organizer.jpg "manage-bookings-organizer")
 
 ---
 
@@ -81,6 +81,6 @@ Organizers can see all of their event's earnings on the `Manage Earnings` page. 
 
 ---
 
-![manage-bookings-organizer-earnings](http://eventmie-pro-docs.test/images/manage-bookings-organizer-earnings.jpg "manage-bookings-organizer-earnings")
+![manage-bookings-organizer-earnings](https://eventmie-pro-docs.classiebit.com/images/manage-bookings-organizer-earnings.jpg "manage-bookings-organizer-earnings")
 
 ---

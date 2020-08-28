@@ -13,7 +13,7 @@ A quick view of the topmost selling event with the total number of bookings.
 
 ---
 
-![TOP 10 SELLING EVENTS Chart](http://eventmie-pro-docs.test/images/dashboard-top-selling.jpg "TOP 10 SELLING EVENTS Chart")
+![TOP 10 SELLING EVENTS Chart](https://eventmie-pro-docs.classiebit.com/images/dashboard-top-selling.jpg "TOP 10 SELLING EVENTS Chart")
 
 ---
 
@@ -25,7 +25,7 @@ Overall sales reports of all the events with organizer earnings, admin commissio
 
 ---
 
-![EVENT SALES REPORT Table with Event Filter](http://eventmie-pro-docs.test/images/dashboard-sales-report.jpg "EVENT SALES REPORT Table with Event Filter")
+![EVENT SALES REPORT Table with Event Filter](https://eventmie-pro-docs.classiebit.com/images/dashboard-sales-report.jpg "EVENT SALES REPORT Table with Event Filter")
 
 ---
 

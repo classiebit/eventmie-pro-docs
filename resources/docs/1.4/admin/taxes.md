@@ -24,7 +24,7 @@ Let's first start by adding a new Tax, so that you can know all the options you 
 
 ---
 
-![Add new tax](http://eventmie-pro-docs.test/images/admin-add-new-tax.jpg "Add new tax")
+![Add new tax](https://eventmie-pro-docs.classiebit.com/images/admin-add-new-tax.jpg "Add new tax")
 
 ---
 

@@ -39,7 +39,7 @@ Once you complete the initial steps for creating an event, proceed to the `Locat
 
     ---
 
-    ![Enter online location](http://eventmie-pro-docs.test/images/events-online-create.jpg "Enter online location")
+    ![Enter online location](https://eventmie-pro-docs.classiebit.com/images/events-online-create.jpg "Enter online location")
 
     ---
 
@@ -47,7 +47,7 @@ Once you complete the initial steps for creating an event, proceed to the `Locat
 
     ---
 
-    ![Customer bookings page](http://eventmie-pro-docs.test/images/events-online-customer-bookings.jpg "Customer bookings page")
+    ![Customer bookings page](https://eventmie-pro-docs.classiebit.com/images/events-online-customer-bookings.jpg "Customer bookings page")
 
     ---
 
@@ -55,7 +55,7 @@ Once you complete the initial steps for creating an event, proceed to the `Locat
 
     ---
 
-    ![Customer bookings page view](http://eventmie-pro-docs.test/images/events-online-customer-bookings-view.jpg "Customer bookings page view")
+    ![Customer bookings page view](https://eventmie-pro-docs.classiebit.com/images/events-online-customer-bookings-view.jpg "Customer bookings page view")
 
     ---
 

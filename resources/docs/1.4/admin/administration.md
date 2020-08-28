@@ -20,7 +20,7 @@ Manage all the Event's Bookings from the `Admin Panel`.
 
 ---
 
-![Tags](http://eventmie-pro-docs.test/images/administration-tags.jpg "Tags")
+![Tags](https://eventmie-pro-docs.classiebit.com/images/administration-tags.jpg "Tags")
 
 ---
 
@@ -37,7 +37,7 @@ Tags can be Sponsors, speakers, hosts, guests, VIPs, or anything you want. You c
 
 ---
 
-![events](http://eventmie-pro-docs.test/images/administration-events.jpg "events")
+![events](https://eventmie-pro-docs.classiebit.com/images/administration-events.jpg "events")
 
 ---
 
@@ -58,11 +58,11 @@ All the Organiser's Events can be managed from the Admin Panel.
 
 ---
 
-![bookings](http://eventmie-pro-docs.test/images/administration-bookings.jpg "bookings")
+![bookings](https://eventmie-pro-docs.classiebit.com/images/administration-bookings.jpg "bookings")
 
 ---
 
-![bookings-edit](http://eventmie-pro-docs.test/images/administration-bookings-edit.jpg "bookings-edit")
+![bookings-edit](https://eventmie-pro-docs.classiebit.com/images/administration-bookings-edit.jpg "bookings-edit")
 
 ---
 
@@ -91,7 +91,7 @@ So that Admin, Organizer, and Customer can only do what they are supposed to do.
 
 ---
 
-![users](http://eventmie-pro-docs.test/images/administration-users.jpg "users")
+![users](https://eventmie-pro-docs.classiebit.com/images/administration-users.jpg "users")
 
 ---
 
