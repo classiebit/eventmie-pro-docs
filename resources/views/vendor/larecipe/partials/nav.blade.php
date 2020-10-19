@@ -28,7 +28,7 @@
             @endif
 
             <larecipe-button tag="a" href="https://classiebit.com/eventmie-pro" target="__blank" type="success" class="mx-2 px-4">
-                <i class="fas fa-shopping-cart"></i> Purchase Pro $59 <span style="text-decoration: line-through;color: #f00;">$109</span>
+                <i class="fas fa-shopping-cart"></i> Purchase Pro $69 <span style="text-decoration: line-through;color: #f00;">$109</span>
             </larecipe-button>
 
             {{-- versions dropdown --}}
