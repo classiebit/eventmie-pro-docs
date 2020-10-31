@@ -3,7 +3,7 @@
     - [1.2 Installation <small class="v">v1.4</small>](/{{route}}/{{version}}/installation)
     - [1.3 Configuration <small class="v">v1.4</small>](/{{route}}/{{version}}/configuration)
     - [1.4 Upgrade <small class="v">v1.4</small>](/{{route}}/{{version}}/upgrade)
-    - [1.5 What's New <small class="v">v1.4</small>](/{{route}}/{{version}}/changelog/changes)
+    - [1.5 What's New <small class="v">v1.5</small>](/{{route}}/{{version}}/changelog/changes)
 
 - ## 2. Admin Panel
     - [2.1 Settings](/{{route}}/{{version}}/admin/settings)
