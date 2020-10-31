@@ -81,6 +81,8 @@ v1.5.0 is a major release. It includes a lot of new & most requested features, i
 
 18. Upgrade to Laravel 8.x. Now, Eventmie Pro is compatible with Laravel 6.x, 7.x & 8.x.<br>
 
+19. Blogs improved. <br>
+
 
 ### Bugs Resolved
 
