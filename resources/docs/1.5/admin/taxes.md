@@ -10,7 +10,7 @@ Add & manage taxes that are going to be used by Organisers to apply them on thei
 
 - [Add New Tax](#add-new-tax)
 - [About Taxes](#about-taxes)
-- [Admin Taxes <small class="v">v1.4</small>](#admin-taxes)
+- [Admin Taxes](#admin-taxes)
 
 
 <a name="add-new-tax"></a>
@@ -44,7 +44,7 @@ Let's first start by adding a new Tax, so that you can know all the options you 
     * Enabled - Enable tax
     * Disabled - Disable tax
 
-- Admin Tax <small class="v">v1.4</small>
+- Admin Tax
     * No - Selectable by organisers on their event's tickets.
     * Yes - Non-selectable by organizers, while, applicable on all tickets by default.
 
@@ -55,11 +55,11 @@ Let's first start by adding a new Tax, so that you can know all the options you 
 1. Only Admin can add new taxes from Admin Panel.
 2. Admin can disable/enable a tax, the disabled tax won't be applicable on the tickets during checkout nor it'll be selectable from Event setup form.
 3. From the front-end, organizers can ONLY SELECT the taxes for tickets, created by Admin.
-4. Organizers can select multiple taxes on each ticket. <small class="v">v1.4</small>
+4. Organizers can select multiple taxes on each ticket.
 
 
 <a name="admin-taxes"></a>
-## Admin Taxes  <small class="v">v1.4</small>
+## Admin Taxes
 
 When Admin sets a tax as `Admin Tax`, it becomes `Admin Tax`. Let's see the powers of it.
 

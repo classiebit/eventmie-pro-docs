@@ -4,7 +4,7 @@ Eventmie Pro can be installed via composer. Bruhhh... 💪
 
 ---
 
-> {primary.fa-youtube} **New** <small class="v">v1.4</small> **(added more videos)** Here's a complete video tutorial guide for getting started quickly **[Eventmie Pro Academy](https://classiebit.com/academy/eventmie-pro/eventmie-pro-installation-with-installer)** 👈
+> {primary.fa-youtube} Here's a complete video tutorial guide for getting started quickly **[Eventmie Pro Academy](https://classiebit.com/academy/eventmie-pro/eventmie-pro-installation-with-installer)** 👈
 
 ---
 
@@ -68,7 +68,7 @@ Before you start. Make sure your server meets at least the below requirements. *
 
 ### Prerequisites
 
-* Laravel version 6.x / 7.x
+* Laravel version 6.x / 7.x / 8.x
 * Laravel Authentication must be installed.
 
 ---

@@ -12,7 +12,7 @@ The organizer can manage only own their events from the front end, while Admin c
 
 ---
 
-- [Export Attendees <small class="v">v1.4</small>](#Export-Attendees)
+- [Export Attendees](#Export-Attendees)
 - [Manage Tags](#manage-tags)
 - [Create Tag](#create-tag)
 - [Share Event](#share-event)
@@ -20,17 +20,13 @@ The organizer can manage only own their events from the front end, while Admin c
 
 
 <a name="Export-Attendees"></a>
-## Export Attendees <small class="v">v1.4</small>
+## Export Attendees
 
 Organizers can export their event's attendees list to a `CSV` file, with full booking & customer details.
 
 <br>
 
 Simply click on <larecipe-button type="black" size="sm" rounded>Export Attendees</larecipe-button> button on the Manage Events page.
-
----
-
->{primary} In `v1.4` <larecipe-button type="black" size="sm" rounded>Export Attendees</larecipe-button> button has been move from `Event setup form -> Powered By` tab to `Manage Events` page.
 
 ---
 

@@ -1,4 +1,4 @@
-# Email Notifications <small class="v">v1.4</small>
+# Email Notifications
 
 **Admin**, **Organizer**, and **Customer**, all of them receive notifications separately. 
 
@@ -16,7 +16,7 @@
 
 ---
 
->{primary} In `v1.4`, we've improved the email templates design and added more details into it.
+>{primary} In `v1.5`, we've added email language variables in lang files, so that you can easily modify the email template language.
 
 ---
 

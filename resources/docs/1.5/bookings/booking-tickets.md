@@ -25,7 +25,7 @@ A user needs to be registered & signed-in to book a ticket (purchase tickets).
 
 
 - [Customer: Booking Tickets](#customer-booking-tickets)
-- [Organizer: Booking Tickets <small class="v">v1.4</small>](#organizer-booking-tickets)
+- [Organizer: Booking Tickets](#organizer-booking-tickets)
 - [Admin: Booking Tickets](#admin-booking-tickets)
 - [Payment Option: Free](#payment-option-free)
 - [Payment Option: Offline](#payment-option-offline)
@@ -46,7 +46,7 @@ Customers can book tickets within few clicks.
 
 
 <a name="organizer-booking-tickets"></a>
-## Organizer: Booking Tickets <small class="v">v1.4</small>
+## Organizer: Booking Tickets
 
 An organizer can book tickets for customers, only of **THEIR OWN** events. 
 
@@ -55,7 +55,7 @@ An organizer can book tickets for customers, only of **THEIR OWN** events.
 
 ---
 
->{primary} In `v1.4`, we've made the `Customers- Private` for Organizers. Organizers can't see all the customers as in previous versions.
+>{primary} The `Customers` are  `Private` for Organizers. Organizers can't see all the customers, instead, they can only enter the customer's full email address to book tickets for them..
 
 ---
 
@@ -143,7 +143,7 @@ Online Payment via payment gateways. Eventmie Pro comes with an integrated `PayP
 <a name="paid-unpaid-booking"></a>
 ## Paid or UnPaid Booking
 
-In `v1.4`, we've added a new Booking Status called `Is Paid` - `Yes` or `No`. It shows, whether the booking amount has been paid by the customer or not.
+Added a new & very important `Booking Status` called `Is Paid` - `Yes` or `No`. It shows, whether the booking amount has been paid by the customer or not.
 
 <br>
 

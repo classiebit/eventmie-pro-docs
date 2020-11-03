@@ -1,4 +1,4 @@
-# Ticket Scanner <small class="v">v1.4</small>
+# Ticket Scanner
 
 Eventmie Pro comes with an integrated ticket scanner. Organizers & Admin can scan the event attendees tickets at event entrances directly from the website, using any mobile device or laptop with a web-camera.
 
@@ -8,7 +8,7 @@ The ticket scanner scans QrCode on the ticket, verify if the ticket is valid, an
 
 ---
 
->{primary} In `v1.4`, we've improved the Ticket PDF design & Ticket scanner performance. It scans tickets within a Blink. 😎
+>{primary} The Ticket PDF design & Ticket scanner performance has been improved. It scans tickets blazing fast. 😎
 
 ---
 
@@ -18,8 +18,8 @@ The ticket scanner scans QrCode on the ticket, verify if the ticket is valid, an
 
 
 - [Prerequisites](#Prerequisites)
-- [Ticket PDF](#ticket-pdf)
-- [Scan & Check-in](#scan-check-in)
+- [Ticket PDF <small class="v">v1.5</small>](#ticket-pdf)
+- [Scan & Check-in <small class="v">v1.5</small>](#scan-check-in)
 
 
 
@@ -44,7 +44,7 @@ Ticket scanner requires the below things to work-
 
 
 <a name="ticket-pdf"></a>
-## Ticket PDF
+## Ticket PDF <small class="v">v1.5</small>
 
 Before proceeding to the Ticket scanner, let's see the Ticket PDF. Eventmie Pro generates tickets in PDF format with a unique QrCode in each.
 
@@ -56,18 +56,21 @@ Before proceeding to the Ticket scanner, let's see the Ticket PDF. Eventmie Pro 
 
 ---
 
-![ticket-pdf](https://eventmie-pro-docs.classiebit.com/images/ticket-pdf.jpg "ticket-pdf")
+![ticket-pdf](https://eventmie-pro-docs.classiebit.com/images/ticket-scan-new-ticket-design.jpg "ticket-pdf")
 
 ---
 
 
 <a name="scan-check-in"></a>
-## Scan & Check-in
+## Scan & Check-in <small class="v">v1.5</small>
 
 The scanning & Check-in process very smooth. 🍺 
 
 - Organizers can Scan & Check-in in only their own event's tickets.
 - Admin can Scan & Check-in in all events tickets.
+- Multi-ticket scans, if in case, a ticket has 3 Attendees (3 Qty), then you can scan the ticket up to 3 times (Max Scan = Qty)
+- The Total Scans / Total Quantity will appear on Customer Bookings, Organizer Bookings & Admin Dashboard pages. 
+- If the Booking Status = Disabled or if the Booking Is Paid = No, then that ticket won't be scanned & Checked-in.
 
 ---
 

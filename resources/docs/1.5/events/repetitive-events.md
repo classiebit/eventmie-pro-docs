@@ -20,6 +20,7 @@ In Eventmie Pro, you can create daily, weekly & monthly repetitive events and cl
 - [Repetitive Type: Weekly](#repetitive-type-weekly)
 - [Repetitive Type: Monthly](#repetitive-type-monthly)
 - [Monthly/Weekly Payment](#monthly-weekly-payment)
+- [Timeslots Availability <small class="v">v1.5</small>](#timeslots-availability)
 
 
 <a name="create-repetitive-event"></a>
@@ -220,5 +221,29 @@ Let's get started. Check the `Monthly or Weekly Payment` checkbox, e.g for `Repe
 ---
 
 ![Monthly Repetitive Schedules  Monthly Payment View](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-merge-schedule-view.jpg "Monthly Repetitive Schedules  Monthly Payment View")
+
+---
+
+
+<a name="create-repetitive-event"></a>
+## Timeslots Availability <small class="v">v1.5</small>
+
+Check available timeslots for repetitive event schedules on the go. You can now see if a timeslot is fully booked or not for any specific date before clicking on the Checkout button.
+
+1. In the Event Schedules, if all the tickets have been booked for a specific timeslot/date, then it'll show that timeslot as **Out Of Stock**.
+
+---
+
+![Live Timeslots Availability Check](https://eventmie-pro-docs.classiebit.com/images/repetitive-events-availability.jpg "Live Timeslots Availability Check")
+
+---
+
+2. On the Checkout Popup, it'll show **Vacant Seats** for every ticket, only if the **Total Available Ticket Quantity** of the ticket is less than **Max Ticket Qty Limit Per Order** (Admin Panel -> Settings -> Booking Tab -> Max Ticket Qty Limit Per Order).
+
+In this way, it won't disclose all the Quantity of the ticket and only show the vacant seats in case of fewer availability.
+
+---
+
+![Live Timeslots Availability Vacant Seats Per Ticket](https://eventmie-pro-docs.classiebit.com/images/repetitive-events-vacant.jpg "Live Timeslots Availability Vacant Seats Per Ticket")
 
 ---

@@ -83,7 +83,7 @@ Create tickets for the event.
 
 - Tickets can be `Free` or `Paid`. 
 - Taxes can be applied to each ticket separately.
-- Multiple taxes can also be applied to each ticket. <small class="v">v1.4</small>
+- Multiple taxes can also be applied to each ticket.
 
 <br>
 

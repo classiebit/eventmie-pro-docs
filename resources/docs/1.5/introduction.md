@@ -1,10 +1,10 @@
 # Introduction
 
-Welcome to Eventmie Pro documentation for version 1.4. Simply read this documentation from start to end, without skipping a single page. And you'll become master in it, just in an hour or less.
+Welcome to Eventmie Pro documentation for version 1.5. Simply read this documentation from start to end, without skipping a single page. And you'll become master in it, just in an hour or less.
 
 <br>
 
-We've improved the docs for v1.4 to make it easier to read and understand. We've also added proper steps along with live screenshots so that you can follow it along very easily.
+We've improved the docs to make it easier to read and understand. We've also added proper steps along with live screenshots so that you can follow it along very easily.
 
 <br>
 
@@ -20,7 +20,7 @@ We've organized the docs in perfect sequential order, so that, if you read from 
 
 ---
 
-> {primary.fa-youtube} **New** <small class="v">v1.4</small> **(added more videos)** Here's a complete video tutorial guide for getting started quickly **[Eventmie Pro Academy](https://classiebit.com/academy/eventmie-pro/eventmie-pro-installation-with-installer)** 👈
+> {primary.fa-youtube} Here's a complete video tutorial guide for getting started quickly **[Eventmie Pro Academy](https://classiebit.com/academy/eventmie-pro/eventmie-pro-installation-with-installer)** 👈
 
 ---
 

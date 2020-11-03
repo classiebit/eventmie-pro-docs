@@ -1,8 +1,8 @@
-# Upgrade from v1.3.x to v1.4.x
+# Upgrade from v1.4.x to v1.5.x
 
 ---
 
->{danger} You must be on v1.3.x to upgrade to v1.4.x. Please DO NOT directly upgrade to v1.4.x from v1.2.x.
+>{danger} You must be on v1.4.x to upgrade to v1.5.x. Please DO NOT directly upgrade to v1.5.x older than v1.4.x.
 
 ---
 
@@ -20,10 +20,9 @@
 <a name="prerequisites"></a> 
 ## Prerequisites
 
-To upgrade to v1.4.x-
+To upgrade to v1.5.x-
 
-1. You must be on v1.3.x.
-2. If you're running Laravel 5.8, you must first upgrade to Laravel 6.x or 7.x. [Laravel Upgrade Guide](https://laravel.com/docs/7.x/upgrade)
+1. You must be on v1.4.x.
 3. Download the latest version from [Classiebit.com - Downloads page](https://classiebit.com/downloads)
 
 ---
@@ -36,7 +35,7 @@ To upgrade to v1.4.x-
 <a name="Steps-to-upgrade"></a> 
 ## Steps to upgrade
 
-* Extract the `eventmie-pro-v1.4.x.zip` file and then extract package file `eventmie-pro.zip`.
+* Extract the `eventmie-pro-v1.5.x.zip` file and then extract package file `eventmie-pro.zip`.
 * Copy the `eventmie-pro` folder and go to your website directory.
 * Delete the current `eventmie-pro` folder & replace it by the new one.
 * Then run the composer update command
@@ -67,7 +66,7 @@ To upgrade to v1.4.x-
 
 ---
 
-Few changes have been made to the Eventmie Pro config file in `v1.4`. The below command will update your base app `config/eventmie.php` file with the latest one.
+Few changes have been made to the Eventmie Pro config file in `v1.5`. The below command will update your base app `config/eventmie.php` file with the latest one.
 
 ```php
 php artisan vendor:publish --tag=eventmie-pro-config --force
@@ -97,7 +96,7 @@ php artisan vendor:publish --tag=eventmie-pro-lang --force
 
 ---
 
-In `v1.4`, we've made the Admin Panel multi-lingual as well. Run the below command to copy the Admin Panel language files to your base app.
+In `v1.5`, we've improved the Admin Panel translations as well. Run the below command to copy the Admin Panel language files to your base app.
 
 ```php
 php artisan vendor:publish --tag=eventmie-pro-voyager-lang --force

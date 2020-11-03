@@ -1,4 +1,4 @@
-# Manage Bookings <small class="v">v1.4</small>
+# Manage Bookings
 
 Managing the bookings is a breeze. Customers, Organizers, and Admin, all of them have separate `Bookings` pages, where they can see all of their existing event ticket bookings.
 
