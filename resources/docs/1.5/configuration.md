@@ -127,9 +127,27 @@ The default language is English `en`. You can change it to any other. Make sure 
 
 4. Go to the language directory `resources/lang/vendor/voyager`.
 5. Duplicate the `en` directory and rename it to `<new_language_shortname>`. 
+
+    - Suppose you wanna add `Romanian` language. Simply duplicate `en` folder and rename duplicated folder to `ro`.
+
+        ```bash
+        resources
+            │
+            ├── lang
+                ├── vendor
+                    ├── voyager
+                        ├── en
+                        └── ro
+        ```
+
 6. Translate all the variable's **VALUES** (right-side only) inside the new language folder's `*all` files.
 
-    
+---
+
+>{success} Tip! You can find the **voyager** translations into your language here- **[Voyager Translations](https://github.com/the-control-group/voyager/tree/1.4/publishable/lang)**
+
+---
+
 
 
 7. Add the language short name to the `config/eventmie.php` `locales` list.
