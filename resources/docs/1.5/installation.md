@@ -34,7 +34,6 @@ Before you start. Make sure your server meets at least the below requirements. *
 - JSON PHP Extension
 - fileinfo PHP Extension
 - Mbstring PHP Extension
-- Mcrypt PHP Extension
 - OpenSSL PHP Extension
 - PDO PHP Extension
 - Tokenizer PHP Extension
