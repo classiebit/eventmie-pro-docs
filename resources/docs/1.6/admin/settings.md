@@ -1,6 +1,6 @@
 # Settings
 
-Let's first start by setting up Eventmie Pro global settings. We're starting from Admin Panel, so that we can set some initial data before moving on to front-end.
+Let's first start by setting up Eventmie Pro global settings. We're starting from Admin Panel, so that we can set some initial data before moving on to the front-end.
 
 ---
 
@@ -15,15 +15,15 @@ Let's first start by setting up Eventmie Pro global settings. We're starting fro
 - [SEO](#SEO)
 - [Social](#Social)
 - [Contact](#Contact)
-- [Booking](#Booking)
-- [Multi-Vendor](#Multi-Vendor)
+- [Booking <small class="v">v1.6</small>](#Booking)
+- [Multi-Vendor <small class="v">v1.6</small>](#Multi-Vendor)
 - [Admin](#Admin)
 - [Apps](#Apps)
 - [Payment Methods](#payment-methods)
 - [PayPal](#paypal)
 - [Offline Payment](#offline-payment)
 - [Mail](#Mail)
-- [Regional](#Regional)
+- [Regional <small class="v">v1.6</small>](#Regional)
 
 <a name="Site"></a>
 ## Site
@@ -89,7 +89,7 @@ Contact details
 
 
 <a name="Booking"></a>
-## Booking
+## Booking <small class="v">v1.6</small>
 
 Bookings & Events global settings.
 
@@ -102,6 +102,9 @@ Bookings & Events global settings.
 |Max Ticket Qty Limit Per Order|`number`|Set Max ticket quantity limit to be purchased in a single order. WARNING: keep it under 100|
 |Allow Offline Payment For Organizer|`enable/disable`|Enable/Disable offline payment method for Organizers|
 |Allow Offline Payment For Customer|`enable/disable`|Enable/Disable offline payment method for Customers|
+|Disable Booking Cancellation <small class="v">v1.6</small>|`enable/disable`|Enable/Disable booking cancellation option for Customers|
+|Disable Ticket Download <small class="v">v1.6</small>|`enable/disable`|Enable/Disable download ticket option for Customers|
+|Disable Google Calendar <small class="v">v1.6</small>|`enable/disable`|Enable/Disable Google Calendar option for Customers|
 
 ---
 
@@ -110,7 +113,7 @@ Bookings & Events global settings.
 ---
 
 <a name="Multi-Vendor"></a>
-## Multi-Vendor
+## Multi-Vendor <small class="v">v1.6</small>
 
 Switch between Multi-vendor mode
 
@@ -120,7 +123,13 @@ Switch between Multi-vendor mode
 |Admin Commission|`number`|set your commission in (%) percentage. (must be positive value)|
 |Verify Email Before Login|`enable/disable`|If enabled, users will need to verify email after signup|
 |Publish Event After Admin Approval|`enable/disable`|If enabled, the event will go live only after Admin approval|
+|Manually Approve Organizer <small class="v">v1.6</small>|`enable/disable`|If enabled, the Customer can Become Organizer only after Admin approval|
 
+---
+
+> {info} Read more about Organizer Manual Approval Process here **[Organiser Manual Approval](https://eventmie-pro-docs.classiebit.com/docs/1.6/admin/organiser-approval)** 👈
+
+---
 
 
 <a name="Admin"></a>
@@ -169,7 +178,7 @@ Eventmie Pro comes with **PayPal** express checkout system and **Offline Payment
 
 ---
 
->{success} In case of Free tickets, users can book tickets directly without going through the payment gateway.
+>{success} In the case of Free tickets, users can book tickets directly without going through the payment gateway.
 
 ---
 
@@ -201,7 +210,7 @@ To get started with PayPal, simply-
 <a name="offline-payment"></a>
 ## Offline Payment
 
-Offline payment means, booking a premium ticket without making online payment. By default, the offline payment method is disabled. You need to enable it first. To get started with Offline Payment, simply-
+Offline payment means, booking a premium ticket without making an online payment. By default, the offline payment method is disabled. You need to enable it first. To get started with Offline Payment, simply-
 
 1. Go to `Admin Panel -> Settings -> Bookings Tab`.
 2. Turn on `Allow Offline Payment For Organizer` & `Allow Offline Payment For Customer`.
@@ -239,28 +248,30 @@ Mail sending configurations
 
 
 <a name="Regional"></a>
-## Regional
+## Regional <small class="v">v1.6</small>
 
 Region-specific configurations.
 
 
 |Setting Name|Type|Description|
 |:-|:-|
-|Timezone|`list`|Choose your region specific timezone|
-|Currency|`list`|Choose your default currency|
+|Timezone|`list`|Choose your region-specific timezone|
+|Currency|`string`|Enter your default currency|
+|Date Format <small class="v">v1.6</small>|`list`|Choose your default date format|
+|Time Format <small class="v">v1.6</small>|`list`|Choose your default time format|
 
 
 <br>
 
 #### Auto Timezone Conversion from Server-side to Client-side & vice versa.
 
-- Suppose the default timezone is `America/Los_Angeles` and a customer visiting the website from `India/Kolkata`, then the customer will see the date & time according to `India/Kolkata` timezone.
+- Suppose the default timezone is `America/Los_Angeles` and a customer visiting the website from `India/Kolkata`, then the customer will see the date & time according to `India/Kolkata` timezone by keeping `America/Los_Angeles` (default selected Timezone) as the central timezone of the website.
 
-    ---
+---
 
-    > {success} Eventmie Pro detects visitor's timezone and does all the conversions behind the scenes.
+> {success} Eventmie Pro detects visitor's timezone and makes server-side to client-side DateTime conversions behind the scenes.
 
-    ---
+---
 
 
 

@@ -14,6 +14,7 @@ Eventmie Pro can be installed via composer. Bruhhh... 💪
 - [Install via Web-Installer](#install-via-web-installer)
 - [Purchased From Codecanyon](#purchased-from-codecanyon)
 - [Installation Errors](#installation-errors)
+- [Signup Error](#signup-error)
 
 
 <a name="server-requirements"></a> 
@@ -207,3 +208,18 @@ If you've purchased Eventmie Pro from Codecanyon `codecanyon.net` then follow th
     ```php
     'strict'    => false,
     ```
+
+
+
+<a name="signup-error"></a>
+## Signup Error
+
+After installation, make sure to add Mail server SMTP credentials on Admin Panel.
+
+- Simply visit Admin Panel
+- Click on Settings -> Mail tab
+- And enter mail server credentials.
+
+<br>
+
+After that, you won't get a signup error.

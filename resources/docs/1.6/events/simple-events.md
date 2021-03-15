@@ -18,11 +18,11 @@ In Eventmie Pro, you can create a single & multiple days event. Each event belon
 
 
 - [Create Simple Event](#create-simple-event)
-- [Details](#Details)
+- [Details <small class="v">v1.6</small>](#Details)
 - [Timing](#Timing)
 - [Tickets](#Tickets)
 - [Location](#Location)
-- [Media](#Media)
+- [Media <small class="v">v1.6</small>](#Media)
 - [SEO](#SEO)
 - [Powered By](#powered-by)
 
@@ -34,19 +34,20 @@ Simple event here refers to single or multiple days event. Click on <larecipe-bu
 
 
 <a name="Details"></a>
-## Details
+## Details <small class="v">v1.6</small>
 
 The first step is mandatory to proceed to the next step. Add these details to proceed to the next steps-
 
 - Category
 - Event name
+- Event excerpt
 - Event URL (auto-generated)
 - Description
 - More Info (optional)
 
 ---
 
-![Event Detail Form](https://eventmie-pro-docs.classiebit.com/images/events-simple-event-detail.jpg "Event Detail Form")
+![Event Detail Form](https://eventmie-pro-docs.classiebit.com/images/events-simple-event-detail-new.jpg.jpg "Event Detail Form")
 
 ---
 
@@ -132,7 +133,7 @@ Event location details. You need to enter `Google map Lat-long` manually to show
 
 
 <a name="Media"></a>
-## Media
+## Media <small class="v">v1.6</small>
 
 Upload event poster, thumbnail, and images. Please upload the mentioned size of images. You can also crop and adjust them.
 
@@ -147,7 +148,11 @@ Upload event poster, thumbnail, and images. Please upload the mentioned size of 
 
 ---
 
-![Upload Event cover images & youtube video URL](https://eventmie-pro-docs.classiebit.com/images/events-simple-event-media.jpg "Upload Event cover images & youtube video URL")
+>{success} Now you can manage Gallery images easily by adding or removing them one-by-one.
+
+---
+
+![Upload Event cover images & youtube video URL](https://eventmie-pro-docs.classiebit.com/images/events-manage-gallery-images.jpg "Upload Event cover images & youtube video URL")
 
 ---
 

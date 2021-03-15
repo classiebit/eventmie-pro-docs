@@ -1,12 +1,14 @@
 # Manage Bookings
 
-Managing the bookings is a breeze. Customers, Organizers, and Admin, all of them have separate `Bookings` pages, where they can see all of their existing event ticket bookings.
+Managing the bookings is a breeze. Customers, Organizers, and Admin, all have separate `Bookings` pages, where they can see all of their existing event ticket bookings.
 
 
 - [Customer's: Bookings](#customer-bookings)
 - [Admin's: Bookings](#admin-bookings)
 - [Organizer's: Bookings](#organizer-bookings)
 - [Organizer's: Earnings](#organizer-earnings)
+- [Organizer's: Dashboard <small class="v">v1.6</small>](#organizer-dashboard)
+- [Google Calendar <small class="v">v1.6</small>](#google-calendar)
 
 
 <a name="customer-bookings"></a>
@@ -31,7 +33,7 @@ Customers can see all of their bookings on the `My Bookings` page. To visit, cli
 <a name="admin-bookings"></a>
 ## Admin's: Bookings
 
-Admins can see all event's bookings on the `Admin Panel -> Bookings` page. To visit, click on `Bookings` on the Admin Panel. On the `Bookings` page, Admin can- 
+Admins can see all event bookings on the `Admin Panel -> Bookings` page. To visit, click on `Bookings` on the Admin Panel. On the `Bookings` page, Admin can- 
 
 - See all their Events booked tickets.
 - Check booking & payment status.
@@ -49,7 +51,7 @@ Admins can see all event's bookings on the `Admin Panel -> Bookings` page. To vi
 <a name="organizer-bookings"></a>
 ## Organizer's: Bookings
 
-Organizers can see all of their event's bookings on the `Manage Bookings` page. To visit, click on `Manage Bookings` on the header, account's dropdown. On the `Manage Bookings` page, Organizers can- 
+Organizers can see all of their event bookings on the `Manage Bookings` page. To visit, click on `Manage Bookings` on the header, account's dropdown. On the `Manage Bookings` page, Organizers can- 
 
 - See all their Events booked tickets.
 - Check booking & payment status.
@@ -82,5 +84,32 @@ Organizers can see all of their event's earnings on the `Manage Earnings` page. 
 ---
 
 ![manage-bookings-organizer-earnings](https://eventmie-pro-docs.classiebit.com/images/manage-bookings-organizer-earnings.jpg "manage-bookings-organizer-earnings")
+
+---
+
+
+
+<a name="organizer-dashboard"></a>
+## Organizer's: Dashboard <small class="v">v1.6</small>
+
+A new Organizer Dashboard to take a quick overview of their events activities.
+
+---
+
+![organizer-dashboard-front-end](https://eventmie-pro-docs.classiebit.com/images/organizer-dashboard-front-end.jpg "organizer-dashboard-front-end")
+
+---
+
+
+
+<a name="google-calendar"></a>
+## Google Calendar <small class="v">v1.6</small>
+
+Customers can add Events to their Google Calendar from the **My Bookings** page after purchasing tickets.
+
+
+---
+
+![google-calendar](https://eventmie-pro-docs.classiebit.com/images/google-calendar.jpg "google-calendar")
 
 ---

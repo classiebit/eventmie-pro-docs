@@ -5,7 +5,7 @@ Add & manage site content like categories, home page banners, pages e.g about us
 ---
 
 - [Categories](#categories)
-- [Banners](#banners)
+- [Banners <small class="v">v1.6</small>](#banners)
 - [Pages](#pages)
 - [Blog Posts](#Blog-Posts)
 - [Media Manager](#Media-Manager)
@@ -18,7 +18,7 @@ Only Admin can add and manage categories from the Admin Panel. While Organisers 
 
 ---
 
->{primary} Disabling a category disables/hide all the events that belong to the category. 
+>{primary} Disabling a category disables/hides all the events that belong to the category. 
 
 ---
 
@@ -28,13 +28,16 @@ Only Admin can add and manage categories from the Admin Panel. While Organisers 
 
 
 <a name="Banners"></a>
-## Banners
+## Banners <small class="v">v1.6</small>
 
-Add & manage home page banners.
+Add & manage home page banners. 
+
+- Add Custom Button with URL on the banners.
+- Control the order of banners by adding Order No. in the **Order input box**.
 
 ---
 
-![Banners](https://eventmie-pro-docs.classiebit.com/images/content-banners.jpg "Banners")
+![Banners](https://eventmie-pro-docs.classiebit.com/images/admin-banner-options.jpg "Banners")
 
 ---
 

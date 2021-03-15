@@ -1,75 +1,80 @@
-# What's New <small>changelog</small> v1.5.x
+# What's New <small>changelog</small> v1.6.x
 
-- [v1.5.0 (4-Nov-2020)](#v1.5.0)
-
----
-
->{danger} You must be on v1.4.x to upgrade to v1.5.x. Please DO NOT directly upgrade to v1.5.x older than v1.4.x.
+- [v1.6.0 (15-Mar-2021)](#v1.6.0)
 
 ---
 
-<a name="v1.5.0"></a> 
-## v1.5.0 <small>Released on 4-Nov-2020</small>
+>{danger} You must be on v1.5.x to upgrade to v1.6.x. Please DO NOT directly upgrade to v1.6.x older than v1.5.x.
 
-v1.5.0 is a major release. It includes a lot of new & most requested features, improvements, optimizations, and bug fixes.
+---
+
+<a name="v1.6.0"></a> 
+## v1.6.0 <small>Released on 15-Mar-2021</small>
+
+v1.6.0 is a major release. It includes a lot of new & most requested features, improvements, optimizations, and bug fixes.
 
 
-### New Features & Improvements
+### New Features
 
-1. Major Integration: New Live Available & Non-Available Timeslots for Event Schedules.<br>
-[eventmie-pro-docs.classiebit.com/docs/1.5/events/repetitive-events#timeslots-availability](https://eventmie-pro-docs.classiebit.com/docs/1.5/events/repetitive-events#timeslots-availability)
+- Dynamic Date & Time Format, admin can change date & time format from Admin Panel -> Settings -> Regional Tab.<br>
+[eventmie-pro-docs.classiebit.com/docs/1.6/admin/settings#Regional](https://eventmie-pro-docs.classiebit.com/docs/1.6/admin/settings#Regional)
 
-2. On the Checkout Popup, it'll show Vacant seats in case the Total Available Ticket Quantity is less than Max Ticket Qty Limit Per Order (Admin Panel -> Settings -> Booking Tab -> Max Ticket Qty Limit Per Order). <br>
-[eventmie-pro-docs.classiebit.com/docs/1.5/events/repetitive-events#timeslots-availability](https://eventmie-pro-docs.classiebit.com/docs/1.5/events/repetitive-events#timeslots-availability)
+- Add Event to Google Calendar option, customers can add their booked events to Google Calendar.<br>
+[eventmie-pro-docs.classiebit.com/docs/1.6/bookings/manage-bookings#google-calendar](https://eventmie-pro-docs.classiebit.com/docs/1.6/bookings/manage-bookings#google-calendar)
 
-3. Major improvements on Admin's Commissions & Organiser's Earnings page. <br>
-[eventmie-pro-docs.classiebit.com/docs/1.5/admin/commissions#commission-calculations](https://eventmie-pro-docs.classiebit.com/docs/1.5/admin/commissions#commission-calculations)
+- Admin Panel New Event Tickets Statistics Table, admin can view overall Tickets sales stats for each event easily. <br>
+[eventmie-pro-docs.classiebit.com/docs/1.6/admin/dashboard#event-tickets-statistics](https://eventmie-pro-docs.classiebit.com/docs/1.6/admin/dashboard#event-tickets-statistics)
 
-4. Added a new Refunds Reports on the Admin Panel -> Commissions page, which will show the Refunded Booking's Organizer Earning amounts that need to be claimed back from the Organizer.<br>
-[eventmie-pro-docs.classiebit.com/docs/1.5/admin/commissions#refunds-settlements](https://eventmie-pro-docs.classiebit.com/docs/1.5/admin/commissions#refunds-settlements)
+- New Tickets filter on Admin Panel -> Dashboard -> Sales Reports and added Sales Reports data sum (Grand Totals) in the **CSV** file export.<br>
+[eventmie-pro-docs.classiebit.com/docs/1.6/admin/dashboard#sales-report](https://eventmie-pro-docs.classiebit.com/docs/1.6/admin/dashboard#sales-report)
 
-5. ZERO Commission - in case you set Admin Commission = 0, then it'll still calculate the Organizer payouts with ZERO commission, and show those payouts on the Admin Commission & Organizer earning page.<br>
-[eventmie-pro-docs.classiebit.com/docs/1.5/admin/commissions#zero-commission](https://eventmie-pro-docs.classiebit.com/docs/1.5/admin/commissions#zero-commission)
+- New Organizer Dashboard, now Organisers can also see their Events tickets sales overview & reports easily from the new dashboard. <br>
+[eventmie-pro-docs.classiebit.com/docs/1.6/bookings/manage-bookings#organizer-dashboard](https://eventmie-pro-docs.classiebit.com/docs/1.6/bookings/manage-bookings#organizer-dashboard)
 
-6. Added Organizer Bank Details button on Admin Panel -> Commission page, which will show Organizer Bank Details.<br>
-[eventmie-pro-docs.classiebit.com/docs/1.5/admin/commissions#organiser-bank-details](https://eventmie-pro-docs.classiebit.com/docs/1.5/admin/commissions#organiser-bank-details)
+- Enable/Disable Manually Approve Become Organiser process, Admin can now manually approve the Organiser profile.<br>
+[eventmie-pro-docs.classiebit.com/docs/1.6/admin/organiser-approval](https://eventmie-pro-docs.classiebit.com/docs/1.6/admin/organiser-approval)
 
-7. Added Search Event Bar on the Home page.<br>
+- Added settings at Admin Panel -> Settings -> Bookings tab to Enable/Disable Booking Cancellation, Ticket Download & Google Calendar options for customers. <br>
+[eventmie-pro-docs.classiebit.com/docs/1.6/admin/settings#Booking](https://eventmie-pro-docs.classiebit.com/docs/1.6/admin/settings#Booking)
 
-8. Added Top Cities that have the highest number of Events, on the Home page.<br>
+- Add/Remove Gallery images one-by-one.<br>
+[eventmie-pro-docs.classiebit.com/docs/1.6/events/simple-events#Media](https://eventmie-pro-docs.classiebit.com/docs/1.6/events/simple-events#Media)
 
-9. Multi-ticket scans, if in case, a ticket has 3 Attendees (3 Qty), then you can scan the ticket up to 3 times (Max Scan = Qty)<br>
-[eventmie-pro-docs.classiebit.com/docs/1.5/bookings/ticket-scanner#scan-check-in](https://eventmie-pro-docs.classiebit.com/docs/1.5/bookings/ticket-scanner#scan-check-in)
+- Added Menu Builder on Admin Panel for additional header & footer menu items on front-end with new pages and external links.<br>
+[eventmie-pro-docs.classiebit.com/docs/1.6/admin/menu-builder](https://eventmie-pro-docs.classiebit.com/docs/1.6/admin/menu-builder)
 
-10. New Improved & Minimalist Ticket PDF design.<br>
-[eventmie-pro-docs.classiebit.com/docs/1.5/bookings/ticket-scanner#ticket-pdf](https://eventmie-pro-docs.classiebit.com/docs/1.5/bookings/ticket-scanner#ticket-pdf)
+- Option to Add custom URL Buttons on the Homepage Banner and control the Order of banners.<br>
+[eventmie-pro-docs.classiebit.com/docs/1.6/admin/site-content#banners](https://eventmie-pro-docs.classiebit.com/docs/1.6/admin/site-content#banners)
 
-11. PayPal payment gateway upgraded to PayPal v2 API. <br>
+- New Event excerpt (short-info) field for better SEO and understanding about events on the Event Listing page.<br>
+[eventmie-pro-docs.classiebit.com/docs/1.6/events/simple-events#Details](https://eventmie-pro-docs.classiebit.com/docs/1.6/events/simple-events#Details)
 
-12. Translated Event Schedules and added Multi-lingual everywhere i.e Calendars, Event dates & time, repetitive schedules, ticket PDF, email, and more. <br>
 
-13. Improved translation on all pages.
+### Improvements
 
-14. Added Export Attendees on Admin Panel -> Events page.
+- Added Categories menu in the header.
+- Added Event gallery images opener/slideshow on the Event page.
+- Language selector dropdown moved to Footer to free up header space.
+- Spam prevention on Signup & Contact up form.
+- On the Event Setup form, show **Unsaved Changes** alert only if there are any changes.
+- On the Event Setup form, added required Tabs completion icons to know why the event is not publishing.
+- On the Organiser's Manage Events page, added the Event Publish status column to show if the event is published or not.
+- Signup option on Checkout popup for guests.
+- Improved Front-end data tables mobile responsive design for all pages.
+- Upgraded all Composer, Javascript & VueJs packages to the latest version. Update Laravel Mix to `v6.0` for better front-end performance.
 
-15. Added missing data like Checked-in, Cancellations, Booking status, etc columns in Export Attendees CSV file.
-
-16. Removed Daily, Weekly & Monthly Repetitive schedules limitations like minimum tomorrow or future dates. 
-
-17. Replaced Admin Panel -> Settings -> Regional -> Currency Dropdown by Input field, so that you can add any currency Shortcode.
-
-18. Upgrade to Laravel 8.x. Now, Eventmie Pro is compatible with Laravel 6.x, 7.x & 8.x.<br>
-
-19. Blogs improved. <br>
 
 
 ### Bugs Resolved
 
-1. On Event Setup Form -> Powered By Tab -> Tag dropdown was not showing fewer tags, Resolved.
-2. Added padding (spacing) in between Gallery images on the Event Detail page.
-3. OAuth error, Facebook & Google login error that was arising due to Laravel Trustproxies, Resolved.
-4. Set Email Verified = True, in case, registered via Facebook or Google.
-5. Event Setup Form -> Detail tab update button was showing a Red Cross alert, Resolved.
-6. Event was expiring one day before due to different timezones, Resolved. Now, the event will appear as "Expired" after one day of Event End Date.
-7. Translated page breadcrumbs (navigations).
-
+- Show Organizer required alert on Event Setup form -> Details tab.
+- Resolved date format issues & used one global date & time format.
+- Don't include expired events in Explore Best Cities section.
+- Show email verified notification.
+- Free up tickets for other customers after booking cancellation.
+- Hide Admin tax from Organiser Earnings page.
+- Hide profile pic upload option except for Admin on Admin Panel.
+- Removed colorful border from event categories images on the homepage for better color branding.
+- Header logo resize issue on scrolling.
+- On Event setup form -> Location tab, show Venue as required.
+- On the Browse Events page, show only countries that have events in the Countries filter.
