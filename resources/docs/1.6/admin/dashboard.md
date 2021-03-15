@@ -45,7 +45,7 @@ Overall sales reports of all the events with organizer earnings, admin commissio
 
 ---
 
-![admin-event-ticket-stats](https://eventmie-pro-docs.classiebit.com/images/dashboard-sales-report.jpg "admin-event-ticket-stats")
+![admin-event-ticket-stats](https://eventmie-pro-docs.classiebit.com/images/admin-event-ticket-stats.jpg "admin-event-ticket-stats")
 
 ---
 
