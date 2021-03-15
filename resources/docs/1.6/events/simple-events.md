@@ -47,7 +47,7 @@ The first step is mandatory to proceed to the next step. Add these details to pr
 
 ---
 
-![Event Detail Form](https://eventmie-pro-docs.classiebit.com/images/events-simple-event-detail-new.jpg.jpg "Event Detail Form")
+![Event Detail Form](https://eventmie-pro-docs.classiebit.com/images/events-simple-event-detail-new.jpg "Event Detail Form")
 
 ---
 
