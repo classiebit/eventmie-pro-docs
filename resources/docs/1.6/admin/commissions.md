@@ -21,14 +21,14 @@ Eventmie Pro makes the payout transfer system as smooth as cheese 🧀. Follow t
 
 - [Set Commission](#set-commission)
 - [Commission Processing & Payouts](#commission-processing-payouts)
-- [Commission Calculations <small class="v">v1.5</small>](#commission-calculations)
-- [Refunds Settlements <small class="v">v1.5</small>](#refunds-settlements)
-- [Organiser Bank Details <small class="v">v1.5</small>](#organiser-bank-details)
+- [Commission Calculations](#commission-calculations)
+- [Refunds Settlements](#refunds-settlements)
+- [Organiser Bank Details](#organiser-bank-details)
 - [Cancelled Booking](#cancelled-booking)
 - [Multi-Vendor On](#multi-vendor-on)
 - [Become Organiser](#become-organiser)
 - [Multi-Vendor Off](#multi-vendor-off)
-- [ZERO Commission <small class="v">v1.5</small>](#zero-commission)
+- [ZERO Commission](#zero-commission)
 
 
 
@@ -87,7 +87,7 @@ After setting the `Admin Commission`. Eventmie Pro will start recording commissi
 
 
 <a name="commission-calculations"></a>
-## Commission Calculations <small class="v">v1.5</small>
+## Commission Calculations
 
 This is how, the Admin Commission and Organizer earnings are calculated behind the scenes. Let us explain from an example.
 
@@ -117,7 +117,6 @@ This is how, the Admin Commission and Organizer earnings are calculated behind t
 
 ---
 
-### Some Major Improvements in v1.5
 
 1. In case of **Online Payment** the **Is Paid** is set to **Yes**, while in case of Offline/Direct payment, Organizer or Admin needs to update the **Is Paid** status to **Yes**. The bookings will appear in Commissions only after the **Is Paid = Yes**. 
 
@@ -129,7 +128,7 @@ This is how, the Admin Commission and Organizer earnings are calculated behind t
 
 
 <a name="refunds-settlements"></a>
-## Refunds Settlements <small class="v">v1.5</small>
+## Refunds Settlements
 
 In case of booking cancellations & refunds regarding the Organizer payouts, that has already been transferred, then the refunded amount will come into **Refund Settlement** that needs to be claimed back from the Organiser.
 
@@ -143,7 +142,7 @@ In case of booking cancellations & refunds regarding the Organizer payouts, that
 
 
 <a name="organiser-bank-details"></a>
-## Organiser Bank Details <small class="v">v1.5</small>
+## Organiser Bank Details
 
 The organizer can add their bank account details from their profile page on the front-end.
 
@@ -244,7 +243,7 @@ Admin can create a separate `User` from the admin panel and assign the `User` th
 
 
 <a name="zero-commission"></a>
-## ZERO Commission <small class="v">v1.5</small>
+## ZERO Commission
 
 When you set the Admin Commission to ZERO, it calculates the Organizer payouts with ZERO commission and shows all the payouts on the **Admin Panel -> Commissions** page.
 

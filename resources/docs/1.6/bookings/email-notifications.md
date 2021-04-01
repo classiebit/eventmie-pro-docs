@@ -16,10 +16,6 @@
 
 ---
 
->{primary} In `v1.5`, we've added email language variables in lang files, so that you can easily modify the email template language.
-
----
-
 
 - [Customer Notifications](#customer-notifications)
 - [Organizer Notifications](#organizer-notifications)

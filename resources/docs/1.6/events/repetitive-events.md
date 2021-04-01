@@ -20,7 +20,7 @@ In Eventmie Pro, you can create daily, weekly & monthly repetitive events and cl
 - [Repetitive Type: Weekly](#repetitive-type-weekly)
 - [Repetitive Type: Monthly](#repetitive-type-monthly)
 - [Monthly/Weekly Payment](#monthly-weekly-payment)
-- [Timeslots Availability <small class="v">v1.5</small>](#timeslots-availability)
+- [Timeslots Availability](#timeslots-availability)
 
 
 <a name="create-repetitive-event"></a>
@@ -225,8 +225,8 @@ Let's get started. Check the `Monthly or Weekly Payment` checkbox, e.g for `Repe
 ---
 
 
-<a name="create-repetitive-event"></a>
-## Timeslots Availability <small class="v">v1.5</small>
+<a name="timeslots-availability"></a>
+## Timeslots Availability
 
 Check available timeslots for repetitive event schedules on the go. You can now see if a timeslot is fully booked or not for any specific date before clicking on the Checkout button.
 
