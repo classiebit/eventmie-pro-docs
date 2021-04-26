@@ -220,6 +220,14 @@ After installation, make sure to add Mail server SMTP credentials on Admin Panel
 - Click on Settings -> Mail tab
 - And enter mail server credentials.
 
+
+---
+
+>{warning} Before adding SMTP credentials, test them here- [smtper.net](https://www.smtper.net)
+
+---
+
+
 <br>
 
 After that, you won't get a signup error.
