@@ -206,6 +206,97 @@ To get started with PayPal, simply-
 4. Then, first, keep the `PayPal Production Mode` disabled, and make a test booking.
 5. If test booking successful, enable the production mode to start receiving real payments.
 
+<br>
+
+---
+
+#### Follow these steps to setup PayPal client ID and Secret.
+
+<br>
+
+1. Setup PayPal Sandbox for Test payment-
+
+    - Login into your PayPal account and visit [PayPal Developer Dashboard](https://developer.paypal.com/developer/accountStatus/)
+    
+    - Click on **Sandbox** and then click on **Create App**
+
+    ---
+
+    ![1-paypal](https://eventmie-pro-docs.classiebit.com/images/1-paypal.png "1-paypal")
+
+    ---
+
+    - Enter the **App Name** e.g **Example Sandbox**, select App Type as **Merchant** and keep the **Sandbox Business Account** as is and click **Create App**.
+
+    ---
+
+    ![2-paypal](https://eventmie-pro-docs.classiebit.com/images/2-paypal.png "2-paypal")
+
+    ---
+
+    - Copy **Client ID & Secret** and go to your event website **Admin Panel → Settings → App** and add those credentials in **PayPal client ID** and **PayPal secret** and keep the **Production Mode Off** as these are sandbox (testing purpose) credentials
+
+    ---
+
+    ![3-paypal](https://eventmie-pro-docs.classiebit.com/images/3-paypal.png "3-paypal")
+
+    ---
+
+    - Last step, copy the **PayPal Callback URL** from **Admin Panel → Settings → App** and go to **PayPal** again, and paste it in the **Return URL** and finally click **Save**
+
+    ---
+
+    ![5-paypal](https://eventmie-pro-docs.classiebit.com/images/5-paypal.png "5-paypal")
+
+    ---
+
+<br>
+
+
+2. Setup PayPal Live (production) for Live payment-
+
+    - Visit- [PayPal Developer Dashboard](https://developer.paypal.com/developer/accountStatus/)
+
+    - This time, select **Live** and click **Create App**
+
+    ---
+
+    ![6-paypal](https://eventmie-pro-docs.classiebit.com/images/6-paypal.png "6-paypal")
+
+    ---
+
+    - Enter the **App Name** e.g Example Live and click **Create app**
+
+    ---
+
+    ![7-paypal](https://eventmie-pro-docs.classiebit.com/images/7-paypal.png "7-paypal")
+
+    ---
+
+    - Enter the same **Callback URL**, and check the **mentioned checkboxes** and click **Save**
+
+    ---
+
+    ![8-paypal](https://eventmie-pro-docs.classiebit.com/images/8-paypal.png "8-paypal")
+
+    ---
+
+    - Now finally, copy the Live App **Client ID & Secret** and go to **Admin → Settings → Apps** and Enter them in the **PayPal Client ID** & **Secret** and this time, turn the **Production Mode On**
+
+    ---
+
+    ![9-paypal](https://eventmie-pro-docs.classiebit.com/images/9-paypal.png "9-paypal")
+
+    ---
+
+    ![10-paypal](https://eventmie-pro-docs.classiebit.com/images/10-paypal.png "10-paypal")
+
+    ---
+
+    - And now, you can test the **live payment** on your website
+
+
+
 
 <a name="offline-payment"></a>
 ## Offline Payment
