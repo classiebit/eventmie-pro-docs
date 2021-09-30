@@ -16,7 +16,7 @@ v1.7.0 is a major release. It includes a lot of new & most requested features, i
 
 ### New Features
 
-- Booking (ticket purchase) Limit Per Customer: limit customer for purchasing a single ticket multiple times.<br>
+- Booking (ticket purchase) Limit Per Customer: limit customers from purchasing a single ticket multiple times.<br>
 [eventmie-pro-docs.classiebit.com/docs/1.7/events/simple-events#Tickets](https://eventmie-pro-docs.classiebit.com/docs/1.7/events/simple-events#Tickets)
 
 - Offline Payment Instructions: add offline payment instructions for customers.<br>
@@ -29,7 +29,7 @@ v1.7.0 is a major release. It includes a lot of new & most requested features, i
 
 - Added Terms of Service Agreement on Checkout popup & Booking Email.<br>
 
-- Added Copy Event URL button on Event page.<br>
+- Added Copy Event URL button on the Event page.<br>
 
 - Redirect back to same Event page after login.<br>
 

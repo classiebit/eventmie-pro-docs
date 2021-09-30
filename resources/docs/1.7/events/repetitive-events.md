@@ -8,7 +8,7 @@ In Eventmie Pro, you can create daily, weekly & monthly repetitive events and cl
 
 ---
 
->{primary} We'll discuss unique steps in creating a Repetitive event, the rest of all is the same as Simple Event.
+>{primary} We'll discuss unique steps in creating a Repetitive event, the rest of all is the same as a Simple Event.
 
 ---
 
@@ -56,7 +56,7 @@ To start creating repetitive schedules, first set a time range, within which, th
 <a name="Repetitive-Schedule"></a>
 ## Repetitive Schedule <small class="v">v1.7</small>
 
-Once you check `Add Repetitive Schedules` checkbox, a new interface shows up.
+Once you check the `Add Repetitive Schedules` checkbox, a new interface shows up.
 
 1. It'll auto-generate Schedules rows according to the `Total Months` between `Start & End date`.
 2. You can modify each Schedule separately.
@@ -92,7 +92,7 @@ The event that repeats every `day` from start to end date.
 
 ---
 
->{primary} It also shows you calculations of each schedule days and time in realtime. 
+>{primary} It also shows you calculations of each schedule days and time in real time. 
 
 ---
 
@@ -104,7 +104,7 @@ The event that repeats every `day` from start to end date.
 
 ---
 
-**And this is how they look like on Event page**
+**And this is how they look like on the Event page**
 
 ---
 
@@ -137,7 +137,7 @@ The event that repeats every `week` from start to end date.
 
 ---
 
-**And this is how they look like on Event page**
+**And this is how they look like on the Event page**
 
 ---
 
@@ -170,7 +170,7 @@ The event that repeats every `month` from start to end date.
 
 ---
 
-**And this is how they look like on Event page**
+**And this is how they look like on the Event page**
 
 ---
 
@@ -190,7 +190,7 @@ To skip a month from Schedules, leave the particular **Schedule** input blank.
 
 ---
 
-**And this is how they look like on Event page**
+**And this is how they look like on the Event page**
 
 ---
 
@@ -209,11 +209,11 @@ To skip a month from Schedules, leave the particular **Schedule** input blank.
 
 ---
 
-In case of repetitive schedules, sometimes you want to get paid on a `Monthly` or `Weekly` basis for all schedules within a `Month or Week`, instead of each day separately. 
+In the case of repetitive schedules, sometimes you want to get paid on a `Monthly` or `Weekly` basis for all schedules within a `Month or Week`, instead of each day separately. 
 
 <br>
 
-This means the customer can attend the event for the whole month or week, by paying a **Full Advance Payment** for a complete month or week schedules. 
+This means the customer can attend the event for the whole month or week, by paying a **Full Advance Payment** for a complete month or week schedule. 
 
 <br>
 
@@ -221,10 +221,10 @@ For this kind of scenario, here's the `Monthly or Weekly Payment` to the rescue.
 
 <br>
 
-Let's get started. Check the `Monthly or Weekly Payment` checkbox, e.g for `Repetitive Type: Monthly` type of event. After that-
+Let's get started. Check the `Monthly or Weekly Payment` checkbox, e.g for the `Repetitive Type: Monthly` type of event. After that-
 
 1. Set the ticket prices for whole month schedules, instead of a single schedule.
-2. When a customer makes the payment, you get a whole month payment instead of a single schedule.
+2. When a customer makes the payment, you get a whole month's payment instead of a single schedule.
 
 
 ---
@@ -237,7 +237,7 @@ Let's get started. Check the `Monthly or Weekly Payment` checkbox, e.g for `Repe
 
 ---
 
-**And this is how they look like on Event page**
+**And this is how they look like on the Event page**
 
 ---
 
@@ -261,7 +261,7 @@ Check available timeslots for repetitive event schedules on the go. You can now 
 
 2. On the Checkout Popup, it'll show **Vacant Seats** for every ticket, only if the **Total Available Ticket Quantity** of the ticket is less than **Max Ticket Qty Limit Per Order** (Admin Panel -> Settings -> Booking Tab -> Max Ticket Qty Limit Per Order).
 
-In this way, it won't disclose all the Quantity of the ticket and only show the vacant seats in case of fewer availability.
+In this way, it won't disclose all the Quantity of the ticket and only show the vacant seats in case of lesser availability.
 
 ---
 

@@ -31,17 +31,17 @@ To update to v1.7.x-
 <a name="update-service"></a> 
 ## Update Service
 
-You can update your website with latest version for free by following the below update guide. 
+You can update your website with the latest version for free by following the below update guide. 
 But, if you want us to update your website with the latest version, we also provide paid `update Service`. 
 
 <br>
 There are two types of update service-
 
-1. Simple Update Service Cost **USD 75**: If there are **NO CODE CUSTOMISATIONS** in your website.
-2. Advanced Update Service Cost **USD 150**: If there are **CODE CUSTOMISATIONS** in your website.
+1. Simple Update Service Cost **USD 75**: If there are **NO CODE CUSTOMISATIONS** on your website.
+2. Advanced Update Service Cost **USD 150**: If there are **CODE CUSTOMISATIONS** on your website.
 
 <br>
-To request paid update service, please send us an email on `info@classiebit.com` and we'll get back to you.
+To request paid update service, please send us an email at `info@classiebit.com` and we'll get back to you.
 
 
 <a name="Steps-to-update"></a> 
@@ -50,9 +50,9 @@ To request paid update service, please send us an email on `info@classiebit.com`
 If can update your website yourself by following the below steps. Please make sure you **DO NOT** miss any step.
 
 
-* Extract the `eventmie-pro-v1.6.x.zip` file and then extract package file `eventmie-pro.zip`.
+* Extract the `eventmie-pro-v1.6.x.zip` file and then extract the package file `eventmie-pro.zip`.
 * Copy the `eventmie-pro` folder and go to your website directory.
-* Delete the current `eventmie-pro` folder & replace it by the new one.
+* Delete the current `eventmie-pro` folder & replace it with the new one.
 * Then run the composer update command
 
     ```php
