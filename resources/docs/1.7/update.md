@@ -1,18 +1,19 @@
-# Upgrade from v1.5.x to v1.6.x
+# Update from v1.6.x to v1.7.x
 
 ---
 
->{danger} You must be on v1.5.x to upgrade to v1.6.x. Please DO NOT directly upgrade to v1.6.x older than v1.5.x.
+>{danger} You must be on v1.6.x to update to v1.7.x. Please DO NOT directly update to v1.7.x older than v1.6.x.
 
 ---
 
->{success} Upgrading will **NEVER MODIFY OR DELETE** your website's existing users' data (file uploads) & database tables data. 
+>{success} Updating will **NEVER MODIFY OR DELETE** your website's existing users' data (file uploads) & database tables data. 
 
 ---
 
 
 - [Prerequisites](#prerequisites)
-- [Steps to upgrade](#Steps-to-upgrade)
+- [Update Service](#update-service)
+- [Steps to update](#Steps-to-update)
 - [Update Config](#update-config)
 - [Update Languages](#update-languages)
 
@@ -20,20 +21,34 @@
 <a name="prerequisites"></a> 
 ## Prerequisites
 
-To upgrade to v1.6.x-
+To update to v1.7.x-
 
-1. You must be on v1.5.x.
+1. You must be on v1.6.x.
 3. Download the latest version from [Classiebit.com - Downloads page](https://classiebit.com/downloads)
 
----
-
->{primary} If you want us to upgrade your website with all the latest versions, we also provide `Upgrade Service`. Simply send us an email on `info@classiebit.com`. 
-
----
 
 
-<a name="Steps-to-upgrade"></a> 
-## Steps to upgrade
+<a name="update-service"></a> 
+## Update Service
+
+You can update your website with latest version for free by following the below update guide. 
+But, if you want us to update your website with the latest version, we also provide paid `update Service`. 
+
+<br>
+There are two types of update service-
+
+1. Simple Update Service Cost **USD 75**: If there are **NO CODE CUSTOMISATIONS** in your website.
+2. Advanced Update Service Cost **USD 150**: If there are **CODE CUSTOMISATIONS** in your website.
+
+<br>
+To request paid update service, please send us an email on `info@classiebit.com` and we'll get back to you.
+
+
+<a name="Steps-to-update"></a> 
+## Steps to update
+
+If can update your website yourself by following the below steps. Please make sure you **DO NOT** miss any step.
+
 
 * Extract the `eventmie-pro-v1.6.x.zip` file and then extract package file `eventmie-pro.zip`.
 * Copy the `eventmie-pro` folder and go to your website directory.

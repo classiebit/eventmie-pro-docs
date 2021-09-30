@@ -209,6 +209,9 @@ If you've purchased Eventmie Pro from Codecanyon `codecanyon.net` then follow th
     'strict'    => false,
     ```
 
+3. You may get `classiebit/eventmie-pro package not found error`, this happens on a very few web-hostings where `symlink` feature is disabled by default. And to resolve the error-
+
+- Delete the `classiebit` folder inside `vendor` folder and run `composer update` command in the Terminal inside the root directory of website.
 
 
 <a name="signup-error"></a>
@@ -219,15 +222,4 @@ After installation, make sure to add Mail server SMTP credentials on Admin Panel
 - Simply visit Admin Panel
 - Click on Settings -> Mail tab
 - And enter mail server credentials.
-
-
----
-
->{warning} Before adding SMTP credentials, test them here- [smtper.net](https://www.smtper.net)
-
----
-
-
-<br>
-
-After that, you won't get a signup error.
+- Make sure to test SMTP credentials here- [smtper.net](https://www.smtper.net) if emails are not delivering.

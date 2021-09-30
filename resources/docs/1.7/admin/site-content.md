@@ -5,7 +5,7 @@ Add & manage site content like categories, home page banners, pages e.g about us
 ---
 
 - [Categories](#categories)
-- [Banners <small class="v">v1.6</small>](#banners)
+- [Banners](#banners)
 - [Pages](#pages)
 - [Blog Posts](#Blog-Posts)
 - [Media Manager](#Media-Manager)
@@ -28,7 +28,7 @@ Only Admin can add and manage categories from the Admin Panel. While Organisers 
 
 
 <a name="Banners"></a>
-## Banners <small class="v">v1.6</small>
+## Banners
 
 Add & manage home page banners. 
 

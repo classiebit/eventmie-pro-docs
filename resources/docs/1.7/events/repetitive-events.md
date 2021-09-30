@@ -19,6 +19,7 @@ In Eventmie Pro, you can create daily, weekly & monthly repetitive events and cl
 - [Repetitive Type: Daily](#repetitive-type-daily)
 - [Repetitive Type: Weekly](#repetitive-type-weekly)
 - [Repetitive Type: Monthly](#repetitive-type-monthly)
+- [Skip Schedule <small class="v">v1.7</small>](#skip-schedule)
 - [Monthly/Weekly Payment](#monthly-weekly-payment)
 - [Timeslots Availability](#timeslots-availability)
 
@@ -53,7 +54,7 @@ To start creating repetitive schedules, first set a time range, within which, th
 
 
 <a name="Repetitive-Schedule"></a>
-## Repetitive Schedule
+## Repetitive Schedule <small class="v">v1.7</small>
 
 Once you check `Add Repetitive Schedules` checkbox, a new interface shows up.
 
@@ -174,6 +175,26 @@ The event that repeats every `month` from start to end date.
 ---
 
 ![Monthly Repetitive Schedules View](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-monthly-view.jpg "Monthly Repetitive Schedules View")
+
+---
+
+
+<a name="skip-schedule"></a>
+## Skip Schedule <small class="v">v1.7</small>
+
+To skip a month from Schedules, leave the particular **Schedule** input blank. 
+
+---
+
+![Skip Repetitive Schedules](https://eventmie-pro-docs.classiebit.com/images/1-skip-schedule.png "Skip Repetitive Schedules")
+
+---
+
+**And this is how they look like on Event page**
+
+---
+
+![Skip Repetitive Schedules View](https://eventmie-pro-docs.classiebit.com/images/1-skip-schedule-view.png "Skip Repetitive Schedules View")
 
 ---
 

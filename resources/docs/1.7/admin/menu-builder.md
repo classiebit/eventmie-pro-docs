@@ -1,4 +1,4 @@
-# Menu Builder <small class="v">v1.6</small>
+# Menu Builder
 
 Create additional front-end header & footer menu items with new pages & external links.
 

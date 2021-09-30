@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to Eventmie Pro documentation for version 1.6. Simply read this documentation from start to end, without skipping a single page. And you'll become master in it, just in an hour or less.
+Welcome to Eventmie Pro online documentation. Simply read this documentation from start to end, without skipping a single page. And you'll become master in it, just in an hour or less.
 
 <br>
 

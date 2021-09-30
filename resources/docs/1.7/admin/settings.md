@@ -15,15 +15,15 @@ Let's first start by setting up Eventmie Pro global settings. We're starting fro
 - [SEO](#SEO)
 - [Social](#Social)
 - [Contact](#Contact)
-- [Booking <small class="v">v1.6</small>](#Booking)
-- [Multi-Vendor <small class="v">v1.6</small>](#Multi-Vendor)
+- [Booking](#Booking)
+- [Multi-Vendor](#Multi-Vendor)
 - [Admin](#Admin)
 - [Apps](#Apps)
 - [Payment Methods](#payment-methods)
 - [PayPal](#paypal)
 - [Offline Payment](#offline-payment)
 - [Mail](#Mail)
-- [Regional <small class="v">v1.6</small>](#Regional)
+- [Regional](#Regional)
 
 <a name="Site"></a>
 ## Site
@@ -89,7 +89,7 @@ Contact details
 
 
 <a name="Booking"></a>
-## Booking <small class="v">v1.6</small>
+## Booking
 
 Bookings & Events global settings.
 
@@ -102,9 +102,9 @@ Bookings & Events global settings.
 |Max Ticket Qty Limit Per Order|`number`|Set Max ticket quantity limit to be purchased in a single order. WARNING: keep it under 100|
 |Allow Offline Payment For Organizer|`enable/disable`|Enable/Disable offline payment method for Organizers|
 |Allow Offline Payment For Customer|`enable/disable`|Enable/Disable offline payment method for Customers|
-|Disable Booking Cancellation <small class="v">v1.6</small>|`enable/disable`|Enable/Disable booking cancellation option for Customers|
-|Disable Ticket Download <small class="v">v1.6</small>|`enable/disable`|Enable/Disable download ticket option for Customers|
-|Disable Google Calendar <small class="v">v1.6</small>|`enable/disable`|Enable/Disable Google Calendar option for Customers|
+|Disable Booking Cancellation|`enable/disable`|Enable/Disable booking cancellation option for Customers|
+|Disable Ticket Download|`enable/disable`|Enable/Disable download ticket option for Customers|
+|Disable Google Calendar|`enable/disable`|Enable/Disable Google Calendar option for Customers|
 
 ---
 
@@ -113,7 +113,7 @@ Bookings & Events global settings.
 ---
 
 <a name="Multi-Vendor"></a>
-## Multi-Vendor <small class="v">v1.6</small>
+## Multi-Vendor
 
 Switch between Multi-vendor mode
 
@@ -123,11 +123,11 @@ Switch between Multi-vendor mode
 |Admin Commission|`number`|set your commission in (%) percentage. (must be positive value)|
 |Verify Email Before Login|`enable/disable`|If enabled, users will need to verify email after signup|
 |Publish Event After Admin Approval|`enable/disable`|If enabled, the event will go live only after Admin approval|
-|Manually Approve Organizer <small class="v">v1.6</small>|`enable/disable`|If enabled, the Customer can Become Organizer only after Admin approval|
+|Manually Approve Organizer|`enable/disable`|If enabled, the Customer can Become Organizer only after Admin approval|
 
 ---
 
-> {info} Read more about Organizer Manual Approval Process here **[Organiser Manual Approval](https://eventmie-pro-docs.classiebit.com/docs/1.6/admin/organiser-approval)** 👈
+> {info} Read more about Organizer Manual Approval Process here **[Organiser Manual Approval](https://eventmie-pro-docs.classiebit.com/docs/1.7/admin/organiser-approval)** 👈
 
 ---
 
@@ -339,7 +339,7 @@ Mail sending configurations
 
 
 <a name="Regional"></a>
-## Regional <small class="v">v1.6</small>
+## Regional
 
 Region-specific configurations.
 
@@ -348,8 +348,8 @@ Region-specific configurations.
 |:-|:-|
 |Timezone|`list`|Choose your region-specific timezone|
 |Currency|`string`|Enter your default currency|
-|Date Format <small class="v">v1.6</small>|`list`|Choose your default date format|
-|Time Format <small class="v">v1.6</small>|`list`|Choose your default time format|
+|Date Format|`list`|Choose your default date format|
+|Time Format|`list`|Choose your default time format|
 
 
 <br>

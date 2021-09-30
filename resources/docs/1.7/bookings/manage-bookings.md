@@ -7,8 +7,8 @@ Managing the bookings is a breeze. Customers, Organizers, and Admin, all have se
 - [Admin's: Bookings](#admin-bookings)
 - [Organizer's: Bookings](#organizer-bookings)
 - [Organizer's: Earnings](#organizer-earnings)
-- [Organizer's: Dashboard <small class="v">v1.6</small>](#organizer-dashboard)
-- [Google Calendar <small class="v">v1.6</small>](#google-calendar)
+- [Organizer's: Dashboard](#organizer-dashboard)
+- [Google Calendar](#google-calendar)
 
 
 <a name="customer-bookings"></a>
@@ -90,7 +90,7 @@ Organizers can see all of their event's earnings on the `Manage Earnings` page. 
 
 
 <a name="organizer-dashboard"></a>
-## Organizer's: Dashboard <small class="v">v1.6</small>
+## Organizer's: Dashboard
 
 A new Organizer Dashboard to take a quick overview of their events activities.
 
@@ -103,7 +103,7 @@ A new Organizer Dashboard to take a quick overview of their events activities.
 
 
 <a name="google-calendar"></a>
-## Google Calendar <small class="v">v1.6</small>
+## Google Calendar
 
 Customers can add Events to their Google Calendar from the **My Bookings** page after purchasing tickets.
 

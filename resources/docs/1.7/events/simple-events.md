@@ -18,11 +18,11 @@ In Eventmie Pro, you can create a single & multiple days event. Each event belon
 
 
 - [Create Simple Event](#create-simple-event)
-- [Details <small class="v">v1.6</small>](#Details)
+- [Details <small class="v">v1.7</small>](#Details)
 - [Timing](#Timing)
-- [Tickets](#Tickets)
+- [Tickets <small class="v">v1.7</small>](#Tickets)
 - [Location](#Location)
-- [Media <small class="v">v1.6</small>](#Media)
+- [Media](#Media)
 - [SEO](#SEO)
 - [Powered By](#powered-by)
 
@@ -34,16 +34,20 @@ Simple event here refers to single or multiple days event. Click on <larecipe-bu
 
 
 <a name="Details"></a>
-## Details <small class="v">v1.6</small>
+## Details <small class="v">v1.7</small>
 
 The first step is mandatory to proceed to the next step. Add these details to proceed to the next steps-
 
+- Select Organiser (if logged in as Admin)
 - Category
 - Event name
-- Event excerpt
+- Event excerpt (optional)
 - Event URL (auto-generated)
 - Description
-- More Info (optional)
+- Why to attend event? (optional)
+- Event Featured (if logged in as Admin) (set Event as Featured)
+- Event Status (if logged in as Admin) (force Enable/Disable event)
+- Offline Payment Instructions (Instructions to show under **Offline Payment** Option) <small class="v">v1.7</small>
 
 ---
 
@@ -78,7 +82,7 @@ Set timing for single or multiple days event.
 
 
 <a name="Tickets"></a>
-## Tickets
+## Tickets <small class="v">v1.7</small>
 
 Create tickets for the event. 
 
@@ -93,12 +97,13 @@ Create tickets for the event.
 - Title
 - Price (set 0 for Free ticket)
 - Capacity (max bookings each ticket)
+- Booking Limit Per Customer (For how many times the same customer can purchase this ticket) <small class="v">v1.7</small>
 - Description (ticket amenities info) (optional)
 - Taxes (optional)
 
 ---
 
-![Events free & paid tickets with taxes](https://eventmie-pro-docs.classiebit.com/images/events-simple-event-ticket.jpg "Events free & paid tickets with taxes")
+![Events free & paid tickets with taxes](https://eventmie-pro-docs.classiebit.com/images/events-simple-event-ticket-1.7.jpg "Events free & paid tickets with taxes")
 
 ---
 
@@ -133,7 +138,7 @@ Event location details. You need to enter `Google map Lat-long` manually to show
 
 
 <a name="Media"></a>
-## Media <small class="v">v1.6</small>
+## Media
 
 Upload event poster, thumbnail, and images. Please upload the mentioned size of images. You can also crop and adjust them.
 

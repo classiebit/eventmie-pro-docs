@@ -1,8 +1,8 @@
-# Organiser Manual Approval <small class="v">v1.6</small>
+# Organiser Manual Approval
 
 ---
 
-> {info} Enable/Disable Manually Approve Organizer setting from here **[Manually Approve Organizer](https://eventmie-pro-docs.classiebit.com/docs/1.6/admin/settings#Multi-Vendor)** 👈
+> {info} Enable/Disable Manually Approve Organizer setting from here **[Manually Approve Organizer](https://eventmie-pro-docs.classiebit.com/docs/1.7/admin/settings#Multi-Vendor)** 👈
 
 ---
 

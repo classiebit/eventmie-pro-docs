@@ -3,8 +3,8 @@
 The dashboard shows an overview of the overall site data with a statistic chart and table.
 
 - [Top Selling Events](#top-selling-events)
-- [Sales Report <small class="v">v1.6</small>](#sales-report)
-- [Event Tickets Statistics <small class="v">v1.6</small>](#event-tickets-statistics)
+- [Sales Report](#sales-report)
+- [Event Tickets Statistics](#event-tickets-statistics)
 
 
 <a name="top-selling-events"></a>
@@ -20,7 +20,7 @@ A quick view of the topmost selling event with the total number of bookings.
 
 
 <a name="sales-report"></a>
-## Sales Report <small class="v">v1.6</small>
+## Sales Report
 
 Overall sales reports of all the events with organizer earnings, admin commission, payout status, and more. You can also filter sales reports by Events & their tickets.
 
@@ -39,7 +39,7 @@ Admin can also export the Sales Reports **CSV** including filtered data. And we'
 ---
 
 <a name="event-tickets-statistics"></a>
-## Event Tickets Statistics <small class="v">v1.6</small>
+## Event Tickets Statistics
 
 Overall sales reports of all the events with organizer earnings, admin commission, payout status, and more. You can also filter sales reports by Events.
 
