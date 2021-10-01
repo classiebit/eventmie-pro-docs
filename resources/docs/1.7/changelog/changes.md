@@ -1,6 +1,6 @@
 # What's New <small>changelog</small> v1.7.x
 
-- [v1.7.0 (01-Oct-2021)](#v1.7.0)
+- [v1.7.0 (02-Oct-2021)](#v1.7.0)
 
 ---
 
@@ -9,7 +9,7 @@
 ---
 
 <a name="v1.7.0"></a> 
-## v1.7.0 <small>Released on 01-Oct-2021</small>
+## v1.7.0 <small>Released on 02-Oct-2021</small>
 
 v1.7.0 is a major release. It includes a lot of new & most requested features, improvements, optimizations, and bug fixes.
 
