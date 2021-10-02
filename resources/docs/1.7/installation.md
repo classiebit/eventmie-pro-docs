@@ -28,7 +28,7 @@ Before you start. Make sure your server meets at least the below requirements. *
 
 ---
 
-- PHP >= 7.3
+- PHP >= 7.4
 - MySql >= 5.7.7 or MariaDB >= 10.2.2 
 - BCMath PHP Extension
 - Ctype PHP Extension

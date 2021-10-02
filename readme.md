@@ -132,7 +132,7 @@ Simply email us on **info@classiebit.com** for any type of queries. We would lov
 
 
 <a name="changelog-v1.7"></a>
-## Changelog v1.7 (01-Oct-2021)
+## Changelog v1.7 (04-Oct-2021)
 
 
 ---
