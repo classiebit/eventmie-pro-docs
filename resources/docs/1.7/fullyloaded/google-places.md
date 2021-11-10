@@ -1,6 +1,12 @@
 # Google Places Autocomplete & Directions
 
+To search and auto-fill Google Map location for Event venues. And to show the user directions to the Event venue from their current location.
+
+<br>
+
 You can search for events venues or places while creating an event. This automates the process of manually entering the Event venue location and Google map lat-long.
+
+<br>
 
 Then from the Event page, the attendee can get directions to the Event Venue in just one click.
 

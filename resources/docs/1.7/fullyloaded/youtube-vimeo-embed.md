@@ -1,5 +1,9 @@
 # YouTube & Vimeo Player Embed
 
+Add Youtube & Vimeo Public/Private video embed URL/code to let attendees attend virtual events or watch pre-loaded event videos directly from within the website.
+
+<br>
+
 With this, you can enter YouTube/Vimeo private or public video embed code while setting up your online event. And then, you can let your attendee watch it directly from their bookings page, without letting them leave your website.
 
 ---

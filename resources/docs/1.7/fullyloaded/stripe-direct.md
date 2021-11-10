@@ -1,5 +1,9 @@
 # Stripe Direct Payment
 
+Stripe Direct Payment For Split payment option. Organizer receives their event earning and admin receives their commission directly into their bank accounts
+
+<br>
+
 With this, when a customer makes the payment to purchase ticket, the organizer receives their part (Organizer Earning) directly into their Stripe Account and Admin receives their part (Admin Commission + Admin Tax) directly into their Stripe Account.
 
 <br>

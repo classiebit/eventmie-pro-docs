@@ -1,5 +1,7 @@
 # MailChimp
 
+Subscribe event attendees directly to MailChimp account with event tag, so that you can manage to send email to event attendees event-wise.
+
 With this, Organizer can subscribe their event attendees directly to their MailChimp account along with Event tag, to seperate multiple event attendees. And then, Organizer can send promotional emails to their Event attendees.
 
 ---
