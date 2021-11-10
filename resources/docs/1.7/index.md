@@ -28,5 +28,42 @@
     - [4.4 Cancellation & Refund](/{{route}}/{{version}}/bookings/cancellation-refund)
     - [4.5 Ticket Scanner](/{{route}}/{{version}}/bookings/ticket-scanner)
 
+
+- ## 5. Eventmie Pro FullyLoaded
+    - [5.1 Introduction](/{{route}}/{{version}}/fullyloaded/introduction)
+    - [5.2 Installation](/{{route}}/{{version}}/fullyloaded/installation)
+    - [5.3 Configuration](/{{route}}/{{version}}/fullyloaded/configuration)
+    - [5.4 Stripe](/{{route}}/{{version}}/fullyloaded/stripe)
+    - [5.5 Stripe Direct](/{{route}}/{{version}}/fullyloaded/stripe-direct)
+    - [5.6 Authorize.Net](/{{route}}/{{version}}/fullyloaded/authorize.net)
+    - [5.7 Bitpay Crypto](/{{route}}/{{version}}/fullyloaded/bitpay-crypto)
+    - [5.8 Twilio SMS](/{{route}}/{{version}}/fullyloaded/twilio-sms)
+    - [5.9 Youtube/Vimeo Embed](/{{route}}/{{version}}/fullyloaded/youtube-vimeo-embed)
+    - [5.10 MailChimp](/{{route}}/{{version}}/fullyloaded/mailchimp)
+    - [5.10 Google Places](/{{route}}/{{version}}/fullyloaded/google-places)
+    - [5.11 Reserved Seating](/{{route}}/{{version}}/fullyloaded/reserved-seating)
+    - [5.10 PromoCodes](/{{route}}/{{version}}/fullyloaded/promocodes)
+    - [5.10 Private Event](/{{route}}/{{version}}/fullyloaded/private-event)
+    - [5.11 POS & Scanner](/{{route}}/{{version}}/fullyloaded/pos-scanner)
+    - [5.11 Event Manager](/{{route}}/{{version}}/fullyloaded/event-manager)
+    - [5.11 On-Sale Timer](/{{route}}/{{version}}/fullyloaded/onsale-timer)
+    - [5.11 Accept Donation](/{{route}}/{{version}}/fullyloaded/accept-donation)
+    - [5.11 Complimentary <small>Bookings</small>](/{{route}}/{{version}}/fullyloaded/complimentary-bookings)
+    - [5.11 Ticket Invoice](/{{route}}/{{version}}/fullyloaded/ticket-invoice)
+    - [5.11 Email Customisation](/{{route}}/{{version}}/fullyloaded/email-customisation)
+    - [5.11 Rating & Review](/{{route}}/{{version}}/fullyloaded/rating-review)
+    - [5.10 Guest Checkout](/{{route}}/{{version}}/fullyloaded/guest-checkout)
+    - [5.10 Organizer Profile](/{{route}}/{{version}}/fullyloaded/organizer-profile)
+    - [5.11 Attendee Custom <small>Fields</small>](/{{route}}/{{version}}/fullyloaded/attendee-custom-fields)
+    - [5.10 Clone Event](/{{route}}/{{version}}/fullyloaded/clone-event)
+    - [5.10 Event <small>Specific Commission</small>](/{{route}}/{{version}}/fullyloaded/event-specific-commission)
+    - [5.10 Event <small>Specific Currency</small>](/{{route}}/{{version}}/fullyloaded/event-specific-currency)
+    - [5.10 Event Short URL](/{{route}}/{{version}}/fullyloaded/event-short-url)
+    - [5.11 Event Guestlist](/{{route}}/{{version}}/fullyloaded/event-guestlist)
+    - [5.11 Event Force Soldout](/{{route}}/{{version}}/fullyloaded/force-soldout-event)
+    - [5.11 Create Attendee](/{{route}}/{{version}}/fullyloaded/create-attendee)
+
+
+
 - ## Live Preview
     - [Demo Accounts](/{{route}}/{{version}}/demo-accounts)
