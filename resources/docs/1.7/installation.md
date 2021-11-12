@@ -1,6 +1,6 @@
 # Installation
 
-Eventmie Pro can be installed via composer. Bruhhh... 💪
+Eventmie Pro can be installed via composer or via web-installer. Bruhhh... 💪
 
 ---
 
@@ -50,6 +50,7 @@ Before you start. Make sure your server meets at least the below requirements. *
 
 * Download Eventmie-pro from `classiebit.com/downloads`.
 * On the same `classiebit.com/downloads` page, make sure you add a domain name to authorize domain, on which you're going to install Eventmie-pro.
+* If You've purchased Eventmie Pro Enterprise license, then you don't need to add authorize domain, you can install it on unlimited domains.
 * No need for domain authorization for `localhost`.
 * Unzip the Eventmie Pro script that you've downloaded. 
 * You'll find two more ZIP files inside. 
@@ -58,7 +59,7 @@ Before you start. Make sure your server meets at least the below requirements. *
     
 ---
 
->{primary} `eventmie-pro-webinstaller.zip` is a complete Laravel website, simply extra it in your website directory and follow the **Install via Web-installer** guide below.
+>{primary} `eventmie-pro-webinstaller.zip` is a complete Laravel website, simply extract it in your website directory and follow the **Install via Web-installer** guide below.
 
 ---
 
@@ -123,7 +124,7 @@ Before you start. Make sure your server meets at least the below requirements. *
 
     ---
 
-    >{primary} Remember, one license code is valid for one domain only. Read license agreement here - **[Classiebit Licenses](https://classiebit.com/license)** 👈.
+    >{primary} Remember, one license code is valid for one domain only, except Enterprise license. Read license agreement here - **[Classiebit Licenses](https://classiebit.com/license)** 👈.
 
     ---
 
