@@ -16,4 +16,8 @@ They just need to go to their Profile page, and add Seller Info.
 
 ---
 
+![1-invoice-pdf](http://eventmie-pro-docs.test/images/fullyloaded/1-invoice-pdf.png "1-invoice-pdf")
+
+---
+
 You can also customise the invoice design from `resources/views/invoice/invoice.blade.php`.
