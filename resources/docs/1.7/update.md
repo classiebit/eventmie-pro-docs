@@ -38,7 +38,7 @@ But, if you want us to update your website with the latest version, we also prov
 There are two types of update service-
 
 1. Simple Update Service Cost **USD 50**: If there are **NO CODE CUSTOMISATIONS** on your website.
-2. Advanced Update Service Cost **USD 100**: If there are **CODE CUSTOMISATIONS** on your website.
+2. Advanced Update Service Cost **USD 150**: If there are **CODE CUSTOMISATIONS** on your website.
 
 <br>
 To request paid update service, please send us an email at `info@classiebit.com` and we'll get back to you.

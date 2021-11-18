@@ -1,6 +1,6 @@
-# Accept Donation
+# Fundraiser Event
 
-Create free donation tickets to accept any custom amount of donation. The attendee can pay for a ticket price as much as they want to donate.
+Make fundraiser events by creating free donation tickets to accept any custom amount of donation. The attendee can pay for a ticket price as much as they want to donate.
 
 ---
 

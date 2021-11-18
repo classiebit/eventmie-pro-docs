@@ -34,3 +34,23 @@ You can enter both Youtube & Vimeo embed code at the same time or either one of 
 ![vimeo-play](http://eventmie-pro-docs.test/images/fullyloaded/vimeo-play.png "vimeo-play")
 
 ---
+
+<br>
+
+You can also add more YouTube videos as part of event's promos and trailers to show it to visitors on event page.
+
+1. Go to Event Edit Page -> Media Tab -> YouTube Video URL and add multipe YouTube video IDs.
+
+    ---
+
+    ![1-add-more-youtube-video](http://eventmie-pro-docs.test/images/fullyloaded/1-add-more-youtube-video.png "1-add-more-youtube-video")
+
+    ---
+
+2. Then you can see them on Event page.
+
+    ---
+
+    ![2-show-more-youtube-video](http://eventmie-pro-docs.test/images/fullyloaded/2-show-more-youtube-video.png "2-show-more-youtube-video")
+
+    ---

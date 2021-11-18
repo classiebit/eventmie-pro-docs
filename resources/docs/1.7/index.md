@@ -46,7 +46,7 @@
     - [5.14 Private Event](/{{route}}/{{version}}/fullyloaded/private-event)
     - [5.15 POS Scanner <small>Manager</small>](/{{route}}/{{version}}/fullyloaded/pos-scanner-manager)
     - [5.16 On-Sale Timer](/{{route}}/{{version}}/fullyloaded/onsale-timer)
-    - [5.17 Accept Donation](/{{route}}/{{version}}/fullyloaded/accept-donation)
+    - [5.17 Fundraiser Event](/{{route}}/{{version}}/fullyloaded/fundraiser-event)
     - [5.18 Complimentary <small>Bookings</small>](/{{route}}/{{version}}/fullyloaded/complimentary-bookings)
     - [5.19 Ticket Invoice](/{{route}}/{{version}}/fullyloaded/ticket-invoice)
     - [5.20 Email Customisation](/{{route}}/{{version}}/fullyloaded/email-customisation)

@@ -1,7 +1,7 @@
 # Introduction
 
 
-Eventmie Pro FullyLoaded is an advanced custom version of Eventmie Pro. It has a lot of advanced features that can help you more in running your events business.
+Eventmie Pro FullyLoaded is an advanced custom version of Eventmie Pro. It has all the features of Eventmie Pro **plus** a lot of advanced features that can help you more in running your events business.
 
 <br>
 
@@ -13,7 +13,7 @@ Continue reading all the features docs to know more about it.
 
 ---
 
-![eventmie-pro-docs-banner-zoom-googlemeet](https://eventmie-pro-docs.classiebit.com/images/eventmie-pro-docs-banner-zoom-googlemeet.jpg "eventmie-pro-docs-banner-zoom-googlemeet")
+![eventmie-pro-fullyloaded-cover-new](http://eventmie-pro-docs.test/images/fullyloaded/eventmie-pro-fullyloaded-cover-new.jpg "eventmie-pro-fullyloaded-cover-new")
 
 ---
 
