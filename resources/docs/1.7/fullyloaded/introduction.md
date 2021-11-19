@@ -13,7 +13,7 @@ Continue reading all the features docs to know more about it.
 
 ---
 
-![eventmie-pro-fullyloaded-cover-new](http://eventmie-pro-docs.test/images/fullyloaded/eventmie-pro-fullyloaded-cover-new.jpg "eventmie-pro-fullyloaded-cover-new")
+![eventmie-pro-fullyloaded-cover-new](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/eventmie-pro-fullyloaded-cover-new.jpg "eventmie-pro-fullyloaded-cover-new")
 
 ---
 

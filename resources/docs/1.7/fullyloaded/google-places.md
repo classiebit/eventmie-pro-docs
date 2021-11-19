@@ -12,11 +12,11 @@ Then from the Event page, the attendee can get directions to the Event Venue in 
 
 ---
 
-![google-map-places-autocomplete](http://eventmie-pro-docs.test/images/fullyloaded/google-map-places-autocomplete.png "google-map-places-autocomplete")
+![google-map-places-autocomplete](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/google-map-places-autocomplete.png "google-map-places-autocomplete")
 
 ---
 
-![google-map-directions](http://eventmie-pro-docs.test/images/fullyloaded/google-map-directions.png "google-map-directions")
+![google-map-directions](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/google-map-directions.png "google-map-directions")
 
 ---
 
@@ -29,7 +29,7 @@ After login on Google Developer Console, follow below steps-
 
 ---
 
-![google-places-billing](http://eventmie-pro-docs.test/images/fullyloaded/google-places-billing.png "google-places-billing")
+![google-places-billing](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/google-places-billing.png "google-places-billing")
 
 ---
 
@@ -37,7 +37,7 @@ After login on Google Developer Console, follow below steps-
 
 ---
 
-![google-maps-platform](http://eventmie-pro-docs.test/images/fullyloaded/google-maps-platform.png "google-maps-platform")
+![google-maps-platform](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/google-maps-platform.png "google-maps-platform")
 
 ---
 
@@ -45,11 +45,11 @@ After login on Google Developer Console, follow below steps-
 
 ---
 
-![google-places-api](http://eventmie-pro-docs.test/images/fullyloaded/google-places-api.png "google-places-api")
+![google-places-api](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/google-places-api.png "google-places-api")
 
 ---
 
-![google-places-api-enable](http://eventmie-pro-docs.test/images/fullyloaded/google-places-api-enable.png "google-places-api-enable")
+![google-places-api-enable](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/google-places-api-enable.png "google-places-api-enable")
 
 ---
 
@@ -57,15 +57,15 @@ After login on Google Developer Console, follow below steps-
 
 ---
 
-![google-places-creds](http://eventmie-pro-docs.test/images/fullyloaded/google-places-creds.png "google-places-creds")
+![google-places-creds](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/google-places-creds.png "google-places-creds")
 
 ---
 
-![google-places-creds-create](http://eventmie-pro-docs.test/images/fullyloaded/google-places-creds-create.png "google-places-creds-create")
+![google-places-creds-create](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/google-places-creds-create.png "google-places-creds-create")
 
 ---
 
-![google-places-creds-copy](http://eventmie-pro-docs.test/images/fullyloaded/google-places-creds-copy.png "google-places-creds-copy")
+![google-places-creds-copy](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/google-places-creds-copy.png "google-places-creds-copy")
 
 ---
 
@@ -73,6 +73,6 @@ After login on Google Developer Console, follow below steps-
 
 ---
 
-![google-places-autocomplete-setup](http://eventmie-pro-docs.test/images/fullyloaded/google-places-autocomplete-setup.png "google-places-autocomplete-setup")
+![google-places-autocomplete-setup](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/google-places-autocomplete-setup.png "google-places-autocomplete-setup")
 
 ---

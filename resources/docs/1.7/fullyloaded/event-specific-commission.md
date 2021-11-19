@@ -8,6 +8,6 @@ Admin can set it to 0 to make an event admin commission free. And if you leave t
 
 ---
 
-![event-specific-admin-commission](http://eventmie-pro-docs.test/images/fullyloaded/event-specific-admin-commission.png "event-specific-admin-commission")
+![event-specific-admin-commission](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/event-specific-admin-commission.png "event-specific-admin-commission")
 
 ---

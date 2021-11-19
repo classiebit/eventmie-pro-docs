@@ -4,7 +4,7 @@ Let attendees add ratings and reviews to the event, that can be reviewed and app
 
 ---
 
-![4-show-review](http://eventmie-pro-docs.test/images/fullyloaded/4-show-review.png "4-show-review")
+![4-show-review](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/4-show-review.png "4-show-review")
 
 ---
 
@@ -24,7 +24,7 @@ First, you need to enable Rating & Review on the Event.
 
 ---
 
-![1-enable-review](http://eventmie-pro-docs.test/images/fullyloaded/1-enable-review.png "1-enable-review")
+![1-enable-review](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-enable-review.png "1-enable-review")
 
 ---
 
@@ -40,7 +40,7 @@ Only the customer who has purchased atleast on ticket on an event, can add Ratin
 
 ---
 
-![2-add-review](http://eventmie-pro-docs.test/images/fullyloaded/2-add-review.png "2-add-review")
+![2-add-review](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-add-review.png "2-add-review")
 
 ---
 
@@ -56,10 +56,10 @@ By default, the Rating & Review added by customer will remain unpublished. The O
 
 ---
 
-![3-manage-reviews](http://eventmie-pro-docs.test/images/fullyloaded/3-manage-reviews.png "3-manage-reviews")
+![3-manage-reviews](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/3-manage-reviews.png "3-manage-reviews")
 
 ---
 
-![4-show-review](http://eventmie-pro-docs.test/images/fullyloaded/4-show-review.png "4-show-review")
+![4-show-review](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/4-show-review.png "4-show-review")
 
 ---

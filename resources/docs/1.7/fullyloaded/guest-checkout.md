@@ -12,10 +12,10 @@ And later on, they can login with same email after resetting their password usin
 
 ---
 
-![1-guest-checkout](http://eventmie-pro-docs.test/images/fullyloaded/1-guest-checkout.png "1-guest-checkout")
+![1-guest-checkout](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-guest-checkout.png "1-guest-checkout")
 
 ---
 
-![2-guest-checkout](http://eventmie-pro-docs.test/images/fullyloaded/2-guest-checkout.png "2-guest-checkout")
+![2-guest-checkout](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-guest-checkout.png "2-guest-checkout")
 
 ---

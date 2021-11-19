@@ -42,7 +42,7 @@ Admin needs to follow the below steps to enable it-
 
 ---
 
-![stripe-direct-setup](http://eventmie-pro-docs.test/images/fullyloaded/stripe-direct-setup.png "stripe-direct-setup")
+![stripe-direct-setup](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/stripe-direct-setup.png "stripe-direct-setup")
 
 ---
 
@@ -62,15 +62,15 @@ Admin needs to follow the below steps to start receiving payout directly into th
 
 ---
 
-![stripe-direct-organizer-connect](http://eventmie-pro-docs.test/images/fullyloaded/stripe-direct-organizer-connect.png "stripe-direct-organizer-connect")
+![stripe-direct-organizer-connect](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/stripe-direct-organizer-connect.png "stripe-direct-organizer-connect")
 
 ---
 
-![stripe-direct-organizer-connected](http://eventmie-pro-docs.test/images/fullyloaded/stripe-direct-organizer-connected.png "stripe-direct-organizer-connected")
+![stripe-direct-organizer-connected](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/stripe-direct-organizer-connected.png "stripe-direct-organizer-connected")
 
 ---
 
-![stripe-payment](http://eventmie-pro-docs.test/images/fullyloaded/stripe-payment.png "stripe-payment")
+![stripe-payment](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/stripe-payment.png "stripe-payment")
 
 ---
 
@@ -89,7 +89,7 @@ Admin will see the `Transferred` status as `Checked` in the Admin Commission.
 
 ---
 
-![admin-commission-payout](http://eventmie-pro-docs.test/images/fullyloaded/admin-commission-payout.png "admin-commission-payout")
+![admin-commission-payout](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/admin-commission-payout.png "admin-commission-payout")
 
 ---
 
@@ -107,7 +107,7 @@ Organizer will see the `Transferred` status as `Paid` in the `Manage Earnings`.
 
 ---
 
-![organizer-earning-payout](http://eventmie-pro-docs.test/images/fullyloaded/organizer-earning-payout.png "organizer-earning-payout")
+![organizer-earning-payout](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/organizer-earning-payout.png "organizer-earning-payout")
 
 ---
 

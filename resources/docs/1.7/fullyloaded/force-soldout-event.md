@@ -12,10 +12,10 @@ Admin & Organizer can set particular Ticket as Sold out from Event Edit Page -> 
 
 ---
 
-![1-event-sold-out](http://eventmie-pro-docs.test/images/fullyloaded/1-event-sold-out.png "1-event-sold-out")
+![1-event-sold-out](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-event-sold-out.png "1-event-sold-out")
 
 ---
 
-![2-ticket-sold-out](http://eventmie-pro-docs.test/images/fullyloaded/2-ticket-sold-out.png "2-ticket-sold-out")
+![2-ticket-sold-out](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-ticket-sold-out.png "2-ticket-sold-out")
 
 ---

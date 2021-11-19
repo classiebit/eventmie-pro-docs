@@ -4,7 +4,7 @@ Create private events with or without passwords to invite specific people with a
 
 ---
 
-![4-access-private-event](http://eventmie-pro-docs.test/images/fullyloaded/4-access-private-event.png "4-access-private-event")
+![4-access-private-event](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/4-access-private-event.png "4-access-private-event")
 
 ---
 
@@ -24,7 +24,7 @@ Admin and Organizer both can set an Event as Private.
 
     ---
 
-    ![1-set-private-event](http://eventmie-pro-docs.test/images/fullyloaded/1-set-private-event.png "1-set-private-event")
+    ![1-set-private-event](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-set-private-event.png "1-set-private-event")
 
     ---
 
@@ -32,7 +32,7 @@ Admin and Organizer both can set an Event as Private.
 
     ---
 
-    ![3-private-event-lock](http://eventmie-pro-docs.test/images/fullyloaded/3-private-event-lock.png "3-private-event-lock")
+    ![3-private-event-lock](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/3-private-event-lock.png "3-private-event-lock")
 
     ---
 
@@ -50,7 +50,7 @@ Let's visit the private event with Event URL. If the private event has password,
 
 ---
 
-![4-access-private-event](http://eventmie-pro-docs.test/images/fullyloaded/4-access-private-event.png "4-access-private-event")
+![4-access-private-event](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/4-access-private-event.png "4-access-private-event")
 
 ---
 

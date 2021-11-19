@@ -8,7 +8,7 @@ With this, you can enter YouTube/Vimeo private or public video embed code while 
 
 ---
 
-![youtube-vimeo-setup](http://eventmie-pro-docs.test/images/fullyloaded/youtube-vimeo-setup.png "youtube-vimeo-setup")
+![youtube-vimeo-setup](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/youtube-vimeo-setup.png "youtube-vimeo-setup")
 
 ---
 
@@ -23,15 +23,15 @@ You can enter both Youtube & Vimeo embed code at the same time or either one of 
 
 ---
 
-![bookings-youtube-vimeo-button](http://eventmie-pro-docs.test/images/fullyloaded/bookings-youtube-vimeo-button.png "bookings-youtube-vimeo-button")
+![bookings-youtube-vimeo-button](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/bookings-youtube-vimeo-button.png "bookings-youtube-vimeo-button")
 
 ---
 
-![youtube-play](http://eventmie-pro-docs.test/images/fullyloaded/youtube-play.png "youtube-play")
+![youtube-play](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/youtube-play.png "youtube-play")
 
 ---
 
-![vimeo-play](http://eventmie-pro-docs.test/images/fullyloaded/vimeo-play.png "vimeo-play")
+![vimeo-play](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/vimeo-play.png "vimeo-play")
 
 ---
 
@@ -43,7 +43,7 @@ You can also add more YouTube videos as part of event's promos and trailers to s
 
     ---
 
-    ![1-add-more-youtube-video](http://eventmie-pro-docs.test/images/fullyloaded/1-add-more-youtube-video.png "1-add-more-youtube-video")
+    ![1-add-more-youtube-video](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-add-more-youtube-video.png "1-add-more-youtube-video")
 
     ---
 
@@ -51,6 +51,6 @@ You can also add more YouTube videos as part of event's promos and trailers to s
 
     ---
 
-    ![2-show-more-youtube-video](http://eventmie-pro-docs.test/images/fullyloaded/2-show-more-youtube-video.png "2-show-more-youtube-video")
+    ![2-show-more-youtube-video](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-show-more-youtube-video.png "2-show-more-youtube-video")
 
     ---
