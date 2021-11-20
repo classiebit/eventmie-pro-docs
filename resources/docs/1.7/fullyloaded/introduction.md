@@ -1,6 +1,5 @@
 # Introduction
 
-
 Eventmie Pro FullyLoaded is an advanced custom version of Eventmie Pro. It has all the features of Eventmie Pro **plus** a lot of advanced features that can help you more in running your events business.
 
 <br>
@@ -17,8 +16,17 @@ Continue reading all the features docs to know more about it.
 
 ---
 
+- [Purchase EventmiePro FullyLoaded](#Purchase-EventmiePro-FullyLoaded)
 - [Customisation Services](#customisation-services)
 
+
+
+<a name="Purchase-EventmiePro-FullyLoaded"></a>
+## Purchase EventmiePro FullyLoaded
+
+
++ [Live Preview (eventmie-pro-fullyloaded.classiebit.com)](https://eventmie-pro-fullyloaded.classiebit.com) - Visit FullyLoaded version live.
++ [Purchase (classiebit.com/eventmie-pro-fullyloaded)](https://classiebit.com/eventmie-pro-fullyloaded) -  Purchase FullyLoaded version here.
 
 
 <a name="customisation-services"></a>
