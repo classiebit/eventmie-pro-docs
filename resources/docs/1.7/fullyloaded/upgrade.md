@@ -40,6 +40,12 @@ There are two types of update service-
 <br>
 To request paid update service, please send us an email at `info@classiebit.com` and we'll get back to you.
 
+---
+
+>{success} We're providing Free Simple & Advanced Upgrade service to existing Eventmie Pro customers for a limited period of time. Send us an email to get the offer.
+
+---
+
 
 <a name="Steps-to-upgrade"></a> 
 ## Steps to upgrade
