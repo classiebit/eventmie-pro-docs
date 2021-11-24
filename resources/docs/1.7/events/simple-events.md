@@ -45,9 +45,14 @@ The first step is mandatory to proceed to the next step. Add these details to pr
 - Event URL (auto-generated)
 - Description
 - Why to attend event? (optional)
+- Offline Payment Instructions (Instructions to show under **Offline Payment** Option) <small class="v">v1.7</small>
+
+<br>
+    
+**(Only Admin can modify these two options)**
+
 - Event Featured (if logged in as Admin) (set Event as Featured)
 - Event Status (if logged in as Admin) (force Enable/Disable event)
-- Offline Payment Instructions (Instructions to show under **Offline Payment** Option) <small class="v">v1.7</small>
 
 ---
 
