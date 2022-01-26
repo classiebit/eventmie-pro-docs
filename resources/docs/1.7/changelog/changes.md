@@ -1,5 +1,6 @@
 # What's New <small>changelog</small> v1.7.x
 
+- [v1.7.1 (26-Jan-2022)](#v1.7.1)
 - [v1.7.0 (04-Oct-2021)](#v1.7.0)
 
 ---
@@ -7,6 +8,12 @@
 >{danger} You must be on v1.6.x to update to v1.7.x. Please DO NOT directly update to v1.7.x older than v1.6.x.
 
 ---
+
+<a name="v1.7.1"></a> 
+## v1.7.1 <small>Released on 26-Jan-2022</small>
+
+v1.7.1 is a minor patch release. It includes a few bug fixes related to timezone issues.
+
 
 <a name="v1.7.0"></a> 
 ## v1.7.0 <small>Released on 04-Oct-2021</small>
