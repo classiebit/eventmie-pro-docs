@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # Stripe Direct Payment
 
 Stripe Direct Payment For Split payment option. Organizer receives their event earning and admin receives their commission directly into their bank accounts

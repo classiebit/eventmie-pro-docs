@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # Twilio SMS
 
 With Twilio, the attendees will receive notification via SMS on their phones after successful booking. The attendee must have entered their phone number to receive booking SMS.

@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # Guest Checkout
 
 Auto-login and checkout for unregistered users. Unregistered users can directly make booking by registering on the go. They'll simply need to click on Guest Checkout and enter their name, email and phone number and that's it.

@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # MailChimp
 
 Subscribe event attendees directly to MailChimp account with event tag, so that you can manage to send email to event attendees event-wise.

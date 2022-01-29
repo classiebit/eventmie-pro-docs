@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # Bitpay Crypto Payment Gateway
 
 Crypto Currency Payment gateway to accept all available Cryptocurrencies in the world using BitPay. You can also pay using BitPay wallet.

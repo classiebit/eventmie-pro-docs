@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # Reserved Seating
 
 Add any kind of seating arrangement e.g Stadiums, Townhalls, Cinema, Restaurants, Lounges, etc.

@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # Google Places Autocomplete & Directions
 
 To search and auto-fill Google Map location for Event venues. And to show the user directions to the Event venue from their current location.

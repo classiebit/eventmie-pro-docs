@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # Ticket Invoice
 
 Create custom invoices according to your brand/company and send them to attendees. Every Organizer can add their own tax & company info in the invoice.

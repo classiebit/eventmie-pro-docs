@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # On Sale Timer
 
 Put tickets on sale with a discounted price and sale timer. Set sale start date and sale end date with a sale price, and a timer will be shown on the events listing and tickets, and attendee can purchase the tickets at the sale price until sale ends.

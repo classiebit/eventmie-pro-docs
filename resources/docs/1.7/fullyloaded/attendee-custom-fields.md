@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # Attendee Custom Fields
 
 This is to make booking with specific detail like for whom the customer is making the booking and who's actually going to attend the event. 

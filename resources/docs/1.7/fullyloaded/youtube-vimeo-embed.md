@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # YouTube & Vimeo Player Embed
 
 Add Youtube & Vimeo Public/Private video embed URL/code to let attendees attend virtual events or watch pre-loaded event videos directly from within the website.

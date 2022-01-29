@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # Event-specific Commission
 
 Set different admin commission for each event. Only Admin can set different Admin Commission for each event from Event Edit Page -> Event Specific Admin

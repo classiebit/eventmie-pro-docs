@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # Private Password Protected Event
 
 Create private events with or without passwords to invite specific people with a unique link and password. These private events are hidden from all pages of the website. And can only be viewed with the Event URL.

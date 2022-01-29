@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # POS & Scanner & Manager
 
 To create separate user groups with limited access like a sub-organizer who can manage things like bookings, check-in, selling on behalf of Organizer. POS can sell tickets on Event entrance, Scanner can scan tickets and Manager can manage everything on behalf of Organizer.

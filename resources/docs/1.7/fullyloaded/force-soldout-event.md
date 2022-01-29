@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # Force Soldout Event & Tickets
 
 Set complete Event or a single ticket as Force sold. And the customers can't purchase sold-out event's tickets.

@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # Clone Event
 
 Duplicate existing events to speed up creating a new event, rather than creating them from scratch.

@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # Stripe 3D Checkout Payment Gateway
 
 To enable it, you first need to create a Stripe Merchant Account from **[Stripe](https://stripe.com)**. After setting up your account, you need to copy the `Stripe Public Key` and `Stripe Secret Key`.

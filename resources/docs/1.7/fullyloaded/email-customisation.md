@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # Email Customisation
 
 Create beautiful customized registration, booking, contact us, etc email templates to send to your customers. It'll require coding skills to customise the emails. We've made it easy for you to customise them even with basic coding skills.

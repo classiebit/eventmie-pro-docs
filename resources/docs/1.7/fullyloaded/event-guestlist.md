@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # Event Guestlist
 
 Organizers can create separate Guestlists for every event to export their emails CSV and send them Bulk emails about Event promotions or any other updates.

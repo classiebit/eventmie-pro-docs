@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # Authorize.net Payment Gateway
 
 To enable it, you first need to create a Authorize.net Merchant Account from **[Authorize.net](https://www.authorize.net/)**. After setting up your account, you need to copy the `Authorize.Net Login Id` and `Authorize.Net Transaction Key`. After getting the keys, follow the below steps-

@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # Complimentary Bookings
 
 Admin can create complementary bookings of any events that can be excluded from the normal bookings finances. Complimentary booking is something that's not part of Admin commission calculation and organizer earning payouts, these are kinds of external bookings that are sold externally/outside of the website. 

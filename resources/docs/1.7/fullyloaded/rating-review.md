@@ -1,3 +1,8 @@
+
+>{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+
+<br>
+
 # Rating & Review
 
 Let attendees add ratings and reviews to the event, that can be reviewed and approved by the Event organizer before publishing. 
