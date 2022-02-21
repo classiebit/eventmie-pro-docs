@@ -25,7 +25,7 @@
 
         <!-- CSS -->
         <link rel="stylesheet" href="{{ larecipe_assets('css/app.css') }}">
-        <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+        <link rel="stylesheet" href="{{ asset('css/app_v2.css') }}">
 
         @if (config('larecipe.ui.fav'))
             <!-- Favicon -->
