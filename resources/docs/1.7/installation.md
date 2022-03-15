@@ -15,6 +15,7 @@ Eventmie Pro can be installed via composer or via web-installer. Bruhhh... 💪
 - [Purchased From Codecanyon](#purchased-from-codecanyon)
 - [Installation Errors](#installation-errors)
 - [Signup Error](#signup-error)
+- [Update Admin Email](#update-admin-email)
 
 
 <a name="server-requirements"></a> 
@@ -224,3 +225,35 @@ After installation, make sure to add Mail server SMTP credentials on Admin Panel
 - Click on Settings -> Mail tab
 - And enter mail server credentials.
 - Make sure to test SMTP credentials here- [smtper.net](https://www.smtper.net) if emails are not delivering.
+
+
+<a name="update-admin-email"></a>
+## Update Admin Email
+
+After installation, make sure to update the Admin email & password-
+
+- Visit Admin Panel and click Profile icon on the Top-right.
+
+    ---
+
+    ![Admin email update](https://eventmie-pro-docs.classiebit.com/images/1-admin-email.png "Admin email update")
+
+    ---
+
+- Then click Profile and Edit Profile on the next page.
+
+    ---
+
+    ![Admin email update](https://eventmie-pro-docs.classiebit.com/images/2-admin-email.png "Admin email update")
+
+    ---
+
+- And update the **admin@admin.com** to real email address.
+
+    ---
+
+    ![Admin email update](https://eventmie-pro-docs.classiebit.com/images/3-admin-email.png "Admin email update")
+
+    ---
+
+- Also change the Admin password.
