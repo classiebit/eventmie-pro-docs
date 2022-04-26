@@ -36,6 +36,7 @@
     - [5.4 Stripe](/{{route}}/{{version}}/fullyloaded/stripe)
     - [5.5 Stripe Direct](/{{route}}/{{version}}/fullyloaded/stripe-direct)
     - [5.6 Authorize.Net](/{{route}}/{{version}}/fullyloaded/authorize.net)
+    - [5.6 Paystack](/{{route}}/{{version}}/fullyloaded/paystack)
     - [5.7 Bitpay Crypto](/{{route}}/{{version}}/fullyloaded/bitpay-crypto)
     - [5.8 Twilio SMS](/{{route}}/{{version}}/fullyloaded/twilio-sms)
     - [5.9 Youtube/Vimeo Embed](/{{route}}/{{version}}/fullyloaded/youtube-vimeo-embed)
