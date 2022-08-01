@@ -2,8 +2,10 @@
     - [1.1 Introduction](/{{route}}/{{version}}/introduction)
     - [1.2 Installation](/{{route}}/{{version}}/installation)
     - [1.3 Configuration](/{{route}}/{{version}}/configuration)
-    - [1.4 Update <small class="v">v1.7</small>](/{{route}}/{{version}}/update)
-    - [1.5 What's New <small class="v">v1.7</small>](/{{route}}/{{version}}/changelog/changes)
+    - [1.4 Update <small class="v">v1.8</small>](/{{route}}/{{version}}/update)
+    - [1.5 What's New <small class="v">v1.8</small>](/{{route}}/{{version}}/changelog/changes)
+    - [1.6 PWA <small class="v">v1.8</small>](/{{route}}/{{version}}/pwa)
+
 
 - ## 2. Admin Panel
     - [2.1 Settings](/{{route}}/{{version}}/admin/settings)
@@ -16,10 +18,12 @@
     - [2.8 Menu Builder](/{{route}}/{{version}}/admin/menu-builder)
 
 - ## 3. Events
-    - [3.1 Simple Events <small class="v">v1.7</small>](/{{route}}/{{version}}/events/simple-events)
-    - [3.2 Repetitive Events <small class="v">v1.7</small>](/{{route}}/{{version}}/events/repetitive-events)
+    - [3.1 Simple Events](/{{route}}/{{version}}/events/simple-events)
+    - [3.2 Repetitive Events](/{{route}}/{{version}}/events/repetitive-events)
     - [3.3 Online Events](/{{route}}/{{version}}/events/online-events)
     - [3.4 Manage Events](/{{route}}/{{version}}/events/manage-events)
+    - [3.5 Manage Venues <small class="v">v1.8</small>](/{{route}}/{{version}}/events/manage-venues)
+
 
 - ## 4. Bookings
     - [4.1 Booking Tickets](/{{route}}/{{version}}/bookings/booking-tickets)

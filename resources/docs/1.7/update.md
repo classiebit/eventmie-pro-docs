@@ -50,7 +50,7 @@ To request paid update service, please send us an email at `info@classiebit.com`
 If can update your website yourself by following the below steps. Please make sure you **DO NOT** miss any step.
 
 
-* Extract the `eventmie-pro-v1.6.x.zip` file and then extract the package file `eventmie-pro.zip`.
+* Extract the `eventmie-pro-v1.7.x.zip` file and then extract the package file `eventmie-pro.zip`.
 * Copy the `eventmie-pro` folder and go to your website directory.
 * Delete the current `eventmie-pro` folder & replace it with the new one.
 * Then run the composer update command
@@ -81,7 +81,7 @@ If can update your website yourself by following the below steps. Please make su
 
 ---
 
-Few changes have been made to the Eventmie Pro config file in `v1.6`. The below command will update your base app `config/eventmie.php` file with the latest one.
+Few changes have been made to the Eventmie Pro config file in `v1.7`. The below command will update your base app `config/eventmie.php` file with the latest one.
 
 ```php
 php artisan vendor:publish --tag=eventmie-pro-config --force
@@ -111,7 +111,7 @@ php artisan vendor:publish --tag=eventmie-pro-lang --force
 
 ---
 
-In `v1.6`, we've improved the Admin Panel translations as well. Run the below command to copy the Admin Panel language files to your base app.
+In `v1.7`, we've improved the Admin Panel translations as well. Run the below command to copy the Admin Panel language files to your base app.
 
 ```php
 php artisan vendor:publish --tag=eventmie-pro-voyager-lang --force
