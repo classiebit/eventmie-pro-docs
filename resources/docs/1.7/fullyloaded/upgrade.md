@@ -35,7 +35,7 @@ If you want us to upgrade your website to Eventmie Pro FullyLoaded, we also prov
 There are two types of update service-
 
 1. Simple Upgrade Service Cost **USD 100**: If there are **NO CODE CUSTOMISATIONS** on your website.
-2. Advanced Upgrade Service Cost **USD 200**: If there are **CODE CUSTOMISATIONS** on your website.
+2. Advanced Upgrade Service Cost **USD 250**: If there are **CODE CUSTOMISATIONS** on your website.
 
 <br>
 To request paid update service, please send us an email at `info@classiebit.com` and we'll get back to you.
