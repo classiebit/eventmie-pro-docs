@@ -4,7 +4,7 @@ Now you can provide PWA to your website users.
 
 ---
 
-![4-manage-venue](https://eventmie-pro-docs.classiebit.com/images/4-manage-venue.png "4-manage-venue")
+![2-pwa-app](https://eventmie-pro-docs.classiebit.com/images/2-pwa-app.png "2-pwa-app")
 
 ---
 
@@ -19,6 +19,12 @@ To setup PWA, you need to update just one file manually.
 1. Go to your website directory and then to `public` folder and edit `manifest.json` file. 
 2. Replace the Eventmie Pro name by your brand name and also change the Logo.
 3. And then refresh your website to see the **Download App** icon on the browser.
+
+---
+
+![setup-pwa](https://eventmie-pro-docs.classiebit.com/images/1-pwa.png "1-pwa")
+
+---
 
 <br>
 
