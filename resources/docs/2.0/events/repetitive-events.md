@@ -20,7 +20,7 @@ In Eventmie Pro, you can create daily, weekly & monthly repetitive events and cl
 - [Repetitive Type: Weekly](#repetitive-type-weekly)
 - [Repetitive Type: Monthly](#repetitive-type-monthly)
 - [Skip Schedule <small class="v">v1.7</small>](#skip-schedule)
-- [Monthly/Weekly Payment](#monthly-weekly-payment)
+- [Seasonal Tickets](#seasonal-tickets)
 - [Timeslots Availability](#timeslots-availability)
 
 
@@ -200,16 +200,18 @@ To skip a month from Schedules, leave the particular **Schedule** input blank.
 
 
 
-<a name="monthly-weekly-payment"></a>
-## Monthly/Weekly Payment
+<a name="seasonal-tickets"></a>
+## Seasonal Tickets
 
 ---
 
->{primary} Don't worry, we haven't missed this one. 😉
+>{primary} New in v2.0 🔥
 
 ---
 
 In the case of repetitive schedules, sometimes you want to get paid on a `Monthly` or `Weekly` basis for all schedules within a `Month or Week`, instead of each day separately. 
+
+Seasonal Tickets means, customer purchase the whole month tickets at once and they can attend event with single ticket.
 
 <br>
 

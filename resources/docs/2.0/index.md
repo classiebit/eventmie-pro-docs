@@ -19,18 +19,20 @@
 
 - ## 3. Events
     - [3.1 Simple Events](/{{route}}/{{version}}/events/simple-events)
-    - [3.2 Repetitive Events](/{{route}}/{{version}}/events/repetitive-events)
+    - [3.2 Repetitive Events <small class="v">v2.0</small>](/{{route}}/{{version}}/events/repetitive-events)
     - [3.3 Online Events](/{{route}}/{{version}}/events/online-events)
     - [3.4 Manage Events](/{{route}}/{{version}}/events/manage-events)
     - [3.5 Manage Venues <small class="v">v1.8</small>](/{{route}}/{{version}}/events/manage-venues)
 
+- ## 4. Organizer Dashboard
+    - [3.1 Failed Bookings](/{{route}}/{{version}}/dashboard/failed-bookings)
 
 - ## 4. Bookings
     - [4.1 Booking Tickets](/{{route}}/{{version}}/bookings/booking-tickets)
     - [4.2 Email Notifications](/{{route}}/{{version}}/bookings/email-notifications)
     - [4.3 Manage Bookings](/{{route}}/{{version}}/bookings/manage-bookings)
     - [4.4 Cancellation & Refund](/{{route}}/{{version}}/bookings/cancellation-refund)
-    - [4.5 Ticket Scanner](/{{route}}/{{version}}/bookings/ticket-scanner)
+    - [4.5 Ticket Scanner <small class="v">v2.0</small>](/{{route}}/{{version}}/bookings/ticket-scanner)
 
 
 - ## 5. Eventmie Pro FullyLoaded
@@ -48,7 +50,7 @@
     - [5.11 Youtube/Vimeo Embed](/{{route}}/{{version}}/fullyloaded/youtube-vimeo-embed)
     - [5.12 MailChimp](/{{route}}/{{version}}/fullyloaded/mailchimp)
     - [5.13 Google Places](/{{route}}/{{version}}/fullyloaded/google-places)
-    - [5.14 Reserved Seating](/{{route}}/{{version}}/fullyloaded/reserved-seating)
+    - [5.14 Reserved Seating <small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/reserved-seating)
     - [5.15 PromoCodes](/{{route}}/{{version}}/fullyloaded/promocodes)
     - [5.16 Private Event](/{{route}}/{{version}}/fullyloaded/private-event)
     - [5.17 POS Scanner <small>Manager</small>](/{{route}}/{{version}}/fullyloaded/pos-scanner-manager)
@@ -58,7 +60,7 @@
     - [5.21 Ticket Invoice](/{{route}}/{{version}}/fullyloaded/ticket-invoice)
     - [5.22 Email Customisation](/{{route}}/{{version}}/fullyloaded/email-customisation)
     - [5.23 Rating & Review](/{{route}}/{{version}}/fullyloaded/rating-review)
-    - [5.24 Guest Checkout](/{{route}}/{{version}}/fullyloaded/guest-checkout)
+    - [5.24 Checkout On-Air <small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/guest-checkout)
     - [5.25 Organizer Profile](/{{route}}/{{version}}/fullyloaded/organizer-profile)
     - [5.26 Attendee Custom <small>Fields</small>](/{{route}}/{{version}}/fullyloaded/attendee-custom-fields)
     - [5.27 Clone Event](/{{route}}/{{version}}/fullyloaded/clone-event)

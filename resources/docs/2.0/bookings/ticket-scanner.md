@@ -18,7 +18,7 @@ The ticket scanner scans QrCode on the ticket, verify if the ticket is valid, an
 
 
 - [Prerequisites](#Prerequisites)
-- [Ticket PDF <small class="v">v1.5</small>](#ticket-pdf)
+- [Ticket PDF <small class="v">v2.0</small>](#ticket-pdf)
 - [Scan & Check-in <small class="v">v1.5</small>](#scan-check-in)
 
 
