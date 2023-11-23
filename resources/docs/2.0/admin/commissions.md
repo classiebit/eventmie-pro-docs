@@ -148,7 +148,7 @@ The organizer can add their bank account details from their profile page on the 
 
 ---
 
-![Organizer bank details](https://eventmie-pro-docs.classiebit.com/images/v2/Comissions/Organiser Bank Details.jpg "Organizer bank details")
+![Organizer bank details](https://eventmie-pro-docs.classiebit.com/images/v2/Comissions/OrganiserBankDetails.jpg "Organizer bank details")
 
 ---
 
