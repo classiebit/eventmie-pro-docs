@@ -1,6 +1,6 @@
 # Commissions
 
-Eventmie Pro is a flexible event hosting solution. You can use it as a Multi-organization (multi-vendor) or as a single organization website. 
+Eventmie Pro is a flexible event hosting solution. You can use it as a Multi-organization (multi-vendor) or as a single organization website.
 
 <br>
 
@@ -16,7 +16,7 @@ At first, all bookings credit goes to the website owner's (Admin) bank account a
 
 <br>
 
-Eventmie Pro makes the payout transfer system as smooth as cheese 🧀. Follow the below guidelines, and you'll become master in it, in no time. 
+Eventmie Pro makes the payout transfer system as smooth as cheese 🧀. Follow the below guidelines, and you'll become master in it, in no time.
 
 
 - [Set Commission](#set-commission)
@@ -53,12 +53,12 @@ Eventmie Pro makes the payout transfer system as smooth as cheese 🧀. Follow t
 >{primary} Commissions are recorded only if, the `Multi-vendor mode On` & `Admin Commission Set`.
 
 ---
-  
+
 
 <a name="commission-processing-payouts"></a>
 ## Commission Processing & Payouts
 
-After setting the `Admin Commission`. Eventmie Pro will start recording commissions on each ticket sale. 
+After setting the `Admin Commission`. Eventmie Pro will start recording commissions on each ticket sale.
 
 1. Go to `Admin Panel -> Commissions`.
 2. Click on &nbsp;<larecipe-button type="info" size="sm" rounded>View</larecipe-button>
@@ -118,10 +118,10 @@ This is how, the Admin Commission and Organizer earnings are calculated behind t
 ---
 
 
-1. In case of **Online Payment** the **Is Paid** is set to **Yes**, while in case of Offline/Direct payment, Organizer or Admin needs to update the **Is Paid** status to **Yes**. The bookings will appear in Commissions only after the **Is Paid = Yes**. 
+1. In case of **Online Payment** the **Is Paid** is set to **Yes**, while in case of Offline/Direct payment, Organizer or Admin needs to update the **Is Paid** status to **Yes**. The bookings will appear in Commissions only after the **Is Paid = Yes**.
 
 2. If a booking is made after making the Organizer Earning's **Transferred** status set to **Yes**, then that new booking of the same month will appear as a new entry in Commission, as **Un-Transferred** payout.
-    
+
 3. Once, the **Un-Transferred** Organiser earning for the same month is set to **Transferred**, then it'll be merged in one single **Transferred** Payout for the month.
 
 4. The commission will record and show the overall calculations with floating-point precision.
@@ -148,7 +148,7 @@ The organizer can add their bank account details from their profile page on the 
 
 ---
 
-![Organizer bank details](https://eventmie-pro-docs.classiebit.com/images/commissions-organizer-bank-details.jpg "Organizer bank details")
+![Organizer bank details](https://eventmie-pro-docs.classiebit.com/images/v2/Comissions/Organiser Bank Details.jpg "Organizer bank details")
 
 ---
 
