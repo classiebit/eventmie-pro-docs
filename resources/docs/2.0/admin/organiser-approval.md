@@ -21,7 +21,7 @@ If Manually Approve Organizer setting is Enabled then-
 
 ---
 
-![become-organiser-request](https://eventmie-pro-docs.classiebit.com/images/v2/OrganiserManualApproval/CustomerRequests.jpg "become-organiser-request")
+![become-organiser-request](https://eventmie-pro-docs.classiebit.com/images/v2/OrganiserManualApproval/CustomerRequestss.jpg "become-organiser-request")
 
 ---
 
