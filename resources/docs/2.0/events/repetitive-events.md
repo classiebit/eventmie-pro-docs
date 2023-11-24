@@ -68,7 +68,7 @@ Once you check the `Add Repetitive Schedules` checkbox, a new interface shows up
 
 ---
 
-<br> 
+<br>
 
 **Let's start with Repetitive Type**
 
@@ -92,7 +92,7 @@ The event that repeats every `day` from start to end date.
 
 ---
 
->{primary} It also shows you calculations of each schedule days and time in real time. 
+>{primary} It also shows you calculations of each schedule days and time in real time.
 
 ---
 
@@ -100,7 +100,7 @@ The event that repeats every `day` from start to end date.
 
 ---
 
-![Daily Repetitive Schedules](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-daily.jpg "Daily Repetitive Schedules")
+![Daily Repetitive Schedules](https://eventmie-pro-docs.classiebit.com/images/v2/RepetitiveEventImages/events-repetitive-daily.png "Daily Repetitive Schedules")
 
 ---
 
@@ -108,7 +108,7 @@ The event that repeats every `day` from start to end date.
 
 ---
 
-![Daily Repetitive Schedules View](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-daily-view.jpg "Daily Repetitive Schedules View")
+![Daily Repetitive Schedules View](https://eventmie-pro-docs.classiebit.com/images/v2/RepetitiveEventImages/events-repetitive-daily-view.png "Daily Repetitive Schedules View")
 
 ---
 
@@ -133,7 +133,7 @@ The event that repeats every `week` from start to end date.
 
 ---
 
-![Weekly Repetitive Schedules](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-weekly.jpg "Weekly Repetitive Schedules")
+![Weekly Repetitive Schedules](https://eventmie-pro-docs.classiebit.com/images/v2/RepetitiveEventImages/Repetative-Event-Weekly-Basis.png "Weekly Repetitive Schedules")
 
 ---
 
@@ -141,7 +141,7 @@ The event that repeats every `week` from start to end date.
 
 ---
 
-![Weekly Repetitive Schedules View](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-weekly-view.jpg "Weekly Repetitive Schedules View")
+![Weekly Repetitive Schedules View](https://eventmie-pro-docs.classiebit.com/images/v2/RepetitiveEventImages/RepetitiveEventWeeklyPreview.png "Weekly Repetitive Schedules View")
 
 ---
 
@@ -149,7 +149,7 @@ The event that repeats every `week` from start to end date.
 <a name="repetitive-type-monthly"></a>
 ## Repetitive Type: Monthly
 
-The event that repeats every `month` from start to end date. 
+The event that repeats every `month` from start to end date.
 
 <br>
 
@@ -166,7 +166,7 @@ The event that repeats every `month` from start to end date.
 
 ---
 
-![Monthly Repetitive Schedules](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-monthly.jpg "Monthly Repetitive Schedules")
+![Monthly Repetitive Schedules](https://eventmie-pro-docs.classiebit.com/images/v2/RepetitiveEventImages/Monthly-Repetitive-Schedule-Image.png "Monthly Repetitive Schedules")
 
 ---
 
@@ -174,7 +174,7 @@ The event that repeats every `month` from start to end date.
 
 ---
 
-![Monthly Repetitive Schedules View](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-monthly-view.jpg "Monthly Repetitive Schedules View")
+![Monthly Repetitive Schedules View](https://eventmie-pro-docs.classiebit.com/images/v2/RepetitiveEventImages/Monthly-Repetitive-Schedule-Preview.png "Monthly Repetitive Schedules View")
 
 ---
 
@@ -182,11 +182,11 @@ The event that repeats every `month` from start to end date.
 <a name="skip-schedule"></a>
 ## Skip Schedule <small class="v">v1.7</small>
 
-To skip a month from Schedules, leave the particular **Schedule** input blank. 
+To skip a month from Schedules, leave the particular **Schedule** input blank.
 
 ---
 
-![Skip Repetitive Schedules](https://eventmie-pro-docs.classiebit.com/images/1-skip-schedule.png "Skip Repetitive Schedules")
+![Skip Repetitive Schedules](https://eventmie-pro-docs.classiebit.com/images/v2/RepetitiveEventImages/SkipScheduleImage.png "Skip Repetitive Schedules")
 
 ---
 
@@ -194,7 +194,7 @@ To skip a month from Schedules, leave the particular **Schedule** input blank.
 
 ---
 
-![Skip Repetitive Schedules View](https://eventmie-pro-docs.classiebit.com/images/1-skip-schedule-view.png "Skip Repetitive Schedules View")
+![Skip Repetitive Schedules View](https://eventmie-pro-docs.classiebit.com/images/v2/RepetitiveEventImages/SkipSchedulePreviewImage.png "Skip Repetitive Schedules View")
 
 ---
 
@@ -209,13 +209,13 @@ To skip a month from Schedules, leave the particular **Schedule** input blank.
 
 ---
 
-In the case of repetitive schedules, sometimes you want to get paid on a `Monthly` or `Weekly` basis for all schedules within a `Month or Week`, instead of each day separately. 
+In the case of repetitive schedules, sometimes you want to get paid on a `Monthly` or `Weekly` basis for all schedules within a `Month or Week`, instead of each day separately.
 
 Seasonal Tickets means, customer purchase the whole month tickets at once and they can attend event with single ticket.
 
 <br>
 
-This means the customer can attend the event for the whole month or week, by paying a **Full Advance Payment** for a complete month or week schedule. 
+This means the customer can attend the event for the whole month or week, by paying a **Full Advance Payment** for a complete month or week schedule.
 
 <br>
 
@@ -235,7 +235,7 @@ Let's get started. Check the `Monthly or Weekly Payment` checkbox, e.g for the `
 
 ---
 
-![Monthly Repetitive Schedules Monthly Payment](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-merge-schedule.jpg "Monthly Repetitive Schedules  Monthly Payment")
+![Monthly Repetitive Schedules Monthly Payment](https://eventmie-pro-docs.classiebit.com/images/v2/RepetitiveEventImages/Monthly-Repetitive-Schedule-Image.png "Monthly Repetitive Schedules  Monthly Payment")
 
 ---
 
@@ -243,7 +243,7 @@ Let's get started. Check the `Monthly or Weekly Payment` checkbox, e.g for the `
 
 ---
 
-![Monthly Repetitive Schedules  Monthly Payment View](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-merge-schedule-view.jpg "Monthly Repetitive Schedules  Monthly Payment View")
+![Monthly Repetitive Schedules  Monthly Payment View](https://eventmie-pro-docs.classiebit.com/images/v2/RepetitiveEventImages/Monthly-Repetitive-Schedule-Preview.png "Monthly Repetitive Schedules  Monthly Payment View")
 
 ---
 
@@ -257,7 +257,7 @@ Check available timeslots for repetitive event schedules on the go. You can now 
 
 ---
 
-![Live Timeslots Availability Check](https://eventmie-pro-docs.classiebit.com/images/repetitive-events-availability.jpg "Live Timeslots Availability Check")
+![Live Timeslots Availability Check](https://eventmie-pro-docs.classiebit.com/images/v2/RepetitiveEventImages/repetitive-events-availability.png "Live Timeslots Availability Check")
 
 ---
 
@@ -267,6 +267,6 @@ In this way, it won't disclose all the Quantity of the ticket and only show the 
 
 ---
 
-![Live Timeslots Availability Vacant Seats Per Ticket](https://eventmie-pro-docs.classiebit.com/images/repetitive-events-vacant.jpg "Live Timeslots Availability Vacant Seats Per Ticket")
+![Live Timeslots Availability Vacant Seats Per Ticket](https://eventmie-pro-docs.classiebit.com/images/v2/RepetitiveEventImages/repetitive-events-vacant.png "Live Timeslots Availability Vacant Seats Per Ticket")
 
 ---
