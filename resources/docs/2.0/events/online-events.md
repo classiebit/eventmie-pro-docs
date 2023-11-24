@@ -1,6 +1,6 @@
 # Online Events
 
-In Eventmie Pro, you can create online events and classes as well. An online event can be any type of virtual event that is being streamed via YouTube, Vimeo, Zoom, Google Meet, or any other public/private video conferencing, live streaming, or group video calling apps. 
+In Eventmie Pro, you can create online events and classes as well. An online event can be any type of virtual event that is being streamed via YouTube, Vimeo, Zoom, Google Meet, or any other public/private video conferencing, live streaming, or group video calling apps.
 
 
 <br>
@@ -39,15 +39,15 @@ Once you complete the initial steps for creating an event, proceed to the `Locat
 
     ---
 
-    ![Enter online location](https://eventmie-pro-docs.classiebit.com/images/events-online-create.jpg "Enter online location")
+    ![Enter online location](https://eventmie-pro-docs.classiebit.com/images/v2/onlineEvent/events-online-create.png "Enter online location")
 
     ---
 
-3. This private info will be visible to the customer on their `My Bookings` page. 
+3. This private info will be visible to the customer on their `My Bookings` page.
 
     ---
 
-    ![Customer bookings page](https://eventmie-pro-docs.classiebit.com/images/events-online-customer-bookings.jpg "Customer bookings page")
+    ![Customer bookings page](https://eventmie-pro-docs.classiebit.com/images/v2/onlineEvent/events-online-customer-bookings.png "Customer bookings page")
 
     ---
 
@@ -55,7 +55,7 @@ Once you complete the initial steps for creating an event, proceed to the `Locat
 
     ---
 
-    ![Customer bookings page view](https://eventmie-pro-docs.classiebit.com/images/events-online-customer-bookings-view.jpg "Customer bookings page view")
+    ![Customer bookings page view](https://eventmie-pro-docs.classiebit.com/images/v2/onlineEvent/events-online-customer-bookings-view.png "Customer bookings page view")
 
     ---
 
