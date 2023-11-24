@@ -4,11 +4,11 @@ In Eventmie Pro, you can create a single & multiple days event. Each event belon
 
 ---
 
-![Simple event view](https://eventmie-pro-docs.classiebit.com/images/events-simple-event-view.jpg "Simple event view")
+![Simple event view](https://eventmie-pro-docs.classiebit.com/images/v2/EventmieProEventCreationFile/events-simple-event-view.png "Simple event view")
 
 ---
 
->{success} We'll discuss repetitive & online events and classes in the next sections. We'll focus on each option in their own section to avoid confusion. 
+>{success} We'll discuss repetitive & online events and classes in the next sections. We'll focus on each option in their own section to avoid confusion.
 
 ---
 
@@ -48,7 +48,7 @@ The first step is mandatory to proceed to the next step. Add these details to pr
 - Offline Payment Instructions (Instructions to show under **Offline Payment** Option) <small class="v">v1.7</small>
 
 <br>
-    
+
 **(Only Admin can modify these two options)**
 
 - Event Featured (if logged in as Admin) (set Event as Featured)
@@ -81,7 +81,7 @@ Set timing for single or multiple days event.
 
 ---
 
->{warning} Do not check the `Add Repetitive Schedules`, we'll discuss it in its own section. 
+>{warning} Do not check the `Add Repetitive Schedules`, we'll discuss it in its own section.
 
 ---
 
@@ -89,9 +89,9 @@ Set timing for single or multiple days event.
 <a name="Tickets"></a>
 ## Tickets <small class="v">v1.7</small>
 
-Create tickets for the event. 
+Create tickets for the event.
 
-- Tickets can be `Free` or `Paid`. 
+- Tickets can be `Free` or `Paid`.
 - Taxes can be applied to each ticket separately.
 - Multiple taxes can also be applied to each ticket.
 
@@ -137,7 +137,7 @@ Event location details. You need to enter `Google map Lat-long` manually to show
 
 ---
 
->{warning} Do not check the `Online Event`, we'll discuss it in its own section. 
+>{warning} Do not check the `Online Event`, we'll discuss it in its own section.
 
 ---
 
@@ -152,7 +152,7 @@ Upload event poster, thumbnail, and images. Please upload the mentioned size of 
 **Form Fields**
 
 - Thumbnail
-- Poster Image 
+- Poster Image
 - Images Gallery (optional)
 - YouTube Video ID (optional)
 
@@ -189,12 +189,12 @@ Write meta titles, keywords, and descriptions. These tags will be specific for e
 <a name="powered-by"></a>
 ## Powered By
 
-Final step- 
+Final step-
 
 1. Select tags (optional).
 2. Click &nbsp;<larecipe-button type="info" size="sm" rounded>Save</larecipe-button>
 3. Then click &nbsp;<larecipe-button type="success" size="sm" rounded>Publish</larecipe-button>
-4. You can `Un-publish` / `Publish` anytime. 
+4. You can `Un-publish` / `Publish` anytime.
 
 ---
 
