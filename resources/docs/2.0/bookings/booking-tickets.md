@@ -14,12 +14,12 @@ A user needs to be registered & signed-in to book a ticket (purchase tickets).
 
 
 1. **Customer** can make bookings of any events, for themselves.
-2. **Admin** can make bookings of any events, for **Customer**. 
-3. **Organizer** can make a booking of **THEIR OWN** events only, for **Customer**. 
+2. **Admin** can make bookings of any events, for **Customer**.
+3. **Organizer** can make a booking of **THEIR OWN** events only, for **Customer**.
 
 ---
 
-![new-checkout-ui-design](https://eventmie-pro-docs.classiebit.com/images/bookings-checkout.jpg "new-checkout-ui-design")
+![new-checkout-ui-design](https://eventmie-pro-docs.classiebit.com/images/v2/EventmieProImages/bookings-checkout.png "new-checkout-ui-design")
 
 ---
 
@@ -48,7 +48,7 @@ Customers can book tickets within few clicks.
 <a name="organizer-booking-tickets"></a>
 ## Organizer: Booking Tickets
 
-An organizer can book tickets for customers, only of **THEIR OWN** events. 
+An organizer can book tickets for customers, only of **THEIR OWN** events.
 
 * Organizer must know the registered email of the **Customer**, to make bookings for them.
 * Customer must be registered on the website.
@@ -59,7 +59,7 @@ An organizer can book tickets for customers, only of **THEIR OWN** events.
 
 ---
 
-For an Organizer, to book a ticket for a customer- 
+For an Organizer, to book a ticket for a customer-
 
 1. Go to the Event page and scroll down to `Get your tickets now` section.
 2. Click on the event date.
@@ -80,7 +80,7 @@ Admin can book tickets for customers of **ALL** events. Admin also needs to ente
 
 ---
 
-For Admin, to book a ticket for a customer- 
+For Admin, to book a ticket for a customer-
 
 1. Go to the Event page and scroll down to `Get your tickets now` section.
 2. Click on the event date.
@@ -109,9 +109,9 @@ First is- Free (checkout-free). In the case of free tickets, you can make bookin
 
 Offline (Cash on Arrival). This option means you can make a paid booking without making any payment, like, booking premium/paid tickets without going through a payment gateway.
 
-* Organizers & Admin can make bookings for customers directly, without making any online payment. 
+* Organizers & Admin can make bookings for customers directly, without making any online payment.
 * And then, they can collect the money via some external payment sources or in cash.
-* 
+*
 
 ---
 
@@ -123,7 +123,7 @@ Offline (Cash on Arrival). This option means you can make a paid booking without
 
 ---
 
->{primary} Please DO NOT get confused by the word (you can change any of these English words from the language file). 
+>{primary} Please DO NOT get confused by the word (you can change any of these English words from the language file).
 
 ---
 
@@ -182,7 +182,7 @@ The booking process is separated into two parts (micro-services). When you click
 
 ---
 
->{primary} There are separate `My Bookings` pages for Customers, Organizers & Admin, which shows all bookings. We'll discuss in the `Manage Bookings` section. 
+>{primary} There are separate `My Bookings` pages for Customers, Organizers & Admin, which shows all bookings. We'll discuss in the `Manage Bookings` section.
 
 ---
 
@@ -190,7 +190,7 @@ The booking process is separated into two parts (micro-services). When you click
 
 1. On the bookings page, initiate a progress loader that shows post-booking progress.
 2. Generate Ticket PDF.
-3. Send Ticket emails & notifications to `Customer`, `Organizer` & `Admin`. 
+3. Send Ticket emails & notifications to `Customer`, `Organizer` & `Admin`.
 4. Finally, finish the post-booking process and show notification alert.
 
 

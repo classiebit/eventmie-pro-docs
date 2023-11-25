@@ -12,7 +12,7 @@ The ticket scanner scans QrCode on the ticket, verify if the ticket is valid, an
 
 ---
 
-![ticket-scanner-laptop-scan](https://eventmie-pro-docs.classiebit.com/images/ticket-scanner-laptop-scan.jpg "ticket-scanner-laptop-scan")
+![ticket-scanner-laptop-scan](https://eventmie-pro-docs.classiebit.com/images/v2/EventmieProImages/ticket-scanner-laptop-scan.png "ticket-scanner-laptop-scan")
 
 ---
 
@@ -56,7 +56,7 @@ Before proceeding to the Ticket scanner, let's see the Ticket PDF. Eventmie Pro 
 
 ---
 
-![ticket-pdf](https://eventmie-pro-docs.classiebit.com/images/ticket-scan-new-ticket-design.jpg "ticket-pdf")
+![ticket-pdf](https://eventmie-pro-docs.classiebit.com/images/v2/EventmieProImages/ticket-scan-new-ticket-design.png "ticket-pdf")
 
 ---
 
@@ -64,12 +64,12 @@ Before proceeding to the Ticket scanner, let's see the Ticket PDF. Eventmie Pro 
 <a name="scan-check-in"></a>
 ## Scan & Check-in <small class="v">v1.5</small>
 
-The scanning & Check-in process very smooth. 🍺 
+The scanning & Check-in process very smooth. 🍺
 
 - Organizers can Scan & Check-in in only their own event's tickets.
 - Admin can Scan & Check-in in all events tickets.
 - Multi-ticket scans, if in case, a ticket has 3 Attendees (3 Qty), then you can scan the ticket up to 3 times (Max Scan = Qty)
-- The Total Scans / Total Quantity will appear on Customer Bookings, Organizer Bookings & Admin Dashboard pages. 
+- The Total Scans / Total Quantity will appear on Customer Bookings, Organizer Bookings & Admin Dashboard pages.
 - If the Booking Status = Disabled or if the Booking Is Paid = No, then that ticket won't be scanned & Checked-in.
 
 ---
@@ -78,7 +78,7 @@ The scanning & Check-in process very smooth. 🍺
 
 ---
 
-To scan a ticket- 
+To scan a ticket-
 
 1. Visit the scanner page from `Scan Ticket` on the header.
 2. The scanner starts automatically, just bring the ticket QrCode in front of it.
@@ -115,8 +115,8 @@ To scan a ticket-
 <br>
 
 
-### Congratulations! 🎊 🍾 🎉 
-#### You've completed Eventmie Pro training. 
+### Congratulations! 🎊 🍾 🎉
+#### You've completed Eventmie Pro training.
 
 ---
 

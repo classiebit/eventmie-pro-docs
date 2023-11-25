@@ -14,7 +14,7 @@ Managing the bookings is a breeze. Customers, Organizers, and Admin, all have se
 <a name="customer-bookings"></a>
 ## Customer's: Bookings
 
-Customers can see all of their bookings on the `My Bookings` page. To visit, click on `My Bookings` on the header. On the `My Bookings` page, customers can- 
+Customers can see all of their bookings on the `My Bookings` page. To visit, click on `My Bookings` on the header. On the `My Bookings` page, customers can-
 
 - See all their booked tickets.
 - Check booking & payment status.
@@ -25,7 +25,7 @@ Customers can see all of their bookings on the `My Bookings` page. To visit, cli
 
 ---
 
-![manage-bookings-customer](https://eventmie-pro-docs.classiebit.com/images/manage-bookings-customer.jpg "manage-bookings-customer")
+![manage-bookings-customer](https://eventmie-pro-docs.classiebit.com/images/v2/EventmieProImages/manage-bookings-customer.png "manage-bookings-customer")
 
 ---
 
@@ -33,7 +33,7 @@ Customers can see all of their bookings on the `My Bookings` page. To visit, cli
 <a name="admin-bookings"></a>
 ## Admin's: Bookings
 
-Admins can see all event bookings on the `Admin Panel -> Bookings` page. To visit, click on `Bookings` on the Admin Panel. On the `Bookings` page, Admin can- 
+Admins can see all event bookings on the `Admin Panel -> Bookings` page. To visit, click on `Bookings` on the Admin Panel. On the `Bookings` page, Admin can-
 
 - See all their Events booked tickets.
 - Check booking & payment status.
@@ -51,7 +51,7 @@ Admins can see all event bookings on the `Admin Panel -> Bookings` page. To visi
 <a name="organizer-bookings"></a>
 ## Organizer's: Bookings
 
-Organizers can see all of their event bookings on the `Manage Bookings` page. To visit, click on `Manage Bookings` on the header, account's dropdown. On the `Manage Bookings` page, Organizers can- 
+Organizers can see all of their event bookings on the `Manage Bookings` page. To visit, click on `Manage Bookings` on the header, account's dropdown. On the `Manage Bookings` page, Organizers can-
 
 - See all their Events booked tickets.
 - Check booking & payment status.
@@ -61,7 +61,7 @@ Organizers can see all of their event bookings on the `Manage Bookings` page. To
 
 ---
 
-![manage-bookings-organizer](https://eventmie-pro-docs.classiebit.com/images/manage-bookings-organizer.jpg "manage-bookings-organizer")
+![manage-bookings-organizer](https://eventmie-pro-docs.classiebit.com/images/v2/EventmieProImages/manage-bookings-organizer.png "manage-bookings-organizer")
 
 ---
 
@@ -69,9 +69,9 @@ Organizers can see all of their event bookings on the `Manage Bookings` page. To
 <a name="organizer-earnings"></a>
 ## Organizer's: Earnings
 
-Organizers can see all of their event's earnings on the `Manage Earnings` page. To visit, click on `Manage Earnings` on the header, account's dropdown. On the `Manage Earnings` page, Organizers can- 
+Organizers can see all of their event's earnings on the `Manage Earnings` page. To visit, click on `Manage Earnings` on the header, account's dropdown. On the `Manage Earnings` page, Organizers can-
 
-- See the overview of their Event's sales and earnings like 
+- See the overview of their Event's sales and earnings like
     - Total `Bookings` amount of all sales.
     - Total `Commission` deducted by admin.
     - Total `Profit` earned.
@@ -83,7 +83,7 @@ Organizers can see all of their event's earnings on the `Manage Earnings` page. 
 
 ---
 
-![manage-bookings-organizer-earnings](https://eventmie-pro-docs.classiebit.com/images/manage-bookings-organizer-earnings.jpg "manage-bookings-organizer-earnings")
+![manage-bookings-organizer-earnings](https://eventmie-pro-docs.classiebit.com/images/v2/EventmieProImages/manage-bookings-organizer-earnings.png "manage-bookings-organizer-earnings")
 
 ---
 
@@ -96,7 +96,7 @@ A new Organizer Dashboard to take a quick overview of their events activities.
 
 ---
 
-![organizer-dashboard-front-end](https://eventmie-pro-docs.classiebit.com/images/organizer-dashboard-front-end.jpg "organizer-dashboard-front-end")
+![organizer-dashboard-front-end](https://eventmie-pro-docs.classiebit.com/images/v2/EventmieProImages/organizer-dashboard-front-end.png "organizer-dashboard-front-end")
 
 ---
 
@@ -110,6 +110,6 @@ Customers can add Events to their Google Calendar from the **My Bookings** page 
 
 ---
 
-![google-calendar](https://eventmie-pro-docs.classiebit.com/images/google-calendar.jpg "google-calendar")
+![google-calendar](https://eventmie-pro-docs.classiebit.com/images/v2/EventmieProImages/manage-bookings-customer.png "google-calendar")
 
 ---
