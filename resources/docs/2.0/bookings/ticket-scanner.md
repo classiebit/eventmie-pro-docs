@@ -56,7 +56,7 @@ Before proceeding to the Ticket scanner, let's see the Ticket PDF. Eventmie Pro 
 
 ---
 
-![ticket-pdf](https://eventmie-pro-docs.classiebit.com/images/v2/EventmieProImages/ticket-scan-new-ticket-design.png "ticket-pdf")
+![ticket-pdf](https://eventmie-pro-docs.classiebit.com/public/images/v2/EventmieProImages/ticket-scanner-laptop-scan.png "ticket-pdf")
 
 ---
 
@@ -91,7 +91,7 @@ To scan a ticket-
 
 ---
 
-![ticket-scanner-iphone](https://eventmie-pro-docs.classiebit.com/images/ticket-scanner-iphone.jpg "ticket-scanner-iphone")
+![ticket-scanner-iphone](https://eventmie-pro-docs.classiebit.com/images/v2/EventmieProImages/ticket-scanner-iphone.png "ticket-scanner-iphone")
 
 ---
 
@@ -99,7 +99,7 @@ To scan a ticket-
 
 ---
 
-![ticket-scanner-android](https://eventmie-pro-docs.classiebit.com/images/ticket-scanner-android.jpg "ticket-scanner-android")
+![ticket-scanner-android](https://eventmie-pro-docs.classiebit.com/images/v2/EventmieProImages/ticket-scanner-android.png "ticket-scanner-android")
 
 ---
 
