@@ -4,7 +4,7 @@ The organizer can manage only own their events from the front end, while Admin c
 
 ---
 
-![Organizer manage events](https://eventmie-pro-docs.classiebit.com/images/events-manage-events.jpg "Organizer manage events")
+![Organizer manage events](https://eventmie-pro-docs.classiebit.com/images/v2/ManageEventsImages/events-manage-events.png "Organizer manage events")
 
 ---
 
@@ -30,7 +30,7 @@ Simply click on <larecipe-button type="black" size="sm" rounded>Export Attendees
 
 ---
 
-![Export Events Attendees](https://eventmie-pro-docs.classiebit.com/images/events-manage-export-csv.jpg "Export Events Attendees")
+![Export Events Attendees](https://eventmie-pro-docs.classiebit.com/images/v2/ManageEventsImages/events-manage-export-csv.png "Export Events Attendees")
 
 ---
 
@@ -45,7 +45,7 @@ Each tag belongs to an Organizer and to their Events. Basically, organizers can 
 
 ---
 
-![Manage Tags](https://eventmie-pro-docs.classiebit.com/images/events-manage-manage-tags.jpg "Manage Tags")
+![Manage Tags](https://eventmie-pro-docs.classiebit.com/images/v2/ManageEventsImages/events-manage-manage-tags.png "Manage Tags")
 
 ---
 
@@ -68,7 +68,7 @@ Click on <larecipe-button type="secondary" size="sm" rounded>Add Tag</larecipe-b
 
 ---
 
-![Create tag no profile](https://eventmie-pro-docs.classiebit.com/images/events-manage-tag-create-no-profile.jpg "Create tag no profile")
+![Create tag no profile](https://eventmie-pro-docs.classiebit.com/images/v2/ManageEventsImages/events-manage-tag-create-no-profile.png "Create tag no profile")
 
 ---
 
@@ -86,7 +86,7 @@ Click on <larecipe-button type="secondary" size="sm" rounded>Add Tag</larecipe-b
 
 ---
 
-![Create a tag with profile](https://eventmie-pro-docs.classiebit.com/images/events-manage-tag-create-profile.jpg "Create a tag with profile")
+![Create a tag with profile](https://eventmie-pro-docs.classiebit.com/images/v2/ManageEventsImages/events-manage-tag-create-profile.png "Create a tag with profile")
 
 ---
 
@@ -102,7 +102,7 @@ Click on <larecipe-button type="secondary" size="sm" rounded>Add Tag</larecipe-b
 
 ---
 
-![Show tag no profile](https://eventmie-pro-docs.classiebit.com/images/events-manage-tag-show.jpg "Show tag no profile")
+![Show tag no profile](https://eventmie-pro-docs.classiebit.com/images/v2/ManageEventsImages/events-manage-tag-show.png "Show tag no profile")
 
 ---
 
@@ -110,7 +110,7 @@ Click on <larecipe-button type="secondary" size="sm" rounded>Add Tag</larecipe-b
 
 ---
 
-![Show tag profile](https://eventmie-pro-docs.classiebit.com/images/events-manage-tag-show-profile.jpg "Show tag profile")
+![Show tag profile](https://eventmie-pro-docs.classiebit.com/images/v2/ManageEventsImages/events-manage-tag-show-profile.png "Show tag profile")
 
 
 
@@ -122,7 +122,7 @@ The event can be shared on social media websites from the Event detail page.
 
 ---
 
-![Social sharing](https://eventmie-pro-docs.classiebit.com/images/events-manage-share-event.jpg "Social sharing")
+![Social sharing](https://eventmie-pro-docs.classiebit.com/images/v2/ManageEventsImages/events-manage-share-event.png "Social sharing")
 
 ---
 
