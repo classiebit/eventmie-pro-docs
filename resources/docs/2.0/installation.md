@@ -141,7 +141,7 @@ Eventmie Pro also comes with web-installer for those, who are not familiar with 
 
 ---
 
-![Eventmie Web Installer](https://eventmie-pro-docs.classiebit.com/images/installation-web-installer.jpg "Eventmie Web Installer")
+![Eventmie Web Installer](https://eventmie-pro-docs.classiebit.com/images/v2/pro-installer.png "Eventmie Web Installer")
 
 ---
 

@@ -26,7 +26,7 @@ This is how it'll look on the **Frontend -> Header**
 
 ---
 
-![front-header-menu](https://eventmie-pro-docs.classiebit.com/images/front-header-menu.jpg "front-header-menu")
+![front-header-menu](https://eventmie-pro-docs.classiebit.com/images/v2/2.0-header-menu.png "front-header-menu")
 
 ---
 
@@ -46,7 +46,7 @@ This is how it'll look on the **Frontend -> Footer**
 
 ---
 
-![front-footer-menu](https://eventmie-pro-docs.classiebit.com/images/front-footer-menu.jpg "front-footer-menu")
+![front-footer-menu](https://eventmie-pro-docs.classiebit.com/images/v2/2.0-footer-menu.png "front-footer-menu")
 
 ---
 

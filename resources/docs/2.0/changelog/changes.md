@@ -1,17 +1,11 @@
-# What's New <small>changelog</small> v1.8.x
+# What's New <small>changelog</small> v2.0.x
 
-- [v1.8.0 (01-Aug-2022)](#v1.8.0)
+- [v2.0 (29-Nov-2023)](#v2.0)
 
----
+<a name="v2.0"></a> 
+## v2.0 <small>Released on 29-Nov-2023</small>
 
->{danger} You must be on v1.7.x to update to v1.8.x. Please DO NOT directly update to v1.8.x older than v1.7.x.
-
----
-
-<a name="v1.8.0"></a> 
-## v1.8.0 <small>Released on 01-Aug-2022</small>
-
-v1.8.0 is a major release. It includes a lot of new & most requested features, improvements, optimizations, and bug fixes.
+v2.0 is a major release. It includes a lot of new & most requested features, improvements, optimizations, and bug fixes.
 
 
 ### New Features

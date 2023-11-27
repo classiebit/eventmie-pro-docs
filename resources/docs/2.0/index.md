@@ -4,7 +4,6 @@
     - [1.3 Configuration](/{{route}}/{{version}}/configuration)
     - [1.4 Update <small class="v">v1.8</small>](/{{route}}/{{version}}/update)
     - [1.5 What's New <small class="v">v1.8</small>](/{{route}}/{{version}}/changelog/changes)
-    - [1.6 PWA <small class="v">v1.8</small>](/{{route}}/{{version}}/pwa)
 
 
 - ## 2. Admin Panel
