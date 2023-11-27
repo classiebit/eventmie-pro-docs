@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -21,6 +20,6 @@ And later on, they can login with same email after resetting their password usin
 
 ---
 
-![2-guest-checkout](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-guest-checkout.png "2-guest-checkout")
+![2-guest-checkout](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/2-guest-checkout.png "2-guest-checkout")
 
 ---

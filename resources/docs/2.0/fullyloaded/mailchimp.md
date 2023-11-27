@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -25,12 +24,11 @@ To enable it, the Organizer first need to create a MailChimp Account from **[Mai
 
 After getting the above, follow the below steps-
 
-
 1. Login as Organizer and go to Profile
 2. Enter `MailChimp ApiKey` & `MailChimp List Id` and hit **Save Profile**.
 
 ---
 
-![mailchimp-setup](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/mailchimp-setup.png "mailchimp-setup")
+![mailchimp-setup](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/mailchimp-setup.png "mailchimp-setup")
 
 ---

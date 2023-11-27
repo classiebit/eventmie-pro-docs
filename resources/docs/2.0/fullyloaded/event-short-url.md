@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -9,6 +8,6 @@ Shorten Event URLs to promote the events easily.
 
 ---
 
-![event-short-url](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/event-short-url.png "event-short-url")
+![event-short-url](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/event-short-url.png "event-short-url")
 
 ---

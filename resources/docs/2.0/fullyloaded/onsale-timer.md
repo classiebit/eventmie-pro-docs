@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -13,14 +12,14 @@ Put tickets on sale with a discounted price and sale timer. Set sale start date 
 
 ---
 
-- [Set Tickets On Sale](#Set-Tickets-On-Sale)
-- [Purchase Tickets On Sale](#Purchase-Tickets-On-Sale)
+-   [Set Tickets On Sale](#Set-Tickets-On-Sale)
+-   [Purchase Tickets On Sale](#Purchase-Tickets-On-Sale)
 
+<a name="Set-Tickets-On-Sale"></a>
 
-<a name="Set-Tickets-On-Sale"></a> 
 ## Set Tickets On Sale
 
-First, let's create a ticket and follow the below simple steps- 
+First, let's create a ticket and follow the below simple steps-
 
 1. Go to Event Edit Page -> Tickets tab.
 2. Enter Sale Start Date, Sale End Date & Sale Price and hit Save.
@@ -36,34 +35,33 @@ In the same way, you can put any of the ticket on-sale.
 
 ---
 
+<a name="Purchase-Tickets-On-Sale"></a>
 
-
-<a name="Purchase-Tickets-On-Sale"></a> 
 ## Purchase Tickets On Sale
 
-After putting ticket on sale, you can see the Event on-sale on the 
+After putting ticket on sale, you can see the Event on-sale on the
 
-- Event listing page 
-- Homepage 
+-   Event listing page
+-   Homepage
 
-    ---
+    ***
 
     ![2-see-sale-timer-listing](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-see-sale-timer-listing.png "2-see-sale-timer-listing")
 
-    ---
+    ***
 
-- Event page 
+-   Event page
 
-    ---
+    ***
 
     ![3-see-sale-timer-event-page](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/3-see-sale-timer-event-page.png "3-see-sale-timer-event-page")
 
-    ---
+    ***
 
-- Checkout popup
+-   Checkout popup
 
-    ---
+    ***
 
-    ![4-see-sale-timer-checkout](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/4-see-sale-timer-checkout.png "4-see-sale-timer-checkout")
+    ![4-see-sale-timer-checkout](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/4-see-sale-timer-checkout.png "4-see-sale-timer-checkout")
 
-    ---
+    ***

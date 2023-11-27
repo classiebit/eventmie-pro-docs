@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -23,13 +22,13 @@ The Manager (sub-organizer) have power than POS & Scanner. The Organizer can cre
 
 ---
 
-- [Create Sub-organizers](#Create-Sub-organizers)
-- [POS](#POS)
-- [Scanner](#Scanner)
-- [Manager](#Manager)
+-   [Create Sub-organizers](#Create-Sub-organizers)
+-   [POS](#POS)
+-   [Scanner](#Scanner)
+-   [Manager](#Manager)
 
+<a name="Create-Sub-organizers"></a>
 
-<a name="Create-Sub-organizers"></a> 
 ## Create Sub-organizers
 
 First, let's create Sub-organizers of different roles.
@@ -40,34 +39,35 @@ First, let's create Sub-organizers of different roles.
 
 1. Go to Admin Panel -> Events and click More button.
 
-    ---
+    ***
 
     ![1-admin-manage-events](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-admin-manage-events.png "1-admin-manage-events")
 
-    ---
+    ***
 
 2. Select the Organizer from the **Organizer Events** dropdown, for whom you wanna create Sub-organizers.
 
-    ---
+    ***
 
     ![2-admin-create-suborganizer](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-admin-create-suborganizer.png "2-admin-create-suborganizer")
 
-    ---
+    ***
 
 3. Then click Create **Sub-organizer** Button.
 
-    ---
+    ***
 
     ![3-create-suborganizer](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/3-create-suborganizer.png "3-create-suborganizer")
 
-    ---
+    ***
 
-4. In the Popup- 
+4. In the Popup-
+
     - Select a Role POS, Scanner or Manager
     - Enter name
     - Enter email
     - Enter password and click Save.
-    
+
 5. The newly created Sub-organizer will receive a successful Registration email.
 6. You (Admin or Organizer) need to provide them the password, or they can simply reset their password using Forgot Password.
 
@@ -77,33 +77,31 @@ First, let's create Sub-organizers of different roles.
 
 1. Manage Events and click **Create Sub-Organizer** and follow the save steps as above.
 
-    ---
+    ***
 
     ![4-organizer-manager-events](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/4-organizer-manager-events.png "4-organizer-manager-events")
 
-    ---
+    ***
 
 2. Organizers can manage their Sub-Organizers from Manage Sub-Organizers page.
 
-    ---
+    ***
 
     ![10-manage-suborganizers](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/10-manage-suborganizers.png "10-manage-suborganizers")
 
-    ---
+    ***
 
+<a name="POS"></a>
 
-<a name="POS"></a> 
 ## POS
 
 POS can make bookings on behalf of Organizer. And then they can manage those bookings which they've made, like changing the booking paid status, enable or disable a booking and so on.
-
 
 ---
 
 ![5-pos](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/5-pos.png "5-pos")
 
 ---
-
 
 <br>
 
@@ -112,19 +110,19 @@ POS can make bookings on behalf of Organizer. And then they can manage those boo
 1. Create a Sub-Organizer by selecting POS role.
 2. Click on **Add Sub-organizers** on the Event you wanna assign Sub-Organizers to.
 
-    ---
+    ***
 
     ![8-assign-suborganizer](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/8-assign-suborganizer.png "8-assign-suborganizer")
 
-    ---
+    ***
 
 3. On the Popup, select POS and hit Save.
 
-    ---
+    ***
 
-    ![9-assign-suborganizer](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/9-assign-suborganizer.png "9-assign-suborganizer")
+    ![9-assign-suborganizer](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/9-assign-suborganizer.png.png "9-assign-suborganizer")
 
-    ---
+    ***
 
 <br>
 
@@ -137,39 +135,39 @@ You can select multiple POS on every event. And The POS can book tickets of only
 1. POS can login with their email and password.
 2. POS can only see the events to which they're assigned to.
 
-    ---
+    ***
 
     ![11-pos-browse-events](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/11-pos-browse-events.png "11-pos-browse-events")
 
-    ---
+    ***
 
-2. POS can make the booking for a customer by entering a customer's email in Select Customer dropdown.
-3. POS can select Offline payment method, and can collect payment offline or via online payment outside of the website.
+3. POS can make the booking for a customer by entering a customer's email in Select Customer dropdown.
+4. POS can select Offline payment method, and can collect payment offline or via online payment outside of the website.
 
-    ---
+    ***
 
     ![12-pos-make-booking](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/12-pos-make-booking.png "12-pos-make-booking")
 
-    ---
+    ***
 
-4. POS can see and manage all the bookings they've made from **POS Bookings** page.
+5. POS can see and manage all the bookings they've made from **POS Bookings** page.
 
-    ---
+    ***
 
     ![13-pos-manage-bookings](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/13-pos-manage-bookings.png "13-pos-manage-bookings")
 
-    ---
+    ***
 
-5. POS can also manage Booking Cancellation and refunds.
+6. POS can also manage Booking Cancellation and refunds.
 
-    ---
+    ***
 
     ![14-pos-update-booking](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/14-pos-update-booking.png "14-pos-update-booking")
 
-    ---
+    ***
 
+<a name="Scanner"></a>
 
-<a name="Scanner"></a> 
 ## Scanner
 
 Scanner can scan tickets on behalf of Organizer. And they can see the bookings of the tickets that they've scanned in order to manage reports.
@@ -206,8 +204,8 @@ You can select multiple Scanners on every event. And The Scanner can scan ticket
 
 ---
 
+<a name="Manager"></a>
 
-<a name="Manager"></a> 
 ## Manager
 
 Manager can do everything as Organizer. It's an unlimited access account of Organizer.

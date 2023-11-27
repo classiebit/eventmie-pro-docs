@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -17,6 +16,6 @@ A public Organizer profile page with all the Organizer's active events listing. 
 
 ---
 
-![3-organizer-profile-page](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/3-organizer-profile-page.png "3-organizer-profile-page")
+![3-organizer-profile-page](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/3-organizer-profile-page.png "3-organizer-profile-page")
 
 ---

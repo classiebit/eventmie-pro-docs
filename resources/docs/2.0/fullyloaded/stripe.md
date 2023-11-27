@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -10,10 +9,9 @@ After getting the Stripe keys, follow the below steps-
 
 ---
 
-![stripe-setup](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/stripe-setup.png "stripe-setup")
+![stripe-setup](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/PaymentGateways.png "stripe-setup")
 
 ---
-
 
 1. Go to Admin Panel -> Settings -> Apps
 2. Enter `Stripe Public Key` & `Stripe Secret Key` and hit **Save Settings**
@@ -22,16 +20,14 @@ After getting the Stripe keys, follow the below steps-
 
 You can enter Stripe **Test** keys to Test payment using Stripe Test Card, and Stripe **Live** keys to make real payments.
 
-
 ---
 
 ![stripe-payment](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/stripe-payment.png "stripe-payment")
 
 ---
 
-
 ---
 
->{primary} To Disable Stripe, simply remove the `Stripe Public Key` & `Stripe Secret Key`.
+> {primary} To Disable Stripe, simply remove the `Stripe Public Key` & `Stripe Secret Key`.
 
 ---

@@ -1,11 +1,10 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
 # Rating & Review
 
-Let attendees add ratings and reviews to the event, that can be reviewed and approved by the Event organizer before publishing. 
+Let attendees add ratings and reviews to the event, that can be reviewed and approved by the Event organizer before publishing.
 
 ---
 
@@ -13,12 +12,12 @@ Let attendees add ratings and reviews to the event, that can be reviewed and app
 
 ---
 
-- [Enable Rating & Review](#Enable-Rating-Review)
-- [Add Review](#Add-Review)
-- [Approve Review](#Approve-Review)
+-   [Enable Rating & Review](#Enable-Rating-Review)
+-   [Add Review](#Add-Review)
+-   [Approve Review](#Approve-Review)
 
+<a name="Create-GuestList"></a>
 
-<a name="Create-GuestList"></a> 
 ## Enable Rating & Review
 
 First, you need to enable Rating & Review on the Event.
@@ -33,8 +32,8 @@ First, you need to enable Rating & Review on the Event.
 
 ---
 
+<a name="Add-Review"></a>
 
-<a name="Add-Review"></a> 
 ## Add Review
 
 Only the customer who has purchased atleast on ticket on an event, can add Rating and Review from Event page.
@@ -45,12 +44,12 @@ Only the customer who has purchased atleast on ticket on an event, can add Ratin
 
 ---
 
-![2-add-review](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-add-review.png "2-add-review")
+![2-add-review](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/2-add-review.png "2-add-review")
 
 ---
 
+<a name="Approve-Review"></a>
 
-<a name="Approve-Review"></a> 
 ## Approve Review
 
 By default, the Rating & Review added by customer will remain unpublished. The Organizer need to approve it by updating its status to Published. Organizer also receives an email notification every time their events receives a rating & review.

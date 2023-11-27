@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -13,14 +12,14 @@ Make fundraiser events by creating free donation tickets to accept any custom am
 
 ---
 
-- [Set Donation Ticket](#Set-Donation-Ticket)
-- [Book Donation Ticket](#Book-Donation-Ticket)
+-   [Set Donation Ticket](#Set-Donation-Ticket)
+-   [Book Donation Ticket](#Book-Donation-Ticket)
 
+<a name="Set-Donation-Ticket"></a>
 
-<a name="Set-Donation-Ticket"></a> 
 ## Set Donation Ticket
 
-First, let's create a ticket and follow the below simple steps- 
+First, let's create a ticket and follow the below simple steps-
 
 1. Go to Event Edit Page -> Tickets tab.
 2. Enter any price greater than 0, and set description about donation ticket.
@@ -32,9 +31,8 @@ First, let's create a ticket and follow the below simple steps-
 
 ---
 
+<a name="Book-Donation-Ticket"></a>
 
-
-<a name="Book-Donation-Ticket"></a> 
 ## Book Donation Ticket
 
 Users can either book donation ticket for free, or they can purchase it on any custom amount they wanna donation and book the ticket.
@@ -49,6 +47,6 @@ Users can either book donation ticket for free, or they can purchase it on any c
 
 ---
 
-![4-book-donation-ticket](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/4-book-donation-ticket.png "4-book-donation-ticket")
+![4-book-donation-ticket](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/4-book-donation-ticket.png "4-book-donation-ticket")
 
 ---

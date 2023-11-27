@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -9,10 +8,9 @@ To enable it, you first need to create a Authorize.net Merchant Account from **[
 
 ---
 
-![authorize.net-setup](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/authorize.net-setup.png "authorize.net-setup")
+![authorize.net-setup](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/PaymentGateways.png "authorize.net-setup")
 
 ---
-
 
 1. Go to Admin Panel -> Settings -> Apps
 2. Enter `Authorize.Net Login Id` & `Authorize.Net Transaction Key` and hit **Save Settings**
@@ -21,16 +19,14 @@ To enable it, you first need to create a Authorize.net Merchant Account from **[
 
 You can toggle `Authorize.Net Test Mode` to switch between Test and Live payment.
 
-
 ---
 
 ![authorize.net-payment](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/authorize.net-payment.png "authorize.net-payment")
 
 ---
 
-
 ---
 
->{primary} To Disable Authorize.net, simply remove the `Authorize.Net Login Id` & `Authorize.Net Transaction Key`.
+> {primary} To Disable Authorize.net, simply remove the `Authorize.Net Login Id` & `Authorize.Net Transaction Key`.
 
 ---

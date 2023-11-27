@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -9,10 +8,9 @@ Duplicate existing events to speed up creating a new event, rather than creating
 
 ---
 
-![clone-event](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/clone-event.png "clone-event")
+![clone-event](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/CloneEvent.png "clone-event")
 
 ---
-
 
 1. If you're logged in as Admin then, go to Admin Panel -> Events and click **More**.
 2. If you're logged in as Organizer then go to **Manage Events**.

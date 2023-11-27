@@ -1,15 +1,14 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
 # Attendee Custom Fields
 
-This is to make booking with specific detail like for whom the customer is making the booking and who's actually going to attend the event. 
+This is to make booking with specific detail like for whom the customer is making the booking and who's actually going to attend the event.
 
 ---
 
-![attendee-custom-fields](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/attendee-custom-fields.png "attendee-custom-fields")
+![attendee-custom-fields](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/AttendeeCustomField.png "attendee-custom-fields")
 
 ---
 
@@ -17,11 +16,11 @@ These attendees list will be shown on the Ticket PDF along with assigned Seat Nu
 
 ---
 
-![1-ticket-pdf-attendee-names](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-ticket-pdf-attendee-names.png "1-ticket-pdf-attendee-names")
+![1-ticket-pdf-attendee-names](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/1-ticket-pdf-attendee-names.png "1-ticket-pdf-attendee-names")
 
 ---
 
-![2-ticket-pdf-attendee-names](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-ticket-pdf-attendee-names.png "2-ticket-pdf-attendee-names")
+![2-ticket-pdf-attendee-names](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/1-ticket-pdf-attendee-names.png "2-ticket-pdf-attendee-names")
 
 ---
 

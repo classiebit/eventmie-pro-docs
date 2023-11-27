@@ -1,11 +1,10 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
 # Complimentary Bookings
 
-Admin can create complementary bookings of any events that can be excluded from the normal bookings finances. Complimentary booking is something that's not part of Admin commission calculation and organizer earning payouts, these are kinds of external bookings that are sold externally/outside of the website. 
+Admin can create complementary bookings of any events that can be excluded from the normal bookings finances. Complimentary booking is something that's not part of Admin commission calculation and organizer earning payouts, these are kinds of external bookings that are sold externally/outside of the website.
 
 ---
 
@@ -24,9 +23,8 @@ To make complimentary bookings-
 7. You can download the Complimentary Bookings QrCodes in Zip by clicking Download Zip.
 8. And you can also export the Attendees CSV.
 
-
 ---
 
-![2-complimentary-bookings](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-complimentary-bookings.png "2-complimentary-bookings")
+![2-complimentary-bookings](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/2-complimentary-bookings.png "2-complimentary-bookings")
 
 ---

@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -17,7 +16,7 @@ Then from the Event page, the attendee can get directions to the Event Venue in 
 
 ---
 
-![google-map-places-autocomplete](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/google-map-places-autocomplete.png "google-map-places-autocomplete")
+![google-map-places-autocomplete](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/google-map-places-autocomplete.png "google-map-places-autocomplete")
 
 ---
 
@@ -25,8 +24,7 @@ Then from the Event page, the attendee can get directions to the Event Venue in 
 
 ---
 
-To enable it, you first need to create a Google Developer Account from **[Google Developer Console](https://console.cloud.google.com/)**. 
-
+To enable it, you first need to create a Google Developer Account from **[Google Developer Console](https://console.cloud.google.com/)**.
 
 After login on Google Developer Console, follow below steps-
 
@@ -78,6 +76,6 @@ After login on Google Developer Console, follow below steps-
 
 ---
 
-![google-places-autocomplete-setup](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/google-places-autocomplete-setup.png "google-places-autocomplete-setup")
+![google-places-autocomplete-setup](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/google-places-autocomplete-setup.png "google-places-autocomplete-setup")
 
 ---

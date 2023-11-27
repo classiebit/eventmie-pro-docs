@@ -4,33 +4,32 @@ In Eventmie Pro, you can create daily, weekly & monthly repetitive events and cl
 
 ---
 
-![Repetitive event view](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-event-view.jpg "Repetitive event view")
+![Repetitive event view](https://eventmie-pro-docs.classiebit.com/images/v2/RepetitiveEventImages/events-repetitive-event-view.png "Repetitive event view")
 
 ---
 
->{primary} We'll discuss unique steps in creating a Repetitive event, the rest of all is the same as a Simple Event.
+> {primary} We'll discuss unique steps in creating a Repetitive event, the rest of all is the same as a Simple Event.
 
 ---
 
-
-- [Create Repetitive Event](#create-repetitive-event)
-- [Timing](#timing)
-- [Repetitive Schedules](#repetitive-schedules)
-- [Repetitive Type: Daily](#repetitive-type-daily)
-- [Repetitive Type: Weekly](#repetitive-type-weekly)
-- [Repetitive Type: Monthly](#repetitive-type-monthly)
-- [Skip Schedule <small class="v">v1.7</small>](#skip-schedule)
-- [Seasonal Tickets](#seasonal-tickets)
-- [Timeslots Availability](#timeslots-availability)
-
+-   [Create Repetitive Event](#create-repetitive-event)
+-   [Timing](#timing)
+-   [Repetitive Schedules](#repetitive-schedules)
+-   [Repetitive Type: Daily](#repetitive-type-daily)
+-   [Repetitive Type: Weekly](#repetitive-type-weekly)
+-   [Repetitive Type: Monthly](#repetitive-type-monthly)
+-   [Skip Schedule <small class="v">v1.7</small>](#skip-schedule)
+-   [Seasonal Tickets](#seasonal-tickets)
+-   [Timeslots Availability](#timeslots-availability)
 
 <a name="create-repetitive-event"></a>
+
 ## Create Repetitive Event
 
 Repetitive event here refers to the events or classes having repetitive schedules. Click on <larecipe-button type="primary" size="sm" rounded>Create Event</larecipe-button> to get started. 😤
 
-
 <a name="Timing"></a>
+
 ## Timing
 
 To start creating repetitive schedules, first set a time range, within which, the repetitive event is going to be held.
@@ -39,21 +38,20 @@ To start creating repetitive schedules, first set a time range, within which, th
 
 **Form Fields**
 
-- Start date
-- Start time
-- End date
-- End time
-- Add Repetitive Schedules
-
-
----
-
->{success} Click and check the `Add Repetitive Schedules` checkbox to get started with repetitive schedules.
+-   Start date
+-   Start time
+-   End date
+-   End time
+-   Add Repetitive Schedules
 
 ---
 
+> {success} Click and check the `Add Repetitive Schedules` checkbox to get started with repetitive schedules.
+
+---
 
 <a name="Repetitive-Schedule"></a>
+
 ## Repetitive Schedule <small class="v">v1.7</small>
 
 Once you check the `Add Repetitive Schedules` checkbox, a new interface shows up.
@@ -64,7 +62,7 @@ Once you check the `Add Repetitive Schedules` checkbox, a new interface shows up
 
 ---
 
->{primary} If you don't like customers to pay for every day, we've got a solution for that too. We'll discuss it in the `Monthly/Weekly Payment` section.
+> {primary} If you don't like customers to pay for every day, we've got a solution for that too. We'll discuss it in the `Monthly/Weekly Payment` section.
 
 ---
 
@@ -72,8 +70,8 @@ Once you check the `Add Repetitive Schedules` checkbox, a new interface shows up
 
 **Let's start with Repetitive Type**
 
-
 <a name="repetitive-type-daily"></a>
+
 ## Repetitive Type: Daily
 
 The event that repeats every `day` from start to end date.
@@ -82,17 +80,17 @@ The event that repeats every `day` from start to end date.
 
 **Form Fields**
 
-- **Repetitive Dates (Repeat Except)**- set dates on which the event `DO NOT` repeats.
-- **Start Time** - set start time for a particular schedule of each month.
-- **End Time** - set end time for a particular schedule of each month.
+-   **Repetitive Dates (Repeat Except)**- set dates on which the event `DO NOT` repeats.
+-   **Start Time** - set start time for a particular schedule of each month.
+-   **End Time** - set end time for a particular schedule of each month.
 
 ---
 
->{success} You can set different `start & end time` for every month's schedule.
+> {success} You can set different `start & end time` for every month's schedule.
 
 ---
 
->{primary} It also shows you calculations of each schedule days and time in real time.
+> {primary} It also shows you calculations of each schedule days and time in real time.
 
 ---
 
@@ -112,10 +110,8 @@ The event that repeats every `day` from start to end date.
 
 ---
 
-
-
-
 <a name="repetitive-type-weekly"></a>
+
 ## Repetitive Type: Weekly
 
 The event that repeats every `week` from start to end date.
@@ -123,9 +119,10 @@ The event that repeats every `week` from start to end date.
 <br>
 
 **Form Fields**
-- **Repetitive Days** - set weekdays on which the event repeats.
-- **Start Time** - set start time for a particular schedule of each month.
-- **End Time** - set end time for a particular schedule of each month.
+
+-   **Repetitive Days** - set weekdays on which the event repeats.
+-   **Start Time** - set start time for a particular schedule of each month.
+-   **End Time** - set end time for a particular schedule of each month.
 
 ---
 
@@ -145,8 +142,8 @@ The event that repeats every `week` from start to end date.
 
 ---
 
-
 <a name="repetitive-type-monthly"></a>
+
 ## Repetitive Type: Monthly
 
 The event that repeats every `month` from start to end date.
@@ -155,10 +152,9 @@ The event that repeats every `month` from start to end date.
 
 **Form Fields**
 
-- **Repetitive Dates (Repeat Every)** - set dates on which the event repeats.
-- **Start Time** - set start time for a particular schedule of each month.
-- **End Time** - set end time for a particular schedule of each month.
-
+-   **Repetitive Dates (Repeat Every)** - set dates on which the event repeats.
+-   **Start Time** - set start time for a particular schedule of each month.
+-   **End Time** - set end time for a particular schedule of each month.
 
 ---
 
@@ -178,8 +174,8 @@ The event that repeats every `month` from start to end date.
 
 ---
 
-
 <a name="skip-schedule"></a>
+
 ## Skip Schedule <small class="v">v1.7</small>
 
 To skip a month from Schedules, leave the particular **Schedule** input blank.
@@ -198,14 +194,13 @@ To skip a month from Schedules, leave the particular **Schedule** input blank.
 
 ---
 
-
-
 <a name="seasonal-tickets"></a>
+
 ## Seasonal Tickets
 
 ---
 
->{primary} New in v2.0 🔥
+> {primary} New in v2.0 🔥
 
 ---
 
@@ -228,7 +223,6 @@ Let's get started. Check the `Monthly or Weekly Payment` checkbox, e.g for the `
 1. Set the ticket prices for whole month schedules, instead of a single schedule.
 2. When a customer makes the payment, you get a whole month's payment instead of a single schedule.
 
-
 ---
 
 **This is how Monthly Repetitive Schedules with Monthly Payment option checked, look like**
@@ -247,8 +241,8 @@ Let's get started. Check the `Monthly or Weekly Payment` checkbox, e.g for the `
 
 ---
 
-
 <a name="timeslots-availability"></a>
+
 ## Timeslots Availability
 
 Check available timeslots for repetitive event schedules on the go. You can now see if a timeslot is fully booked or not for any specific date before clicking on the Checkout button.

@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -21,7 +20,7 @@ They just need to go to their Profile page, and add Seller Info.
 
 ---
 
-![1-invoice-pdf](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-invoice-pdf.png "1-invoice-pdf")
+![1-invoice-pdf](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/1-invoice-pdf.png "1-invoice-pdf")
 
 ---
 

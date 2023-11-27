@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -10,14 +9,13 @@ With Twilio, the attendees will receive notification via SMS on their phones aft
 <br>
 
 To enable it, you first need to create a Twilio Merchant Account from **[Twilio](https://www.twilio.com/)**. After setting up your account, you need to copy the `Twilio Sid`, `Twilio Auth Token` and `Twilio Number`.
- After getting the Twilio keys, follow the below steps-
+After getting the Twilio keys, follow the below steps-
 
 ---
 
-![twilio-sms-setup](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/twilio-sms-setup.png "twilio-sms-setup")
+![twilio-sms-setup](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/twilio-sms-setup.png "twilio-sms-setup")
 
 ---
-
 
 1. Go to Admin Panel -> Settings -> Apps
 2. Enter `Twilio Sid`, `Twilio Auth Token` & `Twilio Number` and hit **Save Settings**
@@ -26,6 +24,6 @@ To enable it, you first need to create a Twilio Merchant Account from **[Twilio]
 
 ---
 
->{primary} To Disable Twilio SMS, simply remove the Twilio keys.
+> {primary} To Disable Twilio SMS, simply remove the Twilio keys.
 
 ---

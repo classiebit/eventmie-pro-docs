@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -27,14 +26,13 @@ If you haven't enabled **Stripe 3D Checkout**, you (Admin) first need to create 
 
 The Organizer needs to Signup for a Stripe account and connect their Stripe on the website to start receiving their Payout directly into their Stripe account.
 
-
-- [Admin Setup](#admin-setup)
-- [Organizer Setup](#organizer-setup)
-- [Admin Payout](#admin-payout)
-- [Organizer Payout](#organizer-payout)
-
+-   [Admin Setup](#admin-setup)
+-   [Organizer Setup](#organizer-setup)
+-   [Admin Payout](#admin-payout)
+-   [Organizer Payout](#organizer-payout)
 
 <a name="admin-setup"></a>
+
 ## Admin Setup
 
 Admin needs to follow the below steps to enable it-
@@ -42,12 +40,12 @@ Admin needs to follow the below steps to enable it-
 <br>
 
 1. Go to Admin Panel -> Settings -> Apps
-2. Enter `Stripe Public Key` & `Stripe Secret Key` 
+2. Enter `Stripe Public Key` & `Stripe Secret Key`
 3. Turn on `Stripe Direct` and hit **Save Settings**
 
 ---
 
-![stripe-direct-setup](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/stripe-direct-setup.png "stripe-direct-setup")
+![stripe-direct-setup](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/PaymentGateways.png "stripe-direct-setup")
 
 ---
 
@@ -56,6 +54,7 @@ Admin needs to follow the below steps to enable it-
 You can enter Stripe **Test** keys to Test payment using Stripe Test Card, and Stripe **Live** keys to make real payments.
 
 <a name="organizer-setup"></a>
+
 ## Organizer Setup
 
 Admin needs to follow the below steps to start receiving payout directly into their Stripe account-
@@ -67,11 +66,11 @@ Admin needs to follow the below steps to start receiving payout directly into th
 
 ---
 
-![stripe-direct-organizer-connect](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/stripe-direct-organizer-connect.png "stripe-direct-organizer-connect")
+![stripe-direct-organizer-connect](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/stripe-direct-organizer-connectd.png "stripe-direct-organizer-connect")
 
 ---
 
-![stripe-direct-organizer-connected](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/stripe-direct-organizer-connected.png "stripe-direct-organizer-connected")
+![stripe-direct-organizer-connected](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/stripe-direct-organizer-connect.png "stripe-direct-organizer-connected")
 
 ---
 
@@ -81,8 +80,8 @@ Admin needs to follow the below steps to start receiving payout directly into th
 
 If the Admin has entered Stripe **Test** keys then Organizer can Connect a **Test Stripe account**, and Stripe **Live** keys then Organizer can Connect a **Real Stripe account**.
 
-
 <a name="admin-payout"></a>
+
 ## Admin Payout
 
 With Stripe Direct, Organizer and Admin, both can receive direct payment into their Bank accounts via Stripe. And the payout and admin commission processing will become fully-automated.
@@ -91,19 +90,17 @@ With Stripe Direct, Organizer and Admin, both can receive direct payment into th
 
 Admin will see the `Transferred` status as `Checked` in the Admin Commission.
 
-
 ---
 
 ![admin-commission-payout](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/admin-commission-payout.png "admin-commission-payout")
 
 ---
 
-
-
 <a name="organizer-payout"></a>
+
 ## Organizer Payout
 
-If in case, the Admin has enabled `Stripe Direct` and the Organizer doesn't connected his/her Stripe account, then the all payment will go to Admin Stripe account, and the Admin will need 
+If in case, the Admin has enabled `Stripe Direct` and the Organizer doesn't connected his/her Stripe account, then the all payment will go to Admin Stripe account, and the Admin will need
 to transfer Organizer payment manually via any external medium.
 
 <br>
@@ -116,6 +113,6 @@ Organizer will see the `Transferred` status as `Paid` in the `Manage Earnings`.
 
 ---
 
->{primary} To Disable Stripe Direct, simply remove the turn off `Stripe Direct` checkbox.
+> {primary} To Disable Stripe Direct, simply remove the turn off `Stripe Direct` checkbox.
 
 ---
