@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -21,6 +20,6 @@ Admin & Organizer can set particular Ticket as Sold out from Event Edit Page -> 
 
 ---
 
-![2-ticket-sold-out](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-ticket-sold-out.png "2-ticket-sold-out")
+![2-ticket-sold-out](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/2-ticket-sold-out.png.png "2-ticket-sold-out")
 
 ---
