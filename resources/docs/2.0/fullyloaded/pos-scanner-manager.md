@@ -174,7 +174,7 @@ Scanner can scan tickets on behalf of Organizer. And they can see the bookings o
 
 ---
 
-![6-scanner](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/6-scanner.png "6-scanner")
+![6-scanner](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/6-scanner.png "6-scanner")
 
 ---
 
