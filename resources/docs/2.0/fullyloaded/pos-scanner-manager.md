@@ -212,7 +212,7 @@ Manager can do everything as Organizer. It's an unlimited access account of Orga
 
 ---
 
-![7-manager](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/7-manager.png "7-manager")
+![7-manager](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/7-manager.png "7-manager")
 
 ---
 
