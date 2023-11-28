@@ -12,28 +12,26 @@ Continue reading all the features docs to know more about it.
 
 ---
 
-![eventmie-pro-fullyloaded-cover-new](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/eventmie-pro-fullyloaded-cover-new.jpg "eventmie-pro-fullyloaded-cover-new")
+![eventmie-pro-fullyloaded-cover-new](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/1.Introductionimage.png "eventmie-pro-fullyloaded-cover-new")
 
 ---
 
-- [Purchase EventmiePro FullyLoaded](#Purchase-EventmiePro-FullyLoaded)
-- [Customisation Services](#customisation-services)
-
-
+-   [Purchase EventmiePro FullyLoaded](#Purchase-EventmiePro-FullyLoaded)
+-   [Customisation Services](#customisation-services)
 
 <a name="Purchase-EventmiePro-FullyLoaded"></a>
+
 ## Purchase EventmiePro FullyLoaded
 
-
-+ [Live Preview (eventmie-pro-fullyloaded.classiebit.com)](https://eventmie-pro-fullyloaded.classiebit.com) - Visit FullyLoaded version live.
-+ [Purchase (classiebit.com/eventmie-pro-fullyloaded)](https://classiebit.com/eventmie-pro-fullyloaded) -  Purchase FullyLoaded version here.
-
+-   [Live Preview (eventmie-pro-fullyloaded.classiebit.com)](https://eventmie-pro-fullyloaded.classiebit.com) - Visit FullyLoaded version live.
+-   [Purchase (classiebit.com/eventmie-pro-fullyloaded)](https://classiebit.com/eventmie-pro-fullyloaded) - Purchase FullyLoaded version here.
 
 <a name="customisation-services"></a>
+
 ## Customisation Services
 
 We provide full customization services and support for Eventmie Pro FullyLoaded. Customization services include modification of existing features, the addition of new features, or any other custom project development from scratch.
 
 <br>
 
-Simply email us on **info@classiebit.com** for any type of queries. We would love to do business with you. 🙏 🤝 
+Simply email us on **info@classiebit.com** for any type of queries. We would love to do business with you. 🙏 🤝

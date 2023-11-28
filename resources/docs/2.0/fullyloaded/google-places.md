@@ -20,7 +20,7 @@ Then from the Event page, the attendee can get directions to the Event Venue in 
 
 ---
 
-![google-map-directions](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/google-map-directions.png "google-map-directions")
+![google-map-directions](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/google-map-directions.png "google-map-directions")
 
 ---
 

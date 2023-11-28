@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -17,7 +16,6 @@ With this, you can enter YouTube/Vimeo private or public video embed code while 
 
 ---
 
-
 1. Go to Event Edit Page -> Location Tab.
 2. Enter `Youtube Embed Code` and/or `Vimeo Embed Code` and hit **Save**
 
@@ -25,10 +23,9 @@ With this, you can enter YouTube/Vimeo private or public video embed code while 
 
 You can enter both Youtube & Vimeo embed code at the same time or either one of them.
 
-
 ---
 
-![bookings-youtube-vimeo-button](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/bookings-youtube-vimeo-button.png "bookings-youtube-vimeo-button")
+![bookings-youtube-vimeo-button](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/7.bookings-youtube-vimeo-button.png "bookings-youtube-vimeo-button")
 
 ---
 
@@ -46,16 +43,16 @@ You can also add more YouTube videos as part of event's promos and trailers to s
 
 1. Go to Event Edit Page -> Media Tab -> YouTube Video URL and add multipe YouTube video IDs.
 
-    ---
+    ***
 
-    ![1-add-more-youtube-video](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-add-more-youtube-video.png "1-add-more-youtube-video")
+    ![1-add-more-youtube-video](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/8.1-add-more-youtube-video.png "1-add-more-youtube-video")
 
-    ---
+    ***
 
 2. Then you can see them on Event page.
 
-    ---
+    ***
 
-    ![2-show-more-youtube-video](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-show-more-youtube-video.png "2-show-more-youtube-video")
+    ![2-show-more-youtube-video](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/9.2-show-more-youtube-video.png "2-show-more-youtube-video")
 
-    ---
+    ***

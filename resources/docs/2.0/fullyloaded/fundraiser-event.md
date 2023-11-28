@@ -8,7 +8,7 @@ Make fundraiser events by creating free donation tickets to accept any custom am
 
 ---
 
-![1-set-donation-ticket](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-set-donation-ticket.png "1-set-donation-ticket")
+![1-set-donation-ticket](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/29.1-set-donation-ticket.png "1-set-donation-ticket")
 
 ---
 
@@ -27,7 +27,7 @@ First, let's create a ticket and follow the below simple steps-
 
 ---
 
-![1-set-donation-ticket](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-set-donation-ticket.png "1-set-donation-ticket")
+![1-set-donation-ticket](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/29.1-set-donation-ticket.png "1-set-donation-ticket")
 
 ---
 

@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -9,15 +8,14 @@ Create Attendee while Checkout. It's an for Admin & Organizer to create a new At
 
 ---
 
-![1-create-attendee](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-create-attendee.png "1-create-attendee")
+![1-create-attendee](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/33.1-create-attendee.png "1-create-attendee")
 
 ---
 
-![2-create-attendee](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-create-attendee.png "2-create-attendee")
+![2-create-attendee](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/34.2-create-attendee.png "2-create-attendee")
 
 ---
 
-![3-create-attendee](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/3-create-attendee.png "3-create-attendee")
+![3-create-attendee](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/35.3-create-attendee.png "3-create-attendee")
 
 ---
-

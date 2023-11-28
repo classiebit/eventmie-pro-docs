@@ -74,7 +74,7 @@ Admin needs to follow the below steps to start receiving payout directly into th
 
 ---
 
-![stripe-payment](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/stripe-payment.png "stripe-payment")
+![stripe-payment](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/stripe-payment.png "stripe-payment")
 
 ---
 
@@ -92,7 +92,7 @@ Admin will see the `Transferred` status as `Checked` in the Admin Commission.
 
 ---
 
-![admin-commission-payout](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/admin-commission-payout.png "admin-commission-payout")
+![admin-commission-payout](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/admin-commission-payout.png "admin-commission-payout")
 
 ---
 
@@ -109,7 +109,7 @@ Organizer will see the `Transferred` status as `Paid` in the `Manage Earnings`.
 
 ---
 
-![organizer-earning-payout](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/organizer-earning-payout.png "organizer-earning-payout")
+![organizer-earning-payout](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/organizer-earning-payout.png "organizer-earning-payout")
 
 ---
 

@@ -18,7 +18,7 @@ The Manager (sub-organizer) have power than POS & Scanner. The Organizer can cre
 
 ---
 
-![3-create-suborganizer](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/3-create-suborganizer.png "3-create-suborganizer")
+![3-create-suborganizer](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/21.3-create-suborganizer.png "3-create-suborganizer")
 
 ---
 
@@ -41,7 +41,7 @@ First, let's create Sub-organizers of different roles.
 
     ***
 
-    ![1-admin-manage-events](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-admin-manage-events.png "1-admin-manage-events")
+    ![1-admin-manage-events](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/19.1-admin-manage-events.png "1-admin-manage-events")
 
     ***
 
@@ -49,7 +49,7 @@ First, let's create Sub-organizers of different roles.
 
     ***
 
-    ![2-admin-create-suborganizer](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-admin-create-suborganizer.png "2-admin-create-suborganizer")
+    ![2-admin-create-suborganizer](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/21.3-create-suborganizer.png "2-admin-create-suborganizer")
 
     ***
 
@@ -57,7 +57,7 @@ First, let's create Sub-organizers of different roles.
 
     ***
 
-    ![3-create-suborganizer](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/3-create-suborganizer.png "3-create-suborganizer")
+    ![3-create-suborganizer](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/21.3-create-suborganizer.png "3-create-suborganizer")
 
     ***
 
@@ -99,7 +99,7 @@ POS can make bookings on behalf of Organizer. And then they can manage those boo
 
 ---
 
-![5-pos](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/5-pos.png "5-pos")
+![5-pos](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/23.5-pos.png "5-pos")
 
 ---
 

@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -9,15 +8,15 @@ Create private events with or without passwords to invite specific people with a
 
 ---
 
-![4-access-private-event](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/4-access-private-event.png "4-access-private-event")
+![4-access-private-event](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/17.4-access-private-event.png "4-access-private-event")
 
 ---
 
-- [Set Private Event](#Set-Private-Event)
-- [Access Private Event](#Access-Private-Event)
+-   [Set Private Event](#Set-Private-Event)
+-   [Access Private Event](#Access-Private-Event)
 
+<a name="Set-Private-Event"></a>
 
-<a name="Set-Private-Event"></a> 
 ## Set Private Event
 
 Admin and Organizer both can set an Event as Private.
@@ -27,35 +26,34 @@ Admin and Organizer both can set an Event as Private.
 3. Check/Uncheck Is Private to switch between private/public event.
 4. Set password to make the private event password protected.
 
-    ---
+    ***
 
-    ![1-set-private-event](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-set-private-event.png "1-set-private-event")
+    ![1-set-private-event](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/15.1-set-private-event.png "1-set-private-event")
 
-    ---
+    ***
 
 5. You'll see a Lock Icon on the private events.
 
-    ---
+    ***
 
-    ![3-private-event-lock](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/3-private-event-lock.png "3-private-event-lock")
+    ![3-private-event-lock](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/17.3-private-event-lock.png "3-private-event-lock")
 
-    ---
-
----
-
->{primary} The system recognize the user who entered the password for a few hours, so that user don't need to add password to access the private event for few hours.
+    ***
 
 ---
 
+> {primary} The system recognize the user who entered the password for a few hours, so that user don't need to add password to access the private event for few hours.
 
-<a name="Access-Private-Event"></a> 
+---
+
+<a name="Access-Private-Event"></a>
+
 ## Access Private Event
 
 Let's visit the private event with Event URL. If the private event has password, you need to enter the password to view the Event page.
 
 ---
 
-![4-access-private-event](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/4-access-private-event.png "4-access-private-event")
+![4-access-private-event](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/17.4-access-private-event.png "4-access-private-event")
 
 ---
-

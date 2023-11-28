@@ -8,7 +8,7 @@ Put tickets on sale with a discounted price and sale timer. Set sale start date 
 
 ---
 
-![1-add-sale-price](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-add-sale-price.png "1-add-sale-price")
+![1-add-sale-price](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/25.1-add-sale-price.png "1-add-sale-price")
 
 ---
 
@@ -31,7 +31,7 @@ In the same way, you can put any of the ticket on-sale.
 
 ---
 
-![1-add-sale-price](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-add-sale-price.png "1-add-sale-price")
+![1-add-sale-price](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/25.1-add-sale-price.png "1-add-sale-price")
 
 ---
 
@@ -46,7 +46,7 @@ After putting ticket on sale, you can see the Event on-sale on the
 
     ***
 
-    ![2-see-sale-timer-listing](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-see-sale-timer-listing.png "2-see-sale-timer-listing")
+    ![2-see-sale-timer-listing](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/26.2-see-sale-timer-listing.png "2-see-sale-timer-listing")
 
     ***
 
@@ -54,7 +54,7 @@ After putting ticket on sale, you can see the Event on-sale on the
 
     ***
 
-    ![3-see-sale-timer-event-page](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/3-see-sale-timer-event-page.png "3-see-sale-timer-event-page")
+    ![3-see-sale-timer-event-page](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/27.3-see-sale-timer-event-page.png "3-see-sale-timer-event-page")
 
     ***
 

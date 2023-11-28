@@ -62,7 +62,7 @@ Follow the below steps to add reserved seating tickets.
 
     ***
 
-    ![1-add-seating-chart](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-add-seating-chart.png "1-add-seating-chart")
+    ![1-add-seating-chart](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/10-add-seating-chart.png "1-add-seating-chart")
 
     ***
 
@@ -125,7 +125,7 @@ Follow the below steps to add reserved seating tickets.
 
     ***
 
-    ![15-seatingchart-image-upload](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/15-seatingchart-image-upload.png "15-seatingchart-image-upload")
+    ![15-seatingchart-image-upload](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/11-seatingchart-image-upload.png "15-seatingchart-image-upload")
 
     ***
 
@@ -169,6 +169,6 @@ Once you're done adding Reserved Seating, you can see the Reserved seating optio
 
     ***
 
-    ![20-booking-attendee-detail](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/20-booking-attendee-detail.png "20-booking-attendee-detail")
+    ![20-booking-attendee-detail](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/12.20-booking-attendee-detail.png "20-booking-attendee-detail")
 
     ***

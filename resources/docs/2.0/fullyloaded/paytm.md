@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -9,20 +8,19 @@ To enable it, you first need to create a PayTM Business Account from **[PayTM Bu
 
 ---
 
-![paytm](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/paytm.png "paytm")
+![paytm](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/6.paytm.png "paytm")
 
 ---
 
-
 1. Go to Admin Panel -> Settings -> Apps
-2. Enter 
-- `PayTM Merchant ID` 
-- `PayTM Merchant Key`
-- `PayTM Merchant Website`
-- `PayTM Channel`
-- `PayTM Industry Type`
-- `PayTM Live Mode` - turn On/Off for Live/Test payment
+2. Enter
 
+-   `PayTM Merchant ID`
+-   `PayTM Merchant Key`
+-   `PayTM Merchant Website`
+-   `PayTM Channel`
+-   `PayTM Industry Type`
+-   `PayTM Live Mode` - turn On/Off for Live/Test payment
 
 <br>
 
@@ -30,6 +28,6 @@ You can enter PayTM **Test** keys to Test payment and PayTM **Live** keys to mak
 
 ---
 
->{primary} To Disable PayTM, simply remove all the **PayTM keys**.
+> {primary} To Disable PayTM, simply remove all the **PayTM keys**.
 
 ---

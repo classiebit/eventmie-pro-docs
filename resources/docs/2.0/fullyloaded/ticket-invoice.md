@@ -12,11 +12,11 @@ They just need to go to their Profile page, and add Seller Info.
 
 ---
 
-![1-ticket-invoice-custom](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-ticket-invoice-custom.png "1-ticket-invoice-custom")
+![1-ticket-invoice-custom](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/30.1-ticket-invoice-custom.png "1-ticket-invoice-custom")
 
 ---
 
-![1-ticket-invoice-custom](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-ticket-invoice-custom.png "1-ticket-invoice-custom")
+![1-ticket-invoice-custom](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/30.1-ticket-invoice-custom.png "1-ticket-invoice-custom")
 
 ---
 
