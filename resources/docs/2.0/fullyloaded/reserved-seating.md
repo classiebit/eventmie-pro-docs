@@ -165,7 +165,7 @@ Once you're done adding Reserved Seating, you can see the Reserved seating optio
 
     ***
 
-    ![19-manage-booking-view-attendee](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/19-manage-booking-view-attendee.png "19-manage-booking-view-attendee")
+    ![19-manage-booking-view-attendee](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/1-scan-attendeewise.png "19-manage-booking-view-attendee")
 
     ***
 

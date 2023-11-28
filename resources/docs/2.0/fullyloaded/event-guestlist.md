@@ -8,7 +8,7 @@ Organizers can create separate Guestlists for every event to export their emails
 
 ---
 
-![3-create-guest](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/3-create-guest.png "3-create-guest")
+![3-create-guest](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/3-create-guest.png "3-create-guest")
 
 ---
 
@@ -26,7 +26,7 @@ Let's create a GuestList
 
     ***
 
-    ![1-manage-guestlist](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-manage-guestlist.png "1-manage-guestlist")
+    ![1-manage-guestlist](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/1-manage-guestlist.png "1-manage-guestlist")
 
     ***
 
@@ -34,7 +34,7 @@ Let's create a GuestList
 
     ***
 
-    ![2-create-guestlist](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-create-guestlist.png "2-create-guestlist")
+    ![2-create-guestlist](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/2-create-guestlist.png "2-create-guestlist")
 
     ***
 
@@ -43,7 +43,7 @@ Let's create a GuestList
 
     ***
 
-    ![3-create-guest](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/3-create-guest.png "3-create-guest")
+    ![3-create-guest](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/3-create-guest.png "3-create-guest")
 
     ***
 
@@ -61,7 +61,7 @@ You can also add events attendees emails to a GuestList you created.
 
     ***
 
-    ![4-manage-events-guestlist](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/4-manage-events-guestlist.png "4-manage-events-guestlist")
+    ![4-manage-events-guestlist](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/16-manager-manage-everything.png "4-manage-events-guestlist")
 
     ***
 

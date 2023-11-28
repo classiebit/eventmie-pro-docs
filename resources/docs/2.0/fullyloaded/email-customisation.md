@@ -1,5 +1,4 @@
-
->{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
@@ -13,7 +12,7 @@ Create beautiful customized registration, booking, contact us, etc email templat
 
 ---
 
-![2-organizer-approval-email](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-organizer-approval-email.png "2-organizer-approval-email")
+![2-organizer-approval-email](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/successfulbooking.png "2-organizer-approval-email")
 
 ---
 

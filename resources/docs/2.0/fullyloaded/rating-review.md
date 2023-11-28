@@ -8,7 +8,7 @@ Let attendees add ratings and reviews to the event, that can be reviewed and app
 
 ---
 
-![4-show-review](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/4-show-review.png "4-show-review")
+![4-show-review](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/3-manage-reviews.png "4-show-review")
 
 ---
 
@@ -28,7 +28,7 @@ First, you need to enable Rating & Review on the Event.
 
 ---
 
-![1-enable-review](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-enable-review.png "1-enable-review")
+![1-enable-review](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/1-enable-review.png "1-enable-review")
 
 ---
 
@@ -60,10 +60,10 @@ By default, the Rating & Review added by customer will remain unpublished. The O
 
 ---
 
-![3-manage-reviews](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/3-manage-reviews.png "3-manage-reviews")
+![3-manage-reviews](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/4-show-review.png "3-manage-reviews")
 
 ---
 
-![4-show-review](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/4-show-review.png "4-show-review")
+![4-show-review](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/3-manage-reviews.png "4-show-review")
 
 ---

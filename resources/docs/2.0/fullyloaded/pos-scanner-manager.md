@@ -79,7 +79,7 @@ First, let's create Sub-organizers of different roles.
 
     ***
 
-    ![4-organizer-manager-events](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/4-organizer-manager-events.png "4-organizer-manager-events")
+    ![4-organizer-manager-events](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/8-assign-suborganizer.png "4-organizer-manager-events")
 
     ***
 
@@ -87,7 +87,7 @@ First, let's create Sub-organizers of different roles.
 
     ***
 
-    ![10-manage-suborganizers](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/10-manage-suborganizers.png "10-manage-suborganizers")
+    ![10-manage-suborganizers](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/10-manage-suborganizers.png "10-manage-suborganizers")
 
     ***
 
@@ -112,7 +112,7 @@ POS can make bookings on behalf of Organizer. And then they can manage those boo
 
     ***
 
-    ![8-assign-suborganizer](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/8-assign-suborganizer.png "8-assign-suborganizer")
+    ![8-assign-suborganizer](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/8-assign-suborganizer.png "8-assign-suborganizer")
 
     ***
 
@@ -154,7 +154,7 @@ You can select multiple POS on every event. And The POS can book tickets of only
 
     ***
 
-    ![13-pos-manage-bookings](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/13-pos-manage-bookings.png "13-pos-manage-bookings")
+    ![13-pos-manage-bookings](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/13-pos-manage-bookings.png "13-pos-manage-bookings")
 
     ***
 
@@ -162,7 +162,7 @@ You can select multiple POS on every event. And The POS can book tickets of only
 
     ***
 
-    ![14-pos-update-booking](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/14-pos-update-booking.png "14-pos-update-booking")
+    ![14-pos-update-booking](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/14-pos-update-booking.png "14-pos-update-booking")
 
     ***
 
@@ -200,7 +200,7 @@ You can select multiple Scanners on every event. And The Scanner can scan ticket
 
 ---
 
-![15-scanner-view-booknigs](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/15-scanner-view-booknigs.png "15-scanner-view-booknigs")
+![15-scanner-view-booknigs](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/15-scanner-view-booknigs.png "15-scanner-view-booknigs")
 
 ---
 
