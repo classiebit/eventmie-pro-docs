@@ -36,6 +36,6 @@ In this way, on the Bookings page, Organizer can know how much check-in has been
 
 ---
 
-![1-scan-attendeewise](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-scan-attendeewise.png "1-scan-attendeewise")
+![1-scan-attendeewise](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/1-scan-attendeewises.png "1-scan-attendeewise")
 
 ---
