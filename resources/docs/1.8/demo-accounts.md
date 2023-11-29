@@ -2,7 +2,7 @@
 
 ---
 
->{primary} Below are all the demo accounts for accessing the Eventmie Pro online demo **[Eventmie Pro Live Preview](https://eventmie-pro.classiebit.com/)** 👈
+>{primary} Below are all the demo accounts for accessing the Eventmie Pro online demo **[Eventmie Pro Live Demo](https://eventmie-pro-demo.classiebit.com/)** 👈
 
 ---
 

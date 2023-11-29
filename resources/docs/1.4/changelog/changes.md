@@ -33,7 +33,7 @@ v1.4.0 is a major release. It includes a lot of new & most requested features, i
 
 - Location filters on the Event listing page (Browse Events). You'll be able to filter by city, state, and country.
 - Multi-lingual Calendars.<br>
-[eventmie-pro.classiebit.com/events](https://eventmie-pro.classiebit.com/events)
+[eventmie-pro-demo.classiebit.com/events](https://eventmie-pro-demo.classiebit.com/events)
 
 - Multi-lingual Admin Panel. <br>
 [eventmie-pro-docs.classiebit.com/docs/1.4/configuration#multiple-languages](https://eventmie-pro-docs.classiebit.com/docs/1.4/configuration#multiple-languages)
