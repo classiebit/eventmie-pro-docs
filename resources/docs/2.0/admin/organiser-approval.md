@@ -8,28 +8,27 @@
 
 If Manually Approve Organizer setting is Enabled then-
 
-
-- [1. Customer requests](#1-customer-requests)
-- [2. Admin Approval](#2-admin-approval)
-
+-   [1. Customer requests](#1-customer-requests)
+-   [2. Admin Approval](#2-admin-approval)
 
 <a name="1-customer-requests"></a>
+
 ## 1. Customer Requests
 
-- Customer click on Become Organiser for the request for Organiser profile approval.
-- And Admin receives a notification via email for Organiser Approval request.
+-   Customer click on Become Organiser for the request for Organiser profile approval.
+-   And Admin receives a notification via email for Organiser Approval request.
 
 ---
 
-![become-organiser-request](https://eventmie-pro-docs.classiebit.com/images/v2/OrganiserManualApproval/CustomerRequestss.jpg "become-organiser-request")
+![become-organiser-request](https://eventmie-pro-docs.classiebit.com/images/v2/EventmieProFullyLoadedV2.0/CustomerRequestss.png "become-organiser-request")
 
 ---
-
 
 <a name="2-admin-approval"></a>
+
 ## 2. Admin Approval
 
-- Then from the `Admin Panel -> Users` page, Admin can see the Organiser Approval requests.
+-   Then from the `Admin Panel -> Users` page, Admin can see the Organiser Approval requests.
 
 ---
 
@@ -37,7 +36,7 @@ If Manually Approve Organizer setting is Enabled then-
 
 ---
 
-- And then, by editing the user, Admin can change the Role of the user from Customer to Organiser and complete the approval process.
+-   And then, by editing the user, Admin can change the Role of the user from Customer to Organiser and complete the approval process.
 
 ---
 
@@ -45,9 +44,8 @@ If Manually Approve Organizer setting is Enabled then-
 
 ---
 
-
 ---
 
->{primary} The user receives the Organiser approval success notification via email and then they can start adding events.
+> {primary} The user receives the Organiser approval success notification via email and then they can start adding events.
 
 ---

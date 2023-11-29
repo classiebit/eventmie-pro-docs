@@ -8,7 +8,7 @@ Create beautiful customized registration, booking, contact us, etc email templat
 
 ---
 
-![1-rating-email](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-rating-email.png "1-rating-email")
+![1-rating-email](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/1-rating-email.png "1-rating-email")
 
 ---
 

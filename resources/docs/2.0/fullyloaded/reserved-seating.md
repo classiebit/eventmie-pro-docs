@@ -139,7 +139,7 @@ Once you're done adding Reserved Seating, you can see the Reserved seating optio
 
     ***
 
-    ![16-seating-chart-event-page](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/16-seating-chart-event-page.png "16-seating-chart-event-page")
+    ![16-seating-chart-event-page](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/16-seating-chart-event-page.png "16-seating-chart-event-page")
 
     ***
 

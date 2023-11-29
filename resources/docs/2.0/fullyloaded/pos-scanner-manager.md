@@ -226,6 +226,6 @@ Manager can login with their email and password, and can do everything on the be
 
 ---
 
-![16-manager-manage-everything](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/16-manager-manage-everything.png "16-manager-manage-everything")
+![16-manager-manage-everything](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/16-manager-manage-everythings.png "16-manager-manage-everything")
 
 ---
