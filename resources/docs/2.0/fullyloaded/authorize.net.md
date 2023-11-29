@@ -21,7 +21,7 @@ You can toggle `Authorize.Net Test Mode` to switch between Test and Live payment
 
 ---
 
-![authorize.net-payment](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/authorize.net-payment.png "authorize.net-payment")
+![authorize.net-payment](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/authorize.net-paymen.png "authorize.net-payment")
 
 ---
 
