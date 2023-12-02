@@ -71,7 +71,6 @@ Before you start. Make sure your server meets at least the below requirements. *
 ### Prerequisites
 
 * Laravel version 6.x / 7.x / 8.x / 9.x
-* Laravel Authentication must be installed.
 
 ---
 

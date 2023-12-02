@@ -45,7 +45,7 @@ This is how it'll look on the **Frontend -> Footer**
 
 ---
 
-![front-footer-menu](https://eventmie-pro-docs.classiebit.com/images/v2/EventmieProFullyLoadedV2.0/2.0-footer-menu.png "front-footer-menu")
+![front-footer-menu](https://eventmie-pro-docs.classiebit.com/images/v2/EventmieProFullyLoadedV2.0/2.0-footer-menu-f.png "front-footer-menu")
 
 ---
 

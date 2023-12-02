@@ -2,8 +2,8 @@
     - [1.1 Introduction](/{{route}}/{{version}}/introduction)
     - [1.2 Installation](/{{route}}/{{version}}/installation)
     - [1.3 Configuration](/{{route}}/{{version}}/configuration)
-    - [1.4 Update <small class="v">v1.8</small>](/{{route}}/{{version}}/update)
-    - [1.5 What's New <small class="v">v1.8</small>](/{{route}}/{{version}}/changelog/changes)
+    - [1.4 Update <small class="v">v2.0</small>](/{{route}}/{{version}}/update)
+    - [1.5 What's New <small class="v">v2.0</small>](/{{route}}/{{version}}/changelog/changes)
 
 
 - ## 2. Admin Panel
@@ -21,13 +21,12 @@
     - [3.2 Repetitive Events <small class="v">v2.0</small>](/{{route}}/{{version}}/events/repetitive-events)
     - [3.3 Online Events](/{{route}}/{{version}}/events/online-events)
     - [3.4 Manage Events](/{{route}}/{{version}}/events/manage-events)
-    - [3.5 Manage Venues <small class="v">v1.8</small>](/{{route}}/{{version}}/events/manage-venues)
+    - [3.5 Manage Venues](/{{route}}/{{version}}/events/manage-venues)
+    - [3.6 Organiser Dashboard <small class="v">v2.0</small>](/{{route}}/{{version}}/events/organiser-dashboard)
 
-- ## 4. Organizer Dashboard
-    - [3.1 Failed Bookings](/{{route}}/{{version}}/dashboard/failed-bookings)
 
 - ## 4. Bookings
-    - [4.1 Booking Tickets](/{{route}}/{{version}}/bookings/booking-tickets)
+    - [4.1 Booking Tickets <small class="v">v2.0</small>](/{{route}}/{{version}}/bookings/booking-tickets)
     - [4.2 Email Notifications](/{{route}}/{{version}}/bookings/email-notifications)
     - [4.3 Manage Bookings](/{{route}}/{{version}}/bookings/manage-bookings)
     - [4.4 Cancellation & Refund](/{{route}}/{{version}}/bookings/cancellation-refund)
@@ -35,10 +34,10 @@
 
 
 - ## 5. Eventmie Pro FullyLoaded
-    - [5.1 Introduction](/{{route}}/{{version}}/fullyloaded/introduction)
-    - [5.2 Installation](/{{route}}/{{version}}/fullyloaded/installation)
-    - [5.3 Upgrade](/{{route}}/{{version}}/fullyloaded/upgrade)
-    - [5.4 Stripe](/{{route}}/{{version}}/fullyloaded/stripe)
+    - [5.1 Introduction <small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/introduction)
+    - [5.2 Installation <small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/installation)
+    - [5.3 Upgrade <small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/upgrade)
+    - [5.4 Stripe <small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/stripe)
     - [5.5 Stripe Direct](/{{route}}/{{version}}/fullyloaded/stripe-direct)
     - [5.6 Authorize.Net](/{{route}}/{{version}}/fullyloaded/authorize.net)
     - [5.6 Paystack](/{{route}}/{{version}}/fullyloaded/paystack)
@@ -59,7 +58,7 @@
     - [5.21 Ticket Invoice](/{{route}}/{{version}}/fullyloaded/ticket-invoice)
     - [5.22 Email Customisation](/{{route}}/{{version}}/fullyloaded/email-customisation)
     - [5.23 Rating & Review](/{{route}}/{{version}}/fullyloaded/rating-review)
-    - [5.24 Checkout On-Air <small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/guest-checkout)
+    - [5.24 Guest Checkout<small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/guest-checkout)
     - [5.25 Organizer Profile](/{{route}}/{{version}}/fullyloaded/organizer-profile)
     - [5.26 Attendee Custom <small>Fields</small>](/{{route}}/{{version}}/fullyloaded/attendee-custom-fields)
     - [5.27 Clone Event](/{{route}}/{{version}}/fullyloaded/clone-event)
@@ -69,7 +68,12 @@
     - [5.31 Event Guestlist](/{{route}}/{{version}}/fullyloaded/event-guestlist)
     - [5.32 Event Force Soldout](/{{route}}/{{version}}/fullyloaded/force-soldout-event)
     - [5.33 Create Attendee](/{{route}}/{{version}}/fullyloaded/create-attendee)
+    - [5.34 Failed Bookings <small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/failed-bookings)
+    - [5.35 Custom Ticket Order<small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/custom-ticket-order)
+    - [5.36 Organiser Sales Report<small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/organiser-sales-report)
 
+- ## 6. Android & iOS App
+    - [6.1 Introduction](/{{route}}/{{version}}/fullyloaded/introduction)
 
 
 - ## Live Preview

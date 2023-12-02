@@ -2,10 +2,6 @@
 
 ---
 
->{danger} You must be on Eventmie Pro v1.7.x before upgrading to Eventmie Pro FullyLoaded.
-
----
-
 >{success} Updating will **NEVER MODIFY OR DELETE** your website's existing users' data (file uploads) & database tables data. 
 
 ---
@@ -21,8 +17,7 @@
 
 To upgrade to Eventmie Pro FullyLoaded-
 
-1. You must be on Eventmie Pro v1.7.x.
-3. Download the latest version from [Classiebit.com - Downloads page](https://classiebit.com/downloads)
+1. Download the latest version from [Classiebit.com - Downloads page](https://classiebit.com/downloads)
 
 
 

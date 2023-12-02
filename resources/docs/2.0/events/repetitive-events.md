@@ -19,7 +19,7 @@ In Eventmie Pro, you can create daily, weekly & monthly repetitive events and cl
 -   [Repetitive Type: Weekly](#repetitive-type-weekly)
 -   [Repetitive Type: Monthly](#repetitive-type-monthly)
 -   [Skip Schedule <small class="v">v1.7</small>](#skip-schedule)
--   [Seasonal Tickets](#seasonal-tickets)
+-   [Seasonal Tickets <small class="v">v2.0</small>](#seasonal-tickets)
 -   [Timeslots Availability](#timeslots-availability)
 
 <a name="create-repetitive-event"></a>
@@ -214,18 +214,18 @@ This means the customer can attend the event for the whole month or week, by pay
 
 <br>
 
-For this kind of scenario, here's the `Monthly or Weekly Payment` to the rescue. 🥰
+For this kind of scenario, here's the `Seasonal Ticket Feature` to the rescue. 🥰
 
 <br>
 
-Let's get started. Check the `Monthly or Weekly Payment` checkbox, e.g for the `Repetitive Type: Monthly` type of event. After that-
+Let's get started. Check the `Seasonal Ticket` checkbox, e.g for the `Repetitive Type: Monthly` type of event. After that-
 
 1. Set the ticket prices for whole month schedules, instead of a single schedule.
 2. When a customer makes the payment, you get a whole month's payment instead of a single schedule.
 
 ---
 
-**This is how Monthly Repetitive Schedules with Monthly Payment option checked, look like**
+**This is how Monthly Repetitive Schedules with Seasonal Ticket option checked, look like**
 
 ---
 

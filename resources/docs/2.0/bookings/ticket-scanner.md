@@ -19,7 +19,7 @@ The ticket scanner scans QrCode on the ticket, verify if the ticket is valid, an
 
 - [Prerequisites](#Prerequisites)
 - [Ticket PDF <small class="v">v2.0</small>](#ticket-pdf)
-- [Scan & Check-in <small class="v">v1.5</small>](#scan-check-in)
+- [Scan & Check-in <small class="v">v2.0</small>](#scan-check-in)
 
 
 
@@ -44,7 +44,7 @@ Ticket scanner requires the below things to work-
 
 
 <a name="ticket-pdf"></a>
-## Ticket PDF <small class="v">v1.5</small>
+## Ticket PDF <small class="v">v2.0</small>
 
 Before proceeding to the Ticket scanner, let's see the Ticket PDF. Eventmie Pro generates tickets in PDF format with a unique QrCode in each.
 
@@ -56,15 +56,15 @@ Before proceeding to the Ticket scanner, let's see the Ticket PDF. Eventmie Pro 
 
 ---
 
-![ticket-pdf](https://eventmie-pro-docs.classiebit.com/public/images/v2/EventmieProImages/ticket-scanner-laptop-scan.png "ticket-pdf")
+![ticket-pdf](https://eventmie-pro-docs.classiebit.com/images/v2/EventmieProImages/ticket-scan-new-ticket-design.png "ticket-pdf")
 
 ---
 
 
 <a name="scan-check-in"></a>
-## Scan & Check-in <small class="v">v1.5</small>
+## Scan & Check-in <small class="v">v2.0</small>
 
-The scanning & Check-in process very smooth. 🍺
+The scanning & Check-in process very smooth. 🍺 The system also records the check-in time of the attendee for verification purposes.
 
 - Organizers can Scan & Check-in in only their own event's tickets.
 - Admin can Scan & Check-in in all events tickets.
@@ -107,7 +107,7 @@ To scan a ticket-
 
 ---
 
-![ticket-scanner-laptop](https://eventmie-pro-docs.classiebit.com/images/ticket-scanner-laptop.jpg "ticket-scanner-laptop")
+![ticket-scanner-laptop](https://eventmie-pro-docs.classiebit.com/images/v2/EventmieProImages/ticket-scan-browser-permission.png "ticket-scanner-laptop")
 
 ---
 

@@ -6,6 +6,12 @@ Eventmie Pro FullyLoaded is an advanced custom version of Eventmie Pro. It has a
 
 If you're already having Eventmie Pro, then you can also upgrade to Eventmie Pro FullyLoaded by following a few baby steps. You can upgrade to Eventmie Pro FullyLoaded by keeping your Eventmie Pro website existing events, bookings, users and all the data. You loose nothing when you upgrade to Eventmie Pro FullyLoaded.
 
+---
+
+> {primary} Good News! Eventmie Pro FullyLoaded 2.0 Android & iOS App is now available, check here **[Android & iOS App](https://classiebit.com/eventmie-pro-fullyloaded-app)** 👈  🔥
+
+---
+
 <br>
 
 Continue reading all the features docs to know more about it.

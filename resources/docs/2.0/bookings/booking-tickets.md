@@ -2,15 +2,9 @@
 
 Eventmie Pro has a super simple, secure & fast checkout process. 💪
 
+In v2.0 we've added time-bound checkout. A checkout timer of 5 minutes will run during the checkout, in that period, system will block selected tickets or seat for the attendee so that they book tickets easily before ticket being go out-of-stock in case of high sales.
+
 <br>
-
-A user needs to be registered & signed-in to book a ticket (purchase tickets).
-
----
-
->{success} After login, the user will be redirected back to the Event checkout page if in case, the user has tried to checkout before login.
-
----
 
 
 1. **Customer** can make bookings of any events, for themselves.
