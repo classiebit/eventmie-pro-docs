@@ -14,7 +14,7 @@ In v2.0, now you can-
 
 ---
 
-![18-seat-booked](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/18-seat-booked.png "18-seat-booked")
+![18-seat-booked](/images/v2/17-seat-booking.png "18-seat-booked")
 
 ---
 
@@ -142,7 +142,7 @@ Once you're done adding Reserved Seating, you can see the Reserved seating optio
     ***
 
 2. Then, on the Checkout popup, you can see the Reserved seating chart for each ticket.
-3. Select seats that you wanna book and checkout. Simple.
+3. Select seats that you wanna book and checkout. The system will block the seat for customer for 5 minutes and they have to within that time. During those 5 minutes no other can book the same seat.
 
     ***
 
