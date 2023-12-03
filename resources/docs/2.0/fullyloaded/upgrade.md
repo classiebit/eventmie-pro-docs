@@ -21,7 +21,7 @@ To upgrade to Eventmie Pro FullyLoaded-
 
     ---
 
-    ![classiebit-download](/images/v2/classiebit-downloads.png "classiebit-download")
+    ![classiebit-download](/images/v2/classiebit-downloads.webp "classiebit-download")
 
     ---
 

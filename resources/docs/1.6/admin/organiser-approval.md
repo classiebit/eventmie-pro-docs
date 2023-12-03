@@ -21,7 +21,7 @@ If Manually Approve Organizer setting is Enabled then-
 
 ---
 
-![become-organiser-request](/images/become-organiser-request.jpg "become-organiser-request")
+![become-organiser-request](/images/become-organiser-request.webp "become-organiser-request")
 
 ---
 
@@ -33,7 +33,7 @@ If Manually Approve Organizer setting is Enabled then-
 
 ---
 
-![admin-receive-approval-request](/images/admin-receive-approval-request.jpg "admin-receive-approval-request")
+![admin-receive-approval-request](/images/admin-receive-approval-request.webp "admin-receive-approval-request")
 
 ---
 
@@ -41,7 +41,7 @@ If Manually Approve Organizer setting is Enabled then-
 
 ---
 
-![admin-approves-organiser](/images/admin-approves-organiser.jpg "admin-approves-organiser")
+![admin-approves-organiser](/images/admin-approves-organiser.webp "admin-approves-organiser")
 
 ---
 

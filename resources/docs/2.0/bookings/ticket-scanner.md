@@ -12,7 +12,7 @@ The ticket scanner scans QrCode on the ticket, verify if the ticket is valid, an
 
 ---
 
-![ticket-scanner-laptop-scan](/images/v2/EventmieProImages/ticket-scanner-laptop-scan.png "ticket-scanner-laptop-scan")
+![ticket-scanner-laptop-scan](/images/v2/EventmieProImages/ticket-scanner-laptop-scan.webp "ticket-scanner-laptop-scan")
 
 ---
 
@@ -56,7 +56,7 @@ Before proceeding to the Ticket scanner, let's see the Ticket PDF. Eventmie Pro 
 
 ---
 
-![ticket-pdf](/images/v2/EventmieProImages/ticket-scan-new-ticket-design.png "ticket-pdf")
+![ticket-pdf](/images/v2/EventmieProImages/ticket-scan-new-ticket-design.webp "ticket-pdf")
 
 ---
 
@@ -91,7 +91,7 @@ To scan a ticket-
 
 ---
 
-![ticket-scanner-iphone](/images/v2/EventmieProImages/ticket-scanner-iphone.png "ticket-scanner-iphone")
+![ticket-scanner-iphone](/images/v2/EventmieProImages/ticket-scanner-iphone.webp "ticket-scanner-iphone")
 
 ---
 
@@ -99,7 +99,7 @@ To scan a ticket-
 
 ---
 
-![ticket-scanner-android](/images/v2/EventmieProImages/ticket-scanner-android.png "ticket-scanner-android")
+![ticket-scanner-android](/images/v2/EventmieProImages/ticket-scanner-android.webp "ticket-scanner-android")
 
 ---
 
@@ -107,7 +107,7 @@ To scan a ticket-
 
 ---
 
-![ticket-scanner-laptop](/images/v2/EventmieProImages/ticket-scan-browser-permission.png "ticket-scanner-laptop")
+![ticket-scanner-laptop](/images/v2/EventmieProImages/ticket-scan-browser-permission.webp "ticket-scanner-laptop")
 
 ---
 

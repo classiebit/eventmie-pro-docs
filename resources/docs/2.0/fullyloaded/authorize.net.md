@@ -8,7 +8,7 @@ To enable it, you first need to create a Authorize.net Merchant Account from **[
 
 ---
 
-![authorize.net-setup](/images/v2/EventmieProFullyLoadedV2.0/PaymentGateways.png "authorize.net-setup")
+![authorize.net-setup](/images/v2/EventmieProFullyLoadedV2.0/PaymentGateways.webp "authorize.net-setup")
 
 ---
 
@@ -21,7 +21,7 @@ You can toggle `Authorize.Net Test Mode` to switch between Test and Live payment
 
 ---
 
-![authorize.net-payment](/images/v2/EventmieProFullyLoadedV2.0/authorize.net-paymen.png "authorize.net-payment")
+![authorize.net-payment](/images/v2/EventmieProFullyLoadedV2.0/authorize.net-paymen.webp "authorize.net-payment")
 
 ---
 

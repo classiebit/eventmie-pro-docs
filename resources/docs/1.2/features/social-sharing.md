@@ -4,7 +4,7 @@ Event can be shared on social media websites from the Event detail page.
 
 ---
 
-![Social sharing](/images/social-sharing.jpg "Social sharing")
+![Social sharing](/images/social-sharing.webp "Social sharing")
 
 ---
 

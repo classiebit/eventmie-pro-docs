@@ -16,11 +16,11 @@ Then from the Event page, the attendee can get directions to the Event Venue in 
 
 ---
 
-![google-map-places-autocomplete](/images/v2/EventmieProFullyLoadedV2.0/google-map-places-autocomplete.png "google-map-places-autocomplete")
+![google-map-places-autocomplete](/images/v2/EventmieProFullyLoadedV2.0/google-map-places-autocomplete.webp "google-map-places-autocomplete")
 
 ---
 
-![google-map-directions](/images/v2/EventmieProFullyLoadedV2.0/google-map-directions.png "google-map-directions")
+![google-map-directions](/images/v2/EventmieProFullyLoadedV2.0/google-map-directions.webp "google-map-directions")
 
 ---
 
@@ -32,7 +32,7 @@ After login on Google Developer Console, follow below steps-
 
 ---
 
-![google-places-billing](/images/fullyloaded/google-places-billing.png "google-places-billing")
+![google-places-billing](/images/fullyloaded/google-places-billing.webp "google-places-billing")
 
 ---
 
@@ -40,7 +40,7 @@ After login on Google Developer Console, follow below steps-
 
 ---
 
-![google-maps-platform](/images/fullyloaded/google-maps-platform.png "google-maps-platform")
+![google-maps-platform](/images/fullyloaded/google-maps-platform.webp "google-maps-platform")
 
 ---
 
@@ -48,11 +48,11 @@ After login on Google Developer Console, follow below steps-
 
 ---
 
-![google-places-api](/images/fullyloaded/google-places-api.png "google-places-api")
+![google-places-api](/images/fullyloaded/google-places-api.webp "google-places-api")
 
 ---
 
-![google-places-api-enable](/images/fullyloaded/google-places-api-enable.png "google-places-api-enable")
+![google-places-api-enable](/images/fullyloaded/google-places-api-enable.webp "google-places-api-enable")
 
 ---
 
@@ -60,15 +60,15 @@ After login on Google Developer Console, follow below steps-
 
 ---
 
-![google-places-creds](/images/fullyloaded/google-places-creds.png "google-places-creds")
+![google-places-creds](/images/fullyloaded/google-places-creds.webp "google-places-creds")
 
 ---
 
-![google-places-creds-create](/images/fullyloaded/google-places-creds-create.png "google-places-creds-create")
+![google-places-creds-create](/images/fullyloaded/google-places-creds-create.webp "google-places-creds-create")
 
 ---
 
-![google-places-creds-copy](/images/fullyloaded/google-places-creds-copy.png "google-places-creds-copy")
+![google-places-creds-copy](/images/fullyloaded/google-places-creds-copy.webp "google-places-creds-copy")
 
 ---
 
@@ -76,6 +76,6 @@ After login on Google Developer Console, follow below steps-
 
 ---
 
-![google-places-autocomplete-setup](/images/v2/EventmieProFullyLoadedV2.0/google-places-autocomplete-setup.png "google-places-autocomplete-setup")
+![google-places-autocomplete-setup](/images/v2/EventmieProFullyLoadedV2.0/google-places-autocomplete-setup.webp "google-places-autocomplete-setup")
 
 ---

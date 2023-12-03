@@ -8,7 +8,7 @@ To enable it, you first need to create a PayTM Business Account from **[PayTM Bu
 
 ---
 
-![paytm](/images/v2/EventmieProFullyLoadedV2.0/6.paytm.png "paytm")
+![paytm](/images/v2/EventmieProFullyLoadedV2.0/6.paytm.webp "paytm")
 
 ---
 

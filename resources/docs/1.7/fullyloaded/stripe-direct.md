@@ -47,7 +47,7 @@ Admin needs to follow the below steps to enable it-
 
 ---
 
-![stripe-direct-setup](/images/fullyloaded/stripe-direct-setup.png "stripe-direct-setup")
+![stripe-direct-setup](/images/fullyloaded/stripe-direct-setup.webp "stripe-direct-setup")
 
 ---
 
@@ -67,15 +67,15 @@ Admin needs to follow the below steps to start receiving payout directly into th
 
 ---
 
-![stripe-direct-organizer-connect](/images/fullyloaded/stripe-direct-organizer-connect.png "stripe-direct-organizer-connect")
+![stripe-direct-organizer-connect](/images/fullyloaded/stripe-direct-organizer-connect.webp "stripe-direct-organizer-connect")
 
 ---
 
-![stripe-direct-organizer-connected](/images/fullyloaded/stripe-direct-organizer-connected.png "stripe-direct-organizer-connected")
+![stripe-direct-organizer-connected](/images/fullyloaded/stripe-direct-organizer-connected.webp "stripe-direct-organizer-connected")
 
 ---
 
-![stripe-payment](/images/fullyloaded/stripe-payment.png "stripe-payment")
+![stripe-payment](/images/fullyloaded/stripe-payment.webp "stripe-payment")
 
 ---
 
@@ -94,7 +94,7 @@ Admin will see the `Transferred` status as `Checked` in the Admin Commission.
 
 ---
 
-![admin-commission-payout](/images/fullyloaded/admin-commission-payout.png "admin-commission-payout")
+![admin-commission-payout](/images/fullyloaded/admin-commission-payout.webp "admin-commission-payout")
 
 ---
 
@@ -112,7 +112,7 @@ Organizer will see the `Transferred` status as `Paid` in the `Manage Earnings`.
 
 ---
 
-![organizer-earning-payout](/images/fullyloaded/organizer-earning-payout.png "organizer-earning-payout")
+![organizer-earning-payout](/images/fullyloaded/organizer-earning-payout.webp "organizer-earning-payout")
 
 ---
 

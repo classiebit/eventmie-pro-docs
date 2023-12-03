@@ -19,7 +19,7 @@ A user needs to be registered & signed-in to book a ticket (purchase tickets).
 
 ---
 
-![new-checkout-ui-design](/images/bookings-checkout.jpg "new-checkout-ui-design")
+![new-checkout-ui-design](/images/bookings-checkout.webp "new-checkout-ui-design")
 
 ---
 
@@ -119,7 +119,7 @@ Offline (Cash on Arrival). This option means you can make a paid booking without
 
 ---
 
-![bookings-offline-mode-on-off](/images/bookings-offline-mode-on-off.jpg "bookings-offline-mode-on-off")
+![bookings-offline-mode-on-off](/images/bookings-offline-mode-on-off.webp "bookings-offline-mode-on-off")
 
 ---
 

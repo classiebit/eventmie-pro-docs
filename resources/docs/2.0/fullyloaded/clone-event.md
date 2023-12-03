@@ -8,7 +8,7 @@ Duplicate existing events to speed up creating a new event, rather than creating
 
 ---
 
-![clone-event](/images/v2/EventmieProFullyLoadedV2.0/CloneEvent.png "clone-event")
+![clone-event](/images/v2/EventmieProFullyLoadedV2.0/CloneEvent.webp "clone-event")
 
 ---
 

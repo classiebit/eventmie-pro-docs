@@ -9,15 +9,15 @@ Create Attendee while Checkout. It's an for Admin & Organizer to create a new At
 
 ---
 
-![1-create-attendee](/images/fullyloaded/1-create-attendee.png "1-create-attendee")
+![1-create-attendee](/images/fullyloaded/1-create-attendee.webp "1-create-attendee")
 
 ---
 
-![2-create-attendee](/images/fullyloaded/2-create-attendee.png "2-create-attendee")
+![2-create-attendee](/images/fullyloaded/2-create-attendee.webp "2-create-attendee")
 
 ---
 
-![3-create-attendee](/images/fullyloaded/3-create-attendee.png "3-create-attendee")
+![3-create-attendee](/images/fullyloaded/3-create-attendee.webp "3-create-attendee")
 
 ---
 

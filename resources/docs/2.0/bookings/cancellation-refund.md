@@ -12,7 +12,7 @@ Admin or Organizer can decide whether to provide a refund to the customers and a
 
 ---
 
-![manage-bookings-cancellation](/images/v2/EventmieProFullyLoadedV2.0/manage-bookings-cancellation.png "manage-bookings-cancellation")
+![manage-bookings-cancellation](/images/v2/EventmieProFullyLoadedV2.0/manage-bookings-cancellation.webp "manage-bookings-cancellation")
 
 ---
 

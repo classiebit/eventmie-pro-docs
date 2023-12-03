@@ -9,7 +9,7 @@ After getting the Stripe keys, follow the below steps-
 
 ---
 
-![stripe-setup](/images/v2/EventmieProFullyLoadedV2.0/PaymentGateways.png "stripe-setup")
+![stripe-setup](/images/v2/EventmieProFullyLoadedV2.0/PaymentGateways.webp "stripe-setup")
 
 ---
 
@@ -62,7 +62,7 @@ After following the above, you need to go to Stripe dashboard and follow the bel
 
     ---
 
-    ![stripe-webhook-1](/images/v2/1-stripe-webhook.png "stripe-webhook-1")
+    ![stripe-webhook-1](/images/v2/1-stripe-webhook.webp "stripe-webhook-1")
 
     ---
     
@@ -70,7 +70,7 @@ After following the above, you need to go to Stripe dashboard and follow the bel
 
     ---
 
-    ![stripe-webhook-2](/images/v2/2-stripe-webhook.png "stripe-webhook-2")
+    ![stripe-webhook-2](/images/v2/2-stripe-webhook.webp "stripe-webhook-2")
 
     ---
 
@@ -78,7 +78,7 @@ After following the above, you need to go to Stripe dashboard and follow the bel
 
     ---
 
-    ![stripe-webhook-3](/images/v2/3-stripe-webhook.png "stripe-webhook-3")
+    ![stripe-webhook-3](/images/v2/3-stripe-webhook.webp "stripe-webhook-3")
 
     ---
 
@@ -86,7 +86,7 @@ After following the above, you need to go to Stripe dashboard and follow the bel
 
     ---
 
-    ![stripe-webhook-4](/images/v2/4-stripe-webhook.png "stripe-webhook-4")
+    ![stripe-webhook-4](/images/v2/4-stripe-webhook.webp "stripe-webhook-4")
 
     ---
 
@@ -94,7 +94,7 @@ After following the above, you need to go to Stripe dashboard and follow the bel
 
     ---
 
-    ![stripe-webhook-5](/images/v2/5-stripe-webhook.png "stripe-webhook-5")
+    ![stripe-webhook-5](/images/v2/5-stripe-webhook.webp "stripe-webhook-5")
 
     ---
 

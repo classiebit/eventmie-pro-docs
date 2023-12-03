@@ -168,7 +168,7 @@ If you're getting error - `1071 Specified key was too long;` while installation,
 
 ---
 
-![Eventmie Web Installer](/images/eventmie-pro-web-installer.jpg "Eventmie Web Installer")
+![Eventmie Web Installer](/images/eventmie-pro-web-installer.webp "Eventmie Web Installer")
 
 ---
 

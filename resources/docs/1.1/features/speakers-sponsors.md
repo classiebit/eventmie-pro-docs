@@ -20,11 +20,11 @@ Organizer-1 -> Event-1  -> Sponsor-2
 
 ---
 
-![Organizer Speakers](/images/14-speakers.jpg "Organizer Speakers")
+![Organizer Speakers](/images/14-speakers.webp "Organizer Speakers")
 
 ---
 
-![Organizer Sponsors](/images/15-sponsors.jpg "Organizer Sponsors")
+![Organizer Sponsors](/images/15-sponsors.webp "Organizer Sponsors")
 
 ---
 

@@ -20,7 +20,7 @@ Manage all the Event's Bookings from the `Admin Panel`.
 
 ---
 
-![Tags](/images/administration-tags.jpg "Tags")
+![Tags](/images/administration-tags.webp "Tags")
 
 ---
 
@@ -37,7 +37,7 @@ Tags can be Sponsors, speakers, hosts, guests, VIPs, or anything you want. You c
 
 ---
 
-![events](/images/administration-events.jpg "events")
+![events](/images/administration-events.webp "events")
 
 ---
 
@@ -58,11 +58,11 @@ All the Organiser's Events can be managed from the Admin Panel.
 
 ---
 
-![bookings](/images/administration-bookings.jpg "bookings")
+![bookings](/images/administration-bookings.webp "bookings")
 
 ---
 
-![bookings-edit](/images/administration-bookings-edit.jpg "bookings-edit")
+![bookings-edit](/images/administration-bookings-edit.webp "bookings-edit")
 
 ---
 
@@ -91,7 +91,7 @@ So that Admin, Organizer, and Customer can only do what they are supposed to do.
 
 ---
 
-![users](/images/administration-users.jpg "users")
+![users](/images/administration-users.webp "users")
 
 ---
 

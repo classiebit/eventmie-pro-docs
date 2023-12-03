@@ -8,7 +8,7 @@ Crypto Currency Payment gateway to accept all available Cryptocurrencies in the 
 
 ---
 
-![6-bitpay-make-payment](/images/fullyloaded/6-bitpay-make-payment.png "6-bitpay-make-payment")
+![6-bitpay-make-payment](/images/fullyloaded/6-bitpay-make-payment.webp "6-bitpay-make-payment")
 
 ---
 
@@ -47,7 +47,7 @@ Now, let's setup Test BitPay for test payment. The production BitPay setup is sa
 
     ***
 
-    ![1-bitpay-admin-panel](/images/fullyloaded/1-bitpay-admin-panel.png "1-bitpay-admin-panel")
+    ![1-bitpay-admin-panel](/images/fullyloaded/1-bitpay-admin-panel.webp "1-bitpay-admin-panel")
 
     ***
 
@@ -59,7 +59,7 @@ Now, let's setup Test BitPay for test payment. The production BitPay setup is sa
 
     ***
 
-    ![2-bitpay-website-two-tabs](/images/fullyloaded/2-bitpay-website-two-tabs.png "2-bitpay-website-two-tabs")
+    ![2-bitpay-website-two-tabs](/images/fullyloaded/2-bitpay-website-two-tabs.webp "2-bitpay-website-two-tabs")
 
     ***
 
@@ -69,7 +69,7 @@ Now, let's setup Test BitPay for test payment. The production BitPay setup is sa
 
     ***
 
-    ![3-bitpay-checkout](/images/v2/EventmieProFullyLoadedV2.0/5.3-bitpay-checkout.png "3-bitpay-checkout")
+    ![3-bitpay-checkout](/images/v2/EventmieProFullyLoadedV2.0/5.3-bitpay-checkout.webp "3-bitpay-checkout")
 
     ***
 
@@ -78,7 +78,7 @@ Now, let's setup Test BitPay for test payment. The production BitPay setup is sa
 
     ***
 
-    ![4-bitpay-approve](/images/fullyloaded/4-bitpay-approve.png "4-bitpay-approve")
+    ![4-bitpay-approve](/images/fullyloaded/4-bitpay-approve.webp "4-bitpay-approve")
 
     ***
 
@@ -112,7 +112,7 @@ Once the above setup is done, the attendees can pay with Cryptocurrency-
 
     ***
 
-    ![5-bitpay-select-currency](/images/fullyloaded/5-bitpay-select-currency.png "5-bitpay-select-currency")
+    ![5-bitpay-select-currency](/images/fullyloaded/5-bitpay-select-currency.webp "5-bitpay-select-currency")
 
     ***
 
@@ -120,7 +120,7 @@ Once the above setup is done, the attendees can pay with Cryptocurrency-
 
     ***
 
-    ![6-bitpay-make-payment](/images/fullyloaded/6-bitpay-make-payment.png "6-bitpay-make-payment")
+    ![6-bitpay-make-payment](/images/fullyloaded/6-bitpay-make-payment.webp "6-bitpay-make-payment")
 
     ***
 

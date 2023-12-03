@@ -12,7 +12,7 @@ The dashboard shows the total number of Events, Bookings, Net Revenue, Users and
 
 ---
 
-![TOP 10 SELLING EVENTS Chart](/images/dashboard-1.jpg "TOP 10 SELLING EVENTS Chart")
+![TOP 10 SELLING EVENTS Chart](/images/dashboard-1.webp "TOP 10 SELLING EVENTS Chart")
 
 ---
 
@@ -20,7 +20,7 @@ The dashboard shows the total number of Events, Bookings, Net Revenue, Users and
 
 ---
 
-![EVENT SALES REPORT Table with Event Filter](/images/dashboard-2.jpg "EVENT SALES REPORT Table with Event Filter")
+![EVENT SALES REPORT Table with Event Filter](/images/dashboard-2.webp "EVENT SALES REPORT Table with Event Filter")
 
 ---
 

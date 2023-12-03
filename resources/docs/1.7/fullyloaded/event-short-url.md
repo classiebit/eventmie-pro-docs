@@ -9,6 +9,6 @@ Shorten Event URLs to promote the events easily.
 
 ---
 
-![event-short-url](/images/fullyloaded/event-short-url.png "event-short-url")
+![event-short-url](/images/fullyloaded/event-short-url.webp "event-short-url")
 
 ---

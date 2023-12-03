@@ -130,7 +130,7 @@ return [
 
     'ui'                 => [
         'code_theme'     => 'dark', // or: light
-        'fav'            => 'eventmie-pro-logo.png',     // eg: fav.png
+        'fav'            => 'eventmie-pro-logo.webp',     // eg: fav.webp
         'fa_v4_shims'    => true, // Add FontAwesome v4 shims prevent BC break
         'show_side_bar'  => true,
         'colors'         => [
@@ -161,7 +161,7 @@ return [
             'title'       => 'Eventmie Pro - Docs',
             'type'        => 'article',
             'url'         => 'https://eventmie-pro-docs.classiebit.com',
-            'image'       => '/images/eventmie-pro-logo.png',
+            'image'       => '/images/eventmie-pro-logo.webp',
             'description' => 'Self-hosted event planning and management multi-organization script.',
         ]
     ],

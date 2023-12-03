@@ -8,14 +8,14 @@ Create Attendee while Checkout. It's an for Admin & Organizer to create a new At
 
 ---
 
-![1-create-attendee](/images/v2/EventmieProFullyLoadedV2.0/33.1-create-attendee.png "1-create-attendee")
+![1-create-attendee](/images/v2/EventmieProFullyLoadedV2.0/33.1-create-attendee.webp "1-create-attendee")
 
 ---
 
-![2-create-attendee](/images/v2/EventmieProFullyLoadedV2.0/34.2-create-attendee.png "2-create-attendee")
+![2-create-attendee](/images/v2/EventmieProFullyLoadedV2.0/34.2-create-attendee.webp "2-create-attendee")
 
 ---
 
-![3-create-attendee](/images/v2/EventmieProFullyLoadedV2.0/35.3-create-attendee.png "3-create-attendee")
+![3-create-attendee](/images/v2/EventmieProFullyLoadedV2.0/35.3-create-attendee.webp "3-create-attendee")
 
 ---

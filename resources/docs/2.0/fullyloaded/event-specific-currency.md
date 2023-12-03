@@ -8,6 +8,6 @@ Set different currency for each event to add multiple currency events.
 
 ---
 
-![event-specific-currency](/images/v2/EventmieProFullyLoadedV2.0/event-specific-currency.png "event-specific-currency")
+![event-specific-currency](/images/v2/EventmieProFullyLoadedV2.0/event-specific-currency.webp "event-specific-currency")
 
 ---

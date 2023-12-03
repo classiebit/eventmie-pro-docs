@@ -4,7 +4,7 @@ The organizer can manage only own their events from the front end, while Admin c
 
 ---
 
-![Organizer manage events](/images/events-manage-events.jpg "Organizer manage events")
+![Organizer manage events](/images/events-manage-events.webp "Organizer manage events")
 
 ---
 
@@ -30,7 +30,7 @@ Simply click on <larecipe-button type="black" size="sm" rounded>Export Attendees
 
 ---
 
-![Export Events Attendees](/images/events-manage-export-csv.jpg "Export Events Attendees")
+![Export Events Attendees](/images/events-manage-export-csv.webp "Export Events Attendees")
 
 ---
 
@@ -45,7 +45,7 @@ Each tag belongs to an Organizer and to their Events. Basically, organizers can 
 
 ---
 
-![Manage Tags](/images/events-manage-manage-tags.jpg "Manage Tags")
+![Manage Tags](/images/events-manage-manage-tags.webp "Manage Tags")
 
 ---
 
@@ -68,7 +68,7 @@ Click on <larecipe-button type="secondary" size="sm" rounded>Add Tag</larecipe-b
 
 ---
 
-![Create tag no profile](/images/events-manage-tag-create-no-profile.jpg "Create tag no profile")
+![Create tag no profile](/images/events-manage-tag-create-no-profile.webp "Create tag no profile")
 
 ---
 
@@ -86,7 +86,7 @@ Click on <larecipe-button type="secondary" size="sm" rounded>Add Tag</larecipe-b
 
 ---
 
-![Create a tag with profile](/images/events-manage-tag-create-profile.jpg "Create a tag with profile")
+![Create a tag with profile](/images/events-manage-tag-create-profile.webp "Create a tag with profile")
 
 ---
 
@@ -102,7 +102,7 @@ Click on <larecipe-button type="secondary" size="sm" rounded>Add Tag</larecipe-b
 
 ---
 
-![Show tag no profile](/images/events-manage-tag-show.jpg "Show tag no profile")
+![Show tag no profile](/images/events-manage-tag-show.webp "Show tag no profile")
 
 ---
 
@@ -110,7 +110,7 @@ Click on <larecipe-button type="secondary" size="sm" rounded>Add Tag</larecipe-b
 
 ---
 
-![Show tag profile](/images/events-manage-tag-show-profile.jpg "Show tag profile")
+![Show tag profile](/images/events-manage-tag-show-profile.webp "Show tag profile")
 
 
 
@@ -122,7 +122,7 @@ The event can be shared on social media websites from the Event detail page.
 
 ---
 
-![Social sharing](/images/events-manage-share-event.jpg "Social sharing")
+![Social sharing](/images/events-manage-share-event.webp "Social sharing")
 
 ---
 

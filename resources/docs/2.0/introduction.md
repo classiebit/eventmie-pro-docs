@@ -16,7 +16,7 @@ We've organized the docs in perfect sequential order, so that, if you read from 
 
 ---
 
-![eventmie-pro-docs-banner-zoom-googlemeet](/images/v2/EventmieProFullyLoadedV2.0/eventmie-pro-docs-banner-zoom-googlemeet.png "eventmie-pro-docs-banner-zoom-googlemeet")
+![eventmie-pro-docs-banner-zoom-googlemeet](/images/v2/EventmieProFullyLoadedV2.0/eventmie-pro-docs-banner-zoom-googlemeet.webp "eventmie-pro-docs-banner-zoom-googlemeet")
 
 ---
 

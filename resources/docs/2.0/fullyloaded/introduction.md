@@ -18,7 +18,7 @@ Continue reading all the features docs to know more about it.
 
 ---
 
-![eventmie-pro-fullyloaded-cover-new](/images/v2/EventmieProFullyLoadedV2.0/1.Introductionimages.png "eventmie-pro-fullyloaded-cover-new")
+![eventmie-pro-fullyloaded-cover-new](/images/v2/EventmieProFullyLoadedV2.0/1.Introductionimages.webp "eventmie-pro-fullyloaded-cover-new")
 
 ---
 

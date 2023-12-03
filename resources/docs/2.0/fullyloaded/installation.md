@@ -22,7 +22,7 @@ Same as Eventmie Pro's Server Requirements
 
 ---
 
-![classiebit-download](/images/v2/classiebit-downloads.png "classiebit-download")
+![classiebit-download](/images/v2/classiebit-downloads.webp "classiebit-download")
 
 ---
 
@@ -90,7 +90,7 @@ Eventmie Pro FullyLoaded also comes with web-installer for those, who are not fa
 
 ---
 
-![Eventmie Web Installer](/images/v2/fullyloaded-installer.png "Eventmie Web Installer")
+![Eventmie Web Installer](/images/v2/fullyloaded-installer.webp "Eventmie Web Installer")
 
 ---
 

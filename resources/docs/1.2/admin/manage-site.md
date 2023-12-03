@@ -36,7 +36,7 @@ Online File Manager provided by **Laravel Voyager**, all the site images and any
 
 ---
 
-![Media manager](/images/19-media-manager.jpg "Media manager")
+![Media manager](/images/19-media-manager.webp "Media manager")
 
 ---
 
@@ -48,6 +48,6 @@ Eventmie Pro comes with fully featured Blog management functionality. When you a
 
 ---
 
-![Blog posts](/images/19_5-blog-posts.jpg "Blog posts")
+![Blog posts](/images/19_5-blog-posts.webp "Blog posts")
 
 ---

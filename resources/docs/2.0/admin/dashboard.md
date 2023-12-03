@@ -14,7 +14,7 @@ A quick view of the topmost selling event with the total number of bookings.
 
 ---
 
-![TOP 10 SELLING EVENTS Chart](/images/dashboard-top-selling.jpg "TOP 10 SELLING EVENTS Chart")
+![TOP 10 SELLING EVENTS Chart](/images/dashboard-top-selling.webp "TOP 10 SELLING EVENTS Chart")
 
 ---
 
@@ -26,7 +26,7 @@ Overall sales reports of all the events with organizer earnings, admin commissio
 
 ---
 
-![EVENT SALES REPORT Table with Event Filter](/images/admin-new-tickets-filter.jpg "EVENT SALES REPORT Table with Event & Tickets Filter")
+![EVENT SALES REPORT Table with Event Filter](/images/admin-new-tickets-filter.webp "EVENT SALES REPORT Table with Event & Tickets Filter")
 
 ---
 
@@ -34,7 +34,7 @@ Admin can also export the Sales Reports **CSV** including filtered data. And we'
 
 ---
 
-![EVENT SALES REPORT Exports with Data sum](/images/admin-sales-reports-csv.jpg "EVENT SALES REPORT Exports with Data sum")
+![EVENT SALES REPORT Exports with Data sum](/images/admin-sales-reports-csv.webp "EVENT SALES REPORT Exports with Data sum")
 
 ---
 
@@ -45,7 +45,7 @@ Overall sales reports of all the events with organizer earnings, admin commissio
 
 ---
 
-![admin-event-ticket-stats](/images/admin-event-ticket-stats.jpg "admin-event-ticket-stats")
+![admin-event-ticket-stats](/images/admin-event-ticket-stats.webp "admin-event-ticket-stats")
 
 ---
 

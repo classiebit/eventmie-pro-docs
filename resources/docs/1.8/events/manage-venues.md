@@ -4,7 +4,7 @@ The organizer can add multiple Venues to which they can link to their events. Ve
 
 ---
 
-![4-manage-venue](/images/4-manage-venue.png "4-manage-venue")
+![4-manage-venue](/images/4-manage-venue.webp "4-manage-venue")
 
 ---
 
@@ -22,7 +22,7 @@ With Google Places Autocomplete, you can search for venues on it and add the rea
 
 ---
 
-![5-manage-venue-create](/images/5-manage-venue-create.png "5-manage-venue-create")
+![5-manage-venue-create](/images/5-manage-venue-create.webp "5-manage-venue-create")
 
 ---
 
@@ -35,7 +35,7 @@ From the Event Setup Form, you can select event location from the list of Venues
 
 ---
 
-![3-add-venue](/images/3-add-venue.png "3-add-venue")
+![3-add-venue](/images/3-add-venue.webp "3-add-venue")
 
 ---
 
@@ -47,7 +47,7 @@ You can browse through all the venues with filters.
 
 ---
 
-![2-venue-listing](/images/2-venue-listing.png "2-venue-listing")
+![2-venue-listing](/images/2-venue-listing.webp "2-venue-listing")
 
 ---
 
@@ -59,6 +59,6 @@ Venue has their seperate pages to show all the details about the venue along wit
 
 ---
 
-![1-venue-page](/images/1-venue-page.png "1-venue-page")
+![1-venue-page](/images/1-venue-page.webp "1-venue-page")
 
 ---

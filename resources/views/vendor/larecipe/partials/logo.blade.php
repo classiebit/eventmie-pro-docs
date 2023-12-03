@@ -1,1 +1,1 @@
-<img src="{{ url('images/eventmie-pro-logo.png') }}" style="height: 48px;">&nbsp;
+<img src="{{ url('images/eventmie-pro-logo.webp') }}" style="height: 48px;">&nbsp;

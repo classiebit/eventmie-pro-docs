@@ -7,7 +7,7 @@ Each event belongs to an organizer. And according to the different roles of each
 
 ---
 
-![Event landing page](/images/0-event.jpg "Event landing page")
+![Event landing page](/images/0-event.webp "Event landing page")
 
 ---
 
@@ -89,7 +89,7 @@ The first step is mandatory to proceed to the next step.
 
 ---
 
-![Event Detail Form](/images/1-event-detail.jpg "Event Detail Form")
+![Event Detail Form](/images/1-event-detail.webp "Event Detail Form")
 
 ---
 
@@ -121,7 +121,7 @@ Set timing for single or multiple days event.
 
 ---
 
-![Event Timing Form](/images/2-event-timing.jpg "Event Timing Form")
+![Event Timing Form](/images/2-event-timing.webp "Event Timing Form")
 
 ---
 
@@ -168,7 +168,7 @@ In the case of Repetitive Event, check the `Add Repetitive Schedules` checkbox.
 
 ---
 
-![Repetitive events & classes](/images/3-repetitive-schedule.jpg "Repetitive events & classes")
+![Repetitive events & classes](/images/3-repetitive-schedule.webp "Repetitive events & classes")
 
 ---
 
@@ -196,7 +196,7 @@ Create tickets for the event. Tickets can be `Free` or `Paid` both. Taxes can be
 
 ---
 
-![Events free & paid tickets with taxes](/images/4-event-ticket.jpg "Events free & paid tickets with taxes")
+![Events free & paid tickets with taxes](/images/4-event-ticket.webp "Events free & paid tickets with taxes")
 
 ---
 
@@ -219,7 +219,7 @@ Event location details. Add `Google map Lat-long` to show the Event Venue in the
 
 ---
 
-![Events venue & google map location](/images/5-event-location.jpg "Events venue & google map location")
+![Events venue & google map location](/images/5-event-location.webp "Events venue & google map location")
 
 ---
 
@@ -244,7 +244,7 @@ Upload event poster and images. Please follow the mentioned dimensions. While yo
 
 ---
 
-![Upload Event cover images & youtube video URL](/images/6-event-media.jpg "Upload Event cover images & youtube video URL")
+![Upload Event cover images & youtube video URL](/images/6-event-media.webp "Upload Event cover images & youtube video URL")
 
 ---
 
@@ -281,6 +281,6 @@ The last step, add tags to event which is now optional and publish the event.
 
 ---
 
-![Publish event to audience](/images/event-publish.jpg "Publish event to audience")
+![Publish event to audience](/images/event-publish.webp "Publish event to audience")
 
 ---

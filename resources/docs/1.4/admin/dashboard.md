@@ -13,7 +13,7 @@ A quick view of the topmost selling event with the total number of bookings.
 
 ---
 
-![TOP 10 SELLING EVENTS Chart](/images/dashboard-top-selling.jpg "TOP 10 SELLING EVENTS Chart")
+![TOP 10 SELLING EVENTS Chart](/images/dashboard-top-selling.webp "TOP 10 SELLING EVENTS Chart")
 
 ---
 
@@ -25,7 +25,7 @@ Overall sales reports of all the events with organizer earnings, admin commissio
 
 ---
 
-![EVENT SALES REPORT Table with Event Filter](/images/dashboard-sales-report.jpg "EVENT SALES REPORT Table with Event Filter")
+![EVENT SALES REPORT Table with Event Filter](/images/dashboard-sales-report.webp "EVENT SALES REPORT Table with Event Filter")
 
 ---
 

@@ -7,7 +7,7 @@ Each event belongs to an organizer. And according to the different roles of each
 
 ---
 
-![Event landing page](/images/new-ui-event-repetitive-schedules.jpg "Event landing page")
+![Event landing page](/images/new-ui-event-repetitive-schedules.webp "Event landing page")
 
 ---
 
@@ -89,7 +89,7 @@ The first step is mandatory to proceed to the next step.
 
 ---
 
-![Event Detail Form](/images/1-event-detail.jpg "Event Detail Form")
+![Event Detail Form](/images/1-event-detail.webp "Event Detail Form")
 
 ---
 
@@ -121,7 +121,7 @@ Set timing for single or multiple days event.
 
 ---
 
-![Event Timing Form](/images/2-event-timing.jpg "Event Timing Form")
+![Event Timing Form](/images/2-event-timing.webp "Event Timing Form")
 
 ---
 
@@ -152,7 +152,7 @@ Have a look at the screenshots, this is how each type of schedules looks like on
 
     ---
 
-    ![Daily Repetitive Event](/images/daily-repetitive-event.jpg "Daily Repetitive Event")
+    ![Daily Repetitive Event](/images/daily-repetitive-event.webp "Daily Repetitive Event")
 
     ---
 
@@ -160,7 +160,7 @@ Have a look at the screenshots, this is how each type of schedules looks like on
 
     ---
 
-    ![Weekly Repetitive Event](/images/weekly-repetitive-event.jpg "Weekly Repetitive Event")
+    ![Weekly Repetitive Event](/images/weekly-repetitive-event.webp "Weekly Repetitive Event")
 
     ---
 
@@ -168,7 +168,7 @@ Have a look at the screenshots, this is how each type of schedules looks like on
 
     ---
 
-    ![Monthly Repetitive Event](/images/monthly-repetitive-event.jpg "Monthly Repetitive Event")
+    ![Monthly Repetitive Event](/images/monthly-repetitive-event.webp "Monthly Repetitive Event")
 
     ---
 
@@ -190,7 +190,7 @@ Have a look at the screenshots, this is how each type of schedules looks like on
 
 ---
 
-![Repetitive events & classes](/images/3-repetitive-schedule.jpg "Repetitive events & classes")
+![Repetitive events & classes](/images/3-repetitive-schedule.webp "Repetitive events & classes")
 
 ---
 
@@ -211,7 +211,7 @@ In the case of Repetitive Events or Classes, sometimes you'll want to get paid o
 
 ---
 
-![Monthly/Weekly Payment Type Event](/images/monthly-weekly-payment-event.jpg "Monthly/Weekly Payment Type Event")
+![Monthly/Weekly Payment Type Event](/images/monthly-weekly-payment-event.webp "Monthly/Weekly Payment Type Event")
 
 ---
 
@@ -223,7 +223,7 @@ Create tickets for the event. Tickets can be `Free` or `Paid` both. Taxes can be
 
 ---
 
-![Events free & paid tickets with taxes](/images/4-event-ticket.jpg "Events free & paid tickets with taxes")
+![Events free & paid tickets with taxes](/images/4-event-ticket.webp "Events free & paid tickets with taxes")
 
 ---
 
@@ -246,7 +246,7 @@ Event location details. Add `Google map Lat-long` to show the Event Venue in the
 
 ---
 
-![Events venue & google map location](/images/5-event-location.jpg "Events venue & google map location")
+![Events venue & google map location](/images/5-event-location.webp "Events venue & google map location")
 
 ---
 
@@ -271,7 +271,7 @@ Upload event poster and images. Please follow the mentioned dimensions. While yo
 
 ---
 
-![Upload Event cover images & youtube video URL](/images/6-event-media.jpg "Upload Event cover images & youtube video URL")
+![Upload Event cover images & youtube video URL](/images/6-event-media.webp "Upload Event cover images & youtube video URL")
 
 ---
 
@@ -308,6 +308,6 @@ In the last step, add tags to an event that is now optional and publish the even
 
 ---
 
-![Publish the event to the audience](/images/event-tag-types-display.jpg "Publish the event to the audience")
+![Publish the event to the audience](/images/event-tag-types-display.webp "Publish the event to the audience")
 
 ---

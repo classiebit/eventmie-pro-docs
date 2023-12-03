@@ -4,7 +4,7 @@ The most awaited feature. Now, organizers and admin can scan the Event attendees
 
 ---
 
-![Ticket QrCode scanner](/images/ticket-scanner.jpg "Ticket QrCode scanner")
+![Ticket QrCode scanner](/images/ticket-scanner.webp "Ticket QrCode scanner")
 
 <br>
 
@@ -19,7 +19,7 @@ After login as Organizer or Admin -
 
 ---
 
-![Ticket Check-in](/images/ticket-check-in.jpg "Ticket Check-in")
+![Ticket Check-in](/images/ticket-check-in.webp "Ticket Check-in")
 
 ---
 

@@ -4,7 +4,7 @@ Organizer can now manage their Event earnings easily with the new dedicated Earn
 
 ---
 
-![Organizer Earnings Management](/images/organizer-earnings.jpg "Organizer Earnings Management")
+![Organizer Earnings Management](/images/organizer-earnings.webp "Organizer Earnings Management")
 
 ---
 

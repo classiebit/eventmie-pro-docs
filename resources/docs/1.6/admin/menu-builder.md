@@ -14,7 +14,7 @@ From the **Admin Panel -> Header Menu**, you can add Menu items like this-
 
 ---
 
-![admin-header-menu-builder](/images/admin-header-menu-builder.jpg "admin-header-menu-builder")
+![admin-header-menu-builder](/images/admin-header-menu-builder.webp "admin-header-menu-builder")
 
 ---
 
@@ -26,7 +26,7 @@ This is how it'll look on the **Frontend -> Header**
 
 ---
 
-![front-header-menu](/images/front-header-menu.jpg "front-header-menu")
+![front-header-menu](/images/front-header-menu.webp "front-header-menu")
 
 ---
 
@@ -38,7 +38,7 @@ From the **Admin Panel -> Footer Menu**, you can add Menu items like this-
 
 ---
 
-![admin-footer-menu-builder](/images/admin-footer-menu-builder.jpg "admin-footer-menu-builder")
+![admin-footer-menu-builder](/images/admin-footer-menu-builder.webp "admin-footer-menu-builder")
 
 ---
 
@@ -46,7 +46,7 @@ This is how it'll look on the **Frontend -> Footer**
 
 ---
 
-![front-footer-menu](/images/front-footer-menu.jpg "front-footer-menu")
+![front-footer-menu](/images/front-footer-menu.webp "front-footer-menu")
 
 ---
 

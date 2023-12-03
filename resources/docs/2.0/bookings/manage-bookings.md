@@ -25,7 +25,7 @@ Customers can see all of their bookings on the `My Bookings` page. To visit, cli
 
 ---
 
-![manage-bookings-customer](/images/v2/EventmieProImages/manage-bookings-customer.png "manage-bookings-customer")
+![manage-bookings-customer](/images/v2/EventmieProImages/manage-bookings-customer.webp "manage-bookings-customer")
 
 ---
 
@@ -43,7 +43,7 @@ Admins can see all event bookings on the `Admin Panel -> Bookings` page. To visi
 
 ---
 
-![manage-bookings-admin](/images/manage-bookings-admin.jpg "manage-bookings-admin")
+![manage-bookings-admin](/images/manage-bookings-admin.webp "manage-bookings-admin")
 
 ---
 
@@ -61,7 +61,7 @@ Organizers can see all of their event bookings on the `Manage Bookings` page. To
 
 ---
 
-![manage-bookings-organizer](/images/v2/EventmieProImages/manage-bookings-organizer.png "manage-bookings-organizer")
+![manage-bookings-organizer](/images/v2/EventmieProImages/manage-bookings-organizer.webp "manage-bookings-organizer")
 
 ---
 
@@ -83,7 +83,7 @@ Organizers can see all of their event's earnings on the `Manage Earnings` page. 
 
 ---
 
-![manage-bookings-organizer-earnings](/images/v2/EventmieProImages/manage-bookings-organizer-earnings.png "manage-bookings-organizer-earnings")
+![manage-bookings-organizer-earnings](/images/v2/EventmieProImages/manage-bookings-organizer-earnings.webp "manage-bookings-organizer-earnings")
 
 ---
 
@@ -96,7 +96,7 @@ A new Organizer Dashboard to take a quick overview of their events activities.
 
 ---
 
-![organizer-dashboard-front-end](/images/v2/EventmieProImages/organizer-dashboard-front-end.png "organizer-dashboard-front-end")
+![organizer-dashboard-front-end](/images/v2/EventmieProImages/organizer-dashboard-front-end.webp "organizer-dashboard-front-end")
 
 ---
 
@@ -110,6 +110,6 @@ Customers can add Events to their Google Calendar from the **My Bookings** page 
 
 ---
 
-![google-calendar](/images/v2/EventmieProImages/manage-bookings-customer.png "google-calendar")
+![google-calendar](/images/v2/EventmieProImages/manage-bookings-customer.webp "google-calendar")
 
 ---

@@ -13,7 +13,7 @@ In v2.0 we've added time-bound checkout. A checkout timer of 5 minutes will run 
 
 ---
 
-![new-checkout-ui-design](/images/v2/EventmieProImages/bookings-checkout.png "new-checkout-ui-design")
+![new-checkout-ui-design](/images/v2/EventmieProImages/bookings-checkout.webp "new-checkout-ui-design")
 
 ---
 
@@ -113,7 +113,7 @@ Offline (Cash on Arrival). This option means you can make a paid booking without
 
 ---
 
-![bookings-offline-mode-on-off](/images/bookings-offline-mode-on-off.jpg "bookings-offline-mode-on-off")
+![bookings-offline-mode-on-off](/images/bookings-offline-mode-on-off.webp "bookings-offline-mode-on-off")
 
 ---
 

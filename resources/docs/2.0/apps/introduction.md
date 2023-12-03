@@ -8,7 +8,7 @@ Finally, we've released Eventmie Pro FullyLoaded 2.0 Android & iOS Apps.
 
 ---
 
-![eventmie-pro-fullyloaded-app](/images/v2/EventmieProFullyLoadedV2.0/eventmie-pro-fullyloaded-app.png "eventmie-pro-fullyloaded-app")
+![eventmie-pro-fullyloaded-app](/images/v2/EventmieProFullyLoadedV2.0/eventmie-pro-fullyloaded-app.webp "eventmie-pro-fullyloaded-app")
 
 ---
 

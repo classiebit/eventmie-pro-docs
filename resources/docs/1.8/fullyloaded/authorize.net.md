@@ -9,7 +9,7 @@ To enable it, you first need to create a Authorize.net Merchant Account from **[
 
 ---
 
-![authorize.net-setup](/images/fullyloaded/authorize.net-setup.png "authorize.net-setup")
+![authorize.net-setup](/images/fullyloaded/authorize.net-setup.webp "authorize.net-setup")
 
 ---
 
@@ -24,7 +24,7 @@ You can toggle `Authorize.Net Test Mode` to switch between Test and Live payment
 
 ---
 
-![authorize.net-payment](/images/fullyloaded/authorize.net-payment.png "authorize.net-payment")
+![authorize.net-payment](/images/fullyloaded/authorize.net-payment.webp "authorize.net-payment")
 
 ---
 

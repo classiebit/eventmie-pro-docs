@@ -9,7 +9,7 @@ Duplicate existing events to speed up creating a new event, rather than creating
 
 ---
 
-![clone-event](/images/fullyloaded/clone-event.png "clone-event")
+![clone-event](/images/fullyloaded/clone-event.webp "clone-event")
 
 ---
 

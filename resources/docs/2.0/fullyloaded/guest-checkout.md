@@ -27,10 +27,10 @@ And later on, they can login with same email after resetting their password usin
 
 ---
 
-![2-guest-checkout](/images/v2/EventmieProFullyLoadedV2.0/2-guest-checkout.png "2-guest-checkout")
+![2-guest-checkout](/images/v2/EventmieProFullyLoadedV2.0/2-guest-checkout.webp "2-guest-checkout")
 
 ---
 
-![1-guest-checkout](/images/v2/EventmieProFullyLoadedV2.0/1-guest-checkout.png "1-guest-checkout")
+![1-guest-checkout](/images/v2/EventmieProFullyLoadedV2.0/1-guest-checkout.webp "1-guest-checkout")
 
 ---

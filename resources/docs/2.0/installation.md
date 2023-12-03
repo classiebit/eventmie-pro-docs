@@ -51,7 +51,7 @@ Before you start. Make sure your server meets at least the below requirements. *
 
 ---
 
-![classiebit-download](/images/v2/classiebit-downloads.png "classiebit-download")
+![classiebit-download](/images/v2/classiebit-downloads.webp "classiebit-download")
 
 ---
 
@@ -100,7 +100,7 @@ Before you start. Make sure your server meets at least the below requirements. *
     
     ---
 
-    ![Install via Composer](/images/installation-directories.jpg "Install via Composer")
+    ![Install via Composer](/images/installation-directories.webp "Install via Composer")
 
     ---
     
@@ -146,7 +146,7 @@ Eventmie Pro also comes with web-installer for those, who are not familiar with 
 
 ---
 
-![Eventmie Web Installer](/images/v2/pro-installer.png "Eventmie Web Installer")
+![Eventmie Web Installer](/images/v2/pro-installer.webp "Eventmie Web Installer")
 
 ---
 
@@ -241,7 +241,7 @@ After installation, make sure to update the Admin email & password-
 
     ---
 
-    ![Admin email update](/images/1-admin-email.png "Admin email update")
+    ![Admin email update](/images/1-admin-email.webp "Admin email update")
 
     ---
 
@@ -249,7 +249,7 @@ After installation, make sure to update the Admin email & password-
 
     ---
 
-    ![Admin email update](/images/2-admin-email.png "Admin email update")
+    ![Admin email update](/images/2-admin-email.webp "Admin email update")
 
     ---
 
@@ -257,7 +257,7 @@ After installation, make sure to update the Admin email & password-
 
     ---
 
-    ![Admin email update](/images/3-admin-email.png "Admin email update")
+    ![Admin email update](/images/3-admin-email.webp "Admin email update")
 
     ---
 

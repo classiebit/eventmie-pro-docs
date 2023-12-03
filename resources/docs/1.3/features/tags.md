@@ -28,7 +28,7 @@ Admin can manage all organizers tags from Admin Panel -> Tags. While Organizer c
 
 ---
 
-![Add Tags](/images/add-tag.jpg "Add Tags")
+![Add Tags](/images/add-tag.webp "Add Tags")
 
 ---
 
@@ -47,7 +47,7 @@ Admin can manage all organizers tags from Admin Panel -> Tags. While Organizer c
 
 ---
 
-![Link Tags](/images/link-tags.jpg "Link Tags")
+![Link Tags](/images/link-tags.webp "Link Tags")
 
 ---
 
@@ -59,6 +59,6 @@ Admin can manage all organizers tags from Admin Panel -> Tags. While Organizer c
 
 ---
 
-![View Tags](/images/view-tags.jpg "View Tags")
+![View Tags](/images/view-tags.webp "View Tags")
 
 ---

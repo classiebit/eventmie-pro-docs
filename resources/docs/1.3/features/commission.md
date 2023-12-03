@@ -16,7 +16,7 @@ At first, all ticket sales amounts will go into the website owner's account and 
 
 ---
 
-![Admin & Organizer Booking Commission](/images/11-commission.jpg "Admin & Organizer Booking Commission")
+![Admin & Organizer Booking Commission](/images/11-commission.webp "Admin & Organizer Booking Commission")
 
 ---
 
@@ -38,7 +38,7 @@ At first, all ticket sales amounts will go into the website owner's account and 
 
 ---
 
-![Set commision from admin panel](/images/13-commission-setting.jpg "Set commision from admin panel")
+![Set commision from admin panel](/images/13-commission-setting.webp "Set commision from admin panel")
 
 ---
 
@@ -55,7 +55,7 @@ At first, all ticket sales amounts will go into the website owner's account and 
 
 ---
 
-![Commission processing](/images/12-commission-processing.jpg "Commission processing")
+![Commission processing](/images/12-commission-processing.webp "Commission processing")
 
 ---
 

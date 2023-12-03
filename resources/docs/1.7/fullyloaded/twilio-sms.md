@@ -14,7 +14,7 @@ To enable it, you first need to create a Twilio Merchant Account from **[Twilio]
 
 ---
 
-![twilio-sms-setup](/images/fullyloaded/twilio-sms-setup.png "twilio-sms-setup")
+![twilio-sms-setup](/images/fullyloaded/twilio-sms-setup.webp "twilio-sms-setup")
 
 ---
 

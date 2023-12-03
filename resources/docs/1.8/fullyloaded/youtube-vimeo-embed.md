@@ -13,7 +13,7 @@ With this, you can enter YouTube/Vimeo private or public video embed code while 
 
 ---
 
-![youtube-vimeo-setup](/images/fullyloaded/youtube-vimeo-setup.png "youtube-vimeo-setup")
+![youtube-vimeo-setup](/images/fullyloaded/youtube-vimeo-setup.webp "youtube-vimeo-setup")
 
 ---
 
@@ -28,15 +28,15 @@ You can enter both Youtube & Vimeo embed code at the same time or either one of 
 
 ---
 
-![bookings-youtube-vimeo-button](/images/fullyloaded/bookings-youtube-vimeo-button.png "bookings-youtube-vimeo-button")
+![bookings-youtube-vimeo-button](/images/fullyloaded/bookings-youtube-vimeo-button.webp "bookings-youtube-vimeo-button")
 
 ---
 
-![youtube-play](/images/fullyloaded/youtube-play.png "youtube-play")
+![youtube-play](/images/fullyloaded/youtube-play.webp "youtube-play")
 
 ---
 
-![vimeo-play](/images/fullyloaded/vimeo-play.png "vimeo-play")
+![vimeo-play](/images/fullyloaded/vimeo-play.webp "vimeo-play")
 
 ---
 
@@ -48,7 +48,7 @@ You can also add more YouTube videos as part of event's promos and trailers to s
 
     ---
 
-    ![1-add-more-youtube-video](/images/fullyloaded/1-add-more-youtube-video.png "1-add-more-youtube-video")
+    ![1-add-more-youtube-video](/images/fullyloaded/1-add-more-youtube-video.webp "1-add-more-youtube-video")
 
     ---
 
@@ -56,6 +56,6 @@ You can also add more YouTube videos as part of event's promos and trailers to s
 
     ---
 
-    ![2-show-more-youtube-video](/images/fullyloaded/2-show-more-youtube-video.png "2-show-more-youtube-video")
+    ![2-show-more-youtube-video](/images/fullyloaded/2-show-more-youtube-video.webp "2-show-more-youtube-video")
 
     ---

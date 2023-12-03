@@ -9,7 +9,7 @@ Organizers can create separate Guestlists for every event to export their emails
 
 ---
 
-![3-create-guest](/images/fullyloaded/3-create-guest.png "3-create-guest")
+![3-create-guest](/images/fullyloaded/3-create-guest.webp "3-create-guest")
 
 ---
 
@@ -28,7 +28,7 @@ Let's create a GuestList
 
     ---
 
-    ![1-manage-guestlist](/images/fullyloaded/1-manage-guestlist.png "1-manage-guestlist")
+    ![1-manage-guestlist](/images/fullyloaded/1-manage-guestlist.webp "1-manage-guestlist")
 
     ---
 
@@ -36,7 +36,7 @@ Let's create a GuestList
 
     ---
 
-    ![2-create-guestlist](/images/fullyloaded/2-create-guestlist.png "2-create-guestlist")
+    ![2-create-guestlist](/images/fullyloaded/2-create-guestlist.webp "2-create-guestlist")
 
     ---
 
@@ -45,7 +45,7 @@ Let's create a GuestList
 
     ---
 
-    ![3-create-guest](/images/fullyloaded/3-create-guest.png "3-create-guest")
+    ![3-create-guest](/images/fullyloaded/3-create-guest.webp "3-create-guest")
 
     ---
 
@@ -63,7 +63,7 @@ You can also add events attendees emails to a GuestList you created.
 
     ---
 
-    ![4-manage-events-guestlist](/images/fullyloaded/4-manage-events-guestlist.png "4-manage-events-guestlist")
+    ![4-manage-events-guestlist](/images/fullyloaded/4-manage-events-guestlist.webp "4-manage-events-guestlist")
 
     ---
 
@@ -71,6 +71,6 @@ You can also add events attendees emails to a GuestList you created.
 
     ---
 
-    ![5-add-event-attendees-to-guestlist](/images/fullyloaded/5-add-event-attendees-to-guestlist.png "5-add-event-attendees-to-guestlist")
+    ![5-add-event-attendees-to-guestlist](/images/fullyloaded/5-add-event-attendees-to-guestlist.webp "5-add-event-attendees-to-guestlist")
 
     ---

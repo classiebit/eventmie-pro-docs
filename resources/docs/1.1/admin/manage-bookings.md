@@ -4,7 +4,7 @@ Manage all the Event's Bookings from `Admin Panel`
 
 ---
 
-![Admin panel bookings](/images/17-admin-bookings.jpg "Admin panel bookings")
+![Admin panel bookings](/images/17-admin-bookings.webp "Admin panel bookings")
 
 ---
 
@@ -32,7 +32,7 @@ New Taxes can be added and managed from this page and when while adding tickets 
 
 ---
 
-![Admin panel taxes](/images/18-admin-taxes.jpg "Admin panel taxes")
+![Admin panel taxes](/images/18-admin-taxes.webp "Admin panel taxes")
 
 ---
 

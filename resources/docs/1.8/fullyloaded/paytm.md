@@ -9,7 +9,7 @@ To enable it, you first need to create a PayTM Business Account from **[PayTM Bu
 
 ---
 
-![paytm](/images/fullyloaded/paytm.png "paytm")
+![paytm](/images/fullyloaded/paytm.webp "paytm")
 
 ---
 

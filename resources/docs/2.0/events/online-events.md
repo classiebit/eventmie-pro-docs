@@ -39,7 +39,7 @@ Once you complete the initial steps for creating an event, proceed to the `Locat
 
     ---
 
-    ![Enter online location](/images/v2/onlineEvent/events-online-create.png "Enter online location")
+    ![Enter online location](/images/v2/onlineEvent/events-online-create.webp "Enter online location")
 
     ---
 
@@ -47,7 +47,7 @@ Once you complete the initial steps for creating an event, proceed to the `Locat
 
     ---
 
-    ![Customer bookings page](/images/v2/onlineEvent/events-online-customer-bookings.png "Customer bookings page")
+    ![Customer bookings page](/images/v2/onlineEvent/events-online-customer-bookings.webp "Customer bookings page")
 
     ---
 
@@ -55,7 +55,7 @@ Once you complete the initial steps for creating an event, proceed to the `Locat
 
     ---
 
-    ![Customer bookings page view](/images/v2/onlineEvent/events-online-customer-bookings-view.png "Customer bookings page view")
+    ![Customer bookings page view](/images/v2/onlineEvent/events-online-customer-bookings-view.webp "Customer bookings page view")
 
     ---
 

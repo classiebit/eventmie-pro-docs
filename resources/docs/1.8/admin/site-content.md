@@ -22,7 +22,7 @@ Only Admin can add and manage categories from the Admin Panel. While Organisers 
 
 ---
 
-![Categories](/images/content-categories.jpg "Categories")
+![Categories](/images/content-categories.webp "Categories")
 
 ---
 
@@ -37,7 +37,7 @@ Add & manage home page banners.
 
 ---
 
-![Banners](/images/admin-banner-options.jpg "Banners")
+![Banners](/images/admin-banner-options.webp "Banners")
 
 ---
 
@@ -53,7 +53,7 @@ Add & manage pages-
 
 ---
 
-![pages](/images/content-pages.jpg "pages")
+![pages](/images/content-pages.webp "pages")
 
 ---
 
@@ -68,7 +68,7 @@ Eventmie Pro comes with a fully-featured Blog management system. When you add an
 
 ---
 
-![Blog posts](/images/content-post.jpg "Blog posts")
+![Blog posts](/images/content-post.webp "Blog posts")
 
 ---
 
@@ -80,6 +80,6 @@ Here, you can manage all your website's user-uploaded images like events, tags, 
 
 ---
 
-![Media manager](/images/content-media.jpg "Media manager")
+![Media manager](/images/content-media.webp "Media manager")
 
 ---

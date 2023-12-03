@@ -13,6 +13,6 @@ Admin can set it to 0 to make an event admin commission free. And if you leave t
 
 ---
 
-![event-specific-admin-commission](/images/fullyloaded/event-specific-admin-commission.png "event-specific-admin-commission")
+![event-specific-admin-commission](/images/fullyloaded/event-specific-admin-commission.webp "event-specific-admin-commission")
 
 ---

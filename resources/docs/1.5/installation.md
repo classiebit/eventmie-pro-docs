@@ -92,7 +92,7 @@ Before you start. Make sure your server meets at least the below requirements. *
     
     ---
 
-    ![Install via Composer](/images/installation-directories.jpg "Install via Composer")
+    ![Install via Composer](/images/installation-directories.webp "Install via Composer")
 
     ---
     
@@ -138,7 +138,7 @@ Eventmie Pro also comes with web-installer for those, who are not familiar with 
 
 ---
 
-![Eventmie Web Installer](/images/installation-web-installer.jpg "Eventmie Web Installer")
+![Eventmie Web Installer](/images/installation-web-installer.webp "Eventmie Web Installer")
 
 ---
 

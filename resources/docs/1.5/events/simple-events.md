@@ -4,7 +4,7 @@ In Eventmie Pro, you can create a single & multiple days event. Each event belon
 
 ---
 
-![Simple event view](/images/events-simple-event-view.jpg "Simple event view")
+![Simple event view](/images/events-simple-event-view.webp "Simple event view")
 
 ---
 
@@ -46,7 +46,7 @@ The first step is mandatory to proceed to the next step. Add these details to pr
 
 ---
 
-![Event Detail Form](/images/events-simple-event-detail.jpg "Event Detail Form")
+![Event Detail Form](/images/events-simple-event-detail.webp "Event Detail Form")
 
 ---
 
@@ -67,7 +67,7 @@ Set timing for single or multiple days event.
 
 ---
 
-![Event Timing Form](/images/events-simple-event-timings.jpg "Event Timing Form")
+![Event Timing Form](/images/events-simple-event-timings.webp "Event Timing Form")
 
 ---
 
@@ -97,7 +97,7 @@ Create tickets for the event.
 
 ---
 
-![Events free & paid tickets with taxes](/images/events-simple-event-ticket.jpg "Events free & paid tickets with taxes")
+![Events free & paid tickets with taxes](/images/events-simple-event-ticket.webp "Events free & paid tickets with taxes")
 
 ---
 
@@ -122,7 +122,7 @@ Event location details. You need to enter `Google map Lat-long` manually to show
 
 ---
 
-![Events venue & google map location](/images/events-simple-event-location.jpg "Events venue & google map location")
+![Events venue & google map location](/images/events-simple-event-location.webp "Events venue & google map location")
 
 ---
 
@@ -147,7 +147,7 @@ Upload event poster, thumbnail, and images. Please upload the mentioned size of 
 
 ---
 
-![Upload Event cover images & youtube video URL](/images/events-simple-event-media.jpg "Upload Event cover images & youtube video URL")
+![Upload Event cover images & youtube video URL](/images/events-simple-event-media.webp "Upload Event cover images & youtube video URL")
 
 ---
 
@@ -166,7 +166,7 @@ Write meta titles, keywords, and descriptions. These tags will be specific for e
 
 ---
 
-![Event seo](/images/events-simple-event-seo.jpg "Event seo")
+![Event seo](/images/events-simple-event-seo.webp "Event seo")
 
 ---
 
@@ -187,7 +187,7 @@ Final step-
 
 ---
 
-![Event Tags & Publish](/images/events-simple-event-powered-by.jpg "Event Tags & Publish")
+![Event Tags & Publish](/images/events-simple-event-powered-by.webp "Event Tags & Publish")
 
 ---
 

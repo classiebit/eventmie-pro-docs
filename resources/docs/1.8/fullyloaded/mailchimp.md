@@ -11,11 +11,11 @@ With this, Organizer can subscribe their event attendees directly to their MailC
 
 ---
 
-![mailchimp-tags-1](/images/fullyloaded/mailchimp-tags-1.png "mailchimp-tags-1")
+![mailchimp-tags-1](/images/fullyloaded/mailchimp-tags-1.webp "mailchimp-tags-1")
 
 ---
 
-![mailchimp-tags-2](/images/fullyloaded/mailchimp-tags-2.png "mailchimp-tags-2")
+![mailchimp-tags-2](/images/fullyloaded/mailchimp-tags-2.webp "mailchimp-tags-2")
 
 ---
 
@@ -31,6 +31,6 @@ After getting the above, follow the below steps-
 
 ---
 
-![mailchimp-setup](/images/fullyloaded/mailchimp-setup.png "mailchimp-setup")
+![mailchimp-setup](/images/fullyloaded/mailchimp-setup.webp "mailchimp-setup")
 
 ---

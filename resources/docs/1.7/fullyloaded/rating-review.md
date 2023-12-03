@@ -9,7 +9,7 @@ Let attendees add ratings and reviews to the event, that can be reviewed and app
 
 ---
 
-![4-show-review](/images/fullyloaded/4-show-review.png "4-show-review")
+![4-show-review](/images/fullyloaded/4-show-review.webp "4-show-review")
 
 ---
 
@@ -29,7 +29,7 @@ First, you need to enable Rating & Review on the Event.
 
 ---
 
-![1-enable-review](/images/fullyloaded/1-enable-review.png "1-enable-review")
+![1-enable-review](/images/fullyloaded/1-enable-review.webp "1-enable-review")
 
 ---
 
@@ -45,7 +45,7 @@ Only the customer who has purchased atleast on ticket on an event, can add Ratin
 
 ---
 
-![2-add-review](/images/fullyloaded/2-add-review.png "2-add-review")
+![2-add-review](/images/fullyloaded/2-add-review.webp "2-add-review")
 
 ---
 
@@ -61,10 +61,10 @@ By default, the Rating & Review added by customer will remain unpublished. The O
 
 ---
 
-![3-manage-reviews](/images/fullyloaded/3-manage-reviews.png "3-manage-reviews")
+![3-manage-reviews](/images/fullyloaded/3-manage-reviews.webp "3-manage-reviews")
 
 ---
 
-![4-show-review](/images/fullyloaded/4-show-review.png "4-show-review")
+![4-show-review](/images/fullyloaded/4-show-review.webp "4-show-review")
 
 ---

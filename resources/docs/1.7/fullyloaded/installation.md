@@ -84,7 +84,7 @@ Eventmie Pro FullyLoaded also comes with web-installer for those, who are not fa
 
 ---
 
-![Eventmie Web Installer](/images/installation-web-installer.jpg "Eventmie Web Installer")
+![Eventmie Web Installer](/images/installation-web-installer.webp "Eventmie Web Installer")
 
 ---
 

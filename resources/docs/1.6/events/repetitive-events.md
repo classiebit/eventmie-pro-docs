@@ -4,7 +4,7 @@ In Eventmie Pro, you can create daily, weekly & monthly repetitive events and cl
 
 ---
 
-![Repetitive event view](/images/events-repetitive-event-view.jpg "Repetitive event view")
+![Repetitive event view](/images/events-repetitive-event-view.webp "Repetitive event view")
 
 ---
 
@@ -99,7 +99,7 @@ The event that repeats every `day` from start to end date.
 
 ---
 
-![Daily Repetitive Schedules](/images/events-repetitive-daily.jpg "Daily Repetitive Schedules")
+![Daily Repetitive Schedules](/images/events-repetitive-daily.webp "Daily Repetitive Schedules")
 
 ---
 
@@ -107,7 +107,7 @@ The event that repeats every `day` from start to end date.
 
 ---
 
-![Daily Repetitive Schedules View](/images/events-repetitive-daily-view.jpg "Daily Repetitive Schedules View")
+![Daily Repetitive Schedules View](/images/events-repetitive-daily-view.webp "Daily Repetitive Schedules View")
 
 ---
 
@@ -132,7 +132,7 @@ The event that repeats every `week` from start to end date.
 
 ---
 
-![Weekly Repetitive Schedules](/images/events-repetitive-weekly.jpg "Weekly Repetitive Schedules")
+![Weekly Repetitive Schedules](/images/events-repetitive-weekly.webp "Weekly Repetitive Schedules")
 
 ---
 
@@ -140,7 +140,7 @@ The event that repeats every `week` from start to end date.
 
 ---
 
-![Weekly Repetitive Schedules View](/images/events-repetitive-weekly-view.jpg "Weekly Repetitive Schedules View")
+![Weekly Repetitive Schedules View](/images/events-repetitive-weekly-view.webp "Weekly Repetitive Schedules View")
 
 ---
 
@@ -165,7 +165,7 @@ The event that repeats every `month` from start to end date.
 
 ---
 
-![Monthly Repetitive Schedules](/images/events-repetitive-monthly.jpg "Monthly Repetitive Schedules")
+![Monthly Repetitive Schedules](/images/events-repetitive-monthly.webp "Monthly Repetitive Schedules")
 
 ---
 
@@ -173,7 +173,7 @@ The event that repeats every `month` from start to end date.
 
 ---
 
-![Monthly Repetitive Schedules View](/images/events-repetitive-monthly-view.jpg "Monthly Repetitive Schedules View")
+![Monthly Repetitive Schedules View](/images/events-repetitive-monthly-view.webp "Monthly Repetitive Schedules View")
 
 ---
 
@@ -212,7 +212,7 @@ Let's get started. Check the `Monthly or Weekly Payment` checkbox, e.g for `Repe
 
 ---
 
-![Monthly Repetitive Schedules Monthly Payment](/images/events-repetitive-merge-schedule.jpg "Monthly Repetitive Schedules  Monthly Payment")
+![Monthly Repetitive Schedules Monthly Payment](/images/events-repetitive-merge-schedule.webp "Monthly Repetitive Schedules  Monthly Payment")
 
 ---
 
@@ -220,7 +220,7 @@ Let's get started. Check the `Monthly or Weekly Payment` checkbox, e.g for `Repe
 
 ---
 
-![Monthly Repetitive Schedules  Monthly Payment View](/images/events-repetitive-merge-schedule-view.jpg "Monthly Repetitive Schedules  Monthly Payment View")
+![Monthly Repetitive Schedules  Monthly Payment View](/images/events-repetitive-merge-schedule-view.webp "Monthly Repetitive Schedules  Monthly Payment View")
 
 ---
 
@@ -234,7 +234,7 @@ Check available timeslots for repetitive event schedules on the go. You can now 
 
 ---
 
-![Live Timeslots Availability Check](/images/repetitive-events-availability.jpg "Live Timeslots Availability Check")
+![Live Timeslots Availability Check](/images/repetitive-events-availability.webp "Live Timeslots Availability Check")
 
 ---
 
@@ -244,6 +244,6 @@ In this way, it won't disclose all the Quantity of the ticket and only show the 
 
 ---
 
-![Live Timeslots Availability Vacant Seats Per Ticket](/images/repetitive-events-vacant.jpg "Live Timeslots Availability Vacant Seats Per Ticket")
+![Live Timeslots Availability Vacant Seats Per Ticket](/images/repetitive-events-vacant.webp "Live Timeslots Availability Vacant Seats Per Ticket")
 
 ---
