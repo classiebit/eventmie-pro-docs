@@ -4,7 +4,13 @@
 
 # Reserved Seating
 
-Add any kind of seating arrangement e.g Stadiums, Townhalls, Cinema, Restaurants, Lounges, etc.
+Setup any kind of seating arrangement e.g Stadiums, Townhalls, Cinema, Restaurants, Lounges, etc.
+
+In v2.0, now you can-
+
+1. Drag-n-Drop to adjust the seats on the seatchart image.
+2. Seat waiting list in case two users are booking the same seat, then system will block the seat for first user.
+3. Realtime seat availability check, in conjunction with above addition, this will show the blocked seat to the other users, so that they can't book the same seat
 
 ---
 
@@ -70,23 +76,23 @@ Follow the below steps to add reserved seating tickets.
 
     ***
 
-    ![2-add-seats-to-tickets](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-add-seats-to-tickets.png "2-add-seats-to-tickets")
+    ![2-add-seats-to-tickets](https://eventmie-pro-docs.classiebit.com/images/v2/2-add-seats-to-tickets.png "2-add-seats-to-tickets")
 
     ***
 
-5. Then, start clicking on each seat block to add Seating. Click in the center of each seat block to add seats consistently.
+5. Then, start clicking on each seat block to add Seating. Click in the center of each seat block to add seats consistently. **You can Drag** to reposition the seats.
 
     ***
 
-    ![3-add-seats-to-tickets-1](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/3-add-seats-to-tickets-1.png "3-add-seats-to-tickets-1")
+    ![3-add-seats-to-tickets-1](https://eventmie-pro-docs.classiebit.com/images/v2/3-add-seats-to-tickets-1.png "3-add-seats-to-tickets-1")
 
     ***
 
-6. You can rename seats by clicking on the Seat you added.
+6. You can rename seats by **Right clicking** on the Seat you added.
 
     ***
 
-    ![9-seating-update-seat-name](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/9-seating-update-seat-name.png "9-seating-update-seat-name")
+    ![9-seating-update-seat-name](https://eventmie-pro-docs.classiebit.com/images/v2/9-seating-update-seat-name.png "9-seating-update-seat-name")
 
     ***
 
@@ -95,7 +101,7 @@ Follow the below steps to add reserved seating tickets.
 
     ***
 
-    ![10-seating-disable-seat](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/10-seating-disable-seat.png "10-seating-disable-seat")
+    ![10-seating-disable-seat](https://eventmie-pro-docs.classiebit.com/images/v2/10-seating-disable-seat.png "10-seating-disable-seat")
 
     ***
 
@@ -104,19 +110,11 @@ Follow the below steps to add reserved seating tickets.
 
     ***
 
-    ![11-seating-executive](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/11-seating-executive.png "11-seating-executive")
+    ![11-seating-executive](https://eventmie-pro-docs.classiebit.com/images/v2/11-seating-executive.png "11-seating-executive")
 
     ***
 
-    ![12-seating-club](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/12-seating-club.png "12-seating-club")
-
-    ***
-
-    ![13-seating-royal](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/13-seating-royal.png "13-seating-royal")
-
-    ***
-
-    ![14-seating-royal-platinum](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/14-seating-royal-platinum.png "14-seating-royal-platinum")
+    ![12-seating-club](https://eventmie-pro-docs.classiebit.com/images/v2/12-seating-club.png "12-seating-club")
 
     ***
 
@@ -148,7 +146,7 @@ Once you're done adding Reserved Seating, you can see the Reserved seating optio
 
     ***
 
-    ![17-seat-booking](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/17-seat-booking.png "17-seat-booking")
+    ![17-seat-booking](https://eventmie-pro-docs.classiebit.com/images/v2/17-seat-booking.png "17-seat-booking")
 
     ***
 
