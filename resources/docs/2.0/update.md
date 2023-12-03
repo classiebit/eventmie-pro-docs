@@ -47,8 +47,8 @@ There are two types of update service-
 <br>
 There are two types of update service-
 
-1. Simple Update Service Cost **USD 50**: If there are **NO CODE CUSTOMISATIONS** on your website.
-2. Advanced Update Service Cost **USD 200**: If there are **CODE CUSTOMISATIONS** on your website.
+1. Simple Update Service Cost **USD 100**: If there are **NO CODE CUSTOMISATIONS** on your website.
+2. Advanced Update Service Cost **USD 300**: If there are **CODE CUSTOMISATIONS** on your website.
 
 
 <br>
