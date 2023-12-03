@@ -4,7 +4,7 @@ In Eventmie Pro, you can create a single & multiple days event. Each event belon
 
 ---
 
-![Simple event view](https://eventmie-pro-docs.classiebit.com/images/events-simple-event-view.jpg "Simple event view")
+![Simple event view](/images/events-simple-event-view.jpg "Simple event view")
 
 ---
 
@@ -47,7 +47,7 @@ The first step is mandatory to proceed to the next step. Add these details to pr
 
 ---
 
-![Event Detail Form](https://eventmie-pro-docs.classiebit.com/images/events-simple-event-detail-new.jpg "Event Detail Form")
+![Event Detail Form](/images/events-simple-event-detail-new.jpg "Event Detail Form")
 
 ---
 
@@ -68,7 +68,7 @@ Set timing for single or multiple days event.
 
 ---
 
-![Event Timing Form](https://eventmie-pro-docs.classiebit.com/images/events-simple-event-timings.jpg "Event Timing Form")
+![Event Timing Form](/images/events-simple-event-timings.jpg "Event Timing Form")
 
 ---
 
@@ -98,7 +98,7 @@ Create tickets for the event.
 
 ---
 
-![Events free & paid tickets with taxes](https://eventmie-pro-docs.classiebit.com/images/events-simple-event-ticket.jpg "Events free & paid tickets with taxes")
+![Events free & paid tickets with taxes](/images/events-simple-event-ticket.jpg "Events free & paid tickets with taxes")
 
 ---
 
@@ -123,7 +123,7 @@ Event location details. You need to enter `Google map Lat-long` manually to show
 
 ---
 
-![Events venue & google map location](https://eventmie-pro-docs.classiebit.com/images/events-simple-event-location.jpg "Events venue & google map location")
+![Events venue & google map location](/images/events-simple-event-location.jpg "Events venue & google map location")
 
 ---
 
@@ -152,7 +152,7 @@ Upload event poster, thumbnail, and images. Please upload the mentioned size of 
 
 ---
 
-![Upload Event cover images & youtube video URL](https://eventmie-pro-docs.classiebit.com/images/events-manage-gallery-images.jpg "Upload Event cover images & youtube video URL")
+![Upload Event cover images & youtube video URL](/images/events-manage-gallery-images.jpg "Upload Event cover images & youtube video URL")
 
 ---
 
@@ -171,7 +171,7 @@ Write meta titles, keywords, and descriptions. These tags will be specific for e
 
 ---
 
-![Event seo](https://eventmie-pro-docs.classiebit.com/images/events-simple-event-seo.jpg "Event seo")
+![Event seo](/images/events-simple-event-seo.jpg "Event seo")
 
 ---
 
@@ -192,7 +192,7 @@ Final step-
 
 ---
 
-![Event Tags & Publish](https://eventmie-pro-docs.classiebit.com/images/events-simple-event-powered-by.jpg "Event Tags & Publish")
+![Event Tags & Publish](/images/events-simple-event-powered-by.jpg "Event Tags & Publish")
 
 ---
 

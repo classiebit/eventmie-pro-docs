@@ -15,7 +15,10 @@ v2.0 is a major release. It includes a lot of new & most requested features, imp
 
 ---
 
-- **A VERY BIG** change in Reserved seating feature-
+- **A VERY BIG Update**, Eventmie Pro FullyLoaded 2.0 Android & iOS Apps available now. <br>
+👉 [eventmie-pro-docs.classiebit.com/docs/2.0/apps/introduction](https://eventmie-pro-docs.classiebit.com/docs/2.0/apps/introduction)
+
+- **New Improved** in Reserved seating feature-
     - now you can Drag-n-Drop to adjust the seats on the seatchart image.
     - Seat waiting list in case two users are booking the same seat, then system will block the seat for first user. 
     - Realtime seat availability check, in conjunction with above addition, this will show the blocked seat to the other users, so that they can't book the same seat. <br><br>
@@ -32,6 +35,7 @@ v2.0 is a major release. It includes a lot of new & most requested features, imp
 👉 [eventmie-pro-docs.classiebit.com/docs/2.0/fullyloaded/stripe#Webhook](https://eventmie-pro-docs.classiebit.com/docs/2.0/fullyloaded/stripe#Webhook)
 
 - **New Failed Bookings** page for Admin & Organizer so that they can check how many were failed attempts for booking event tickets.
+👉 [eventmie-pro-docs.classiebit.com/docs/2.0/fullyloaded/failed-bookings](https://eventmie-pro-docs.classiebit.com/docs/2.0/fullyloaded/failed-bookings)
 
 - **A complete new stunning** user-interface designed with latest Bootstrap 5 for a perfect web & mobile experience.
 
@@ -42,16 +46,17 @@ v2.0 is a major release. It includes a lot of new & most requested features, imp
 
 - **Added a .webp image converter** for converting all the events, venues, tags and other media files to .webp format for fast image loading and better SEO ranking.
 
-- **New improved Guest checkout**, now within the Checkout popup, user can Login, Register or checkout as Guest can do all within the same popup window and it won't redirect the user anywhere.
-This will improve the Ticket purchasing for Guests.
+- **New improved Guest checkout**, now within the Checkout popup, user can Login, Register or checkout as Guest can do all within the same popup window and it won't redirect the user anywhere. This will improve the Ticket purchasing for Guests.
+👉 [eventmie-pro-docs.classiebit.com/docs/2.0/fullyloaded/guest-checkout](https://eventmie-pro-docs.classiebit.com/docs/2.0/fullyloaded/guest-checkout)
 
 - **New & Redesigned Data rich** Dashboard for Organizer, POS & Scanner users.<br>
 👉 [eventmie-pro-docs.classiebit.com/docs/2.0/events/organiser-dashboard](https://eventmie-pro-docs.classiebit.com/docs/2.0/events/organiser-dashboard)
 
 - **Added Checked-in time** when attendee check-in and displayed the check-in time on Organizer Bookings page where they can verify the Attendee check-in time.
-👉 [eventmie-pro-docs.classiebit.com/docs/2.0/bookings/ticket-scanner#scan-check-in](https://eventmie-pro-docs.classiebit.com/docs/2.0/bookings/ticket-scanner#scan-check-in)
+👉 [eventmie-pro-docs.classiebit.com/docs/2.0/fullyloaded/complimentary-bookings](https://eventmie-pro-docs.classiebit.com/docs/2.0/bookings/ticket-scanner#scan-check-in)
 
 - **Now with Complimentary Bookings** Admin can the multiple complimentary tickets within a single ZIP file.
+👉 [eventmie-pro-docs.classiebit.com/docs/2.0/fullyloaded/complimentary-bookings](https://eventmie-pro-docs.classiebit.com/docs/2.0/fullyloaded/complimentary-bookings)
 
 - **Added Venues Management** on Admin panel for Admin.
 

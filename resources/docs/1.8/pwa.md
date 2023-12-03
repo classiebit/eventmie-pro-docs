@@ -4,7 +4,7 @@ Now you can provide PWA to your website users.
 
 ---
 
-![2-pwa-app](https://eventmie-pro-docs.classiebit.com/images/2-pwa-app.png "2-pwa-app")
+![2-pwa-app](/images/2-pwa-app.png "2-pwa-app")
 
 ---
 
@@ -22,7 +22,7 @@ To setup PWA, you need to update just one file manually.
 
 ---
 
-![setup-pwa](https://eventmie-pro-docs.classiebit.com/images/1-pwa.png "1-pwa")
+![setup-pwa](/images/1-pwa.png "1-pwa")
 
 ---
 

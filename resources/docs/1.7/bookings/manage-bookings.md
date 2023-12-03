@@ -25,7 +25,7 @@ Customers can see all of their bookings on the `My Bookings` page. To visit, cli
 
 ---
 
-![manage-bookings-customer](https://eventmie-pro-docs.classiebit.com/images/manage-bookings-customer.jpg "manage-bookings-customer")
+![manage-bookings-customer](/images/manage-bookings-customer.jpg "manage-bookings-customer")
 
 ---
 
@@ -43,7 +43,7 @@ Admins can see all event bookings on the `Admin Panel -> Bookings` page. To visi
 
 ---
 
-![manage-bookings-admin](https://eventmie-pro-docs.classiebit.com/images/manage-bookings-admin.jpg "manage-bookings-admin")
+![manage-bookings-admin](/images/manage-bookings-admin.jpg "manage-bookings-admin")
 
 ---
 
@@ -61,7 +61,7 @@ Organizers can see all of their event bookings on the `Manage Bookings` page. To
 
 ---
 
-![manage-bookings-organizer](https://eventmie-pro-docs.classiebit.com/images/manage-bookings-organizer.jpg "manage-bookings-organizer")
+![manage-bookings-organizer](/images/manage-bookings-organizer.jpg "manage-bookings-organizer")
 
 ---
 
@@ -83,7 +83,7 @@ Organizers can see all of their event's earnings on the `Manage Earnings` page. 
 
 ---
 
-![manage-bookings-organizer-earnings](https://eventmie-pro-docs.classiebit.com/images/manage-bookings-organizer-earnings.jpg "manage-bookings-organizer-earnings")
+![manage-bookings-organizer-earnings](/images/manage-bookings-organizer-earnings.jpg "manage-bookings-organizer-earnings")
 
 ---
 
@@ -96,7 +96,7 @@ A new Organizer Dashboard to take a quick overview of their events activities.
 
 ---
 
-![organizer-dashboard-front-end](https://eventmie-pro-docs.classiebit.com/images/organizer-dashboard-front-end.jpg "organizer-dashboard-front-end")
+![organizer-dashboard-front-end](/images/organizer-dashboard-front-end.jpg "organizer-dashboard-front-end")
 
 ---
 
@@ -110,6 +110,6 @@ Customers can add Events to their Google Calendar from the **My Bookings** page 
 
 ---
 
-![google-calendar](https://eventmie-pro-docs.classiebit.com/images/google-calendar.jpg "google-calendar")
+![google-calendar](/images/google-calendar.jpg "google-calendar")
 
 ---

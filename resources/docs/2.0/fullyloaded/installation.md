@@ -20,6 +20,12 @@ Same as Eventmie Pro's Server Requirements
 <a name="download-eventmie-pro-FullyLoaded"></a> 
 ## Download Eventmie-pro FullyLoaded
 
+---
+
+![classiebit-download](/images/v2/classiebit-downloads.png "classiebit-download")
+
+---
+
 * Download Eventmie-pro FullyLoaded from `classiebit.com/downloads`.
 * On the same `classiebit.com/downloads` page, make sure you add a domain name to authorize domain, on which you're going to install Eventmie-pro.
 * If You've purchased Eventmie Pro FullyLoaded Enterprise license, then you don't need to add authorize domain, you can install it on unlimited domains.
@@ -84,7 +90,7 @@ Eventmie Pro FullyLoaded also comes with web-installer for those, who are not fa
 
 ---
 
-![Eventmie Web Installer](https://eventmie-pro-docs.classiebit.com/images/v2/fullyloaded-installer.png "Eventmie Web Installer")
+![Eventmie Web Installer](/images/v2/fullyloaded-installer.png "Eventmie Web Installer")
 
 ---
 

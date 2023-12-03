@@ -16,7 +16,7 @@ To make a booking for an event is super simple. It's just a matter of two clicks
 
 ---
 
-![new-checkout-ui-design](https://eventmie-pro-docs.classiebit.com/images/new-checkout-ui-design.jpg "new-checkout-ui-design")
+![new-checkout-ui-design](/images/new-checkout-ui-design.jpg "new-checkout-ui-design")
 
 
 
@@ -45,7 +45,7 @@ To make a booking for an event is super simple. It's just a matter of two clicks
 
 ---
 
-![Admin & Organizer checkout](https://eventmie-pro-docs.classiebit.com/images/new-checkout-ui-design-admin-organizer.jpg "Admin & Organizer checkout")
+![Admin & Organizer checkout](/images/new-checkout-ui-design-admin-organizer.jpg "Admin & Organizer checkout")
 
 ---
 
@@ -61,7 +61,7 @@ To make a booking for an event is super simple. It's just a matter of two clicks
 
 ---
 
-![Customer checkout](https://eventmie-pro-docs.classiebit.com/images/new-checkout-ui-design-customer.jpg "Customer checkout")
+![Customer checkout](/images/new-checkout-ui-design-customer.jpg "Customer checkout")
 
 ---
 
@@ -82,7 +82,7 @@ The customer can request for booking cancellation, and then the organizer or adm
 
 ---
 
-![Customer booking cancellation](https://eventmie-pro-docs.classiebit.com/images/customer-manage-bookings.jpg "Customer booking cancellation")
+![Customer booking cancellation](/images/customer-manage-bookings.jpg "Customer booking cancellation")
 
 ---
 

@@ -8,7 +8,7 @@ Admin can create complementary bookings of any events that can be excluded from 
 
 ---
 
-![1-complimentary-bookings](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-complimentary-bookings.png "1-complimentary-bookings")
+![1-complimentary-bookings](/images/v2/EventmieProFullyLoadedV2.0/1-complimentary-bookings.png "1-complimentary-bookings")
 
 ---
 
@@ -25,6 +25,6 @@ To make complimentary bookings-
 
 ---
 
-![2-complimentary-bookings](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/2-complimentary-bookings.png "2-complimentary-bookings")
+![2-complimentary-bookings](/images/v2/EventmieProFullyLoadedV2.0/2-complimentary-bookings.png "2-complimentary-bookings")
 
 ---

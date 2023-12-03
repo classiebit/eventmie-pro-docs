@@ -8,7 +8,7 @@ This is to make booking with specific detail like for whom the customer is makin
 
 ---
 
-![attendee-custom-fields](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/AttendeeCustomField.png "attendee-custom-fields")
+![attendee-custom-fields](/images/v2/EventmieProFullyLoadedV2.0/AttendeeCustomField.png "attendee-custom-fields")
 
 ---
 
@@ -16,11 +16,11 @@ These attendees list will be shown on the Ticket PDF along with assigned Seat Nu
 
 ---
 
-![1-ticket-pdf-attendee-names](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/1-ticket-pdf-attendee-names.png "1-ticket-pdf-attendee-names")
+![1-ticket-pdf-attendee-names](/images/v2/EventmieProFullyLoadedV2.0/1-ticket-pdf-attendee-names.png "1-ticket-pdf-attendee-names")
 
 ---
 
-![2-ticket-pdf-attendee-names](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/1-ticket-pdf-attendee-names.png "2-ticket-pdf-attendee-names")
+![2-ticket-pdf-attendee-names](/images/v2/EventmieProFullyLoadedV2.0/1-ticket-pdf-attendee-names.png "2-ticket-pdf-attendee-names")
 
 ---
 
@@ -28,7 +28,7 @@ And then while ticket scanning, the ticket can be scanned multiple times attende
 
 ---
 
-![1-select-attendee-scanning](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-select-attendee-scanning.png "1-select-attendee-scanning")
+![1-select-attendee-scanning](/images/fullyloaded/1-select-attendee-scanning.png "1-select-attendee-scanning")
 
 ---
 
@@ -36,6 +36,6 @@ In this way, on the Bookings page, Organizer can know how much check-in has been
 
 ---
 
-![1-scan-attendeewise](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/1-scan-attendeewises.png "1-scan-attendeewise")
+![1-scan-attendeewise](/images/v2/EventmieProFullyLoadedV2.0/1-scan-attendeewises.png "1-scan-attendeewise")
 
 ---

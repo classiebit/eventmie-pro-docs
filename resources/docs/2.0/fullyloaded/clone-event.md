@@ -8,7 +8,7 @@ Duplicate existing events to speed up creating a new event, rather than creating
 
 ---
 
-![clone-event](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/CloneEvent.png "clone-event")
+![clone-event](/images/v2/EventmieProFullyLoadedV2.0/CloneEvent.png "clone-event")
 
 ---
 

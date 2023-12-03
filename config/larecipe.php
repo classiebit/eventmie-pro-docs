@@ -161,7 +161,7 @@ return [
             'title'       => 'Eventmie Pro - Docs',
             'type'        => 'article',
             'url'         => 'https://eventmie-pro-docs.classiebit.com',
-            'image'       => 'https://eventmie-pro-docs.classiebit.com/images/eventmie-pro-logo.png',
+            'image'       => '/images/eventmie-pro-logo.png',
             'description' => 'Self-hosted event planning and management multi-organization script.',
         ]
     ],

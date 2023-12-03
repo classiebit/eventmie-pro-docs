@@ -222,7 +222,7 @@ To get started with PayPal, simply-
 
     ---
 
-    ![1-paypal](https://eventmie-pro-docs.classiebit.com/images/1-paypal.png "1-paypal")
+    ![1-paypal](/images/1-paypal.png "1-paypal")
 
     ---
 
@@ -230,7 +230,7 @@ To get started with PayPal, simply-
 
     ---
 
-    ![2-paypal](https://eventmie-pro-docs.classiebit.com/images/2-paypal.png "2-paypal")
+    ![2-paypal](/images/2-paypal.png "2-paypal")
 
     ---
 
@@ -238,7 +238,7 @@ To get started with PayPal, simply-
 
     ---
 
-    ![3-paypal](https://eventmie-pro-docs.classiebit.com/images/3-paypal.png "3-paypal")
+    ![3-paypal](/images/3-paypal.png "3-paypal")
 
     ---
 
@@ -246,7 +246,7 @@ To get started with PayPal, simply-
 
     ---
 
-    ![5-paypal](https://eventmie-pro-docs.classiebit.com/images/5-paypal.png "5-paypal")
+    ![5-paypal](/images/5-paypal.png "5-paypal")
 
     ---
 
@@ -261,7 +261,7 @@ To get started with PayPal, simply-
 
     ---
 
-    ![6-paypal](https://eventmie-pro-docs.classiebit.com/images/6-paypal.png "6-paypal")
+    ![6-paypal](/images/6-paypal.png "6-paypal")
 
     ---
 
@@ -269,7 +269,7 @@ To get started with PayPal, simply-
 
     ---
 
-    ![7-paypal](https://eventmie-pro-docs.classiebit.com/images/7-paypal.png "7-paypal")
+    ![7-paypal](/images/7-paypal.png "7-paypal")
 
     ---
 
@@ -277,7 +277,7 @@ To get started with PayPal, simply-
 
     ---
 
-    ![8-paypal](https://eventmie-pro-docs.classiebit.com/images/8-paypal.png "8-paypal")
+    ![8-paypal](/images/8-paypal.png "8-paypal")
 
     ---
 
@@ -285,11 +285,11 @@ To get started with PayPal, simply-
 
     ---
 
-    ![9-paypal](https://eventmie-pro-docs.classiebit.com/images/9-paypal.png "9-paypal")
+    ![9-paypal](/images/9-paypal.png "9-paypal")
 
     ---
 
-    ![10-paypal](https://eventmie-pro-docs.classiebit.com/images/10-paypal.png "10-paypal")
+    ![10-paypal](/images/10-paypal.png "10-paypal")
 
     ---
 

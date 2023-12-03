@@ -49,6 +49,12 @@ Before you start. Make sure your server meets at least the below requirements. *
 <a name="download-eventmie-pro"></a> 
 ## Download Eventmie-pro
 
+---
+
+![classiebit-download](/images/v2/classiebit-downloads.png "classiebit-download")
+
+---
+
 * Download Eventmie-pro from `classiebit.com/downloads`.
 * On the same `classiebit.com/downloads` page, make sure you add a domain name to authorize domain, on which you're going to install Eventmie-pro.
 * If You've purchased Eventmie Pro Enterprise license, then you don't need to add authorize domain, you can install it on unlimited domains.
@@ -94,7 +100,7 @@ Before you start. Make sure your server meets at least the below requirements. *
     
     ---
 
-    ![Install via Composer](https://eventmie-pro-docs.classiebit.com/images/installation-directories.jpg "Install via Composer")
+    ![Install via Composer](/images/installation-directories.jpg "Install via Composer")
 
     ---
     
@@ -140,7 +146,7 @@ Eventmie Pro also comes with web-installer for those, who are not familiar with 
 
 ---
 
-![Eventmie Web Installer](https://eventmie-pro-docs.classiebit.com/images/v2/pro-installer.png "Eventmie Web Installer")
+![Eventmie Web Installer](/images/v2/pro-installer.png "Eventmie Web Installer")
 
 ---
 
@@ -235,7 +241,7 @@ After installation, make sure to update the Admin email & password-
 
     ---
 
-    ![Admin email update](https://eventmie-pro-docs.classiebit.com/images/1-admin-email.png "Admin email update")
+    ![Admin email update](/images/1-admin-email.png "Admin email update")
 
     ---
 
@@ -243,7 +249,7 @@ After installation, make sure to update the Admin email & password-
 
     ---
 
-    ![Admin email update](https://eventmie-pro-docs.classiebit.com/images/2-admin-email.png "Admin email update")
+    ![Admin email update](/images/2-admin-email.png "Admin email update")
 
     ---
 
@@ -251,7 +257,7 @@ After installation, make sure to update the Admin email & password-
 
     ---
 
-    ![Admin email update](https://eventmie-pro-docs.classiebit.com/images/3-admin-email.png "Admin email update")
+    ![Admin email update](/images/3-admin-email.png "Admin email update")
 
     ---
 

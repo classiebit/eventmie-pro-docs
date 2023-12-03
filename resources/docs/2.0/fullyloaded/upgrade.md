@@ -19,6 +19,11 @@ To upgrade to Eventmie Pro FullyLoaded-
 
 1. Download the latest version from [Classiebit.com - Downloads page](https://classiebit.com/downloads)
 
+    ---
+
+    ![classiebit-download](/images/v2/classiebit-downloads.png "classiebit-download")
+
+    ---
 
 
 <a name="upgrade-service"></a> 

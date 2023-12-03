@@ -54,7 +54,7 @@
     - [5.17 POS Scanner <small>Manager</small>](/{{route}}/{{version}}/fullyloaded/pos-scanner-manager)
     - [5.18 On-Sale Timer](/{{route}}/{{version}}/fullyloaded/onsale-timer)
     - [5.19 Fundraiser Event](/{{route}}/{{version}}/fullyloaded/fundraiser-event)
-    - [5.20 Complimentary <small>Bookings</small>](/{{route}}/{{version}}/fullyloaded/complimentary-bookings)
+    - [5.20 Complimentary <small>Bookings</small><small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/complimentary-bookings)
     - [5.21 Ticket Invoice](/{{route}}/{{version}}/fullyloaded/ticket-invoice)
     - [5.22 Email Customisation](/{{route}}/{{version}}/fullyloaded/email-customisation)
     - [5.23 Rating & Review](/{{route}}/{{version}}/fullyloaded/rating-review)
@@ -73,7 +73,7 @@
     - [5.36 Organiser Sales Report<small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/organiser-sales-report)
 
 - ## 6. Android & iOS App
-    - [6.1 Introduction](/{{route}}/{{version}}/fullyloaded/introduction)
+    - [6.1 Introduction](/{{route}}/{{version}}/apps/introduction)
 
 
 - ## Live Preview

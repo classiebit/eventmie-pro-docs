@@ -9,7 +9,7 @@ To enable it, you first need to create a Razorpay Business Account from **[Razor
 
 ---
 
-![razorpay](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/razorpay.png "razorpay")
+![razorpay](/images/fullyloaded/razorpay.png "razorpay")
 
 ---
 

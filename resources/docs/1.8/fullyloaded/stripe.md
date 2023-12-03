@@ -10,7 +10,7 @@ After getting the Stripe keys, follow the below steps-
 
 ---
 
-![stripe-setup](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/stripe-setup.png "stripe-setup")
+![stripe-setup](/images/fullyloaded/stripe-setup.png "stripe-setup")
 
 ---
 
@@ -25,7 +25,7 @@ You can enter Stripe **Test** keys to Test payment using Stripe Test Card, and S
 
 ---
 
-![stripe-payment](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/stripe-payment.png "stripe-payment")
+![stripe-payment](/images/fullyloaded/stripe-payment.png "stripe-payment")
 
 ---
 

@@ -4,7 +4,7 @@ Organizer can now manage their Event attendees bookings easily with the new impr
 
 ---
 
-![Organizer Bookings Management](https://eventmie-pro-docs.classiebit.com/images/organizer-bookings.jpg "Organizer Bookings Management")
+![Organizer Bookings Management](/images/organizer-bookings.jpg "Organizer Bookings Management")
 
 ---
 

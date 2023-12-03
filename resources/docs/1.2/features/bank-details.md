@@ -4,7 +4,7 @@ Organizer can add their bank account details, so that Admin can directly transfe
 
 ---
 
-![Organizer bank details](https://eventmie-pro-docs.classiebit.com/images/bank-details.jpg "Organizer bank details")
+![Organizer bank details](/images/bank-details.jpg "Organizer bank details")
 
 <br>
 

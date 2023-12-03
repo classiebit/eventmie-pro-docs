@@ -9,7 +9,7 @@ To enable it, you first need to create a PayTM Business Account from **[PayTM Bu
 
 ---
 
-![paytm](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/paytm.png "paytm")
+![paytm](/images/fullyloaded/paytm.png "paytm")
 
 ---
 

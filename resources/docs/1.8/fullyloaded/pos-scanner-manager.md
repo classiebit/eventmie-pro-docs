@@ -19,7 +19,7 @@ The Manager (sub-organizer) have power than POS & Scanner. The Organizer can cre
 
 ---
 
-![3-create-suborganizer](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/3-create-suborganizer.png "3-create-suborganizer")
+![3-create-suborganizer](/images/fullyloaded/3-create-suborganizer.png "3-create-suborganizer")
 
 ---
 
@@ -42,7 +42,7 @@ First, let's create Sub-organizers of different roles.
 
     ---
 
-    ![1-admin-manage-events](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-admin-manage-events.png "1-admin-manage-events")
+    ![1-admin-manage-events](/images/fullyloaded/1-admin-manage-events.png "1-admin-manage-events")
 
     ---
 
@@ -50,7 +50,7 @@ First, let's create Sub-organizers of different roles.
 
     ---
 
-    ![2-admin-create-suborganizer](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-admin-create-suborganizer.png "2-admin-create-suborganizer")
+    ![2-admin-create-suborganizer](/images/fullyloaded/2-admin-create-suborganizer.png "2-admin-create-suborganizer")
 
     ---
 
@@ -58,7 +58,7 @@ First, let's create Sub-organizers of different roles.
 
     ---
 
-    ![3-create-suborganizer](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/3-create-suborganizer.png "3-create-suborganizer")
+    ![3-create-suborganizer](/images/fullyloaded/3-create-suborganizer.png "3-create-suborganizer")
 
     ---
 
@@ -79,7 +79,7 @@ First, let's create Sub-organizers of different roles.
 
     ---
 
-    ![4-organizer-manager-events](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/4-organizer-manager-events.png "4-organizer-manager-events")
+    ![4-organizer-manager-events](/images/fullyloaded/4-organizer-manager-events.png "4-organizer-manager-events")
 
     ---
 
@@ -87,7 +87,7 @@ First, let's create Sub-organizers of different roles.
 
     ---
 
-    ![10-manage-suborganizers](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/10-manage-suborganizers.png "10-manage-suborganizers")
+    ![10-manage-suborganizers](/images/fullyloaded/10-manage-suborganizers.png "10-manage-suborganizers")
 
     ---
 
@@ -100,7 +100,7 @@ POS can make bookings on behalf of Organizer. And then they can manage those boo
 
 ---
 
-![5-pos](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/5-pos.png "5-pos")
+![5-pos](/images/fullyloaded/5-pos.png "5-pos")
 
 ---
 
@@ -114,7 +114,7 @@ POS can make bookings on behalf of Organizer. And then they can manage those boo
 
     ---
 
-    ![8-assign-suborganizer](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/8-assign-suborganizer.png "8-assign-suborganizer")
+    ![8-assign-suborganizer](/images/fullyloaded/8-assign-suborganizer.png "8-assign-suborganizer")
 
     ---
 
@@ -122,7 +122,7 @@ POS can make bookings on behalf of Organizer. And then they can manage those boo
 
     ---
 
-    ![9-assign-suborganizer](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/9-assign-suborganizer.png "9-assign-suborganizer")
+    ![9-assign-suborganizer](/images/fullyloaded/9-assign-suborganizer.png "9-assign-suborganizer")
 
     ---
 
@@ -139,7 +139,7 @@ You can select multiple POS on every event. And The POS can book tickets of only
 
     ---
 
-    ![11-pos-browse-events](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/11-pos-browse-events.png "11-pos-browse-events")
+    ![11-pos-browse-events](/images/fullyloaded/11-pos-browse-events.png "11-pos-browse-events")
 
     ---
 
@@ -148,7 +148,7 @@ You can select multiple POS on every event. And The POS can book tickets of only
 
     ---
 
-    ![12-pos-make-booking](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/12-pos-make-booking.png "12-pos-make-booking")
+    ![12-pos-make-booking](/images/fullyloaded/12-pos-make-booking.png "12-pos-make-booking")
 
     ---
 
@@ -156,7 +156,7 @@ You can select multiple POS on every event. And The POS can book tickets of only
 
     ---
 
-    ![13-pos-manage-bookings](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/13-pos-manage-bookings.png "13-pos-manage-bookings")
+    ![13-pos-manage-bookings](/images/fullyloaded/13-pos-manage-bookings.png "13-pos-manage-bookings")
 
     ---
 
@@ -164,7 +164,7 @@ You can select multiple POS on every event. And The POS can book tickets of only
 
     ---
 
-    ![14-pos-update-booking](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/14-pos-update-booking.png "14-pos-update-booking")
+    ![14-pos-update-booking](/images/fullyloaded/14-pos-update-booking.png "14-pos-update-booking")
 
     ---
 
@@ -176,7 +176,7 @@ Scanner can scan tickets on behalf of Organizer. And they can see the bookings o
 
 ---
 
-![6-scanner](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/6-scanner.png "6-scanner")
+![6-scanner](/images/fullyloaded/6-scanner.png "6-scanner")
 
 ---
 
@@ -202,7 +202,7 @@ You can select multiple Scanners on every event. And The Scanner can scan ticket
 
 ---
 
-![15-scanner-view-booknigs](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/15-scanner-view-booknigs.png "15-scanner-view-booknigs")
+![15-scanner-view-booknigs](/images/fullyloaded/15-scanner-view-booknigs.png "15-scanner-view-booknigs")
 
 ---
 
@@ -214,7 +214,7 @@ Manager can do everything as Organizer. It's an unlimited access account of Orga
 
 ---
 
-![7-manager](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/7-manager.png "7-manager")
+![7-manager](/images/fullyloaded/7-manager.png "7-manager")
 
 ---
 
@@ -228,6 +228,6 @@ Manager can login with their email and password, and can do everything on the be
 
 ---
 
-![16-manager-manage-everything](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/16-manager-manage-everything.png "16-manager-manage-everything")
+![16-manager-manage-everything](/images/fullyloaded/16-manager-manage-everything.png "16-manager-manage-everything")
 
 ---

@@ -39,7 +39,7 @@ Eventmie Pro makes the payout transfer system as smooth as cheese 🧀. Follow t
 
 ---
 
-![Set Commission from admin panel](https://eventmie-pro-docs.classiebit.com/images/commissions-setting.jpg "Set Commission from admin panel")
+![Set Commission from admin panel](/images/commissions-setting.jpg "Set Commission from admin panel")
 
 ---
 
@@ -65,7 +65,7 @@ After setting the `Admin Commission`. Eventmie Pro will start recording commissi
 
     ---
 
-    ![Admin & Organizer Booking Commission](https://eventmie-pro-docs.classiebit.com/images/commissions.jpg "Admin & Organizer Booking Commission")
+    ![Admin & Organizer Booking Commission](/images/commissions.jpg "Admin & Organizer Booking Commission")
 
     ---
 
@@ -77,7 +77,7 @@ After setting the `Admin Commission`. Eventmie Pro will start recording commissi
 
     ---
 
-    ![Commission processing](https://eventmie-pro-docs.classiebit.com/images/commissions-manage.jpg "Commission processing")
+    ![Commission processing](/images/commissions-manage.jpg "Commission processing")
 
     ---
 
@@ -136,7 +136,7 @@ In case of booking cancellations & refunds regarding the Organizer payouts, that
 
 ---
 
-![commissions-refunds](https://eventmie-pro-docs.classiebit.com/images/commissions-refunds.jpg "commissions-refunds")
+![commissions-refunds](/images/commissions-refunds.jpg "commissions-refunds")
 
 ---
 
@@ -148,7 +148,7 @@ The organizer can add their bank account details from their profile page on the 
 
 ---
 
-![Organizer bank details](https://eventmie-pro-docs.classiebit.com/images/commissions-organizer-bank-details.jpg "Organizer bank details")
+![Organizer bank details](/images/commissions-organizer-bank-details.jpg "Organizer bank details")
 
 ---
 
@@ -156,7 +156,7 @@ Admin can find the Organizer Bank Details directly from `Admin Panel -> Commissi
 
 ---
 
-![Admin Panel bank details](https://eventmie-pro-docs.classiebit.com/images/commissions-bank-details-button.jpg "Admin Panel bank details")
+![Admin Panel bank details](/images/commissions-bank-details-button.jpg "Admin Panel bank details")
 
 ---
 

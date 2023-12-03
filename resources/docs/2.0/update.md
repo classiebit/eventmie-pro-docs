@@ -21,6 +21,11 @@ To update to v2.0.x-
 
 1. Download the latest version from [Classiebit.com - Downloads page](https://classiebit.com/downloads)
 
+    ---
+
+    ![classiebit-download](/images/v2/classiebit-downloads.png "classiebit-download")
+
+    ---
 
 
 <a name="update-service"></a> 

@@ -4,7 +4,7 @@ Welcome to Eventmie Pro documentation.
 
 ---
 
-![Eventmie Pro - Event planning reimagined with Laravel](https://eventmie-pro-docs.classiebit.com/images/eventmie-pro-docs-banner-1.jpg "Eventmie Pro - Event planning reimagined with Laravel")
+![Eventmie Pro - Event planning reimagined with Laravel](/images/eventmie-pro-docs-banner-1.jpg "Eventmie Pro - Event planning reimagined with Laravel")
 
 
 > {info.fa-youtube} A complete video tutorial guide for getting started quickly is **Coming Soon**

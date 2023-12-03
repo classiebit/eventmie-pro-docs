@@ -20,7 +20,7 @@ And then, Attendees can apply the promocodes on tickets while checkout and get d
 
 ---
 
-![4-promocode-apply](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/4-promocode-apply.png "4-promocode-apply")
+![4-promocode-apply](/images/v2/EventmieProFullyLoadedV2.0/4-promocode-apply.png "4-promocode-apply")
 
 ---
 
@@ -38,7 +38,7 @@ Let's first create Promocodes as Admin.
 
     ***
 
-    ![1-promocode-create](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/13.1-promocode-create.png "1-promocode-create")
+    ![1-promocode-create](/images/v2/EventmieProFullyLoadedV2.0/13.1-promocode-create.png "1-promocode-create")
 
     ***
 
@@ -52,7 +52,7 @@ Let's first create Promocodes as Admin.
 
     ***
 
-    ![2-promocode-configuration](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-promocode-configuration.png "2-promocode-configuration")
+    ![2-promocode-configuration](/images/fullyloaded/2-promocode-configuration.png "2-promocode-configuration")
 
     ***
 
@@ -67,7 +67,7 @@ Organizer can then set the promocodes on their event tickets, that the Admin hav
 
     ***
 
-    ![3-promocode-set](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/14.3-promocode-set.png "3-promocode-set")
+    ![3-promocode-set](/images/v2/EventmieProFullyLoadedV2.0/14.3-promocode-set.png "3-promocode-set")
 
     ***
 
@@ -82,6 +82,6 @@ Finally, customer can apply the promocode on **Checkout Popup**.
 
     ***
 
-    ![4-promocode-apply](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/4-promocode-apply.png "4-promocode-apply")
+    ![4-promocode-apply](/images/v2/EventmieProFullyLoadedV2.0/4-promocode-apply.png "4-promocode-apply")
 
     ***

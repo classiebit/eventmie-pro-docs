@@ -4,7 +4,7 @@ In Eventmie Pro, you can create daily, weekly & monthly repetitive events and cl
 
 ---
 
-![Repetitive event view](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-event-view.jpg "Repetitive event view")
+![Repetitive event view](/images/events-repetitive-event-view.jpg "Repetitive event view")
 
 ---
 
@@ -98,7 +98,7 @@ The event that repeats every `day` from start to end date.
 
 ---
 
-![Daily Repetitive Schedules](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-daily.jpg "Daily Repetitive Schedules")
+![Daily Repetitive Schedules](/images/events-repetitive-daily.jpg "Daily Repetitive Schedules")
 
 ---
 
@@ -106,7 +106,7 @@ The event that repeats every `day` from start to end date.
 
 ---
 
-![Daily Repetitive Schedules View](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-daily-view.jpg "Daily Repetitive Schedules View")
+![Daily Repetitive Schedules View](/images/events-repetitive-daily-view.jpg "Daily Repetitive Schedules View")
 
 ---
 
@@ -131,7 +131,7 @@ The event that repeats every `week` from start to end date.
 
 ---
 
-![Weekly Repetitive Schedules](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-weekly.jpg "Weekly Repetitive Schedules")
+![Weekly Repetitive Schedules](/images/events-repetitive-weekly.jpg "Weekly Repetitive Schedules")
 
 ---
 
@@ -139,7 +139,7 @@ The event that repeats every `week` from start to end date.
 
 ---
 
-![Weekly Repetitive Schedules View](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-weekly-view.jpg "Weekly Repetitive Schedules View")
+![Weekly Repetitive Schedules View](/images/events-repetitive-weekly-view.jpg "Weekly Repetitive Schedules View")
 
 ---
 
@@ -164,7 +164,7 @@ The event that repeats every `month` from start to end date.
 
 ---
 
-![Monthly Repetitive Schedules](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-monthly.jpg "Monthly Repetitive Schedules")
+![Monthly Repetitive Schedules](/images/events-repetitive-monthly.jpg "Monthly Repetitive Schedules")
 
 ---
 
@@ -172,7 +172,7 @@ The event that repeats every `month` from start to end date.
 
 ---
 
-![Monthly Repetitive Schedules View](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-monthly-view.jpg "Monthly Repetitive Schedules View")
+![Monthly Repetitive Schedules View](/images/events-repetitive-monthly-view.jpg "Monthly Repetitive Schedules View")
 
 ---
 
@@ -211,7 +211,7 @@ Let's get started. Check the `Monthly or Weekly Payment` checkbox, e.g for `Repe
 
 ---
 
-![Monthly Repetitive Schedules Monthly Payment](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-merge-schedule.jpg "Monthly Repetitive Schedules  Monthly Payment")
+![Monthly Repetitive Schedules Monthly Payment](/images/events-repetitive-merge-schedule.jpg "Monthly Repetitive Schedules  Monthly Payment")
 
 ---
 
@@ -219,6 +219,6 @@ Let's get started. Check the `Monthly or Weekly Payment` checkbox, e.g for `Repe
 
 ---
 
-![Monthly Repetitive Schedules  Monthly Payment View](https://eventmie-pro-docs.classiebit.com/images/events-repetitive-merge-schedule-view.jpg "Monthly Repetitive Schedules  Monthly Payment View")
+![Monthly Repetitive Schedules  Monthly Payment View](/images/events-repetitive-merge-schedule-view.jpg "Monthly Repetitive Schedules  Monthly Payment View")
 
 ---

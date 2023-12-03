@@ -13,7 +13,7 @@ From the **Admin Panel -> Header Menu**, you can add Menu items like this-
 
 ---
 
-![admin-header-menu-builder](https://eventmie-pro-docs.classiebit.com/images/admin-header-menu-builder.jpg "admin-header-menu-builder")
+![admin-header-menu-builder](/images/admin-header-menu-builder.jpg "admin-header-menu-builder")
 
 ---
 
@@ -25,7 +25,7 @@ This is how it'll look on the **Frontend -> Header**
 
 ---
 
-![front-header-menu](https://eventmie-pro-docs.classiebit.com/images/v2/2.0-header-menu.png "front-header-menu")
+![front-header-menu](/images/v2/2.0-header-menu.png "front-header-menu")
 
 ---
 
@@ -37,7 +37,7 @@ From the **Admin Panel -> Footer Menu**, you can add Menu items like this-
 
 ---
 
-![admin-footer-menu-builder](https://eventmie-pro-docs.classiebit.com/images/admin-footer-menu-builder.jpg "admin-footer-menu-builder")
+![admin-footer-menu-builder](/images/admin-footer-menu-builder.jpg "admin-footer-menu-builder")
 
 ---
 
@@ -45,7 +45,7 @@ This is how it'll look on the **Frontend -> Footer**
 
 ---
 
-![front-footer-menu](https://eventmie-pro-docs.classiebit.com/images/v2/EventmieProFullyLoadedV2.0/2.0-footer-menu-f.png "front-footer-menu")
+![front-footer-menu](/images/v2/EventmieProFullyLoadedV2.0/2.0-footer-menu-f.png "front-footer-menu")
 
 ---
 

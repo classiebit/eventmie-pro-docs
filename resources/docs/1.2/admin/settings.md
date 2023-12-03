@@ -4,7 +4,7 @@ Manage Eventmie Pro global settings here.
 
 ---
 
-![Eventmie pro master settings](https://eventmie-pro-docs.classiebit.com/images/20-admin-settings.jpg "Eventmie pro master settings")
+![Eventmie pro master settings](/images/20-admin-settings.jpg "Eventmie pro master settings")
 
 ---
 

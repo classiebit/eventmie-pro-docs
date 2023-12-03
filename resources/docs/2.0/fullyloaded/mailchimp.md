@@ -10,11 +10,11 @@ With this, Organizer can subscribe their event attendees directly to their MailC
 
 ---
 
-![mailchimp-tags-1](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/mailchimp-tags-1.png "mailchimp-tags-1")
+![mailchimp-tags-1](/images/fullyloaded/mailchimp-tags-1.png "mailchimp-tags-1")
 
 ---
 
-![mailchimp-tags-2](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/mailchimp-tags-2.png "mailchimp-tags-2")
+![mailchimp-tags-2](/images/fullyloaded/mailchimp-tags-2.png "mailchimp-tags-2")
 
 ---
 
@@ -29,6 +29,6 @@ After getting the above, follow the below steps-
 
 ---
 
-![mailchimp-setup](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/mailchimp-setup.png "mailchimp-setup")
+![mailchimp-setup](/images/v2/EventmieProFullyLoadedV2.0/mailchimp-setup.png "mailchimp-setup")
 
 ---

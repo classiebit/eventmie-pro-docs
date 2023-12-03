@@ -8,7 +8,7 @@ Eventmie Pro can be installed via composer. Bruhhh... 💪
 
 ---
 
-![Eventmie Pro - Installation with Web-installer Video Tutorial](https://eventmie-pro-docs.classiebit.com/images/eventmie-pro-installation-with-webinstaller-youtube.jpg "Eventmie Pro - Installation with Web-installer Video Tutorial")
+![Eventmie Pro - Installation with Web-installer Video Tutorial](/images/eventmie-pro-installation-with-webinstaller-youtube.jpg "Eventmie Pro - Installation with Web-installer Video Tutorial")
 
 ---
 
@@ -152,7 +152,7 @@ Before you start. Make sure your server meets atleast the below requirements. **
 
 ---
 
-![Eventmie Web Installer](https://eventmie-pro-docs.classiebit.com/images/eventmie-pro-web-installer.jpg "Eventmie Web Installer")
+![Eventmie Web Installer](/images/eventmie-pro-web-installer.jpg "Eventmie Web Installer")
 
 ---
 

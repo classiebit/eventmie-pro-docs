@@ -20,7 +20,7 @@ If Manually Approve Organizer setting is Enabled then-
 
 ---
 
-![become-organiser-request](https://eventmie-pro-docs.classiebit.com/images/v2/EventmieProFullyLoadedV2.0/CustomerRequestss.png "become-organiser-request")
+![become-organiser-request](/images/v2/EventmieProFullyLoadedV2.0/CustomerRequestss.png "become-organiser-request")
 
 ---
 
@@ -32,7 +32,7 @@ If Manually Approve Organizer setting is Enabled then-
 
 ---
 
-![admin-receive-approval-request](https://eventmie-pro-docs.classiebit.com/images/admin-receive-approval-request.jpg "admin-receive-approval-request")
+![admin-receive-approval-request](/images/admin-receive-approval-request.jpg "admin-receive-approval-request")
 
 ---
 
@@ -40,7 +40,7 @@ If Manually Approve Organizer setting is Enabled then-
 
 ---
 
-![admin-approves-organiser](https://eventmie-pro-docs.classiebit.com/images/admin-approves-organiser.jpg "admin-approves-organiser")
+![admin-approves-organiser](/images/admin-approves-organiser.jpg "admin-approves-organiser")
 
 ---
 

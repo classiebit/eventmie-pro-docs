@@ -13,7 +13,7 @@ After getting the Twilio keys, follow the below steps-
 
 ---
 
-![twilio-sms-setup](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/twilio-sms-setup.png "twilio-sms-setup")
+![twilio-sms-setup](/images/v2/EventmieProFullyLoadedV2.0/twilio-sms-setup.png "twilio-sms-setup")
 
 ---
 

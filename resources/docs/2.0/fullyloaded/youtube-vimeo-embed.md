@@ -12,7 +12,7 @@ With this, you can enter YouTube/Vimeo private or public video embed code while 
 
 ---
 
-![youtube-vimeo-setup](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/youtube-vimeo-setup.png "youtube-vimeo-setup")
+![youtube-vimeo-setup](/images/v2/EventmieProFullyLoadedV2.0/youtube-vimeo-setup.png "youtube-vimeo-setup")
 
 ---
 
@@ -25,15 +25,15 @@ You can enter both Youtube & Vimeo embed code at the same time or either one of 
 
 ---
 
-![bookings-youtube-vimeo-button](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/7.bookings-youtube-vimeo-button.png "bookings-youtube-vimeo-button")
+![bookings-youtube-vimeo-button](/images/v2/EventmieProFullyLoadedV2.0/7.bookings-youtube-vimeo-button.png "bookings-youtube-vimeo-button")
 
 ---
 
-![youtube-play](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/youtube-play.png "youtube-play")
+![youtube-play](/images/fullyloaded/youtube-play.png "youtube-play")
 
 ---
 
-![vimeo-play](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/vimeo-play.png "vimeo-play")
+![vimeo-play](/images/fullyloaded/vimeo-play.png "vimeo-play")
 
 ---
 
@@ -45,7 +45,7 @@ You can also add more YouTube videos as part of event's promos and trailers to s
 
     ***
 
-    ![1-add-more-youtube-video](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/8.1-add-more-youtube-video.png "1-add-more-youtube-video")
+    ![1-add-more-youtube-video](/images/v2/EventmieProFullyLoadedV2.0/8.1-add-more-youtube-video.png "1-add-more-youtube-video")
 
     ***
 
@@ -53,6 +53,6 @@ You can also add more YouTube videos as part of event's promos and trailers to s
 
     ***
 
-    ![2-show-more-youtube-video](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/9.2-show-more-youtube-video.png "2-show-more-youtube-video")
+    ![2-show-more-youtube-video](/images/v2/EventmieProFullyLoadedV2.0/9.2-show-more-youtube-video.png "2-show-more-youtube-video")
 
     ***

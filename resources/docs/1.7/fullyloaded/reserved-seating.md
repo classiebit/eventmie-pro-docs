@@ -9,7 +9,7 @@ Add any kind of seating arrangement e.g Stadiums, Townhalls, Cinema, Restaurants
 
 ---
 
-![18-seat-booked](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/18-seat-booked.png "18-seat-booked")
+![18-seat-booked](/images/fullyloaded/18-seat-booked.png "18-seat-booked")
 
 ---
 
@@ -27,7 +27,7 @@ Before start creating reserved seating tickets, you need two types of good quali
 
 ---
 
-![4-seating-arrangement](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/4-seating-arrangement.jpg "4-seating-arrangement")
+![4-seating-arrangement](/images/fullyloaded/4-seating-arrangement.jpg "4-seating-arrangement")
 
 ---
 
@@ -35,19 +35,19 @@ Before start creating reserved seating tickets, you need two types of good quali
 
 ---
 
-![8-royal-platinum](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/8-royal-platinum.jpg "8-royal-platinum")
+![8-royal-platinum](/images/fullyloaded/8-royal-platinum.jpg "8-royal-platinum")
 
 ---
 
-![7-royal](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/7-royal.jpg "7-royal")
+![7-royal](/images/fullyloaded/7-royal.jpg "7-royal")
 
 ---
 
-![6-club](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/6-club.jpg "6-club")
+![6-club](/images/fullyloaded/6-club.jpg "6-club")
 
 ---
 
-![5-executive](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/5-executive.jpg "5-executive")
+![5-executive](/images/fullyloaded/5-executive.jpg "5-executive")
 
 ---
 
@@ -63,7 +63,7 @@ Follow the below steps to add reserved seating tickets.
 
     ---
 
-    ![1-add-seating-chart](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/1-add-seating-chart.png "1-add-seating-chart")
+    ![1-add-seating-chart](/images/fullyloaded/1-add-seating-chart.png "1-add-seating-chart")
 
     ---
 
@@ -71,7 +71,7 @@ Follow the below steps to add reserved seating tickets.
 
     ---
 
-    ![2-add-seats-to-tickets](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/2-add-seats-to-tickets.png "2-add-seats-to-tickets")
+    ![2-add-seats-to-tickets](/images/fullyloaded/2-add-seats-to-tickets.png "2-add-seats-to-tickets")
 
     ---
 
@@ -79,7 +79,7 @@ Follow the below steps to add reserved seating tickets.
 
     ---
 
-    ![3-add-seats-to-tickets-1](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/3-add-seats-to-tickets-1.png "3-add-seats-to-tickets-1")
+    ![3-add-seats-to-tickets-1](/images/fullyloaded/3-add-seats-to-tickets-1.png "3-add-seats-to-tickets-1")
 
     ---
 
@@ -87,7 +87,7 @@ Follow the below steps to add reserved seating tickets.
 
     ---
 
-    ![9-seating-update-seat-name](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/9-seating-update-seat-name.png "9-seating-update-seat-name")
+    ![9-seating-update-seat-name](/images/fullyloaded/9-seating-update-seat-name.png "9-seating-update-seat-name")
 
     ---
 
@@ -96,7 +96,7 @@ Follow the below steps to add reserved seating tickets.
 
     ---
 
-    ![10-seating-disable-seat](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/10-seating-disable-seat.png "10-seating-disable-seat")
+    ![10-seating-disable-seat](/images/fullyloaded/10-seating-disable-seat.png "10-seating-disable-seat")
 
     ---
 
@@ -105,19 +105,19 @@ Follow the below steps to add reserved seating tickets.
 
     ---
 
-    ![11-seating-executive](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/11-seating-executive.png "11-seating-executive")
+    ![11-seating-executive](/images/fullyloaded/11-seating-executive.png "11-seating-executive")
 
     ---
 
-    ![12-seating-club](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/12-seating-club.png "12-seating-club")
+    ![12-seating-club](/images/fullyloaded/12-seating-club.png "12-seating-club")
 
     ---
 
-    ![13-seating-royal](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/13-seating-royal.png "13-seating-royal")
+    ![13-seating-royal](/images/fullyloaded/13-seating-royal.png "13-seating-royal")
 
     ---
 
-    ![14-seating-royal-platinum](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/14-seating-royal-platinum.png "14-seating-royal-platinum")
+    ![14-seating-royal-platinum](/images/fullyloaded/14-seating-royal-platinum.png "14-seating-royal-platinum")
 
     ---
 
@@ -127,7 +127,7 @@ Follow the below steps to add reserved seating tickets.
 
     ---
 
-    ![15-seatingchart-image-upload](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/15-seatingchart-image-upload.png "15-seatingchart-image-upload")
+    ![15-seatingchart-image-upload](/images/fullyloaded/15-seatingchart-image-upload.png "15-seatingchart-image-upload")
 
     ---
 
@@ -141,7 +141,7 @@ Once you're done adding Reserved Seating, you can see the Reserved seating optio
 
     ---
 
-    ![16-seating-chart-event-page](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/16-seating-chart-event-page.png "16-seating-chart-event-page")
+    ![16-seating-chart-event-page](/images/fullyloaded/16-seating-chart-event-page.png "16-seating-chart-event-page")
 
     ---
 
@@ -150,7 +150,7 @@ Once you're done adding Reserved Seating, you can see the Reserved seating optio
 
     ---
 
-    ![17-seat-booking](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/17-seat-booking.png "17-seat-booking")
+    ![17-seat-booking](/images/fullyloaded/17-seat-booking.png "17-seat-booking")
 
     ---
 
@@ -158,7 +158,7 @@ Once you're done adding Reserved Seating, you can see the Reserved seating optio
 
     ---
 
-    ![18-seat-booked](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/18-seat-booked.png "18-seat-booked")
+    ![18-seat-booked](/images/fullyloaded/18-seat-booked.png "18-seat-booked")
 
     ---
 
@@ -167,10 +167,10 @@ Once you're done adding Reserved Seating, you can see the Reserved seating optio
 
     ---
 
-    ![19-manage-booking-view-attendee](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/19-manage-booking-view-attendee.png "19-manage-booking-view-attendee")
+    ![19-manage-booking-view-attendee](/images/fullyloaded/19-manage-booking-view-attendee.png "19-manage-booking-view-attendee")
 
     ---
 
-    ![20-booking-attendee-detail](https://eventmie-pro-docs.classiebit.com//images/fullyloaded/20-booking-attendee-detail.png "20-booking-attendee-detail")
+    ![20-booking-attendee-detail](/images/fullyloaded/20-booking-attendee-detail.png "20-booking-attendee-detail")
 
     ---

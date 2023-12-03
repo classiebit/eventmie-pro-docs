@@ -8,11 +8,11 @@ Create beautiful customized registration, booking, contact us, etc email templat
 
 ---
 
-![1-rating-email](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/1-rating-email.png "1-rating-email")
+![1-rating-email](/images/v2/EventmieProFullyLoadedV2.0/1-rating-email.png "1-rating-email")
 
 ---
 
-![2-organizer-approval-email](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/successfulbooking.png "2-organizer-approval-email")
+![2-organizer-approval-email](/images/v2/EventmieProFullyLoadedV2.0/successfulbooking.png "2-organizer-approval-email")
 
 ---
 

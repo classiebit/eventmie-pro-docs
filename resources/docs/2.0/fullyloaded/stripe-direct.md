@@ -45,7 +45,7 @@ Admin needs to follow the below steps to enable it-
 
 ---
 
-![stripe-direct-setup](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/PaymentGateways.png "stripe-direct-setup")
+![stripe-direct-setup](/images/v2/EventmieProFullyLoadedV2.0/PaymentGateways.png "stripe-direct-setup")
 
 ---
 
@@ -66,15 +66,15 @@ Admin needs to follow the below steps to start receiving payout directly into th
 
 ---
 
-![stripe-direct-organizer-connect](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/stripe-direct-organizer-connectd.png "stripe-direct-organizer-connect")
+![stripe-direct-organizer-connect](/images/v2/EventmieProFullyLoadedV2.0/stripe-direct-organizer-connectd.png "stripe-direct-organizer-connect")
 
 ---
 
-![stripe-direct-organizer-connected](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/stripe-direct-organizer-connect.png "stripe-direct-organizer-connected")
+![stripe-direct-organizer-connected](/images/v2/EventmieProFullyLoadedV2.0/stripe-direct-organizer-connect.png "stripe-direct-organizer-connected")
 
 ---
 
-![stripe-payment](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/stripe-payment.png "stripe-payment")
+![stripe-payment](/images/v2/EventmieProFullyLoadedV2.0/stripe-payment.png "stripe-payment")
 
 ---
 
@@ -92,7 +92,7 @@ Admin will see the `Transferred` status as `Checked` in the Admin Commission.
 
 ---
 
-![admin-commission-payout](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/admin-commission-payout.png "admin-commission-payout")
+![admin-commission-payout](/images/v2/EventmieProFullyLoadedV2.0/admin-commission-payout.png "admin-commission-payout")
 
 ---
 
@@ -109,7 +109,7 @@ Organizer will see the `Transferred` status as `Paid` in the `Manage Earnings`.
 
 ---
 
-![organizer-earning-payout](https://eventmie-pro-docs.classiebit.com//images/v2/EventmieProFullyLoadedV2.0/organizer-earning-payout.png "organizer-earning-payout")
+![organizer-earning-payout](/images/v2/EventmieProFullyLoadedV2.0/organizer-earning-payout.png "organizer-earning-payout")
 
 ---
 
