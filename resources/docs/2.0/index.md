@@ -17,7 +17,7 @@
     - [2.8 Menu Builder](/{{route}}/{{version}}/admin/menu-builder)
 
 - ## 3. Events
-    - [3.1 Simple Events](/{{route}}/{{version}}/events/simple-events)
+    - [3.1 Simple Events <small class="v">v2.0</small>](/{{route}}/{{version}}/events/simple-events)
     - [3.2 Repetitive Events <small class="v">v2.0</small>](/{{route}}/{{version}}/events/repetitive-events)
     - [3.3 Online Events](/{{route}}/{{version}}/events/online-events)
     - [3.4 Manage Events](/{{route}}/{{version}}/events/manage-events)

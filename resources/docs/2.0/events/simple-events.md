@@ -19,7 +19,7 @@ In Eventmie Pro, you can create a single & multiple days event. Each event belon
 -   [Create Simple Event](#create-simple-event)
 -   [Details <small class="v">v1.7</small>](#Details)
 -   [Timing](#Timing)
--   [Tickets <small class="v">v1.7</small>](#Tickets)
+-   [Tickets <small class="v">v2.0</small>](#Tickets)
 -   [Location](#Location)
 -   [Media](#Media)
 -   [SEO](#SEO)
@@ -86,13 +86,14 @@ Set timing for single or multiple days event.
 
 <a name="Tickets"></a>
 
-## Tickets <small class="v">v1.7</small>
+## Tickets <small class="v">v2.0</small>
 
 Create tickets for the event.
 
 -   Tickets can be `Free` or `Paid`.
 -   Taxes can be applied to each ticket separately.
 -   Multiple taxes can also be applied to each ticket.
+-   Custom Ticket Order, to show the tickets on Checkout Page in your desired order/sequence.
 
 <br>
 
@@ -104,6 +105,18 @@ Create tickets for the event.
 -   Booking Limit Per Customer (For how many times the same customer can purchase this ticket) <small class="v">v1.7</small>
 -   Description (ticket amenities info) (optional)
 -   Taxes (optional)
+-   Order (set to 0 or 1 or 2 or 3, to show them in that order on checkout page) <small class="v">v2.0</small>
+
+    ---
+
+    ![Set custom Ticket order](/images/v2/1-ticket-order.webp "Set custom Ticket order")
+
+    ---
+
+    ![Show tickets on checkout page in custom order](/images/v2/2-ticket-order.webp "Show tickets on checkout page in custom order")
+
+    ---
+
 
 ---
 
