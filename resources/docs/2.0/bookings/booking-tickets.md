@@ -194,3 +194,11 @@ The booking process is separated into two parts (micro-services). When you click
 - Faster checkout, lesser waiting time.
 - More reliable, e.g if email sending fails, it won't affect other related tasks.
 - For more clarity for each task, a user can track each process and can contact support about the exact issue.
+
+
+---
+
+><iframe width="75%" height="500" src="https://www.youtube.com/embed/LahJYztSmnw?si=ZtvDmFsRWYwGhwni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+---

@@ -52,3 +52,7 @@ This is how it'll look on the **Frontend -> Footer**
 > {info} Only up to two levels of menu & sub-menu will work.
 
 ---
+
+<iframe width="75%" height="500"src="https://www.youtube.com/embed/9qtXIPrx1_A?si=XoI7-JLW6Vr4njTR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---

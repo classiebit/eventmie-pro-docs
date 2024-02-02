@@ -57,3 +57,9 @@ Let's visit the private event with Event URL. If the private event has password,
 ![4-access-private-event](/images/v2/EventmieProFullyLoadedV2.0/17.4-access-private-event.webp "4-access-private-event")
 
 ---
+
+
+<iframe width="75%" height="500" src="https://www.youtube.com/embed/-ut2jr_Iwo4?si=nSJ8ojoksfnRDvE1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+---

@@ -49,3 +49,8 @@ If Manually Approve Organizer setting is Enabled then-
 > {primary} The user receives the Organiser approval success notification via email and then they can start adding events.
 
 ---
+
+
+<iframe width="75%" height="500" src="https://www.youtube.com/embed/rX6d4eEJ0GI?si=UNvDWBO-Tc1p3DuC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---

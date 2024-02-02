@@ -83,3 +83,10 @@ Here, you can manage all your website's user-uploaded images like events, tags, 
 ![Media manager](/images/content-media.webp "Media manager")
 
 ---
+
+ 
+
+
+<iframe width="75%" height="500" src="https://www.youtube.com/embed/fZfePjcwH7k?si=B_VnWCwqGep4qP-v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---

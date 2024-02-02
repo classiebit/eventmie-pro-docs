@@ -129,3 +129,8 @@ The event can be shared on social media websites from the Event detail page.
 >{success} Can be shared on - `Facebook` | `Twitter` | `Linkedin` | `Whatsapp` | `Reddit`
 
 ---
+
+
+<iframe width="75%" height="500" src="https://www.youtube.com/embed/1nvzMrP1aEE?si=X9hMbTkY8-RI8s6J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
