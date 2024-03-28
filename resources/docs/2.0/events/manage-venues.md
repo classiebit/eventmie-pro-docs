@@ -62,3 +62,9 @@ Venue has their seperate pages to show all the details about the venue along wit
 ![1-venue-page](/images/v2/ManageVenuesImages/1-venue-page.webp "1-venue-page")
 
 ---
+
+
+<iframe width="75%" height="500" src="https://www.youtube.com/embed/u515fZBsRu8?si=VDC8ESLWiph8maQ5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+---

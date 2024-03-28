@@ -88,3 +88,9 @@ After making a refund and updating cancellation status, you must change the `Boo
 > {primary} On updating `Cancellation Status` to `Approved` or `Refunded`, you must change the Booking Status to `Disabled` to discontinue booking.
 
 ---
+
+
+<iframe width="75%" height="500" src="https://www.youtube.com/embed/0iN5b0u0qp0?si=r7T-dEzpw9U7MJRj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+---

@@ -85,3 +85,10 @@ Finally, customer can apply the promocode on **Checkout Popup**.
     ![4-promocode-apply](/images/v2/EventmieProFullyLoadedV2.0/4-promocode-apply.webp "4-promocode-apply")
 
     ***
+
+
+   >> <iframe width="75%" height="500" src="https://www.youtube.com/embed/dWhBahO3YgU?si=WcIzbEQ72hmGIq7R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+  ---

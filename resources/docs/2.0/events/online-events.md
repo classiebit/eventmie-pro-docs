@@ -68,3 +68,8 @@ Once you complete the initial steps for creating an event, proceed to the `Locat
 >{success} This way of creating online events makes Eventmie Pro compatible with any type of video streaming or broadcasting app.
 
 ---
+
+
+<iframe width="75%" height="500" src="https://www.youtube.com/embed/Nwjrporah0I?si=wKxiiw4Ndo82sbh5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---

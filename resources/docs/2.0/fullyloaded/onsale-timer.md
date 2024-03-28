@@ -65,3 +65,8 @@ After putting ticket on sale, you can see the Event on-sale on the
     ![4-see-sale-timer-checkout](/images/v2/EventmieProFullyLoadedV2.0/4-see-sale-timer-checkout.webp "4-see-sale-timer-checkout")
 
     ***
+
+
+    <iframe width="75%" height="500" src="https://www.youtube.com/embed/zh6ggemJrl4?si=5s7dUdQ5vKdWaTwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    ---

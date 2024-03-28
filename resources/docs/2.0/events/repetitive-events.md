@@ -264,3 +264,8 @@ In this way, it won't disclose all the Quantity of the ticket and only show the 
 ![Live Timeslots Availability Vacant Seats Per Ticket](/images/v2/RepetitiveEventImages/repetitive-events-vacant.webp "Live Timeslots Availability Vacant Seats Per Ticket")
 
 ---
+
+
+<iframe width="75%" height="500" src="https://www.youtube.com/embed/3HzWrXDe7TI?si=fYloyFZjTyRHbsBS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---

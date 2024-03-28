@@ -74,3 +74,8 @@ When Admin sets a tax as `Admin Tax`, it becomes `Admin Tax`. Let's see the powe
     >{primary} Admin (site-owners) can create multiple admin taxes that are applicable on all tickets by default, like a fixed admin fee to the customers. 
 
     ---
+
+
+ <iframe width="75%" height="500" src="https://www.youtube.com/embed/-5eLyMiIBVM?si=hVcB-fTOgQtHf80t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ 
+  ---

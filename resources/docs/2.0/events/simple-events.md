@@ -224,3 +224,8 @@ Final step-
 > {primary} Event can be `published` only after completing - `Details`, `Timings`, `Tickets`, `Location` & `Media`.
 
 ---
+
+
+<iframe width="75%" height="500" src="https://www.youtube.com/embed/F8skElY3xAQ?si=aE2lTTinQFKusJfP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---

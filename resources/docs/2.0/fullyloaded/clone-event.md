@@ -19,3 +19,11 @@ Duplicate existing events to speed up creating a new event, rather than creating
 <br>
 
 The cloned event will have everything except the bookings. And it'll be cloned as unpublished, so that you can make some changes into it before publishing.
+
+
+---
+
+<iframe width="75%" height="500" src="https://www.youtube.com/embed/1nvzMrP1aEE?si=XEwILYuU82xyMGnR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+---
