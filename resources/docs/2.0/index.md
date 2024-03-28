@@ -16,6 +16,7 @@
     - [2.7 Manual Approval](/{{route}}/{{version}}/admin/organiser-approval)
     - [2.8 Menu Builder](/{{route}}/{{version}}/admin/menu-builder)
 
+
 - ## 3. Events
     - [3.1 Simple Events <small class="v">v2.0</small>](/{{route}}/{{version}}/events/simple-events)
     - [3.2 Repetitive Events <small class="v">v2.0</small>](/{{route}}/{{version}}/events/repetitive-events)
@@ -72,8 +73,19 @@
     - [5.35 Custom Ticket Order<small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/custom-ticket-order)
     - [5.36 Organiser Sales Report<small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/organiser-sales-report)
 
+
 - ## 6. Android & iOS App
     - [6.1 Introduction](/{{route}}/{{version}}/apps/introduction)
+    - [6.2 Installation](/{{route}}/{{version}}/apps/installation)
+    - [6.3 Ticket Booking](/{{route}}/{{version}}/apps/ticket-booking)
+    - [6.4 Ticket Scanning](/{{route}}/{{version}}/apps/ticket-scanning)
+    - [6.5 Events Listing](/{{route}}/{{version}}/apps/events-listing)
+    - [6.6 Guest Checkout](/{{route}}/{{version}}/apps/guest-checkout)
+    - [6.7 Ticket & Invoice](/{{route}}/{{version}}/apps/ticket-invoice)
+    - [6.8 Multi-lingual Support](/{{route}}/{{version}}/apps/multi-lingual)
+    - [6.9 Organiser Dashboard](/{{route}}/{{version}}/apps/organiser-dashboard)
+    - [6.10 Rating & Reviews](/{{route}}/{{version}}/apps/rating-reviews)
+    - [6.11 Promocodes & Discounts](/{{route}}/{{version}}/apps/promocodes-discounts)
 
 
 - ## Live Preview
