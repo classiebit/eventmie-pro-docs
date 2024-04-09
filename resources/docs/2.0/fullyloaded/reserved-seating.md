@@ -170,3 +170,10 @@ Once you're done adding Reserved Seating, you can see the Reserved seating optio
     ![20-booking-attendee-detail](/images/v2/EventmieProFullyLoadedV2.0/12.20-booking-attendee-detail.webp "20-booking-attendee-detail")
 
     ***
+
+
+---
+
+<iframe width="75%" height="500" src="https://www.youtube.com/embed/07ux5omr4MM?si=ccy7siPJVbVYVweS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
