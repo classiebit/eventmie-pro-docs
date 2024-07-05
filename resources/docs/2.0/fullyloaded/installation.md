@@ -7,6 +7,7 @@ Eventmie Pro FullyLoaded can be installed via composer as well as via web-instal
 - [Download Eventmie-pro FullyLoaded](#download-eventmie-pro-FullyLoaded)
 - [Install via Composer](#install-via-composer)
 - [Install via Web-Installer](#install-via-web-installer)
+- [Cron Job Setup <small class="v">v2.0</small>](#cron-job-setup)
 - [Installation Errors](#installation-errors)
 - [Signup Error](#signup-error)
 
@@ -123,6 +124,16 @@ Follow these simple steps for getting started with web-installer.
 
     * **Step-3: Final Step** <br>
     Enter Website Name & URL and Click Install.
+
+
+<a name="cron-job-setup"></a>
+## Cron Job Setup <small class="v">v2.0</small>
+
+It's **IMPORTANT** to setup Cronjob. You need to setup Laravel Cron job on your cPanel or Web-Server.
+
+```bash
+* * * * * cd /path-to-your-project && php artisan schedule:run >> /dev/null 2>&1
+```
 
 
 
