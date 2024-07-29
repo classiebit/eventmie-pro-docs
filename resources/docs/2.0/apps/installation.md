@@ -30,6 +30,12 @@ To set up and publish apps on your Play Store and App Store accounts, you first 
 ### 1. Set Up React Native Development Environment
 - Follow the instructions on the official React Native website to set up your development environment: [React Native Environment Setup](https://reactnative.dev/docs/environment-setup).
 
+---
+
+>{info} **NOTE:** Eventmie Pro FullyLoaded is a React **Native** App and NOT AN EXPO App.
+
+---
+
 ### 2. Create a Hello World React Native App
 - Set up a basic "Hello World" React Native app on your local system.
 - Build and run the app to ensure your local environment is configured correctly and the app runs without issues.
