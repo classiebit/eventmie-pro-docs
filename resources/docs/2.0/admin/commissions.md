@@ -244,3 +244,5 @@ When you set the Admin Commission to ZERO, it calculates the Organizer payouts w
 -   In case of ZERO commission, Admin can still set Admin Tax, and all the detailed payout info will be shown on Admin Commission & Organizer earning page.
 
 -   If a booking is deleted, refunded, or disabled, you'll see proper effects and changes in the Admin Commission & Organizer Earnings.
+
+<iframe width="75%" height="500" src="https://www.youtube.com/embed/0Pb277xuKzY?si=QnOtOo-idyQS3p4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

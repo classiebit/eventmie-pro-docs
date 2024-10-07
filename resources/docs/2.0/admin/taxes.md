@@ -76,6 +76,6 @@ When Admin sets a tax as `Admin Tax`, it becomes `Admin Tax`. Let's see the powe
     ---
 
 
- <iframe width="75%" height="500" src="https://www.youtube.com/embed/-5eLyMiIBVM?si=hVcB-fTOgQtHf80t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <iframe width="75%" height="500" src="https://www.youtube.com/embed/0BE4PUqxNQc?si=IRGCVhB--QGUDLt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  
   ---

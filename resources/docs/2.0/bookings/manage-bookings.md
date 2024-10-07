@@ -112,4 +112,6 @@ Customers can add Events to their Google Calendar from the **My Bookings** page 
 
 ![google-calendar](/images/v2/EventmieProImages/manage-bookings-customer.webp "google-calendar")
 
+<iframe width="75%" height="500" src="https://www.youtube.com/embed/y0fwpk6t0r0?si=QfjRdgfKeSO3ktVF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
