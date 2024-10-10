@@ -51,7 +51,7 @@ Before you start. Make sure your server meets at least the below requirements. *
 
 ---
 
-![classiebit-download](/images/v2/classiebit-downloads.webp "classiebit-download")
+<iframe width="75%" height="500" src="https://www.youtube.com/embed/a-eaCkehFe4?si=DcapZsjbL6ouMun-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

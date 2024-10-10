@@ -56,3 +56,5 @@ You can also add more YouTube videos as part of event's promos and trailers to s
     ![2-show-more-youtube-video](/images/v2/EventmieProFullyLoadedV2.0/9.2-show-more-youtube-video.webp "2-show-more-youtube-video")
 
     ***
+
+<iframe width="75%" height="500" src="https://www.youtube.com/embed/26utTYbk9SU?si=REhUIU65gdZJdOWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
