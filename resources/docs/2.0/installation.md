@@ -227,9 +227,16 @@ If you've purchased Eventmie Pro from Codecanyon `codecanyon.net` then follow th
 After installation, make sure to add Mail server SMTP credentials on Admin Panel.
 
 - Simply visit Admin Panel
+- **First update the Admin email admin@admin.com to some real email.**
 - Click on Settings -> Mail tab
 - And enter mail server credentials.
 - Make sure to test SMTP credentials here- [smtper.net](https://www.smtper.net) if emails are not delivering.
+
+---
+
+>{warning} If some emails are sending but not booking emails, then it's due to admin@admin.com email. Please update it to some real email.
+
+---
 
 
 <a name="update-admin-email"></a>
