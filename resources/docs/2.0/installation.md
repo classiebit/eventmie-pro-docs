@@ -238,6 +238,10 @@ After installation, make sure to add Mail server SMTP credentials on Admin Panel
 
 ---
 
+![Admin email update](/images/update-admin-email.png "Admin email update")
+
+---
+
 
 <a name="update-admin-email"></a>
 ## Update Admin Email
