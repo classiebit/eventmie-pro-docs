@@ -1,22 +1,22 @@
 # Commissions
 
-Eventmie Pro is a flexible event hosting solution. You can use it as a Multi-organization (multi-vendor) or as a single organization website.
+Eventmie Pro is a flexible event hosting solution that supports both Multi-organization (multi-vendor) and single organization event websites. With Eventmie Pro, you can easily manage commissions, payouts, and even offer 0% Commission on Ticket Sales for your organizers.
 
 <br>
 
-In the case of the multi-vendor, you as a website owner can invite event organizers to signup and create events on your website. And that's where you'll also need a commission system, for sharing the profit.
+In multi-vendor mode, you as the website owner can invite event organizers to sign up and create events on your platform. This is where the commission system comes into play, allowing you to share profits to attract more organizers.
 
 <br>
 
-So, here's a **semi-automatic** commission system in which you can set `commission percentage (%)` from Admin Panel, and then commissions on each booking will be calculated automatically.
+Eventmie Pro features a semi-automatic commission system. Set your `commission percentage (%)` from the Admin Panel, and commissions on each booking are calculated automatically.
 
 <br>
 
-At first, all bookings credit goes to the website owner's (Admin) bank account and then the owner distributes the organizer's payout manually and can update the `Payout Transfer` status on the Admin Panel.
+Initially, all booking payments are credited to the website owner's (Admin) account. The Admin then manually distributes organizer payouts and can update the `Payout Transfer` status in the Admin Panel.
 
 <br>
 
-Eventmie Pro makes the payout transfer system as smooth as cheese 🧀. Follow the below guidelines, and you'll become master in it, in no time.
+Eventmie Pro makes the payout transfer and commission management process seamless. Follow the guidelines below to master commission settings, including how to enable 0% Commission on Ticket Sales for your event platform.
 
 -   [Set Commission](#set-commission)
 -   [Commission Processing & Payouts](#commission-processing-payouts)
@@ -42,11 +42,11 @@ Eventmie Pro makes the payout transfer system as smooth as cheese 🧀. Follow t
 <br>
 
 1. Go to `Admin Panel -> Settings -> Multi-vendor` tab.
-2. Set the `Admin Commission` e.g `5` (in percent).
+2. Set the `Admin Commission` e.g. `5` (in percent)
 
 ---
 
-> {primary} Commissions are recorded only if, the `Multi-vendor mode On` & `Admin Commission Set`.
+> {primary} Commissions are recorded only if `Multi-vendor mode` is On & `Admin Commission` is set.
 
 ---
 
@@ -54,30 +54,27 @@ Eventmie Pro makes the payout transfer system as smooth as cheese 🧀. Follow t
 
 ## Commission Processing & Payouts
 
-After setting the `Admin Commission`. Eventmie Pro will start recording commissions on each ticket sale.
+After setting the `Admin Commission`, Eventmie Pro will automatically record commissions on each ticket sale, including when you offer 0% Commission on Ticket Sales.
 
 1. Go to `Admin Panel -> Commissions`.
 2. Click on &nbsp;<larecipe-button type="info" size="sm" rounded>View</larecipe-button>
 
     ***
 
-    ![Admin & Organizer Booking Commission](/images/commissions.webp "Admin & Organizer Booking Commission")
+    ![Admin & Organizer Booking Commission](/images/v3/How-to-check-commissions-image-3.webp "Admin & Organizer Booking Commission")
 
     ***
 
-3. You can see the Organizer's every Event monthly `Total Bookings`, `Organizer earnings`, and `Admin Commission`.
-
-4. Suppose, you've transferred an Organiser's payout for a particular month.
-
-5. Check `Transferred` checkbox on that particular row, and click on &nbsp;<larecipe-button type="info" size="sm" rounded>Update</larecipe-button> to update the transfer status.
+3. View each organizer's monthly `Total Bookings`, `Organizer earnings`, and `Admin Commission`.
+4. After transferring an organizer's payout for a particular month, check the `Transferred` checkbox and click &nbsp;<larecipe-button type="info" size="sm" rounded>Update</larecipe-button> to update the transfer status.
 
     ***
 
-    ![Commission processing](/images/commissions-manage.webp "Commission processing")
+    ![Commission processing](/images/v3/How-to-check-organiser-payouts-image-4.webp "Commission processing")
 
     ***
 
-    > {success} Doing the above, means, being a website owner, you can keep a record of the organizer's payouts transfers.
+    > {success} This allows you to keep a record of all organizer payout transfers, even when operating with 0% Commission on Ticket Sales.
 
     ***
 
@@ -85,7 +82,7 @@ After setting the `Admin Commission`. Eventmie Pro will start recording commissi
 
 ## Commission Calculations
 
-This is how, the Admin Commission and Organizer earnings are calculated behind the scenes. Let us explain from an example.
+Here's how Admin Commission and Organizer earnings are calculated, including scenarios with 0% Commission on Ticket Sales.
 
 <br>
 
@@ -98,11 +95,11 @@ This is how, the Admin Commission and Organizer earnings are calculated behind t
 
 ---
 
-> {primary} Admin Commission = 5% of (Ticket Price + Organizer Tax)
+> {primary} Admin Commission = 5% of (Ticket Price + Organizer Tax).
 
 ---
 
-> {primary} Admin Tax won't be a part of Organizer earning. It'll completely go to Admin account.
+> {primary} Admin Tax is not included in Organizer earnings. It goes directly to the Admin account.
 
 ---
 
@@ -113,25 +110,22 @@ This is how, the Admin Commission and Organizer earnings are calculated behind t
 
 ---
 
-1. In case of **Online Payment** the **Is Paid** is set to **Yes**, while in case of Offline/Direct payment, Organizer or Admin needs to update the **Is Paid** status to **Yes**. The bookings will appear in Commissions only after the **Is Paid = Yes**.
-
-2. If a booking is made after making the Organizer Earning's **Transferred** status set to **Yes**, then that new booking of the same month will appear as a new entry in Commission, as **Un-Transferred** payout.
-
-3. Once, the **Un-Transferred** Organiser earning for the same month is set to **Transferred**, then it'll be merged in one single **Transferred** Payout for the month.
-
-4. The commission will record and show the overall calculations with floating-point precision.
+1. For **Online Payment**, **Is Paid** is set to **Yes**. For Offline/Direct payment, Organizer or Admin must update **Is Paid** to **Yes**. Bookings appear in Commissions only after **Is Paid = Yes**.
+2. If a booking is made after the Organizer Earning's **Transferred** status is set to **Yes**, the new booking for the same month appears as a new entry in Commission as **Un-Transferred** payout.
+3. Once the **Un-Transferred** Organizer earning for the same month is set to **Transferred**, it merges into a single **Transferred** Payout for the month.
+4. All commission records and calculations are shown with floating-point precision, including 0% Commission on Ticket Sales.
 
 <a name="refunds-settlements"></a>
 
 ## Refunds Settlements
 
-In case of booking cancellations & refunds regarding the Organizer payouts, that has already been transferred, then the refunded amount will come into **Refund Settlement** that needs to be claimed back from the Organiser.
+For booking cancellations and refunds after organizer payouts have been transferred, the refunded amount appears in **Refund Settlement** and must be claimed back from the organizer.
 
--   Admin can also mark a Refund Settlement status to **Yes**, which shows that the refunded booking has been claimed back from the Organizer payout.
+- Admin can mark a Refund Settlement status to **Yes** to indicate the refunded booking has been claimed back from the organizer payout.
 
 ---
 
-![commissions-refunds](/images/commissions-refunds.webp "commissions-refunds")
+![commissions-refunds](/images/v3/Organiser-payots-refunds-image-5.webp "commissions-refunds")
 
 ---
 
@@ -139,15 +133,15 @@ In case of booking cancellations & refunds regarding the Organizer payouts, that
 
 ## Organiser Bank Details
 
-The organizer can add their bank account details from their profile page on the front-end.
+Organizers can add their bank account details from their profile page on the front-end for easy payout transfers.
 
 ---
 
-![Organizer bank details](/images/v2/EventmieProFullyLoadedV2.0/OrganiserBankDetails.webp "Organizer bank details")
+![Organizer bank details](/images/v3/Organiser-bank-details-image-6.webp "Organizer bank details")
 
 ---
 
-Admin can find the Organizer Bank Details directly from `Admin Panel -> Commissions` page, for transferring the payouts to the organizer's bank account.
+Admins can view Organizer Bank Details directly from the `Admin Panel -> Commissions` page to process payouts efficiently.
 
 ---
 
@@ -159,11 +153,11 @@ Admin can find the Organizer Bank Details directly from `Admin Panel -> Commissi
 
 ## Cancelled Booking
 
-When a booking is canceled, the commission of that canceled booking get excluded automatically and won't be sum-up in the Organizer earnings.
+When a booking is canceled, its commission is automatically excluded and will not be included in Organizer earnings.
 
 ---
 
-> {primary} Make sure you turn the booking `status` to `Disabled` after making a refund.
+> {primary} Always set the booking `status` to `Disabled` after processing a refund.
 
 ---
 
@@ -171,43 +165,36 @@ When a booking is canceled, the commission of that canceled booking get excluded
 
 ## Multi Vendor On
 
-Eventmie Pro supports a single organization and multi-organization (multi-vendor, like a SaaS platform). You can toggle between these two modes with a click of a button from the `Admin Panel -> Settings -> Multi-vendor` tab.
+Eventmie Pro supports both single organization and multi-organization (multi-vendor, SaaS-style) event platforms. Toggle between these modes from the `Admin Panel -> Settings -> Multi-vendor` tab.
 
 <br>
 
-In the case of `multi-vendor` mode `on`. A user, after `Signup` as a customer, can `Become Organizer`.
+With `multi-vendor` mode enabled, users can sign up as customers and then become organizers, benefiting from features like 0% Commission on Ticket Sales.
 
-1. After signup as `customer`, go to `Profile`.
-
+1. After signing up as a `customer`, go to `Profile`.
 2. Click on &nbsp;<larecipe-button radius="half" type="black">Become Organizer</larecipe-button>
-
-3. In the popup, fill in your `Organization name/Brand name` and click on &nbsp;<larecipe-button radius="half" type="info">Submit</larecipe-button>
-
-4. After submission, the user's `Group` will be changed from `Customer` to `Organizer`.
+3. In the popup, enter your `Organization name/Brand name` and click &nbsp;<larecipe-button radius="half" type="info">Submit</larecipe-button>
+4. After submission, the user's `Group` changes from `Customer` to `Organizer`.
 
 <a name="become-organiser"></a>
 
 ## Become Organiser
 
-There are some set of rules about what an Organizer **CAN** and **CANNOT** do.
+There are specific rules for what an Organizer **CAN** and **CANNOT** do:
 
-1. Organizer **CANNOT** become Customer again. The process is `irreversible`.
-
-2. Organizer **CAN** create and manage their **own** events, but **CANNOT** book any event for their **own**.
-
-3. Organizer **CAN** book only their **own** events for any other Customer (users) of the site.
-
-4. Organizer **CAN** book event for a customer **ONLY IF**, the organizer knows the customer email.
-
-5. Organizers **CAN** manage bookings of their **own** events only.
+1. Organizer **CANNOT** revert to Customer. The process is irreversible.
+2. Organizer **CAN** create and manage their own events, but **CANNOT** book their own events.
+3. Organizer **CAN** book their own events for other customers (users) of the site.
+4. Organizer **CAN** book events for a customer **ONLY IF** they know the customer's email.
+5. Organizers **CAN** manage bookings for their own events only.
 
     ***
 
-    > {success} The above actions can be performed by the Organizer from the front-end.
+    > {success} Organizers can perform these actions from the front-end, including benefiting from 0% Commission on Ticket Sales if enabled.
 
     ***
 
-    > {primary} While Admin can do anything, without any limitations.
+    > {primary} Admins have full access and can perform any action without limitations.
 
     ***
 
@@ -215,23 +202,20 @@ There are some set of rules about what an Organizer **CAN** and **CANNOT** do.
 
 ## Multi Vendor Off
 
-When the multi-vendor mode is `Off`, then on the front-end, all the options for `Become Organizer`, `Create Event` or anything else related to `multi-vendor` functionality, get invisible. In that case, Admin manages everything on behalf of an Organizer.
+When multi-vendor mode is `Off`, all options for `Become Organizer`, `Create Event`, or other multi-vendor features are hidden on the front-end. In this mode, Admin manages everything on behalf of organizers.
 
 <br>
 
-Admin can create a separate `User` from the admin panel and assign the `User` the `Organizer - Role`. Follow these steps to do so.
+Admins can create a separate `User` from the admin panel and assign the `Organizer - Role`. Follow these steps:
 
 1. Go to `Admin Panel -> Manage Users`.
-
 2. Click on &nbsp;<larecipe-badge type="primary" rounded>Add New</larecipe-badge>
-
-3. Fill in the Organizer's name, email, and password (you can fill your own).
-
-4. Select the `Default Role` to `Organizer`.
+3. Enter the organizer's name, email, and password (you can use your own).
+4. Set the `Default Role` to `Organizer`.
 
     ***
 
-    > {primary} After creating an organizer, Admin can use the organizer everywhere, whenever it asks to `Select Organizer`.
+    > {primary} After creating an organizer, Admin can select the organizer wherever required.
 
     ***
 
@@ -239,10 +223,9 @@ Admin can create a separate `User` from the admin panel and assign the `User` th
 
 ## ZERO Commission
 
-When you set the Admin Commission to ZERO, it calculates the Organizer payouts with ZERO commission and shows all the payouts on the **Admin Panel -> Commissions** page.
+When you set the Admin Commission to ZERO, Eventmie Pro automatically calculates organizer payouts with 0% Commission on Ticket Sales. All payout details are displayed on the **Admin Panel -> Commissions** page.
 
--   In case of ZERO commission, Admin can still set Admin Tax, and all the detailed payout info will be shown on Admin Commission & Organizer earning page.
-
--   If a booking is deleted, refunded, or disabled, you'll see proper effects and changes in the Admin Commission & Organizer Earnings.
+- With 0% Commission on Ticket Sales, Admin can still set Admin Tax, and all payout details are shown on the Admin Commission & Organizer earnings page.
+- If a booking is deleted, refunded, or disabled, the changes are reflected in both Admin Commission and Organizer Earnings.
 
 <iframe width="75%" height="500" src="https://www.youtube.com/embed/0Pb277xuKzY?si=QnOtOo-idyQS3p4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

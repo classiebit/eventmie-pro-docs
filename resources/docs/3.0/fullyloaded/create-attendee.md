@@ -1,10 +1,15 @@
+<!--
+Meta Description: Learn how to create attendees directly during checkout in Eventmie Pro FullyLoaded. Guide for admins and organizers to quickly add new attendees without separate registration in your Laravel event management platform.
+Meta Keywords: create attendee, Eventmie Pro FullyLoaded, Laravel attendee registration, event management, admin, organizer, checkout, add attendee, event booking, Classiebit
+-->
+
 > {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
 # Create Attendee
 
-Create Attendee while Checkout. It's an for Admin & Organizer to create a new Attendee directly from Checkout popup instead of Registering them first.
+Easily create new attendees directly from the checkout popup in Eventmie Pro FullyLoaded. This feature allows admins and organizers to add attendees instantly during the booking process, eliminating the need for separate attendee registration steps.
 
 ---
 

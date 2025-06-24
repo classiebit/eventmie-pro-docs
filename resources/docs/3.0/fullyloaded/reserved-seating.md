@@ -1,16 +1,20 @@
+<!--
+Meta Description: Learn how to set up reserved seating and interactive seat booking in Eventmie Pro FullyLoaded. Step-by-step guide for creating seat charts, real-time seat availability, and managing ticketed seating for stadiums, cinemas, and events in your Laravel event management platform.
+Meta Keywords: reserved seating, seat booking, Eventmie Pro FullyLoaded, Laravel seat chart, stadium seating, cinema seating, real-time seat availability, ticketing, event management, Classiebit
+-->
 > {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
-# Reserved Seating
+# Reserved Seating & Interactive Seat Booking in Eventmie Pro FullyLoaded
 
-Setup any kind of seating arrangement e.g Stadiums, Townhalls, Cinema, Restaurants, Lounges, etc.
+Set up any kind of reserved seating arrangement—stadiums, townhalls, cinemas, restaurants, lounges, and more—in your Eventmie Pro FullyLoaded Laravel event management platform. Offer attendees a seamless seat selection and booking experience with real-time seat availability and interactive seat charts.
 
-In v2.0, now you can-
+In v2.0, you can:
 
-1. Drag-n-Drop to adjust the seats on the seatchart image.
-2. Seat waiting list in case two users are booking the same seat, then system will block the seat for first user.
-3. Realtime seat availability check, in conjunction with above addition, this will show the blocked seat to the other users, so that they can't book the same seat
+1. Drag-and-drop to adjust seats on the seat chart image.
+2. Enable a seat waiting list: if two users try to book the same seat, the system blocks the seat for the first user.
+3. Real-time seat availability: blocked seats are instantly shown to other users, preventing double bookings.
 
 ---
 
@@ -24,11 +28,11 @@ In v2.0, now you can-
 
 <a name="Requirements"></a>
 
-## Requirements
+## Requirements for Reserved Seating
 
-Before start creating reserved seating tickets, you need two types of good quality images-
+Before creating reserved seating tickets, prepare two types of high-quality images:
 
-1. A full image of seating arrangement. Here's a sample image-
+1. A full image of the seating arrangement (e.g. stadium, cinema, etc.). Example:
 
 ---
 
@@ -36,7 +40,7 @@ Before start creating reserved seating tickets, you need two types of good quali
 
 ---
 
-2. Then, you'll need cropped images for different tickets of different types of seats like executive, vip, etc. Here are sample images-
+2. Cropped images for different ticket types (executive, VIP, etc.). Examples:
 
 ---
 
@@ -58,13 +62,13 @@ Before start creating reserved seating tickets, you need two types of good quali
 
 <a name="Add-Reserved-Seating"></a>
 
-## Add Reserved Seating
+## How to Add Reserved Seating to Your Event
 
-Follow the below steps to add reserved seating tickets.
+Follow these steps to add reserved seating tickets:
 
 1. Go to Event Edit Page -> **Tickets** Tab.
-2. Create Tickets for the event.
-3. Then click **Seating Chart** button.
+2. Create tickets for the event.
+3. Click the **Seating Chart** button.
 
     ***
 
@@ -72,7 +76,7 @@ Follow the below steps to add reserved seating tickets.
 
     ***
 
-4. On the Popup, upload cropped particular ticket seating image.
+4. In the popup, upload the cropped seating image for the specific ticket type.
 
     ***
 
@@ -80,7 +84,7 @@ Follow the below steps to add reserved seating tickets.
 
     ***
 
-5. Then, start clicking on each seat block to add Seating. Click in the center of each seat block to add seats consistently. **You can Drag** to reposition the seats.
+5. Click in the center of each seat block to add seats. **Drag** to reposition seats for perfect alignment.
 
     ***
 
@@ -88,7 +92,7 @@ Follow the below steps to add reserved seating tickets.
 
     ***
 
-6. You can rename seats by **Right clicking** on the Seat you added.
+6. Rename seats by **right-clicking** on the seat you added.
 
     ***
 
@@ -96,8 +100,7 @@ Follow the below steps to add reserved seating tickets.
 
     ***
 
-7. You can also disable a seat after adding it. The disabled seats won't be able to booked, but they'll show as disabled seats on Checkout popup.
-8. You can also disable seats for pre-reserved or advanced-reserved seats.
+7. Disable seats after adding them (for pre-reserved or unavailable seats). Disabled seats appear as unavailable on the checkout popup.
 
     ***
 
@@ -105,8 +108,8 @@ Follow the below steps to add reserved seating tickets.
 
     ***
 
-9. You can only add upto Max Seats which is Total Ticket Quantity.
-10. Repeat the same steps to add Reserved seating for other multiple tickets.
+8. You can only add up to the maximum number of seats (total ticket quantity).
+9. Repeat these steps to add reserved seating for other ticket types.
 
     ***
 
@@ -114,12 +117,12 @@ Follow the below steps to add reserved seating tickets.
 
     ***
 
-    ![12-seating-club](/images/v2/12-seating-club.webp "12-seating-club")
+    ![12-seating-club](/images/v3/reserved-seating-system-image-3.webp "12-seating-club")
 
     ***
 
-11. To keep a ticket for General Seating (No reserved seating), then don't add Seats, and keep it as is.
-12. Finally, go to **Media Tab** and add the full image of seating arrangement in Seatingchart Image.
+10. For general seating (no reserved seats), simply do not add seats for that ticket.
+11. Go to the **Media Tab** and upload the full seating arrangement image as the Seating Chart Image.
 
     ***
 
@@ -129,20 +132,20 @@ Follow the below steps to add reserved seating tickets.
 
 <a name="Booking-Seats"></a>
 
-## Booking Seats
+## Booking Reserved Seats: Attendee Experience
 
-Once you're done adding Reserved Seating, you can see the Reserved seating option on Event Page.
+Once reserved seating is set up, attendees can select and book seats interactively on the event page.
 
-1. You can see the Full Seating arrangement image on the Event page.
-
-    ***
-
-    ![16-seating-chart-event-page](/images/v2/EventmieProFullyLoadedV2.0/16-seating-chart-event-page.webp "16-seating-chart-event-page")
+1. View the full seating arrangement image on the event page.
 
     ***
 
-2. Then, on the Checkout popup, you can see the Reserved seating chart for each ticket.
-3. Select seats that you wanna book and checkout. The system will block the seat for customer for 5 minutes and they have to within that time. During those 5 minutes no other can book the same seat.
+    ![16-seating-chart-event-page](/images/v3/resetved-seating-chart-image-4.webp "16-seating-chart-event-page")
+
+    ***
+
+2. On the checkout popup, view the reserved seating chart for each ticket type.
+3. Select seats to book and proceed to checkout. The system blocks the seat for 5 minutes, giving the customer time to complete the booking. During this period, no one else can book the same seat.
 
     ***
 
@@ -150,27 +153,26 @@ Once you're done adding Reserved Seating, you can see the Reserved seating optio
 
     ***
 
-4. You can see the legends showing Reserved, Selected, Available and Disabled seats.
+4. Legends show Reserved, Selected, Available, and Disabled seats for easy reference.
 
     ***
 
-    ![18-seat-booked](/images/v2/EventmieProFullyLoadedV2.0/18-seat-booked.webp "18-seat-booked")
+    ![18-seat-booked](/images/v3/resetved-seating-chart-image-4.webp "18-seat-booked")
 
     ***
 
-5. If the Attendee is booking multiple seats, then he/she need to add each Attendee name, phone and address.
-6. Organizer and Admin can see the Attendee details from Booking detail page.
+5. If booking multiple seats, each attendee's name, phone, and address must be entered.
+6. Organizer and Admin can view attendee details from the Booking Detail page.
 
     ***
 
-    ![19-manage-booking-view-attendee](/images/v2/EventmieProFullyLoadedV2.0/1-scan-attendeewise.webp "19-manage-booking-view-attendee")
+    ![19-manage-booking-view-attendee](/images/v3/My-bookings-preview-image-51.webp "19-manage-booking-view-attendee")
 
     ***
 
-    ![20-booking-attendee-detail](/images/v2/EventmieProFullyLoadedV2.0/12.20-booking-attendee-detail.webp "20-booking-attendee-detail")
+    ![20-booking-attendee-detail](/images/v3/Booking-details-preview-image-53.webp "20-booking-attendee-detail")
 
     ***
-
 
 ---
 

@@ -1,10 +1,10 @@
 # Events Listing
 
-Discover the power of organisation with Categorised Events in Eventmie Pro Fullyloaded App! Easily navigate through a variety of events sorted by categories, making it effortless to find what interests you most.
+Explore organized and categorized event listings with the Eventmie Pro FullyLoaded App! Effortlessly browse a wide range of events sorted by categories, making it simple to discover and attend events that match your interests and preferences.
 
 
 ---
 
-![events-listing](/images/v2/app/CB-07-New-2.webp "events-listing")
+![events-listing](/images/v3/App-event-listing-image-3.webp "events-listing")
 
 ---

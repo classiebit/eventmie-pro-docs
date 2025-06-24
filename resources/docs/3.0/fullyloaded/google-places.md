@@ -1,22 +1,22 @@
+<!--
+Meta Description: Learn how to enable Google Places Autocomplete and Directions in Eventmie Pro FullyLoaded. Step-by-step guide for integrating Google Maps API, automating event venue location, and providing attendees with instant directions in your Laravel event management platform.
+Meta Keywords: Google Places, autocomplete, directions, Eventmie Pro FullyLoaded, Laravel Google Maps integration, event venue, Google Maps API, location search, event management, Classiebit
+-->
 > {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
-# Google Places Autocomplete & Directions
+# Google Places Autocomplete & Directions Integration for Eventmie Pro FullyLoaded
 
-To search and auto-fill Google Map location for Event venues. And to show the user directions to the Event venue from their current location.
-
-<br>
-
-You can search for events venues or places while creating an event. This automates the process of manually entering the Event venue location and Google map lat-long.
+Enable Google Places Autocomplete and Directions to streamline event venue location entry and provide attendees with instant directions in your Eventmie Pro FullyLoaded Laravel event management platform. This feature automates Google Map location search and auto-fills event venue details, improving accuracy and user experience.
 
 <br>
 
-Then from the Event page, the attendee can get directions to the Event Venue in just one click.
+Organizers can search for event venues or places while creating an event, eliminating the need to manually enter venue addresses or Google map latitude/longitude. Attendees can then get directions to the event venue from their current location with a single click from the event page.
 
 ---
 
-![google-map-places-autocomplete](/images/v2/EventmieProFullyLoadedV2.0/google-map-places-autocomplete.webp "google-map-places-autocomplete")
+![google-map-places-autocomplete](/images/v3/google-place-autocomplate-image-2.webp "google-map-places-autocomplete")
 
 ---
 
@@ -24,11 +24,13 @@ Then from the Event page, the attendee can get directions to the Event Venue in 
 
 ---
 
-To enable it, you first need to create a Google Developer Account from **[Google Developer Console](https://console.cloud.google.com/)**.
+## How to Enable Google Places Autocomplete & Directions
 
-After login on Google Developer Console, follow below steps-
+To enable this feature, first create a Google Developer Account at **[Google Developer Console](https://console.cloud.google.com/)**.
 
-1. You need to enter your billing info such as Credit/Debit card.
+After logging in to the Google Developer Console, follow these steps:
+
+1. Enter your billing information (Credit/Debit card) to activate Google Maps Platform services.
 
 ---
 
@@ -36,7 +38,7 @@ After login on Google Developer Console, follow below steps-
 
 ---
 
-2. Then go to Google Maps Platform
+2. Go to Google Maps Platform dashboard.
 
 ---
 
@@ -44,7 +46,7 @@ After login on Google Developer Console, follow below steps-
 
 ---
 
-3. Enable Places API
+3. Enable the Places API for your project.
 
 ---
 
@@ -56,7 +58,7 @@ After login on Google Developer Console, follow below steps-
 
 ---
 
-4. Then Click on Credentials on the Left and Create API Keys and copy it.
+4. Click on Credentials in the left menu, create API Keys, and copy your new API key.
 
 ---
 
@@ -72,7 +74,7 @@ After login on Google Developer Console, follow below steps-
 
 ---
 
-5. Finally, go to Admin Panel -> Settings -> Apps and paste the API Key into Google Map Key and hit **Save Settings**.
+5. Go to Admin Panel -> Settings -> Apps in your Eventmie Pro FullyLoaded website, paste the API Key into Google Map Key, and click **Save Settings**.
 
 ---
 

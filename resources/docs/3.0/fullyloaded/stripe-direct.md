@@ -1,30 +1,30 @@
+<!--
+Meta Description: Learn how to enable and configure Stripe Direct Payment (split payments) in Eventmie Pro FullyLoaded. Step-by-step guide for admin and organizer setup, automated payouts, and secure commission management in your Laravel event management platform.
+Meta Keywords: Stripe Direct, split payments, Eventmie Pro FullyLoaded, Laravel Stripe integration, payout automation, organizer earnings, admin commission, payment gateway, event management, Classiebit
+-->
 > {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
-# Stripe Direct Payment
+# Stripe Direct Payment (Split Payments) for Eventmie Pro FullyLoaded
 
-Stripe Direct Payment For Split payment option. Organizer receives their event earning and admin receives their commission directly into their bank accounts
-
-<br>
-
-With this, when a customer makes the payment to purchase ticket, the organizer receives their part (Organizer Earning) directly into their Stripe Account and Admin receives their part (Admin Commission + Admin Tax) directly into their Stripe Account.
+Enable Stripe Direct Payment to automate split payments between event organizers and admin in your Eventmie Pro FullyLoaded Laravel event management platform. Organizers receive their event earnings and admin receives commission directly into their respective Stripe accounts, ensuring fast and secure payouts.
 
 <br>
 
-We've integrate this **[Stripe Direct Payment Gateway](https://stripe.com/docs/connect/enable-payment-acceptance-guide?platform=web)**
+With Stripe Direct, when a customer purchases a ticket, the organizer instantly receives their share (Organizer Earning) in their Stripe Account, while the admin receives their commission and tax (Admin Commission + Admin Tax) in the admin Stripe Account.
 
 <br>
 
-The Admin **Stripe Public Key** and **Stripe Secret Key** are same if you've already enabled **Stripe 3d Checkout**.
+We have integrated the **[Stripe Direct Payment Gateway](https://stripe.com/docs/connect/enable-payment-acceptance-guide?platform=web)** for seamless split payments.
 
 <br>
 
-If you haven't enabled **Stripe 3D Checkout**, you (Admin) first need to create a Stripe Merchant Account from **[Stripe](https://stripe.com)**. After setting up your account, you need to copy the `Stripe Public Key` and `Stripe Secret Key`.
+The Admin **Stripe Public Key** and **Stripe Secret Key** are the same as those used for **Stripe 3D Secure Checkout**. If you haven't enabled Stripe 3D Secure Checkout, create a Stripe Merchant Account at **[Stripe](https://stripe.com)**, then copy your `Stripe Public Key` and `Stripe Secret Key`.
 
 <br>
 
-The Organizer needs to Signup for a Stripe account and connect their Stripe on the website to start receiving their Payout directly into their Stripe account.
+Organizers must sign up for a Stripe account and connect their Stripe profile on your website to start receiving direct payouts.
 
 -   [Admin Setup](#admin-setup)
 -   [Organizer Setup](#organizer-setup)
@@ -33,15 +33,15 @@ The Organizer needs to Signup for a Stripe account and connect their Stripe on t
 
 <a name="admin-setup"></a>
 
-## Admin Setup
+## Admin Setup: Enable Stripe Direct Payment
 
-Admin needs to follow the below steps to enable it-
+Admin should follow these steps to enable Stripe Direct split payments:
 
 <br>
 
 1. Go to Admin Panel -> Settings -> Apps
-2. Enter `Stripe Public Key` & `Stripe Secret Key`
-3. Turn on `Stripe Direct` and hit **Save Settings**
+2. Enter your `Stripe Public Key` & `Stripe Secret Key`
+3. Turn on `Stripe Direct` and click **Save Settings**
 
 ---
 
@@ -51,18 +51,18 @@ Admin needs to follow the below steps to enable it-
 
 <br>
 
-You can enter Stripe **Test** keys to Test payment using Stripe Test Card, and Stripe **Live** keys to make real payments.
+You can use Stripe **Test** keys to test payments with Stripe Test Cards, or Stripe **Live** keys to accept real payments.
 
 <a name="organizer-setup"></a>
 
-## Organizer Setup
+## Organizer Setup: Connect Stripe for Direct Payouts
 
-Admin needs to follow the below steps to start receiving payout directly into their Stripe account-
+Organizers should follow these steps to start receiving payouts directly into their Stripe account:
 
 1. Login as Organizer and go to `Profile`
 2. Click on **Connect with Stripe**
-3. It'll take you to Stripe website, and from their follow through the steps and you'll be good to go.
-4. Once you connect it successfully, you'll see **Stripe Connected** button, which means, Done.
+3. You will be redirected to Stripe; follow the steps to connect your account.
+4. Once connected, you will see the **Stripe Connected** button, confirming successful setup.
 
 ---
 
@@ -78,17 +78,17 @@ Admin needs to follow the below steps to start receiving payout directly into th
 
 ---
 
-If the Admin has entered Stripe **Test** keys then Organizer can Connect a **Test Stripe account**, and Stripe **Live** keys then Organizer can Connect a **Real Stripe account**.
+If the Admin has entered Stripe **Test** keys, the Organizer can connect a **Test Stripe account**. With Stripe **Live** keys, the Organizer can connect a **Real Stripe account** for live payouts.
 
 <a name="admin-payout"></a>
 
-## Admin Payout
+## Admin Payout: Automated Commission & Payouts
 
-With Stripe Direct, Organizer and Admin, both can receive direct payment into their Bank accounts via Stripe. And the payout and admin commission processing will become fully-automated.
+With Stripe Direct, both Organizer and Admin receive direct payments into their bank accounts via Stripe. Payouts and admin commission processing are fully automated for efficient event management.
 
 <br>
 
-Admin will see the `Transferred` status as `Checked` in the Admin Commission.
+Admin will see the `Transferred` status as `Checked` in the Admin Commission section.
 
 ---
 
@@ -98,21 +98,20 @@ Admin will see the `Transferred` status as `Checked` in the Admin Commission.
 
 <a name="organizer-payout"></a>
 
-## Organizer Payout
+## Organizer Payout: Manage Earnings
 
-If in case, the Admin has enabled `Stripe Direct` and the Organizer doesn't connected his/her Stripe account, then the all payment will go to Admin Stripe account, and the Admin will need
-to transfer Organizer payment manually via any external medium.
+If the Admin has enabled `Stripe Direct` but the Organizer has not connected their Stripe account, all payments will go to the Admin Stripe account. The Admin will then need to transfer the Organizer's payment manually via an external method.
 
 <br>
 
-Organizer will see the `Transferred` status as `Paid` in the `Manage Earnings`.
+Organizer will see the `Transferred` status as `Paid` in the `Manage Earnings` section.
 
 ---
 
-![organizer-earning-payout](/images/v2/EventmieProFullyLoadedV2.0/organizer-earning-payout.webp "organizer-earning-payout")
+![organizer-earning-payout](/images/v3/Organiser-payout-manage-earnings-image-48.webp "organizer-earning-payout")
 
 ---
 
-> {primary} To Disable Stripe Direct, simply remove the turn off `Stripe Direct` checkbox.
+> {primary} To disable Stripe Direct, simply turn off the `Stripe Direct` checkbox in your Admin Panel settings.
 
 ---

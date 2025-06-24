@@ -1,10 +1,14 @@
+<!--
+Meta Description: Learn how to enable and configure BitPay Crypto Payment Gateway in Eventmie Pro FullyLoaded. Step-by-step guide for accepting Bitcoin, Ethereum, and other cryptocurrencies, merchant account setup, and secure crypto payments in your Laravel event management platform.
+Meta Keywords: BitPay, crypto payment gateway, Eventmie Pro FullyLoaded, cryptocurrency payments, Bitcoin, Ethereum, Laravel BitPay integration, merchant account, secure payments, event management, Classiebit
+-->
 > {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
-# Bitpay Crypto Payment Gateway
+# BitPay Crypto Payment Gateway Integration for Eventmie Pro FullyLoaded
 
-Crypto Currency Payment gateway to accept all available Cryptocurrencies in the world using BitPay. You can also pay using BitPay wallet.
+Enable BitPay Crypto Payment Gateway to accept Bitcoin, Ethereum, and all major cryptocurrencies in your Eventmie Pro FullyLoaded Laravel event management platform. BitPay allows you to receive secure crypto payments from attendees worldwide, including payments via the BitPay wallet.
 
 ---
 
@@ -14,7 +18,7 @@ Crypto Currency Payment gateway to accept all available Cryptocurrencies in the 
 
 <br>
 
-To activate it you need to follow through the below setup process. After that, attendees can pay from various Cryptocurrencies that are available in Bitpay, such as,
+To activate BitPay, follow the setup process below. After configuration, attendees can pay using a wide range of cryptocurrencies supported by BitPay.
 
 -   [Requirements](#Requirements)
 -   [Setup Test BitPay](#Setup-Test-BitPay)
@@ -23,26 +27,23 @@ To activate it you need to follow through the below setup process. After that, a
 
 <a name="Requirements"></a>
 
-## Requirements
+## Requirements for BitPay Crypto Payments
 
-1. Setup a Test BitPay Merchant account at [test.bitpay.com](https://test.bitpay.com/)
-2. Setup a Production BitPay Merchant account at [bitpay.com](https://bitpay.com/)
+1. Set up a Test BitPay Merchant account at [test.bitpay.com](https://test.bitpay.com/)
+2. Set up a Production BitPay Merchant account at [bitpay.com](https://bitpay.com/)
 
 <a name="Setup-Test-BitPay"></a>
 
-## Setup Test BitPay
+## How to Setup Test BitPay (Sandbox)
 
-You can only setup BitPay online and not on localhost. Hence, please follow the below steps after uploading your website on your live domain.
+You can only set up BitPay online (not on localhost). Please upload your website to your live domain before proceeding.
 
-<br>
+Now, let's set up Test BitPay for test payments. The production BitPay setup is the same as test. Make sure you create a BitPay merchant account for both environments.
 
-Now, let's setup Test BitPay for test payment. The production BitPay setup is same as test. Hence, make sure you create a BitPay merchant account at both-
-
-1. Login into your website as Admin and visit Admin Panel -> Settings -> Apps tab.
-2. Enter
-
-    - BitPay Key Name: Enter a new random value e.g AbcXyzzMedia
-    - BitPay Encrypt Code: Enter a new random secret code e.g KJHakj879&\*kjkjh
+1. Login to your website as Admin and go to Admin Panel -> Settings -> Apps tab.
+2. Enter:
+    - BitPay Key Name: Enter a new random value (e.g. AbcXyzzMedia)
+    - BitPay Encrypt Code: Enter a new random secret code (e.g. KJHakj879&*kjkjh)
     - Keep BitPay Production Off
 
     ***
@@ -51,11 +52,11 @@ Now, let's setup Test BitPay for test payment. The production BitPay setup is sa
 
     ***
 
-    > {primary} The BitPay Key Name and Encrypt code are not obtained by BitPay, you can enter any random secret code. And don't change them once you entered.
+    > {primary} The BitPay Key Name and Encrypt Code are not provided by BitPay; you can enter any random secret code. Do not change them once entered.
 
     ***
 
-3. Now, logout as Admin and Login with a Customer account into your website and keep the tab opened.
+3. Logout as Admin and login with a Customer account. Keep this tab open.
 
     ***
 
@@ -63,9 +64,9 @@ Now, let's setup Test BitPay for test payment. The production BitPay setup is sa
 
     ***
 
-4. Then open a new tab and visit [test.bitpay.com](https://test.bitpay.com/).
-5. Login into your Test BitPay Merchant account.
-6. Switch to your website tab and go to an Event Page and Checkout with BitPay.
+4. Open a new tab and visit [test.bitpay.com](https://test.bitpay.com/).
+5. Login to your Test BitPay Merchant account.
+6. Switch to your website tab, go to an Event Page, and checkout with BitPay.
 
     ***
 
@@ -73,7 +74,7 @@ Now, let's setup Test BitPay for test payment. The production BitPay setup is sa
 
     ***
 
-7. This checkout is just to create a BitPay Test credentials file on your server, and that file will create a connection between your website and your BitPay Merchant account.
+7. This checkout creates a BitPay Test credentials file on your server, connecting your website to your BitPay Merchant account.
 8. Enter your website/brand name in Client ID and click Approve.
 
     ***
@@ -82,33 +83,33 @@ Now, let's setup Test BitPay for test payment. The production BitPay setup is sa
 
     ***
 
-9. Close the Bitpay tab that you're in and setup complete.
+9. Close the BitPay tab. Test setup is complete.
 
 <a name="Setup-Production-BitPay"></a>
 
-## Setup Production BitPay
+## How to Setup Production BitPay (Live Crypto Payments)
 
-Setup Production BitPay to accept real Cryptocurrencies into your BitPay account.
+Set up Production BitPay to accept real cryptocurrency payments into your BitPay account.
 
-1. Login into your website as Admin and visit Admin Panel -> Settings -> Apps tab.
+1. Login to your website as Admin and go to Admin Panel -> Settings -> Apps tab.
 2. Turn BitPay Production On
-3. Now, logout as Admin and Login with a Customer account into your website and keep the tab opened.
-4. Then open a new tab and visit [bitpay.com](https://bitpay.com/).
-5. Login into your Production BitPay Merchant account.
-6. Switch to your website tab and go to an Event Page and Checkout with BitPay.
-7. This checkout is just to create a BitPay Production credentials file on your server, and that file will create a connection between your website and your BitPay Merchant account.
+3. Logout as Admin and login with a Customer account. Keep this tab open.
+4. Open a new tab and visit [bitpay.com](https://bitpay.com/).
+5. Login to your Production BitPay Merchant account.
+6. Switch to your website tab, go to an Event Page, and checkout with BitPay.
+7. This checkout creates a BitPay Production credentials file on your server, connecting your website to your BitPay Merchant account.
 8. Enter your website/brand name in Client ID and click Approve.
-9. Close the Bitpay tab that you're in and setup complete.
+9. Close the BitPay tab. Production setup is complete.
 
 <a name="Pay-with-Cryptocurrencies"></a>
 
-## Pay with Cryptocurrencies
+## How Attendees Pay with Cryptocurrencies
 
-Once the above setup is done, the attendees can pay with Cryptocurrency-
+Once setup is complete, attendees can pay with cryptocurrency as follows:
 
-1. Go to Checkout popup and selct BitPay payment option.
-2. On the next page, login into customer Bitpay account and proceed.
-3. Select a Cryptocurrency to pay with.
+1. Go to the checkout popup and select the BitPay payment option.
+2. On the next page, login to the customer BitPay account and proceed.
+3. Select a cryptocurrency (e.g. Bitcoin, Ethereum, etc.) to pay with.
 
     ***
 
@@ -116,7 +117,7 @@ Once the above setup is done, the attendees can pay with Cryptocurrency-
 
     ***
 
-4. And finally, you'll see a QrCode at which, you can send Cryptocurrency.
+4. A QR code will be displayed for sending the cryptocurrency payment.
 
     ***
 
@@ -124,4 +125,4 @@ Once the above setup is done, the attendees can pay with Cryptocurrency-
 
     ***
 
-5. And after successful payment, you'll be redirected to webstie with successful booking.
+5. After successful payment, attendees are redirected to your website with a successful booking confirmation.

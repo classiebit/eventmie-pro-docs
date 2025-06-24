@@ -1,10 +1,10 @@
 # Data Administration
 
-Manage all the Event's Bookings from the `Admin Panel`.
+Efficiently manage all event bookings, users, tags, and contacts from the Eventmie Pro Admin Panel. This section covers essential data administration features to help you maintain control and streamline your event management operations.
 
 ---
 
->{primary} Below guide is about how to manage things on Admin Panel. We'll cover the front-end guide as well, later in the docs.
+>{primary} The following guide explains how to manage data from the Admin Panel. Front-end management will be covered later in the documentation.
 
 ---
 
@@ -20,16 +20,16 @@ Manage all the Event's Bookings from the `Admin Panel`.
 
 ---
 
-![Tags](/images/administration-tags.webp "Tags")
+![Tags](/images/v3/How-to-edit-tags-image-7.webp "Tags")
 
 ---
 
-Tags can be Sponsors, speakers, hosts, guests, VIPs, or anything you want. You can create any number and type of them. 
+Tags can represent sponsors, speakers, hosts, guests, VIPs, or any custom label you need. Create and manage unlimited tags to enhance event organization and searchability.
 
-- You can choose whether to choose tag as a page or just as a thumbnail on the event page.
-- Tags can be added/managed from Admin Panel by Admin, as well as from front-end by Organisers.
-- Every tag belongs to an Organiser and can be attached to multiple events of the Organiser.
-- Disabling a tag makes it invisible from the front-end.
+- Choose to display tags as dedicated pages or as thumbnails on event pages.
+- Tags can be added and managed by Admins from the Admin Panel, and by Organizers from the front-end.
+- Each tag is associated with an Organizer and can be linked to multiple events.
+- Disabling a tag hides it from the front-end, improving content control.
 
 
 <a name="events"></a>
@@ -37,18 +37,18 @@ Tags can be Sponsors, speakers, hosts, guests, VIPs, or anything you want. You c
 
 ---
 
-![events](/images/administration-events.webp "events")
+![events](/images/v3/How-to-edit-events-in-EP-Image-8.webp "events")
 
 ---
 
-All the Organiser's Events can be managed from the Admin Panel. 
+Manage all organizers' events directly from the Admin Panel for complete oversight and quality control.
 
-- Admin can create an Event for an Organiser.
-- Admin needs to select an Organiser while creating an Event.
-- Once an event is linked to an organizer, you can't change the Organizer of the event.
-- Only Admin can disable an Event.
-- The disabled event gets invisible from the front-end and shows 404 if visited directly via event URL.
-- Organizer can only **Unpublish** their events, while, only admin can delete events.
+- Admins can create events on behalf of organizers.
+- When creating an event, the Admin must select an Organizer.
+- Once assigned, the Organizer for an event cannot be changed.
+- Only Admins can disable or delete events.
+- Disabled events are hidden from the front-end and return a 404 error if accessed directly.
+- Organizers can only **Unpublish** their events; only Admins can delete them.
 
 
 
@@ -58,30 +58,26 @@ All the Organiser's Events can be managed from the Admin Panel.
 
 ---
 
-![bookings](/images/administration-bookings.webp "bookings")
+![bookings](/images/v3/How-to-check-bookings-event-image-9.webp "bookings")
 
 ---
 
-![bookings-edit](/images/administration-bookings-edit.webp "bookings-edit")
+![bookings-edit](/images/v3/How-to-edit-bookings-image-10.webp "bookings-edit")
 
 ---
 
-All the Event's bookings can be managed from the Admin Panel. 
+Easily manage all event bookings from the Admin Panel for seamless ticketing and customer support.
 
-- Admin can create Booking for a customer directly, without making any online payment.
-- Admin can disable a booking, and change its payment and cancellation status.
-- Ticket scanner not allows disabled bookings for check-in.
+- Admins can create bookings for customers directly, bypassing online payment if needed.
+- Admins can disable bookings, and update payment or cancellation status.
+- The ticket scanner will not allow check-in for disabled bookings, ensuring event security.
 
 
 ---
 
->{primary} Admin can create a new booking and events from the front-end only. 
+>{primary} Admins can create new bookings and events from the front-end only. 
 
-We tried not to repeat the same functionality on the admin panel that is already available on the frontend. 
-
-Instead, we just developed a strong roles and permissions system on the front-end. 
-
-So that Admin, Organizer, and Customer can only do what they are supposed to do.
+To avoid redundant features, core booking and event creation functions are available on the front-end, supported by a robust roles and permissions system. This ensures Admins, Organizers, and Customers can only access features relevant to their roles.
 
 ---
 
@@ -91,25 +87,23 @@ So that Admin, Organizer, and Customer can only do what they are supposed to do.
 
 ---
 
-![users](/images/administration-users.webp "users")
+![users](/images/v3/How-to-find-users-EP-image-11.webp "users")
 
 ---
 
-All types of users can be managed from the Admin Panel. Admin can disable any user. The disabled user won't be able to log in.
+Manage all user accounts from the Admin Panel. Admins can disable users, preventing them from logging in and maintaining platform security.
 
 <br>
 
-There are three prefined user groups -
+There are three predefined user groups:
 
-1. Admin - only user group that is allowed to visit the admin panel
-
-2. Organizers - can create and manage their events and bookings from the front-end only.
-
-3. Customers - can book events and manage their bookings and cancellations from the front-end.
+1. Admin – The only user group with access to the Admin Panel.
+2. Organizers – Can create and manage their events and bookings from the front-end.
+3. Customers – Can book events and manage their bookings and cancellations from the front-end.
 
 ---
 
-> {success} Admin can change the role of a user to `Admin` `Organizer` or `Customer`
+> {success} Admins can change a user's role to `Admin`, `Organizer`, or `Customer` as needed.
 
 ---
 
@@ -117,5 +111,4 @@ There are three prefined user groups -
 <a name="contacts"></a>
 ## Contacts
 
-
-All the contacts that are submitted from the front-end contact us page, can be seen on the Admin Panel.
+All contact form submissions from the front-end "Contact Us" page are accessible in the Admin Panel for easy follow-up and customer support.

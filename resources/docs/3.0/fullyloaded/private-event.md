@@ -1,10 +1,14 @@
+<!--
+Meta Description: Learn how to create private and password protected events in Eventmie Pro FullyLoaded. Step-by-step guide for setting up hidden, invite-only events with secure access and privacy controls in your Laravel event management platform.
+Meta Keywords: private event, password protected event, Eventmie Pro FullyLoaded, Laravel private event, hidden event, invite-only, secure event, event privacy, event URL, Classiebit
+-->
 > {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
-# Private Password Protected Event
+# Private & Password Protected Events in Eventmie Pro FullyLoaded
 
-Create private events with or without passwords to invite specific people with a unique link and password. These private events are hidden from all pages of the website. And can only be viewed with the Event URL.
+Create private, invite-only events with or without password protection in your Eventmie Pro FullyLoaded Laravel event management platform. Private events are hidden from all public pages and can only be accessed via a unique event URL, ensuring maximum privacy and security for exclusive gatherings.
 
 ---
 
@@ -17,14 +21,14 @@ Create private events with or without passwords to invite specific people with a
 
 <a name="Set-Private-Event"></a>
 
-## Set Private Event
+## How to Set Up a Private or Password Protected Event
 
-Admin and Organizer both can set an Event as Private.
+Both Admin and Organizer can set an event as private.
 
-1. As Admin, go to Admin Panel -> Events and click More button. And as Organizer, visit Manage Events Page.
+1. As Admin, go to Admin Panel -> Events and click the More button. As Organizer, visit the Manage Events page.
 2. Click Private Event.
-3. Check/Uncheck Is Private to switch between private/public event.
-4. Set password to make the private event password protected.
+3. Check or uncheck "Is Private" to switch between private and public event.
+4. Set a password to make the private event password protected for extra security.
 
     ***
 
@@ -32,7 +36,7 @@ Admin and Organizer both can set an Event as Private.
 
     ***
 
-5. You'll see a Lock Icon on the private events.
+5. A lock icon will appear on private events for easy identification.
 
     ***
 
@@ -42,15 +46,15 @@ Admin and Organizer both can set an Event as Private.
 
 ---
 
-> {primary} The system recognize the user who entered the password for a few hours, so that user don't need to add password to access the private event for few hours.
+> {primary} The system remembers users who enter the password for a few hours, so they don't need to re-enter the password to access the private event during that period.
 
 ---
 
 <a name="Access-Private-Event"></a>
 
-## Access Private Event
+## How to Access a Private Event
 
-Let's visit the private event with Event URL. If the private event has password, you need to enter the password to view the Event page.
+To access a private event, use the unique Event URL. If the event is password protected, you must enter the password to view the event page.
 
 ---
 
@@ -58,8 +62,6 @@ Let's visit the private event with Event URL. If the private event has password,
 
 ---
 
-
 <iframe width="75%" height="500" src="https://www.youtube.com/embed/-ut2jr_Iwo4?si=nSJ8ojoksfnRDvE1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 ---

@@ -1,13 +1,20 @@
-# Organiser Dashboard
+# Eventmie Pro Organiser Dashboard
 
-The new Organiser dashboard shows an overview of the overall realtime activities of Organiser's events with statistic chart and sales data for a quick overview about their Event tickets sales performance.
-
----
-
-![Organiser Dashboard](/images/v2/organiser-dashboard-1.webp "Organiser Dashboard")
+The Eventmie Pro Organiser Dashboard provides a comprehensive, real-time overview of all your event activities. Instantly access key statistics, sales charts, and ticket sales data to monitor your event performance and make data-driven decisions for future success.
 
 ---
 
-![Organiser Dashboard](/images/v2/organiser-dashboard-2.webp "Organiser Dashboard")
+![Organiser Dashboard](/images/v3/Organiser-dashboard-image-42.webp "Organiser Dashboard")
+
+---
+# Eventmie Pro Fullyloaded Organiser Dashboard
+
+The Eventmie Pro Fullyloaded Organiser Dashboard provides a comprehensive, real-time overview of all your event activities. Instantly access key statistics, sales charts, and ticket sales data to monitor your event performance and make data-driven decisions for future success.
+
+---
+
+![Organiser Dashboard](/images/v3/EPF-organiser-Dashboard-image-6.webp "Organiser Dashboard")
+
+![Organiser Dashboard](/images/v3/EPF-Organiser-Dashboard-Image-7.webp "Organiser Dashboard")
 
 ---

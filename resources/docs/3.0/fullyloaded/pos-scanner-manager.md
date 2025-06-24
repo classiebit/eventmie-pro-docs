@@ -1,20 +1,18 @@
+<!--
+Meta Description: Learn how to set up POS, ticket scanner, and event manager roles in Eventmie Pro FullyLoaded. Step-by-step guide for creating sub-organizers, managing event access, ticket sales, and bookings in your Laravel event management platform.
+Meta Keywords: POS, ticket scanner, event manager, sub-organizer, Eventmie Pro FullyLoaded, Laravel event access, ticket sales, booking management, event staff, event management, Classiebit
+-->
 > {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
-# POS & Scanner & Manager
+# POS, Ticket Scanner & Event Manager Roles in Eventmie Pro FullyLoaded
 
-To create separate user groups with limited access like a sub-organizer who can manage things like bookings, check-in, selling on behalf of Organizer. POS can sell tickets on Event entrance, Scanner can scan tickets and Manager can manage everything on behalf of Organizer.
+Create separate user groups with limited access—POS (Point of Sale), Scanner, and Manager (sub-organizers)—in your Eventmie Pro FullyLoaded Laravel event management platform. Empower your event team to manage bookings, check-ins, ticket sales, and event operations efficiently and securely.
 
-<br>
+POS, Scanner, and Manager are all sub-organizer roles with specific permissions. Organizers can create and assign sub-organizers to specific events, giving them access only to the events they manage. Each organizer can have their own sub-organizers for streamlined event operations.
 
-POS, Scanner & Manager all these are sub-organizers, who have limited access. These sub-organizers are created by Organizer and are assigned by Organizers to their specific events. And all organizers can create their own sub-organizers, and then the sub-organizers can access the only events to which they're assigned to.
-
-<br>
-
-The Manager (sub-organizer) have power than POS & Scanner. The Organizer can create a Manager, and then, that Manager can do everything on behalf of the Organizer.
-
-<br>
+The Manager role has more privileges than POS and Scanner. Managers can perform all organizer actions on assigned events.
 
 ---
 
@@ -29,15 +27,11 @@ The Manager (sub-organizer) have power than POS & Scanner. The Organizer can cre
 
 <a name="Create-Sub-organizers"></a>
 
-## Create Sub-organizers
+## How to Create Sub-organizers (POS, Scanner, Manager)
 
-First, let's create Sub-organizers of different roles.
+**As Admin:**
 
-<br>
-
-**As Admin, you can create Sub-organizers for an Organizer like this-**
-
-1. Go to Admin Panel -> Events and click More button.
+1. Go to Admin Panel -> Events and click the More button.
 
     ***
 
@@ -45,7 +39,7 @@ First, let's create Sub-organizers of different roles.
 
     ***
 
-2. Select the Organizer from the **Organizer Events** dropdown, for whom you wanna create Sub-organizers.
+2. Select the Organizer from the **Organizer Events** dropdown for whom you want to create sub-organizers.
 
     ***
 
@@ -53,7 +47,7 @@ First, let's create Sub-organizers of different roles.
 
     ***
 
-3. Then click Create **Sub-organizer** Button.
+3. Click the **Create Sub-organizer** button.
 
     ***
 
@@ -61,21 +55,16 @@ First, let's create Sub-organizers of different roles.
 
     ***
 
-4. In the Popup-
-
-    - Select a Role POS, Scanner or Manager
-    - Enter name
-    - Enter email
-    - Enter password and click Save.
-
-5. The newly created Sub-organizer will receive a successful Registration email.
-6. You (Admin or Organizer) need to provide them the password, or they can simply reset their password using Forgot Password.
+4. In the popup:
+    - Select a Role: POS, Scanner, or Manager
+    - Enter name, email, password, and click Save
+5. The new sub-organizer receives a registration email. Provide them the password, or they can reset it via Forgot Password.
 
 <br>
 
-**Organizer Admin, you can create Sub-organizers for your own like this-**
+**As Organizer:**
 
-1. Manage Events and click **Create Sub-Organizer** and follow the save steps as above.
+1. Go to Manage Events and click **Create Sub-Organizer**. Follow the same steps as above.
 
     ***
 
@@ -83,7 +72,7 @@ First, let's create Sub-organizers of different roles.
 
     ***
 
-2. Organizers can manage their Sub-Organizers from Manage Sub-Organizers page.
+2. Manage sub-organizers from the Manage Sub-Organizers page.
 
     ***
 
@@ -93,9 +82,9 @@ First, let's create Sub-organizers of different roles.
 
 <a name="POS"></a>
 
-## POS
+## POS (Point of Sale) Role: Sell Tickets at the Event
 
-POS can make bookings on behalf of Organizer. And then they can manage those bookings which they've made, like changing the booking paid status, enable or disable a booking and so on.
+POS users can make bookings and sell tickets on behalf of the Organizer at the event entrance. They can manage only the bookings they create, including changing payment status, enabling/disabling bookings, and processing cancellations or refunds.
 
 ---
 
@@ -103,12 +92,10 @@ POS can make bookings on behalf of Organizer. And then they can manage those boo
 
 ---
 
-<br>
+**Assigning POS to an Event:**
 
-**Assigning POS to an event**
-
-1. Create a Sub-Organizer by selecting POS role.
-2. Click on **Add Sub-organizers** on the Event you wanna assign Sub-Organizers to.
+1. Create a Sub-Organizer with the POS role.
+2. Click **Add Sub-organizers** on the event you want to assign them to.
 
     ***
 
@@ -116,7 +103,7 @@ POS can make bookings on behalf of Organizer. And then they can manage those boo
 
     ***
 
-3. On the Popup, select POS and hit Save.
+3. In the popup, select POS and click Save.
 
     ***
 
@@ -124,18 +111,14 @@ POS can make bookings on behalf of Organizer. And then they can manage those boo
 
     ***
 
-<br>
+You can assign multiple POS users to each event. POS can only book tickets for events they are assigned to.
 
-You can select multiple POS on every event. And The POS can book tickets of only those events to which they're assigned to.
+**POS Booking Management:**
 
-<br>
-
-**Creating & Managing bookings as POS**
-
-1. POS can login with their email and password.
-2. POS can only see the events to which they're assigned to.
-3. POS can make the booking for a customer by entering a customer's email in Select Customer dropdown.
-4. POS can select Offline payment method, and can collect payment offline or via online payment outside of the website.
+1. POS logs in with their email and password.
+2. POS sees only the events they are assigned to.
+3. POS can make bookings for customers by entering the customer's email.
+4. POS can select the Offline payment method and collect payment offline or via other means.
 
     ***
 
@@ -143,7 +126,7 @@ You can select multiple POS on every event. And The POS can book tickets of only
 
     ***
 
-5. POS can see and manage all the bookings they've made from **POS Bookings** page.
+5. POS can manage all their bookings from the **POS Bookings** page.
 
     ***
 
@@ -151,7 +134,7 @@ You can select multiple POS on every event. And The POS can book tickets of only
 
     ***
 
-6. POS can also manage Booking Cancellation and refunds.
+6. POS can also manage booking cancellations and refunds.
 
     ***
 
@@ -161,9 +144,9 @@ You can select multiple POS on every event. And The POS can book tickets of only
 
 <a name="Scanner"></a>
 
-## Scanner
+## Ticket Scanner Role: Scan & Validate Event Tickets
 
-Scanner can scan tickets on behalf of Organizer. And they can see the bookings of the tickets that they've scanned in order to manage reports.
+Scanners can scan tickets at the event entrance and view bookings for tickets they have scanned, helping manage event access and reporting.
 
 ---
 
@@ -171,25 +154,19 @@ Scanner can scan tickets on behalf of Organizer. And they can see the bookings o
 
 ---
 
-<br>
+**Assigning Scanner to an Event:**
 
-**Assigning Scanner to an event**
+1. Create a Sub-Organizer with the Scanner role.
+2. Click **Add Sub-organizers** on the event you want to assign them to.
+3. In the popup, select Scanner and click Save.
 
-1. Create a Sub-Organizer by selecting Scanner role.
-2. Click on **Add Sub-organizers** on the Event you wanna assign Sub-Organizers to.
-3. On the Popup, select Scanner and hit Save.
+You can assign multiple Scanners to each event. Scanners can only scan tickets for events they are assigned to.
 
-<br>
+**Scanner Booking Management:**
 
-You can select multiple Scanners on every event. And The Scanner can scan tickets of only those events to which they're assigned to.
-
-<br>
-
-**Scanning & Seeing bookings as Scanner**
-
-1. Scanner can login with their email and password.
-2. Scanner can only scan the events tickets to which they're assigned to.
-3. Scanner can see all the bookings they've scanned from **Scanner Bookings** page.
+1. Scanner logs in with their email and password.
+2. Scanner can only scan tickets for assigned events.
+3. Scanner can view all bookings they have scanned from the **Scanner Bookings** page.
 
 ---
 
@@ -199,9 +176,9 @@ You can select multiple Scanners on every event. And The Scanner can scan ticket
 
 <a name="Manager"></a>
 
-## Manager
+## Event Manager Role: Full Access Sub-Organizer
 
-Manager can do everything as Organizer. It's an unlimited access account of Organizer.
+Managers have full access to all organizer features for assigned events. This unlimited access account allows managers to handle every aspect of event management on behalf of the organizer.
 
 ---
 
@@ -209,13 +186,9 @@ Manager can do everything as Organizer. It's an unlimited access account of Orga
 
 ---
 
-<br>
+Organizers only need to create a Sub-Organizer with the Manager role—no need to assign them to specific events.
 
-Organizer only need to create a Sub-Organizer by selecting Manager role and that's it. No need to assign a manager to a particular event.
-
-<br>
-
-Manager can login with their email and password, and can do everything on the behalf of Organizer.
+Managers can log in with their email and password and manage everything for the organizer.
 
 ---
 

@@ -1,9 +1,9 @@
 # Organiser Dashboard
 
-Empower your event management with the Organizer Sales & Booking Dashboard in Eventmie Pro Fullyloaded App! Streamline your operations, track sales, and manage bookings effortlessly in one centralized hub.
+Empower your event management with the advanced Organizer Sales & Booking Dashboard in the Eventmie Pro FullyLoaded App! Effortlessly streamline event operations, track ticket sales, and manage all your event bookings in one centralized, user-friendly dashboard.
 
 ---
 
-![organiser-Dashboard](/images/v2/app/CB-07-New-3.webp "organiser-Dashboard")
+![organiser-Dashboard](/images/v3/App-organiser-dashboard-image-7.webp "organiser-Dashboard")
 
 ---

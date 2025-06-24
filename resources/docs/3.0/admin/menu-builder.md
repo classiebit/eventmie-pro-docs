@@ -1,6 +1,6 @@
 # Menu Builder
 
-Create additional front-end header & footer menu items with new pages & external links.
+Easily create and manage custom front-end header and footer menus for your event website. Add new pages, external links, and organize your navigation for a seamless user experience and improved SEO.
 
 -   [Header Menu](#header-menu)
 -   [Footer Menu](#footer-menu)
@@ -9,7 +9,7 @@ Create additional front-end header & footer menu items with new pages & external
 
 ## Header Menu
 
-From the **Admin Panel -> Header Menu**, you can add Menu items like this-
+From the **Admin Panel -> Header Menu**, you can add and organize menu items for your website's main navigation. This helps users quickly find important pages and enhances your site's SEO structure.
 
 ---
 
@@ -17,15 +17,15 @@ From the **Admin Panel -> Header Menu**, you can add Menu items like this-
 
 ---
 
-> {success} You can also add Menu items in multiple languages, just select the upper language tabs to translate for different languages.
+> {success} You can add menu items in multiple languages. Simply select the language tabs at the top to translate menu items for different audiences.
 
 ---
 
-This is how it'll look on the **Frontend -> Header**
+This is how your custom header menu will appear on the **Frontend -> Header**.
 
 ---
 
-![front-header-menu](/images/v2/2.0-header-menu.webp "front-header-menu")
+![front-header-menu](/images/v3/admin-menu-builder-image-4.webp "front-header-menu")
 
 ---
 
@@ -33,7 +33,7 @@ This is how it'll look on the **Frontend -> Header**
 
 ## Footer Menu
 
-From the **Admin Panel -> Footer Menu**, you can add Menu items like this-
+From the **Admin Panel -> Footer Menu**, you can add and manage footer menu items to provide quick access to important pages, policies, and external resources.
 
 ---
 
@@ -41,7 +41,7 @@ From the **Admin Panel -> Footer Menu**, you can add Menu items like this-
 
 ---
 
-This is how it'll look on the **Frontend -> Footer**
+Your custom footer menu will be displayed on the **Frontend -> Footer** for easy navigation and enhanced user experience.
 
 ---
 
@@ -49,7 +49,7 @@ This is how it'll look on the **Frontend -> Footer**
 
 ---
 
-> {info} Only up to two levels of menu & sub-menu will work.
+> {info} Only up to two levels of menu and sub-menu are supported for optimal usability and design.
 
 ---
 

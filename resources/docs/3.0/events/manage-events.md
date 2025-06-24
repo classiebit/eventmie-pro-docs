@@ -1,14 +1,14 @@
 # Manage Events
 
-The organizer can manage only own their events from the front end, while Admin can access all organizers' events from the Admin Panel.
+Eventmie Pro makes it easy for organizers to manage their own events from the front end, while Admins have full access to all organizers' events from the Admin Panel. Efficient event management helps boost attendee engagement and streamlines your event operations.
 
 ---
 
-![Organizer manage events](/images/v2/ManageEventsImages/events-manage-events.webp "Organizer manage events")
+![Organizer manage events](/images/v3/My-events-image-37.webp "Organizer manage events")
 
 ---
 
->{primary} Organizer can do other things on the Front-end. Let's see them below.
+>{primary} Organizers can perform a variety of event management tasks directly from the front end. Explore the features below.
 
 ---
 
@@ -17,16 +17,14 @@ The organizer can manage only own their events from the front end, while Admin c
 - [Create Tag](#create-tag)
 - [Share Event](#share-event)
 
-
-
 <a name="Export-Attendees"></a>
 ## Export Attendees
 
-Organizers can export their event's attendees list to a `CSV` file, with full booking & customer details.
+Organizers can export their event's attendee list to a `CSV` file, including complete booking and customer details for easy follow-up and reporting.
 
 <br>
 
-Simply click on <larecipe-button type="black" size="sm" rounded>Export Attendees</larecipe-button> button on the Manage Events page.
+Simply click the <larecipe-button type="black" size="sm" rounded>Export Attendees</larecipe-button> button on the Manage Events page.
 
 ---
 
@@ -34,37 +32,34 @@ Simply click on <larecipe-button type="black" size="sm" rounded>Export Attendees
 
 ---
 
-
-
 <a name="manage-tags"></a>
 ## Manage Tags
 
-As mentioned before, tags can be Sponsors, speakers, hosts, guests, VIPs, or anything you want. You can create any number and type of them.
+Tags help you organize and promote your event by highlighting sponsors, speakers, hosts, guests, VIPs, and more. Create unlimited tags and link them to your events for better visibility and branding.
 
-Each tag belongs to an Organizer and to their Events. Basically, organizers can add tags, and link them to their events. 😬
-
----
-
-![Manage Tags](/images/v2/ManageEventsImages/events-manage-manage-tags.webp "Manage Tags")
+Each tag is owned by an Organizer and can be associated with multiple events. Organizers can add, edit, and manage tags from the front end for maximum flexibility.
 
 ---
 
+![Manage Tags](/images/v3/Manage-tags-image-39.webp "Manage Tags")
+
+---
 
 <a name="create-tag"></a>
 ## Create Tag
 
-Click on <larecipe-button type="secondary" size="sm" rounded>Add Tag</larecipe-button>
+Click <larecipe-button type="secondary" size="sm" rounded>Add Tag</larecipe-button> to create a new tag for your event.
 
 <br>
 
 **Form Fields**
 
-- **Type** - sponsor, speaker, DJ, etc
+- **Type** – sponsor, speaker, DJ, etc.
 - **Image**
-- **Title** - name of sponsor, speaker, DJ or anyother
-- **Sub Title** - Brand/Company name or any sub-title (optional)
+- **Title** – name of sponsor, speaker, DJ, or other
+- **Sub Title** – Brand/Company name or any sub-title (optional)
 - **Website** (optional)
-- **Profile Page** - whether to show a profile page for tag.
+- **Profile Page** – choose whether to show a profile page for the tag
 
 ---
 
@@ -72,7 +67,7 @@ Click on <larecipe-button type="secondary" size="sm" rounded>Add Tag</larecipe-b
 
 ---
 
->{primary} If you select `Profile Page - Yes`, then you can also add these `Optional` details.
+>{primary} If you select `Profile Page - Yes`, you can also add these optional details:
 
 ---
 
@@ -90,46 +85,41 @@ Click on <larecipe-button type="secondary" size="sm" rounded>Add Tag</larecipe-b
 
 ---
 
->{primary} All of this info will be shown on the `Tag Profile Page`
+>{primary} All of this information will be displayed on the `Tag Profile Page` for enhanced event promotion.
 
 ---
 
->{success} New tags can also be directly created and linked to an Event from the `Event setup form -> Powered By tab`.
+>{success} New tags can also be created and linked directly to an event from the `Event setup form -> Powered By tab`.
 
 ---
 
-**This is how it looks on Event page**
+**How tags appear on the Event page:**
 
 ---
 
-![Show tag no profile](/images/v2/ManageEventsImages/events-manage-tag-show.webp "Show tag no profile")
+![Show tag no profile](/images/v3/How-to-Check-Tags-(Image-6).webp "Show tag no profile")
 
 ---
 
-**This is how the Tag profile page looks like**
+**How the Tag profile page looks:**
 
 ---
 
-![Show tag profile](/images/v2/ManageEventsImages/events-manage-tag-show-profile.webp "Show tag profile")
-
-
-
-
+![Show tag profile](/images/v3/How-to-Check-Sponsors-(Image-5).webp "Show tag profile")
 <a name="share-event"></a>
 ## Share Event
 
-The event can be shared on social media websites from the Event detail page.
+Promote your event by sharing it on popular social media platforms directly from the Event detail page. Social sharing helps increase event visibility and attract more attendees.
 
 ---
 
-![Social sharing](/images/v2/ManageEventsImages/events-manage-share-event.webp "Social sharing")
+![Show tag profile](/images/v3/How-to-Share-Event.webp "Show tag profile")
 
 ---
 
->{success} Can be shared on - `Facebook` | `Twitter` | `Linkedin` | `Whatsapp` | `Reddit`
+>{success} Events can be shared on: `Facebook` | `Twitter` | `Linkedin` | `Whatsapp` | `Reddit`
 
 ---
-
 
 <iframe width="75%" height="500" src="https://www.youtube.com/embed/1nvzMrP1aEE?si=X9hMbTkY8-RI8s6J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

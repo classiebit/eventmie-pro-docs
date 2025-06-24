@@ -1,58 +1,53 @@
 # Ticket Scanner
 
-Eventmie Pro comes with an integrated ticket scanner. Organizers & Admin can scan the event attendees tickets at event entrances directly from the website, using any mobile device or laptop with a web-camera.
+Eventmie Pro features a powerful, integrated ticket scanner for seamless event check-in. Organizers and Admins can scan attendee tickets at event entrances directly from the website using any mobile device or laptop with a web camera, ensuring fast and secure event access control.
 
 <br>
 
-The ticket scanner scans QrCode on the ticket, verify if the ticket is valid, and provides an option to `Check-in` the attendees. Once a ticket is scanned, it can never be scanned again after `Check-in`.
+The ticket scanner reads the QR code on each ticket, verifies its validity, and provides a one-click `Check-in` option for attendees. Once a ticket is checked in, it cannot be scanned again, ensuring secure and accurate entry management.
 
 ---
 
->{primary} The Ticket PDF design & Ticket scanner performance has been improved. It scans tickets blazing fast. 😎
+>{primary} The Ticket PDF design and ticket scanner performance have been enhanced for blazing-fast scanning and a smooth user experience. 😎
 
 ---
 
-![ticket-scanner-laptop-scan](/images/v2/EventmieProImages/ticket-scanner-laptop-scan.webp "ticket-scanner-laptop-scan")
+![ticket-scanner-laptop-scan](/images/v3/How-to-scan-tickets-EP-EPF-Image-10.webp "ticket-scanner-laptop-scan")
 
 ---
-
 
 - [Prerequisites](#Prerequisites)
 - [Ticket PDF <small class="v">v2.0</small>](#ticket-pdf)
 - [Scan & Check-in <small class="v">v2.0</small>](#scan-check-in)
 
-
-
 <a name="prerequisites"></a>
 ## Prerequisites
 
-Ticket scanner requires the below things to work-
+To use the ticket scanner, ensure the following:
 
-1. HTTPS (SSL Certificate) enabled website.
-2. The device must have a camera/web-camera.
-3. Browser permission to Allow Camera.
-
----
-
->{success} QrCode scanner automatically prompt to **Allow Camera**. After allowing the camera, it never prompts again and works seamlessly.
+1. Your website has HTTPS (SSL Certificate) enabled.
+2. The device has a camera or web camera.
+3. The browser has permission to access the camera.
 
 ---
 
->{primary} If the browser does not prompt to **Allow Camera** (this happens rarely), you need to go to browser settings and manually allow the camera.
+>{success} The QR code scanner will automatically prompt you to **Allow Camera**. Once allowed, it works seamlessly without further prompts.
 
 ---
 
+>{primary} If your browser does not prompt to **Allow Camera** (rarely), manually enable camera access in your browser settings.
+
+---
 
 <a name="ticket-pdf"></a>
 ## Ticket PDF <small class="v">v2.0</small>
 
-Before proceeding to the Ticket scanner, let's see the Ticket PDF. Eventmie Pro generates tickets in PDF format with a unique QrCode in each.
+Eventmie Pro generates event tickets in PDF format, each with a unique QR code for secure entry.
 
-- QrCode has got a unique Ticket ID + Order number, which belongs to a single customer's ticket.
-- Ticket format is PDF, hence it's compatible by default on all devices.
-- QrCode size on the ticket is increased, hence, the scanning is faster, and you don't even need to `Zoom in`.
-- `Admin` | `Organizer` | `Customer`, all of them can download tickets from their `Bookings` page.
-
+- Each QR code contains a unique Ticket ID and Order number, linked to a single customer's ticket.
+- PDF ticket format ensures compatibility across all devices.
+- Larger QR code size for faster, easier scanning—no need to zoom in.
+- `Admin`, `Organizer`, and `Customer` can all download tickets from their `Bookings` page.
 
 ---
 
@@ -60,30 +55,29 @@ Before proceeding to the Ticket scanner, let's see the Ticket PDF. Eventmie Pro 
 
 ---
 
-
 <a name="scan-check-in"></a>
 ## Scan & Check-in <small class="v">v2.0</small>
 
-The scanning & Check-in process very smooth. 🍺 The system also records the check-in time of the attendee for verification purposes.
+The scanning and check-in process is smooth and efficient. The system records the attendee's check-in time for verification and reporting.
 
-- Organizers can Scan & Check-in in only their own event's tickets.
-- Admin can Scan & Check-in in all events tickets.
-- Multi-ticket scans, if in case, a ticket has 3 Attendees (3 Qty), then you can scan the ticket up to 3 times (Max Scan = Qty)
-- The Total Scans / Total Quantity will appear on Customer Bookings, Organizer Bookings & Admin Dashboard pages.
-- If the Booking Status = Disabled or if the Booking Is Paid = No, then that ticket won't be scanned & Checked-in.
-
----
-
->{primary} We know you know this. Please don't get offended. 😋
+- Organizers can scan and check-in tickets for their own events only.
+- Admins can scan and check-in tickets for all events.
+- Multi-ticket scans: If a ticket has multiple attendees (e.g., 3 Qty), it can be scanned up to 3 times (Max Scan = Qty).
+- Total scans and total quantity are displayed on Customer Bookings, Organizer Bookings, and Admin Dashboard pages.
+- If the Booking Status is `Disabled` or Booking Is Paid is `No`, the ticket cannot be scanned or checked in.
 
 ---
 
-To scan a ticket-
+>{primary} Please ensure you follow best practices for event check-in. 😋
 
-1. Visit the scanner page from `Scan Ticket` on the header.
-2. The scanner starts automatically, just bring the ticket QrCode in front of it.
-3. If ticket is valid, you'll see <larecipe-button type="success" size="sm" rounded>Verify & Check-in</larecipe-button>
-4. That's it
+---
+
+To scan a ticket:
+
+1. Visit the scanner page via `Scan Ticket` in the header.
+2. The scanner starts automatically—simply present the ticket QR code to the camera.
+3. If the ticket is valid, you'll see <larecipe-button type="success" size="sm" rounded>Verify & Check-in</larecipe-button>.
+4. That's it—your attendee is checked in!
 
 ---
 
@@ -95,7 +89,7 @@ To scan a ticket-
 
 ---
 
->{success} Works perfectly in Android.
+>{success} Works perfectly on Android.
 
 ---
 
@@ -107,13 +101,11 @@ To scan a ticket-
 
 ---
 
-![ticket-scanner-laptop](/images/v2/EventmieProImages/ticket-scan-browser-permission.webp "ticket-scanner-laptop")
+![ticket-scanner-laptop](/images/v3/How-to-scan-tickets-image-1.webp "ticket-scanner-laptop")
 
 ---
 
-
 <br>
-
 
 ### Congratulations! 🎊 🍾 🎉
 #### You've completed Eventmie Pro training.
@@ -124,6 +116,6 @@ To scan a ticket-
 
 ---
 
->{success} You can start using Eventmie Pro and we wish you great success. 👍
+>{success} Start using Eventmie Pro and we wish you great success. 👍
 
 ---

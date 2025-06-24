@@ -1,21 +1,20 @@
 # Email Notifications
 
-**Admin**, **Organizer**, and **Customer**, all of them receive notifications separately. 
+Eventmie Pro provides robust email and website notification systems for **Admins**, **Organizers**, and **Customers**. Stay informed about every important event, booking, and update with real-time notifications, ensuring seamless communication and improved event management.
 
 ---
 
->{primary} First, add `Mail Credentials` from `Admin Panel -> Settings -> Mail` tag, to start receiving emails.
+>{primary} To start receiving email notifications, first add your `Mail Credentials` in `Admin Panel -> Settings -> Mail` tab.
 
 ---
 
->{success} Notifications are received via **Email** and on the **Website** (the bell 🔔 icon)
+>{success} Notifications are delivered via **Email** and on the **Website** (bell 🔔 icon) for instant updates.
 
 ---
 
 ![email-notification](/images/email-notifications.webp "email-notification")
 
 ---
-
 
 - [Customer Notifications](#customer-notifications)
 - [Organizer Notifications](#organizer-notifications)
@@ -25,11 +24,11 @@
 <a name="customer-notifications"></a>
 ## Customer Notifications
 
-The customer receives notifications on-
+Customers receive notifications for:
 
-1. Making a new booking or if the Organizer or Admin makes a booking for the customer.
-2. Submitting booking cancellation requests, and booking cancellation status updates.
-3. On registering a new account (Signup).
+1. New bookings (including bookings made by Organizers or Admins on their behalf).
+2. Booking cancellation requests and status updates.
+3. New account registration (Signup).
 
 ---
 
@@ -37,15 +36,13 @@ The customer receives notifications on-
 
 ---
 
-
 <a name="organizer-notifications"></a>
 ## Organizer Notifications
 
-Organizer receives notifications on-
+Organizers receive notifications for:
 
-1. Making a new booking for a customer or if Customer or Admin makes a booking of the Organizer's event.
-2. Submission of booking cancellation requests of their events, and booking cancellation status updates.
-
+1. New bookings for their events (including bookings made by Customers or Admins).
+2. Booking cancellation requests and status updates for their events.
 
 ---
 
@@ -53,24 +50,21 @@ Organizer receives notifications on-
 
 ---
 
-
 <a name="admin-notifications"></a>
 ## Admin Notifications
 
-Admin receives notifications on-
+Admins receive notifications for:
 
-1. Making a new booking for a customer or if the Customer or Organizer makes a booking of any event.
-2. Submission of booking cancellation requests of any events, and booking cancellation status updates.
-3. New customer account registration. 
-4. Creation of new events by Organizer. 
-5. Receiving a new message from the Contact Us page.
-
-
+1. New bookings for any event (including bookings made by Customers or Organizers).
+2. Booking cancellation requests and status updates for any event.
+3. New customer account registrations.
+4. New events created by Organizers.
+5. New messages received from the Contact Us page.
 
 <a name="multi-lingual-email"></a>
 ## Multi-Lingual Email
 
-Email notifications are sent in multiple languages. The emails will be translated into the user's current language. It's compatible with RTL modes as well.
+Eventmie Pro supports multi-lingual email notifications. All emails are automatically translated into the user's current language and are fully compatible with RTL (right-to-left) modes, ensuring global accessibility and user experience.
 
 ---
 

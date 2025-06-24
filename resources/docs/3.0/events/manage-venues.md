@@ -1,10 +1,10 @@
 # Manage Venues
 
-The organizer can add multiple Venues to which they can link to their events. Venues also have their Listing & Detail page.
+Eventmie Pro allows organizers to add and manage multiple venues, making it easy to link venues to events for streamlined event planning. Each venue has its own listing and detail page, enhancing discoverability and providing attendees with all the information they need.
 
 ---
 
-![4-manage-venue](/images/v2/ManageVenuesImages/4-manage-venue.webp "4-manage-venue")
+![4-manage-venue](/images/v3/My-venues-image-40.webp "4-manage-venue")
 
 ---
 
@@ -13,12 +13,10 @@ The organizer can add multiple Venues to which they can link to their events. Ve
 - [Browse Venues](#browse-venues)
 - [Venue Page](#venue-page)
 
-
-
 <a name="Google-Autocomplete"></a>
 ## Google Autocomplete
 
-With Google Places Autocomplete, you can search for venues on it and add the real location to the venue.
+With Google Places Autocomplete integration, you can quickly search for venues and add accurate real-world locations to your venue listings. This ensures your event attendees can easily find the venue using Google Maps.
 
 ---
 
@@ -26,36 +24,32 @@ With Google Places Autocomplete, you can search for venues on it and add the rea
 
 ---
 
-
-
 <a name="add-venue-to-event"></a>
 ## Add Venue To Event
 
-From the Event Setup Form, you can select event location from the list of Venues.
+When setting up an event, simply select the event location from your list of saved venues for fast and consistent event creation.
 
 ---
 
-![3-add-venue](/images/v2/ManageVenuesImages/3-add-venue.webp "3-add-venue")
+![3-add-venue](/images/v3/Add-venue-in-event-image-41.webp "3-add-venue")
 
 ---
-
 
 <a name="browse-venues"></a>
 ## Browse Venues
 
-You can browse through all the venues with filters.
+Browse and filter through all available venues to find the perfect location for your event. Venue listings make it easy for organizers and attendees to explore options.
 
 ---
 
-![2-venue-listing](/images/v2/ManageVenuesImages/2-venue-listing.webp "2-venue-listing")
+![2-venue-listing](/images/v3/How-to-Check-Venues-(Image-4).webp "2-venue-listing")
 
 ---
-
 
 <a name="venue-page"></a>
 ## Venue Page
 
-Venue has their seperate pages to show all the details about the venue along with a **Request for Quote** form.
+Each venue has a dedicated detail page displaying all relevant information, including a **Request for Quote** form for inquiries. This helps event organizers and attendees connect with venue managers directly.
 
 ---
 
@@ -63,8 +57,6 @@ Venue has their seperate pages to show all the details about the venue along wit
 
 ---
 
-
 <iframe width="75%" height="500" src="https://www.youtube.com/embed/u515fZBsRu8?si=VDC8ESLWiph8maQ5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 ---

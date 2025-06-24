@@ -2,32 +2,31 @@
 
 ---
 
->{primary} Below are all the demo accounts for accessing the Eventmie Pro online demo **[Eventmie Pro Live Demo](https://eventmie-pro-demo.classiebit.com/)** 👈
+>{primary} Access all Eventmie Pro demo accounts for the online live demo here: **[Eventmie Pro Live Demo](https://eventmie-pro-demo.classiebit.com/)** 👈
 
 ---
 
-Demo accounts have got `demo data` to easily showcase all the features of Eventmie Pro. And the demo database auto resets every day. So, you can just freely test the demo site by modifying every setting to have a deeper look.
+Explore Eventmie Pro's powerful features using our demo accounts, preloaded with demo data for a complete event management experience. The demo database resets daily, so you can freely test, modify settings, and experience every feature in action.
 
 ---
 
->{success} Password is same for all - `password`
+>{success} The password for all demo accounts is: `password`
 
-### Customer Accounts
+### Customer Demo Accounts
 
-1. David lane         - `davidlane@mail.com`
+1. David Lane         - `davidlane@mail.com`
 2. Cora Woods         - `corawoods@mail.com`
 3. Roman Pane         - `romanpane@mail.com`
 4. Tara Young         - `tarayoung@mail.com`
 
-### Organizer Accounts
+### Organizer Demo Accounts
 
 1. Josh Grey          - `joshgrey@mail.com`
 2. Gina White         - `ginawhite@mail.com`
 3. Katie Stone        - `katiestone@mail.com`
 4. Tony Ray           - `tonyray@mail.com`
 
-
-### Admin Accounts
+### Admin Demo Accounts
 
 1. Super-Admin        - `admin@admin.com`
 2. Alex Hart          - `alexhart@mail.com`

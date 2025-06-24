@@ -1,14 +1,19 @@
+<!--
+Meta Description: Learn how to create and manage event guestlists in Eventmie Pro FullyLoaded. Guide for exporting attendee emails, sending bulk event promotions, and improving guest management in your Laravel event management platform.
+Meta Keywords: event guestlist, guest list, Eventmie Pro FullyLoaded, Laravel guest management, event marketing, bulk email, export emails, attendee management, event promotion, Classiebit
+-->
+
 > {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
 # Event Guestlist
 
-Organizers can create separate Guestlists for every event to export their emails CSV and send them Bulk emails about Event promotions or any other updates.
+Organizers can easily create and manage separate guestlists for every event in Eventmie Pro FullyLoaded. Export guest and attendee emails as CSV files to send bulk promotional emails or important event updates using services like MailChimp, Mailgun, and more.
 
 ---
 
-![3-create-guest](/images/v2/EventmieProFullyLoadedV2.0/3-create-guest.webp "3-create-guest")
+![3-create-guest](/images/v3/Guest-list-form-image-23.webp "3-create-guest")
 
 ---
 
@@ -19,56 +24,56 @@ Organizers can create separate Guestlists for every event to export their emails
 
 ## Create GuestList
 
-Let's create a GuestList
+Follow these steps to create a guestlist:
 
-1. Login as Organizer and Go to Manage Guests.
+1. Login as Organizer and go to Manage Guests.
 2. Click **Create Guests List**.
 
     ***
 
-    ![1-manage-guestlist](/images/v2/EventmieProFullyLoadedV2.0/1-manage-guestlist.webp "1-manage-guestlist")
+    ![1-manage-guestlist](/images/v3/Click-create-guest-list-image-23.webp "1-manage-guestlist")
 
     ***
 
-3. Enter GuestList name and hit **Save**.
+3. Enter the GuestList name and click **Save**.
 
     ***
 
-    ![2-create-guestlist](/images/v2/EventmieProFullyLoadedV2.0/2-create-guestlist.webp "2-create-guestlist")
+    ![2-create-guestlist](/images/v3/Enter-guest-list-name-image-24.webp "2-create-guestlist")
 
     ***
 
-4. Then click **Create Guest** to create Guest to add in GuestList.
-5. Enter Guest Name, Email and select a GuestList to add the Guest into.
+4. Click **Create Guest** to add guests to the GuestList.
+5. Enter the guest's name, email, and select the GuestList to add them to.
 
     ***
 
-    ![3-create-guest](/images/v2/EventmieProFullyLoadedV2.0/3-create-guest.webp "3-create-guest")
+    ![3-create-guest](/images/v3/Enter-guest-name-image-25.webp "3-create-guest")
 
     ***
 
 <br>
 
-In this way, you can create multiple custom GuestLists and add Guests of your choice. And then, Export their emails into a CSV to send them promotional emails via external promotions emails service like MailChimp, Mailgun, etc.
+You can create multiple custom guestlists and add any guests you choose. Export guest emails as CSV files to send event promotions or updates via your preferred email marketing service.
 
 <a name="Attendees-to-GuestList"></a>
 
 ## Attendees to GuestList
 
-You can also add events attendees emails to a GuestList you created.
+You can also add event attendees' emails to a guestlist you've created.
 
-1. Go to Manage Events page and click Add To GuestsList.
-
-    ***
-
-    ![4-manage-events-guestlist](/images/v2/EventmieProFullyLoadedV2.0/16-manager-manage-everything.webp "4-manage-events-guestlist")
+1. Go to the Manage Events page and click Add To GuestsList.
 
     ***
 
-2. On the Popup, select GuestList and click Add To GuestsList.
+    ![4-manage-events-guestlist](/images/v3/Add-event-guest-list-image-26.webp "4-manage-events-guestlist")
 
     ***
 
-    ![5-add-event-attendees-to-guestlist](/images/v2/EventmieProFullyLoadedV2.0/5-add-event-attendees-to-guestlist.webp "5-add-event-attendees-to-guestlist")
+2. In the popup, select the GuestList and click Add To GuestsList.
+
+    ***
+
+    ![5-add-event-attendees-to-guestlist](/images/v3/Enter-guest-list-name-image-27.webp "5-add-event-attendees-to-guestlist")
 
     ***

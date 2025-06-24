@@ -1,14 +1,18 @@
+<!--
+Meta Description: Learn how to enable and manage event ratings and reviews in Eventmie Pro FullyLoaded. Step-by-step guide for collecting attendee feedback, organizer approval, and boosting event credibility in your Laravel event management platform.
+Meta Keywords: rating and review, event feedback, Eventmie Pro FullyLoaded, Laravel event review, attendee review, event rating, organizer approval, testimonial, event management, Classiebit
+-->
 > {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
-# Rating & Review
+# Rating & Review System for Events in Eventmie Pro FullyLoaded
 
-Let attendees add ratings and reviews to the event, that can be reviewed and approved by the Event organizer before publishing.
+Let attendees add ratings and reviews to your events in Eventmie Pro FullyLoaded. Collect valuable event feedback, build trust, and boost event credibility—organizers can review and approve all ratings and reviews before they are published.
 
 ---
 
-![4-show-review](/images/v2/EventmieProFullyLoadedV2.0/3-manage-reviews.webp "4-show-review")
+![4-show-review](/images/v3/Rating-&-Review-Image-1.webp "4-show-review")
 
 ---
 
@@ -18,29 +22,27 @@ Let attendees add ratings and reviews to the event, that can be reviewed and app
 
 <a name="Create-GuestList"></a>
 
-## Enable Rating & Review
-
-First, you need to enable Rating & Review on the Event.
+## How to Enable Rating & Review for Events
 
 1. Go to Event Edit Page -> Details tab.
-2. Check the **Rating & Review** checkbox.
-3. You can check/uncheck it to enable/disable **Rating & Review** on the event.
+2. Check the **Rating & Review** checkbox to enable this feature.
+3. You can check/uncheck it anytime to enable or disable ratings and reviews for the event.
 
 ---
 
-![1-enable-review](/images/v2/EventmieProFullyLoadedV2.0/1-enable-review.webp "1-enable-review")
+![1-enable-review](/images/v3/Enable-rating-review-image-15.webp "1-enable-review")
 
 ---
 
 <a name="Add-Review"></a>
 
-## Add Review
+## How Attendees Add Ratings & Reviews
 
-Only the customer who has purchased atleast on ticket on an event, can add Rating and Review from Event page.
+Only customers who have purchased at least one ticket for an event can add a rating and review from the event page.
 
-1. Customer, after purchasing event ticket, can go to Event page.
-2. Scroll down to Rating & Review section and click **Add Rating & Review** button.
-3. Select Rating, write review and click Submit.
+1. After purchasing a ticket, the customer goes to the Event page.
+2. Scroll down to the Rating & Review section and click **Add Rating & Review**.
+3. Select a rating, write a review, and click Submit.
 
 ---
 
@@ -50,20 +52,20 @@ Only the customer who has purchased atleast on ticket on an event, can add Ratin
 
 <a name="Approve-Review"></a>
 
-## Approve Review
+## Organizer Approval: Publish or Unpublish Reviews
 
-By default, the Rating & Review added by customer will remain unpublished. The Organizer need to approve it by updating its status to Published. Organizer also receives an email notification every time their events receives a rating & review.
+By default, ratings and reviews added by customers remain unpublished. The organizer must approve them by updating the status to Published. Organizers receive an email notification every time their event receives a new rating or review.
 
-1. Login as Organizer, and go to Manage Reviews.
-2. Select the Event from Events Dropdown.
-3. And click **Status Update** to change the Review's status to Published/Unpublished.
-
----
-
-![3-manage-reviews](/images/v2/EventmieProFullyLoadedV2.0/4-show-review.webp "3-manage-reviews")
+1. Login as Organizer and go to Manage Reviews.
+2. Select the Event from the Events Dropdown.
+3. Click **Status Update** to change the review's status to Published or Unpublished.
 
 ---
 
-![4-show-review](/images/v2/EventmieProFullyLoadedV2.0/3-manage-reviews.webp "4-show-review")
+![3-manage-reviews](/images/v3/Organiser-rating-review-image-2.webp "3-manage-reviews")
+
+---
+
+![4-show-review](/images/v3/Rating-&-Review-Image-1.webp "4-show-review")
 
 ---

@@ -1,9 +1,9 @@
 # Ticket Booking
 
-Experience lightning-fast ticket booking like never before with Eventmie Pro Fullyloaded App! Say goodbye to waiting in lines and hello to instant access to your favourite events.
+Experience lightning-fast and secure mobile ticket booking with the Eventmie Pro FullyLoaded App! Instantly book event tickets from your smartphone, skip the lines, and enjoy seamless access to your favorite events anytime, anywhere.
 
 ---
 
-![ticket-booking](/images/v2/app/CB-07-New.webp "ticket-booking")
+![ticket-booking](/images/v3/App-ticket-booking-image-2.webp "ticket-booking")
 
 ---

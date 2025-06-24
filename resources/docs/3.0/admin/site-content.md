@@ -1,6 +1,6 @@
 # Site Content
 
-Add & manage site content like categories, home page banners, pages e.g about us, terms, etc, and other media images that are being uploaded by the users.
+Easily add and manage your website's content in Eventmie Pro, including event categories, homepage banners, informational pages (About Us, Terms, etc.), blog posts, and all user-uploaded media. Keep your event management platform engaging, up-to-date, and SEO-friendly.
 
 ---
 
@@ -14,11 +14,11 @@ Add & manage site content like categories, home page banners, pages e.g about us
 <a name="categories"></a>
 ## Categories
 
-Only Admin can add and manage categories from the Admin Panel. While Organisers can only select amongst these categories for their events.
+Admins can create and manage event categories from the Admin Panel. Organizers can only select from these categories when creating or editing their events, ensuring consistent event classification and improved discoverability.
 
 ---
 
->{primary} Disabling a category disables/hides all the events that belong to the category. 
+>{primary} Disabling a category will automatically hide all events associated with that category from the website. 
 
 ---
 
@@ -30,14 +30,14 @@ Only Admin can add and manage categories from the Admin Panel. While Organisers 
 <a name="Banners"></a>
 ## Banners
 
-Add & manage home page banners. 
+Add and manage homepage banners to highlight key events, promotions, or announcements. 
 
-- Add Custom Button with URL on the banners.
-- Control the order of banners by adding Order No. in the **Order input box**.
+- Add custom buttons with URLs to drive user engagement.
+- Control the display order of banners by setting the **Order No.** in the input box.
 
 ---
 
-![Banners](/images/admin-banner-options.webp "Banners")
+![Banners](/images/v3/How-to-update-banner-EP-image-4.webp "Banners")
 
 ---
 
@@ -45,26 +45,26 @@ Add & manage home page banners.
 <a name="Pages"></a>
 ## Pages
 
-Add & manage pages-
+Create and manage essential website pages for your event platform, such as:
 
-1. About us
+1. About Us
 2. Privacy Policy
-3. Terms and conditions
+3. Terms and Conditions
 
 ---
 
-![pages](/images/content-pages.webp "pages")
+![pages](/images/v3/How-to-update-pages-EP-image-5.webp "pages")
 
 ---
 
->{success} You can add extra custom pages as well. 
+>{success} You can also add unlimited custom pages to provide more information and improve your site's SEO. 
 
 ---
 
 <a name="Blog-Posts"></a>
 ## Blog Posts
 
-Eventmie Pro comes with a fully-featured Blog management system. When you add and publish a blog post from the Admin Panel, it gets published on the front-end. And the front-end users can visit and read your blog posts. 
+Eventmie Pro features a built-in blog management system. Publish blog posts from the Admin Panel to share news, updates, and event tips. Published posts are instantly visible on the front-end, helping you engage your audience and boost SEO. 
 
 ---
 
@@ -76,11 +76,11 @@ Eventmie Pro comes with a fully-featured Blog management system. When you add an
 <a name="Media-Manager"></a>
 ## Media Manager
 
-Here, you can manage all your website's user-uploaded images like events, tags, etc media files and images. 
+Manage all user-uploaded images and media files, including event images, tags, and other assets. The Media Manager helps you keep your website organized and ensures fast, reliable access to all media content. 
 
 ---
 
-![Media manager](/images/content-media.webp "Media manager")
+![Media manager](/images/v3/How-to-add-images-EP-image-6.webp "Media manager")
 
 ---
 

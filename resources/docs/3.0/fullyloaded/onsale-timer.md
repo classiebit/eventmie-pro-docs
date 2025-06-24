@@ -1,10 +1,14 @@
+<!--
+Meta Description: Learn how to set up an on sale timer for discounted event tickets in Eventmie Pro FullyLoaded. Step-by-step guide for creating limited time offers, sale countdowns, and boosting ticket sales with urgency in your Laravel event management platform.
+Meta Keywords: on sale timer, ticket sale, discounted tickets, Eventmie Pro FullyLoaded, Laravel sale countdown, event marketing, limited time offer, ticket discount, event management, Classiebit
+-->
 > {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
-# On Sale Timer
+# On Sale Timer for Discounted Tickets in Eventmie Pro FullyLoaded
 
-Put tickets on sale with a discounted price and sale timer. Set sale start date and sale end date with a sale price, and a timer will be shown on the events listing and tickets, and attendee can purchase the tickets at the sale price until sale ends.
+Boost ticket sales and create urgency with the On Sale Timer feature in Eventmie Pro FullyLoaded. Put tickets on sale with a discounted price and a visible countdown timer. Set a sale start date, sale end date, and sale price—attendees can purchase tickets at the special price until the sale ends.
 
 ---
 
@@ -17,17 +21,15 @@ Put tickets on sale with a discounted price and sale timer. Set sale start date 
 
 <a name="Set-Tickets-On-Sale"></a>
 
-## Set Tickets On Sale
-
-First, let's create a ticket and follow the below simple steps-
+## How to Set Tickets On Sale (Limited Time Offer)
 
 1. Go to Event Edit Page -> Tickets tab.
-2. Enter Sale Start Date, Sale End Date & Sale Price and hit Save.
-3. If you wanna remove ticket from sale, simply make Sale Start Date, Sale End Date & Sale Price empty.
+2. Enter the Sale Start Date, Sale End Date, and Sale Price, then click Save.
+3. To remove a ticket from sale, simply clear the Sale Start Date, Sale End Date, and Sale Price fields.
 
 <br>
 
-In the same way, you can put any of the ticket on-sale.
+You can put any ticket on sale using these steps, creating multiple limited time offers for your events.
 
 ---
 
@@ -37,16 +39,16 @@ In the same way, you can put any of the ticket on-sale.
 
 <a name="Purchase-Tickets-On-Sale"></a>
 
-## Purchase Tickets On Sale
+## How Attendees Purchase Tickets On Sale
 
-After putting ticket on sale, you can see the Event on-sale on the
+After setting tickets on sale, the sale timer and discounted price will be visible on:
 
 -   Event listing page
 -   Homepage
 
     ***
 
-    ![2-see-sale-timer-listing](/images/v2/EventmieProFullyLoadedV2.0/26.2-see-sale-timer-listing.webp "2-see-sale-timer-listing")
+    ![2-see-sale-timer-listing](/images/v3/Ticket-sale-timer-(Image-11).webp "2-see-sale-timer-listing")
 
     ***
 
@@ -54,7 +56,7 @@ After putting ticket on sale, you can see the Event on-sale on the
 
     ***
 
-    ![3-see-sale-timer-event-page](/images/v2/EventmieProFullyLoadedV2.0/27.3-see-sale-timer-event-page.webp "3-see-sale-timer-event-page")
+    ![3-see-sale-timer-event-page](/images/v3/Event-page-image-12.webp "3-see-sale-timer-event-page")
 
     ***
 
@@ -66,7 +68,6 @@ After putting ticket on sale, you can see the Event on-sale on the
 
     ***
 
+<iframe width="75%" height="500" src="https://www.youtube.com/embed/zh6ggemJrl4?si=5s7dUdQ5vKdWaTwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-    <iframe width="75%" height="500" src="https://www.youtube.com/embed/zh6ggemJrl4?si=5s7dUdQ5vKdWaTwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-    ---
+---

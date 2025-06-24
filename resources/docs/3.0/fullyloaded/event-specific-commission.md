@@ -1,3 +1,7 @@
+<!--
+Meta Description: Discover how to set event-specific admin commissions in Eventmie Pro FullyLoaded. Guide for customizing commission rates per event, maximizing flexibility and revenue in your Laravel event management platform.
+Meta Keywords: event-specific commission, admin commission, Eventmie Pro FullyLoaded, Laravel commission settings, per-event commission, event management, commission free event, Classiebit
+-->
 
 >{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
@@ -5,14 +9,16 @@
 
 # Event-specific Commission
 
-Set different admin commission for each event. Only Admin can set different Admin Commission for each event from Event Edit Page -> Event Specific Admin
+Easily set unique admin commission rates for each event in Eventmie Pro FullyLoaded. This feature allows you to tailor commission settings for individual events, giving you greater control over your event management and revenue strategy.
 
 <br>
 
-Admin can set it to 0 to make an event admin commission free. And if you leave the `Event Specific Admin` empty, then the default Admin Commission that's set on Admin commission, will be applied on all the events bookings.
+Only Admins can assign a specific admin commission to each event from the Event Edit Page using the Event Specific Admin field. This makes it simple to offer special commission rates for certain events or partners.
+
+Admins can set the commission to 0 to make an event commission-free. If the `Event Specific Admin` field is left empty, the system will automatically apply the default admin commission rate set in the global settings to all bookings for that event.
 
 ---
 
-![event-specific-admin-commission](/images/v2/EventmieProFullyLoadedV2.0/32.event-specific-admin-commission.webp "event-specific-admin-commission")
+![event-specific-admin-commission](/images/v3/Event-specific-commission-image-6.webp "event-specific-admin-commission")
 
 ---

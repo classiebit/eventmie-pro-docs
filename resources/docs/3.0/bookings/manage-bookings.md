@@ -1,7 +1,6 @@
 # Manage Bookings
 
-Managing the bookings is a breeze. Customers, Organizers, and Admin, all have separate `Bookings` pages, where they can see all of their existing event ticket bookings.
-
+Managing event bookings in Eventmie Pro is effortless and efficient. Customers, Organizers, and Admins each have dedicated `Bookings` pages, allowing them to view and manage all their event ticket bookings in one place.
 
 - [Customer's: Bookings](#customer-bookings)
 - [Admin's: Bookings](#admin-bookings)
@@ -10,107 +9,96 @@ Managing the bookings is a breeze. Customers, Organizers, and Admin, all have se
 - [Organizer's: Dashboard](#organizer-dashboard)
 - [Google Calendar](#google-calendar)
 
-
 <a name="customer-bookings"></a>
 ## Customer's: Bookings
 
-Customers can see all of their bookings on the `My Bookings` page. To visit, click on `My Bookings` on the header. On the `My Bookings` page, customers can-
+Customers can view all their bookings on the `My Bookings` page. To access, click `My Bookings` in the header. On this page, customers can:
 
-- See all their booked tickets.
-- Check booking & payment status.
-- Download the tickets.
-- Get online event secret access details.
+- View all booked tickets.
+- Check booking and payment status.
+- Download tickets instantly.
+- Access online event secret details.
 - Submit a cancellation request for a ticket with <larecipe-button type="danger" size="sm" rounded>Cancel</larecipe-button>
-- Track booking cancellation request, if it's approved or amount refunded.
+- Track the status of cancellation requests, including approval and refunds.
 
 ---
 
-![manage-bookings-customer](/images/v2/EventmieProImages/manage-bookings-customer.webp "manage-bookings-customer")
+![manage-bookings-customer](/images/v3/My-bookings-customer-image-1.webp "manage-bookings-customer")
 
 ---
-
 
 <a name="admin-bookings"></a>
 ## Admin's: Bookings
 
-Admins can see all event bookings on the `Admin Panel -> Bookings` page. To visit, click on `Bookings` on the Admin Panel. On the `Bookings` page, Admin can-
+Admins can view all event bookings on the `Admin Panel -> Bookings` page. To access, click `Bookings` in the Admin Panel. On this page, Admins can:
 
-- See all their Events booked tickets.
-- Check booking & payment status.
-- Modify booking Is Paid status & disable/enable it.
-- Update booking cancellation requests status, if it's approved or amount refunded with <larecipe-button type="info" size="sm" rounded>Edit</larecipe-button>
-- View booking detailed info with <larecipe-button type="warning" size="sm" rounded>View</larecipe-button>
-
----
-
-![manage-bookings-admin](/images/manage-bookings-admin.webp "manage-bookings-admin")
+- View all booked tickets for every event.
+- Check booking and payment status.
+- Modify the `Is Paid` status and enable/disable bookings.
+- Update booking cancellation request status, including approval and refunds, with <larecipe-button type="info" size="sm" rounded>Edit</larecipe-button>
+- View detailed booking information with <larecipe-button type="warning" size="sm" rounded>View</larecipe-button>
 
 ---
 
+![manage-bookings-admin](/images/v3/Admin-bookings-image-8.webp "manage-bookings-admin")
+
+---
 
 <a name="organizer-bookings"></a>
 ## Organizer's: Bookings
 
-Organizers can see all of their event bookings on the `Manage Bookings` page. To visit, click on `Manage Bookings` on the header, account's dropdown. On the `Manage Bookings` page, Organizers can-
+Organizers can manage all their event bookings on the `Manage Bookings` page. To access, click `Manage Bookings` in the header or account dropdown. On this page, Organizers can:
 
-- See all their Events booked tickets.
-- Check booking & payment status.
-- Modify booking Is Paid status & disable/enable it.
-- Update booking cancellation requests status, if it's approved or amount refunded with <larecipe-button type="info" size="sm" rounded>Edit</larecipe-button>
-- View booking detailed info with <larecipe-button type="black" size="sm" rounded>View</larecipe-button>
-
----
-
-![manage-bookings-organizer](/images/v2/EventmieProImages/manage-bookings-organizer.webp "manage-bookings-organizer")
+- View all booked tickets for their events.
+- Check booking and payment status.
+- Modify the `Is Paid` status and enable/disable bookings.
+- Update booking cancellation request status, including approval and refunds, with <larecipe-button type="info" size="sm" rounded>Edit</larecipe-button>
+- View detailed booking information with <larecipe-button type="black" size="sm" rounded>View</larecipe-button>
 
 ---
 
+![manage-bookings-organizer](/images/v3/How-Organiser-Can-See-Their-Bookings-(Image-7).webp "manage-bookings-organizer")
+
+---
 
 <a name="organizer-earnings"></a>
 ## Organizer's: Earnings
 
-Organizers can see all of their event's earnings on the `Manage Earnings` page. To visit, click on `Manage Earnings` on the header, account's dropdown. On the `Manage Earnings` page, Organizers can-
+Organizers can track all event earnings on the `Manage Earnings` page. To access, click `Manage Earnings` in the header or account dropdown. On this page, Organizers can:
 
-- See the overview of their Event's sales and earnings like
-    - Total `Bookings` amount of all sales.
+- View an overview of event sales and earnings, including:
+    - Total `Bookings` amount for all sales.
     - Total `Commission` deducted by admin.
     - Total `Profit` earned.
-
-
-- See the sales & earnings reports by Events.
-- Filter the sales & earnings reports by `Events` & `Booking Date`.
-- Track the status of their monthly payouts for each event, if it's transferred or not.
+- View sales and earnings reports by event.
+- Filter sales and earnings reports by `Event` and `Booking Date`.
+- Track the status of monthly payouts for each event, including whether payouts have been transferred.
 
 ---
 
-![manage-bookings-organizer-earnings](/images/v2/EventmieProImages/manage-bookings-organizer-earnings.webp "manage-bookings-organizer-earnings")
+![manage-bookings-organizer-earnings](/images/v3/How-to-Check-Organiser-Earnings-(Image-8).webp "manage-bookings-organizer-earnings")
 
 ---
-
-
 
 <a name="organizer-dashboard"></a>
 ## Organizer's: Dashboard
 
-A new Organizer Dashboard to take a quick overview of their events activities.
+The Organizer Dashboard provides a quick overview of all event activities, helping organizers monitor performance and make informed decisions.
 
 ---
 
-![organizer-dashboard-front-end](/images/v2/EventmieProImages/organizer-dashboard-front-end.webp "organizer-dashboard-front-end")
+![organizer-dashboard-front-end](/images/v3/How-to-check-organiser-dashboard-(Image-9).webp "organizer-dashboard-front-end")
 
 ---
-
-
 
 <a name="google-calendar"></a>
 ## Google Calendar
 
-Customers can add Events to their Google Calendar from the **My Bookings** page after purchasing tickets.
-
+Customers can add events to their Google Calendar directly from the **My Bookings** page after purchasing tickets, making it easy to stay organized and never miss an event.
 
 ---
 
-![google-calendar](/images/v2/EventmieProImages/manage-bookings-customer.webp "google-calendar")
+![google-calendar](/images/v3/Google-calender-(Image-10).webp "google-calendar")
 
 <iframe width="75%" height="500" src="https://www.youtube.com/embed/y0fwpk6t0r0?si=QfjRdgfKeSO3ktVF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

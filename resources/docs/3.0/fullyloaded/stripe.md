@@ -1,11 +1,16 @@
+<!--
+Meta Description: Learn how to enable and configure Stripe 3D Secure Checkout Payment Gateway in Eventmie Pro FullyLoaded. Step-by-step guide for Stripe integration, webhook setup, and secure online payments in your Laravel event management platform.
+Meta Keywords: Stripe 3D Secure, Stripe payment gateway, Eventmie Pro FullyLoaded, Laravel Stripe integration, Stripe webhook, online payments, secure checkout, payment setup, event management, Classiebit
+-->
 > {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
-# Stripe 3D Checkout Payment Gateway
+# Stripe 3D Secure Checkout Payment Gateway for Eventmie Pro FullyLoaded
 
-To enable it, you first need to create a Stripe Merchant Account from **[Stripe](https://stripe.com)**. After setting up your account, you need to copy the `Stripe Public Key` and `Stripe Secret Key`.
-After getting the Stripe keys, follow the below steps-
+Integrate Stripe 3D Secure Checkout to accept secure online payments in your Eventmie Pro FullyLoaded Laravel event management platform. Follow this guide to enable Stripe, configure your API keys, and set up webhooks for reliable payment processing.
+
+To enable Stripe payments, first create a Stripe Merchant Account at **[Stripe](https://stripe.com)**. After setting up your account, copy your `Stripe Public Key` and `Stripe Secret Key`.
 
 ---
 
@@ -14,36 +19,32 @@ After getting the Stripe keys, follow the below steps-
 ---
 
 1. Go to Admin Panel -> Settings -> Apps
-2. Enter `Stripe Public Key` & `Stripe Secret Key` and hit **Save Settings**
+2. Enter your `Stripe Public Key` & `Stripe Secret Key` and click **Save Settings**
 
 <br>
 
-You can enter Stripe **Test** keys to Test payment using Stripe Test Card, and Stripe **Live** keys to make real payments.
+You can use Stripe **Test** keys to test payments with Stripe Test Cards, or Stripe **Live** keys to accept real payments from customers.
 
 ---
 
-> {primary} To Disable Stripe, simply remove the `Stripe Public Key` & `Stripe Secret Key`.
+> {primary} To disable Stripe, simply remove the `Stripe Public Key` & `Stripe Secret Key` from your settings.
 
 ---
-
-
 
 - [Webhook](#Webhook)
 
 <a name="Webhook"></a>
 
-## Webhook
+## Stripe Webhook Integration for Zero Payment Failure
 
-In v2.0, we've integrated Stripe webhook for ZERO payment failure.
+In Eventmie Pro FullyLoaded v3.0 and above, Stripe webhook integration ensures ZERO payment failure. Even if a customer closes the payment tab or faces network issues after payment, the system will still confirm successful bookings using Stripe webhooks.
 
-With Stripe webhook, even if the customer accidently closes the payment tab on Stripe checkout page, or due to any network issue, the customer fails to get back on the website after payment, then the system will not miss a successful booking and with the help of Stripe webhook, the system will make a booking for the customer as soon as customer makes the payment on Stripe.
+### How to Activate Stripe Webhook in Eventmie Pro FullyLoaded
 
-Here's how you can activate Stripe webhook.
-
-1. Go to Admin Panel -> Settings -> Apps 
-2. You need to enter *LIVE* keys `Stripe Public Key` & `Stripe Secret Key` and hit **Save Settings**
-3. Then you need to go to your web-hosting/cPanel and open the terminal in website root directory *public_html*.
-4. Finally, run this command to make a connection between your website & Stripe webhook
+1. Go to Admin Panel -> Settings -> Apps
+2. Enter your *LIVE* `Stripe Public Key` & `Stripe Secret Key` and click **Save Settings**
+3. Access your web hosting/cPanel, open the terminal in your website root directory (*public_html*)
+4. Run the following command to connect your website with Stripe webhook:
 
     ```php
     php artisan cashier:webhook
@@ -51,14 +52,15 @@ Here's how you can activate Stripe webhook.
 
     ---
 
-    > {warning} Make sure you run the above Stripe webhook command on live domain and with live Stripe keys.
+    > {warning} Run the above Stripe webhook command only on your live domain and with live Stripe keys for production payments.
 
     ---
 
+### Configure Stripe Webhook in Stripe Dashboard
 
-After following the above, you need to go to Stripe dashboard and follow the below steps-
+After the above steps, complete the webhook setup in your Stripe dashboard:
 
-1. Click Developers -> Webhooks Tab -> and click Hosted Endpoint URL. See the below screenshot-
+1. Go to Developers -> Webhooks Tab -> Click Hosted Endpoint URL. See screenshot below:
 
     ---
 
@@ -66,7 +68,7 @@ After following the above, you need to go to Stripe dashboard and follow the bel
 
     ---
     
-2. Click 3 Dots on Right side -> and click Update Details. See the below screenshot-
+2. Click the 3 Dots on the right -> Click Update Details. See screenshot below:
 
     ---
 
@@ -74,7 +76,7 @@ After following the above, you need to go to Stripe dashboard and follow the bel
 
     ---
 
-3. Click on Select Events dropdown -> write Checkout in the search -> Click on Checkout to select all Checkout events -> click Update Endpoint.
+3. Click on Select Events dropdown -> Search for Checkout -> Select all Checkout events -> Click Update Endpoint.
 
     ---
 
@@ -82,7 +84,7 @@ After following the above, you need to go to Stripe dashboard and follow the bel
 
     ---
 
-4. Then finally copy the webhook secret key from the Right side and add it on your website Admin Panel.
+4. Copy the webhook secret key from the right side and add it to your website Admin Panel.
 
     ---
 
@@ -98,10 +100,9 @@ After following the above, you need to go to Stripe dashboard and follow the bel
 
     ---
 
-
 <iframe width="75%" height="500" src="https://www.youtube.com/embed/LnRQQ_vTO8I?si=HdQAltpuXof0qaT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
-> {success} Now you're all set, you'll see successful events on Stripe webhook page after successful payments.
+> {success} Now you're all set! You will see successful events on the Stripe webhook page after each successful payment in your Eventmie Pro FullyLoaded website.
 
 ---

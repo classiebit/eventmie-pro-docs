@@ -1,14 +1,14 @@
 # Repetitive Events
 
-In Eventmie Pro, you can create daily, weekly & monthly repetitive events and classes. Like- daily repetitive Yoga classes, weekly repetitive webinars, and much more.
+With Eventmie Pro, you can easily create daily, weekly, and monthly recurring events and classes—perfect for yoga sessions, webinars, workshops, and more. Recurring event scheduling helps maximize attendance and automate your event management process.
+
+---
+<small>**Eventmie Pro Fullyloaded Event Page Preview**</small>
+<img src="/images/v3/EPF-Repetitive-Event-Preview-Image-46.webp" alt="Simple event view" title="Simple event view" class="medium-zoom-image">
 
 ---
 
-![Repetitive event view](/images/v2/RepetitiveEventImages/events-repetitive-event-view.webp "Repetitive event view")
-
----
-
-> {primary} We'll discuss unique steps in creating a Repetitive event, the rest of all is the same as a Simple Event.
+> {primary} This section covers the unique steps for creating a Repetitive Event. All other steps are the same as for a Simple Event.
 
 ---
 
@@ -26,13 +26,13 @@ In Eventmie Pro, you can create daily, weekly & monthly repetitive events and cl
 
 ## Create Repetitive Event
 
-Repetitive event here refers to the events or classes having repetitive schedules. Click on <larecipe-button type="primary" size="sm" rounded>Create Event</larecipe-button> to get started. 😤
+A repetitive event is any event or class with recurring schedules. Click on <larecipe-button type="primary" size="sm" rounded>Create Event</larecipe-button> to get started with your recurring event setup.
 
 <a name="Timing"></a>
 
 ## Timing
 
-To start creating repetitive schedules, first set a time range, within which, the repetitive event is going to be held.
+To begin creating recurring schedules, first set the time range for your repetitive event.
 
 <br>
 
@@ -46,7 +46,7 @@ To start creating repetitive schedules, first set a time range, within which, th
 
 ---
 
-> {success} Click and check the `Add Repetitive Schedules` checkbox to get started with repetitive schedules.
+> {success} Check the `Add Repetitive Schedules` box to enable recurring event schedules.
 
 ---
 
@@ -54,47 +54,47 @@ To start creating repetitive schedules, first set a time range, within which, th
 
 ## Repetitive Schedule <small class="v">v1.7</small>
 
-Once you check the `Add Repetitive Schedules` checkbox, a new interface shows up.
+Once you enable `Add Repetitive Schedules`, a new interface appears:
 
-1. It'll auto-generate Schedules rows according to the `Total Months` between `Start & End date`.
-2. You can modify each Schedule separately.
-3. The customer has to purchase a ticket for every `day`.
+1. Schedule rows are auto-generated based on the `Total Months` between the start and end dates.
+2. You can customize each schedule individually.
+3. Customers must purchase a ticket for every `day` by default.
 
 ---
 
-> {primary} If you don't like customers to pay for every day, we've got a solution for that too. We'll discuss it in the `Monthly/Weekly Payment` section.
+> {primary} If you want customers to pay monthly or weekly instead of daily, see the `Monthly/Weekly Payment` section below.
 
 ---
 
 <br>
 
-**Let's start with Repetitive Type**
+**Let's explore the Repetitive Types:**
 
 <a name="repetitive-type-daily"></a>
 
 ## Repetitive Type: Daily
 
-The event that repeats every `day` from start to end date.
+Create events that repeat every `day` within your selected date range.
 
 <br>
 
 **Form Fields**
 
--   **Repetitive Dates (Repeat Except)**- set dates on which the event `DO NOT` repeats.
--   **Start Time** - set start time for a particular schedule of each month.
--   **End Time** - set end time for a particular schedule of each month.
+-   **Repetitive Dates (Repeat Except)** – Set dates to exclude from the schedule.
+-   **Start Time** – Set the start time for each month's schedule.
+-   **End Time** – Set the end time for each month's schedule.
 
 ---
 
-> {success} You can set different `start & end time` for every month's schedule.
+> {success} You can set different start and end times for each month's schedule.
 
 ---
 
-> {primary} It also shows you calculations of each schedule days and time in real time.
+> {primary} Real-time calculations show the total scheduled days and times.
 
 ---
 
-**This is how Daily Repetitive Schedules look like**
+**Example: Daily Repetitive Schedules**
 
 ---
 
@@ -102,7 +102,7 @@ The event that repeats every `day` from start to end date.
 
 ---
 
-**And this is how they look like on the Event page**
+**How it appears on the Event page:**
 
 ---
 
@@ -114,19 +114,19 @@ The event that repeats every `day` from start to end date.
 
 ## Repetitive Type: Weekly
 
-The event that repeats every `week` from start to end date.
+Create events that repeat every `week` within your selected date range.
 
 <br>
 
 **Form Fields**
 
--   **Repetitive Days** - set weekdays on which the event repeats.
--   **Start Time** - set start time for a particular schedule of each month.
--   **End Time** - set end time for a particular schedule of each month.
+-   **Repetitive Days** – Select weekdays for the event to repeat.
+-   **Start Time** – Set the start time for each month's schedule.
+-   **End Time** – Set the end time for each month's schedule.
 
 ---
 
-**This is how Weekly Repetitive Schedules look like**
+**Example: Weekly Repetitive Schedules**
 
 ---
 
@@ -134,7 +134,7 @@ The event that repeats every `week` from start to end date.
 
 ---
 
-**And this is how they look like on the Event page**
+**How it appears on the Event page:**
 
 ---
 
@@ -146,19 +146,19 @@ The event that repeats every `week` from start to end date.
 
 ## Repetitive Type: Monthly
 
-The event that repeats every `month` from start to end date.
+Create events that repeat every `month` within your selected date range.
 
 <br>
 
 **Form Fields**
 
--   **Repetitive Dates (Repeat Every)** - set dates on which the event repeats.
--   **Start Time** - set start time for a particular schedule of each month.
--   **End Time** - set end time for a particular schedule of each month.
+-   **Repetitive Dates (Repeat Every)** – Set dates for the event to repeat each month.
+-   **Start Time** – Set the start time for each month's schedule.
+-   **End Time** – Set the end time for each month's schedule.
 
 ---
 
-**This is how Monthly Repetitive Schedules look like**
+**Example: Monthly Repetitive Schedules**
 
 ---
 
@@ -166,7 +166,7 @@ The event that repeats every `month` from start to end date.
 
 ---
 
-**And this is how they look like on the Event page**
+**How it appears on the Event page:**
 
 ---
 
@@ -178,7 +178,7 @@ The event that repeats every `month` from start to end date.
 
 ## Skip Schedule <small class="v">v1.7</small>
 
-To skip a month from Schedules, leave the particular **Schedule** input blank.
+To skip a month in your schedule, simply leave the specific **Schedule** input blank.
 
 ---
 
@@ -186,7 +186,7 @@ To skip a month from Schedules, leave the particular **Schedule** input blank.
 
 ---
 
-**And this is how they look like on the Event page**
+**How it appears on the Event page:**
 
 ---
 
@@ -204,28 +204,24 @@ To skip a month from Schedules, leave the particular **Schedule** input blank.
 
 ---
 
-In the case of repetitive schedules, sometimes you want to get paid on a `Monthly` or `Weekly` basis for all schedules within a `Month or Week`, instead of each day separately.
+For recurring schedules, you may want to accept payments on a `Monthly` or `Weekly` basis for all schedules within a month or week, instead of charging for each day separately.
 
-Seasonal Tickets means, customer purchase the whole month tickets at once and they can attend event with single ticket.
-
-<br>
-
-This means the customer can attend the event for the whole month or week, by paying a **Full Advance Payment** for a complete month or week schedule.
+Seasonal Tickets allow customers to purchase all tickets for a month or week at once, enabling them to attend every session with a single ticket.
 
 <br>
 
-For this kind of scenario, here's the `Seasonal Ticket Feature` to the rescue. 🥰
+This means customers pay a **Full Advance Payment** for a complete month or week schedule, making it easier to manage recurring event payments.
 
 <br>
 
-Let's get started. Check the `Seasonal Ticket` checkbox, e.g for the `Repetitive Type: Monthly` type of event. After that-
+To enable this, check the `Seasonal Ticket` box (e.g., for `Repetitive Type: Monthly`). Then:
 
-1. Set the ticket prices for whole month schedules, instead of a single schedule.
-2. When a customer makes the payment, you get a whole month's payment instead of a single schedule.
+1. Set ticket prices for the entire month or week, not just a single session.
+2. When a customer pays, you receive the full month's or week's payment upfront.
 
 ---
 
-**This is how Monthly Repetitive Schedules with Seasonal Ticket option checked, look like**
+**Example: Monthly Repetitive Schedules with Seasonal Ticket enabled**
 
 ---
 
@@ -233,7 +229,7 @@ Let's get started. Check the `Seasonal Ticket` checkbox, e.g for the `Repetitive
 
 ---
 
-**And this is how they look like on the Event page**
+**How it appears on the Event page:**
 
 ---
 
@@ -245,9 +241,9 @@ Let's get started. Check the `Seasonal Ticket` checkbox, e.g for the `Repetitive
 
 ## Timeslots Availability
 
-Check available timeslots for repetitive event schedules on the go. You can now see if a timeslot is fully booked or not for any specific date before clicking on the Checkout button.
+Easily check available timeslots for recurring event schedules. See if a timeslot is fully booked before proceeding to checkout.
 
-1. In the Event Schedules, if all the tickets have been booked for a specific timeslot/date, then it'll show that timeslot as **Out Of Stock**.
+1. In the Event Schedules, if all tickets for a specific timeslot/date are booked, that timeslot will display as **Out Of Stock**.
 
 ---
 
@@ -255,16 +251,15 @@ Check available timeslots for repetitive event schedules on the go. You can now 
 
 ---
 
-2. On the Checkout Popup, it'll show **Vacant Seats** for every ticket, only if the **Total Available Ticket Quantity** of the ticket is less than **Max Ticket Qty Limit Per Order** (Admin Panel -> Settings -> Booking Tab -> Max Ticket Qty Limit Per Order).
+2. On the Checkout Popup, **Vacant Seats** are shown for each ticket if the **Total Available Ticket Quantity** is less than the **Max Ticket Qty Limit Per Order** (Admin Panel -> Settings -> Booking Tab -> Max Ticket Qty Limit Per Order).
 
-In this way, it won't disclose all the Quantity of the ticket and only show the vacant seats in case of lesser availability.
+This ensures only limited ticket availability is displayed, protecting your inventory details.
 
 ---
 
 ![Live Timeslots Availability Vacant Seats Per Ticket](/images/v2/RepetitiveEventImages/repetitive-events-vacant.webp "Live Timeslots Availability Vacant Seats Per Ticket")
 
 ---
-
 
 <iframe width="75%" height="500" src="https://www.youtube.com/embed/3HzWrXDe7TI?si=fYloyFZjTyRHbsBS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

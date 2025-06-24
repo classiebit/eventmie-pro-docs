@@ -1,10 +1,14 @@
+<!--
+Meta Description: Learn how to create complimentary bookings and free tickets in Eventmie Pro FullyLoaded. Step-by-step guide for admins to manage external bookings, generate QR codes, and export attendee lists in your Laravel event management platform.
+Meta Keywords: complimentary bookings, free tickets, Eventmie Pro FullyLoaded, Laravel complimentary booking, admin, external bookings, QR code, attendee export, event management, Classiebit
+-->
 > {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
-# Complimentary Bookings
+# Complimentary Bookings & Free Tickets in Eventmie Pro FullyLoaded
 
-Admin can create complementary bookings of any events that can be excluded from the normal bookings finances. Complimentary booking is something that's not part of Admin commission calculation and organizer earning payouts, these are kinds of external bookings that are sold externally/outside of the website.
+Enable complimentary bookings to issue free tickets for any event in your Eventmie Pro FullyLoaded Laravel event management platform. Complimentary bookings are excluded from normal booking finances—they do not affect admin commission calculations or organizer earnings, making them ideal for external or promotional ticket distribution.
 
 ---
 
@@ -12,16 +16,16 @@ Admin can create complementary bookings of any events that can be excluded from 
 
 ---
 
-To make complimentary bookings-
+## How to Make Complimentary Bookings (Admin)
 
 1. Login as Admin and go to Checkout.
-2. Check Complimentary Bookings checkbox.
-3. Once you check Complimentary Bookings checkbox, you can set as much ticket quantity as you want, e.g 1000.
-4. While Complimentary Bookings, all the ticket availability checks get disabled, because, Complimentary Bookings does not affect any of existing booking or available tickets stock. They're completely for external use.
-5. After making Complimentary Bookings, go to Admin Panel -> Complimentary Bookings page.
-6. Each Complimentary booking is given with a unique Bulk Code.
-7. You can download the Complimentary Bookings QrCodes in Zip by clicking Download Zip.
-8. And you can also export the Attendees CSV.
+2. Check the Complimentary Bookings checkbox.
+3. Set the desired ticket quantity (e.g. 1000 tickets).
+4. Ticket availability checks are disabled for complimentary bookings, so these tickets do not affect existing bookings or available ticket stock—they are for external use only.
+5. After making complimentary bookings, go to Admin Panel -> Complimentary Bookings page.
+6. Each complimentary booking is assigned a unique Bulk Code.
+7. Download all complimentary booking QR codes in a Zip file by clicking Download Zip.
+8. Export the attendee list as a CSV file for easy management.
 
 ---
 

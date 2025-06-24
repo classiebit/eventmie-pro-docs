@@ -1,18 +1,18 @@
 # Simple Events
 
-In Eventmie Pro, you can create a single & multiple days event. Each event belongs to an organizer. Admin & Organizers can create events from the front-end.
+In Eventmie Pro, you can easily create single-day or multi-day events. Each event is associated with an organizer, and both Admins and Organizers can create events directly from the front-end for a seamless event management experience.
+
+---
+<small>**Eventmie Pro Fullyloaded Event Page Preview**</small>
+<img src="/images/v3/EPF-Simple-Event-Preview-Image-45.webp" alt="Simple event view" title="Simple event view" class="medium-zoom-image">
 
 ---
 
-![Simple event view](/images/v2/RepetitiveEventImages/events-repetitive-event-view.webp "Simple event view")
+> {success} Repetitive events, online events, and classes will be covered in the next sections. Each feature is explained in detail to ensure clarity and ease of use.
 
 ---
 
-> {success} We'll discuss repetitive & online events and classes in the next sections. We'll focus on each option in their own section to avoid confusion.
-
----
-
-> {primary} From here, we'll be guiding you through all the features of the front-end.
+> {primary} This section will guide you through all front-end event creation features in Eventmie Pro.
 
 ---
 
@@ -29,22 +29,22 @@ In Eventmie Pro, you can create a single & multiple days event. Each event belon
 
 ## Create Simple Event
 
-Simple event here refers to single or multiple days event. Click on <larecipe-button type="primary" size="sm" rounded>Create Event</larecipe-button> to get started. 😤
+A simple event refers to a single-day or multi-day event. Click on <larecipe-button type="primary" size="sm" rounded>Create Event</larecipe-button> to get started with your event setup.
 
 <a name="Details"></a>
 
 ## Details <small class="v">v1.7</small>
 
-The first step is mandatory to proceed to the next step. Add these details to proceed to the next steps-
+The first step is required to proceed. Enter the following event details:
 
--   Select Organiser (if logged in as Admin)
+-   Select Organizer (if logged in as Admin)
 -   Category
 -   Event name
 -   Event excerpt (optional)
 -   Event URL (auto-generated)
 -   Description
--   Why to attend event? (optional)
--   Offline Payment Instructions (Instructions to show under **Offline Payment** Option) <small class="v">v1.7</small>
+-   Why attend this event? (optional)
+-   Offline Payment Instructions (displayed under **Offline Payment** option) <small class="v">v1.7</small>
 
 <br>
 
@@ -55,7 +55,7 @@ The first step is mandatory to proceed to the next step. Add these details to pr
 
 ---
 
-![Event Detail Form](/images/v2/EventmieProEventCreationFile/events-simple-event-detail-new.webp "Event Detail Form")
+![Event Detail Form](/images/v3/Simple-event-creation-process-image-32.webp "Event Detail Form")
 
 ---
 
@@ -63,7 +63,7 @@ The first step is mandatory to proceed to the next step. Add these details to pr
 
 ## Timing
 
-Set timing for single or multiple days event.
+Set the timing for your single-day or multi-day event.
 
 <br>
 
@@ -76,11 +76,11 @@ Set timing for single or multiple days event.
 
 ---
 
-![Event Timing Form](/images/v2/EventmieProEventCreationFile/events-simple-event-timings.webp "Event Timing Form")
+![Event Timing Form](/images/v3/Simple-event-timing-image-24.webp "Event Timing Form")
 
 ---
 
-> {warning} Do not check the `Add Repetitive Schedules`, we'll discuss it in its own section.
+> {warning} Do not check the `Add Repetitive Schedules` option here. This will be explained in its own section.
 
 ---
 
@@ -88,12 +88,12 @@ Set timing for single or multiple days event.
 
 ## Tickets <small class="v">v2.0</small>
 
-Create tickets for the event.
+Create tickets for your event to maximize attendance and revenue.
 
 -   Tickets can be `Free` or `Paid`.
--   Taxes can be applied to each ticket separately.
--   Multiple taxes can also be applied to each ticket.
--   Custom Ticket Order, to show the tickets on Checkout Page in your desired order/sequence.
+-   Apply taxes to each ticket individually for accurate pricing.
+-   Multiple taxes can be applied to a single ticket.
+-   Set a custom ticket order to display tickets on the Checkout Page in your preferred sequence.
 
 <br>
 
@@ -101,11 +101,11 @@ Create tickets for the event.
 
 -   Title
 -   Price (set 0 for Free ticket)
--   Capacity (max bookings each ticket)
--   Booking Limit Per Customer (For how many times the same customer can purchase this ticket) <small class="v">v1.7</small>
+-   Capacity (maximum bookings per ticket)
+-   Booking Limit Per Customer (how many times the same customer can purchase this ticket) <small class="v">v1.7</small>
 -   Description (ticket amenities info) (optional)
 -   Taxes (optional)
--   Order (set to 0 or 1 or 2 or 3, to show them in that order on checkout page) <small class="v">v2.0</small>
+-   Order (set to 0, 1, 2, 3, etc. to control display order on checkout page) <small class="v">v2.0</small>
 
     ---
 
@@ -117,7 +117,6 @@ Create tickets for the event.
 
     ---
 
-
 ---
 
 ![Events free & paid tickets with taxes](/images/v2/EventmieProEventCreationFile/events-simple-event-ticket.webp "Events free & paid tickets with taxes")
@@ -128,7 +127,7 @@ Create tickets for the event.
 
 ## Location
 
-Event location details. You need to enter `Google map Lat-long` manually to show the venue pinned on the google map on the event page.
+Add event location details to help attendees find your venue easily. Enter `Google map Lat-long` to display a pinned venue on the event page map.
 
 <br>
 
@@ -145,11 +144,11 @@ Event location details. You need to enter `Google map Lat-long` manually to show
 
 ---
 
-![Events venue & google map location](/images/v2/EventmieProEventCreationFile/events-simple-event-location.webp "Events venue & google map location")
+![Events venue & google map location](/images/v3/Simple-event-location-image-33.webp "Events venue & google map location")
 
 ---
 
-> {warning} Do not check the `Online Event`, we'll discuss it in its own section.
+> {warning} Do not check the `Online Event` option here. This will be explained in its own section.
 
 ---
 
@@ -157,7 +156,7 @@ Event location details. You need to enter `Google map Lat-long` manually to show
 
 ## Media
 
-Upload event poster, thumbnail, and images. Please upload the mentioned size of images. You can also crop and adjust them.
+Upload your event poster, thumbnail, and gallery images. Use the recommended image sizes for best results. Crop and adjust images as needed for a professional look.
 
 <br>
 
@@ -170,11 +169,11 @@ Upload event poster, thumbnail, and images. Please upload the mentioned size of 
 
 ---
 
-> {success} Now you can manage Gallery images easily by adding or removing them one-by-one.
+> {success} You can now manage gallery images easily by adding or removing them one by one.
 
 ---
 
-![Upload Event cover images & youtube video URL](/images/v2/EventmieProEventCreationFile/events-manage-gallery-images.webp "Upload Event cover images & youtube video URL")
+![Upload Event cover images & youtube video URL](/images/v3/Event-media-image-42.webp "Upload Event cover images & youtube video URL")
 
 ---
 
@@ -182,7 +181,7 @@ Upload event poster, thumbnail, and images. Please upload the mentioned size of 
 
 ## SEO
 
-Write meta titles, keywords, and descriptions. These tags will be specific for each event, for event-specific SEO.
+Optimize your event for search engines by adding meta titles, keywords, and descriptions. These tags are specific to each event and help improve event-specific SEO.
 
 **Form Fields**
 
@@ -192,7 +191,7 @@ Write meta titles, keywords, and descriptions. These tags will be specific for e
 
 ---
 
-![Event seo](/images/v2/EventmieProEventCreationFile/events-simple-event-seo.webp "Event seo")
+![Event seo](/images/v3/Event-SEO-Image-34.webp "Event seo")
 
 ---
 
@@ -200,31 +199,30 @@ Write meta titles, keywords, and descriptions. These tags will be specific for e
 
 ## Powered By
 
-Final step-
+Final step:
 
 1. Select tags (optional).
 2. Click &nbsp;<larecipe-button type="info" size="sm" rounded>Save</larecipe-button>
 3. Then click &nbsp;<larecipe-button type="success" size="sm" rounded>Publish</larecipe-button>
-4. You can `Un-publish` / `Publish` anytime.
+4. You can `Un-publish` / `Publish` your event at any time.
 
 ---
 
-> {primary} You can also create new Tags directly from Powered By Tab. We'll guide you about this in the Tags section.
+> {primary} You can also create new Tags directly from the Powered By tab. More details are available in the Tags section.
 
 ---
 
-![Event Tags & Publish](/images/v2/EventmieProEventCreationFile/events-simple-event-powered-by.webp "Event Tags & Publish")
+![Event Tags & Publish](/images/v3/Publish-event-page-image-35.webp "Event Tags & Publish")
 
 ---
 
-> {success} see the `Published` event on listing page &nbsp;<larecipe-button type="secondary" size="sm" rounded>Browse Events</larecipe-button>
+> {success} View your `Published` event on the listing page &nbsp;<larecipe-button type="secondary" size="sm" rounded>Browse Events</larecipe-button>
 
 ---
 
-> {primary} Event can be `published` only after completing - `Details`, `Timings`, `Tickets`, `Location` & `Media`.
+> {primary} An event can be `published` only after completing the following steps: `Details`, `Timings`, `Tickets`, `Location`, and `Media`.
 
 ---
-
 
 <iframe width="75%" height="500" src="https://www.youtube.com/embed/F8skElY3xAQ?si=aE2lTTinQFKusJfP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
