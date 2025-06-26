@@ -4,7 +4,7 @@ Eventmie Pro allows organizers to add and manage multiple venues, making it easy
 
 ---
 
-![4-manage-venue](/images/v3/My-venues-image-40.webp "4-manage-venue")
+![4-manage-venue](/images/v3/Manage-venues-image-7.webp "4-manage-venue")
 
 ---
 
@@ -20,7 +20,7 @@ With Google Places Autocomplete integration, you can quickly search for venues a
 
 ---
 
-![5-manage-venue-create](/images/v2/ManageVenuesImages/5-manage-venue-create.webp "5-manage-venue-create")
+![5-manage-venue-create](/images/v3/My-venues-edit-image-8.webp "5-manage-venue-create")
 
 ---
 
@@ -31,7 +31,7 @@ When setting up an event, simply select the event location from your list of sav
 
 ---
 
-![3-add-venue](/images/v3/Add-venue-in-event-image-41.webp "3-add-venue")
+![3-add-venue](/images/v3/How-to-add-venue-in-event-image-9.webp "3-add-venue")
 
 ---
 

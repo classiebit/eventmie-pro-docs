@@ -72,7 +72,7 @@ Follow these steps to add reserved seating tickets:
 
     ***
 
-    ![1-add-seating-chart](/images/v2/EventmieProFullyLoadedV2.0/10-add-seating-chart.webp "1-add-seating-chart")
+    ![1-add-seating-chart](/images/v3/Reserved-seating-system-image-23.webp "1-add-seating-chart")
 
     ***
 
@@ -166,7 +166,7 @@ Once reserved seating is set up, attendees can select and book seats interactive
 
     ***
 
-    ![19-manage-booking-view-attendee](/images/v3/My-bookings-preview-image-51.webp "19-manage-booking-view-attendee")
+    ![19-manage-booking-view-attendee](/images/v3/Organiser-My-bookings-image-24.webp "19-manage-booking-view-attendee")
 
     ***
 

@@ -4,7 +4,7 @@ Eventmie Pro makes it easy for organizers to manage their own events from the fr
 
 ---
 
-![Organizer manage events](/images/v3/My-events-image-37.webp "Organizer manage events")
+![Organizer manage events](/images/v3/Manage-events-page-image-9.webp "Organizer manage events")
 
 ---
 
@@ -41,7 +41,7 @@ Each tag is owned by an Organizer and can be associated with multiple events. Or
 
 ---
 
-![Manage Tags](/images/v3/Manage-tags-image-39.webp "Manage Tags")
+![Manage Tags](/images/v3/My-tags-preview-image-1.webp "Manage Tags")
 
 ---
 
@@ -63,7 +63,7 @@ Click <larecipe-button type="secondary" size="sm" rounded>Add Tag</larecipe-butt
 
 ---
 
-![Create tag no profile](/images/v2/ManageEventsImages/events-manage-tag-create-no-profile.webp "Create tag no profile")
+![Create tag no profile](/images/v3/My-tags-edit-preview-image-2.webp "Create tag no profile")
 
 ---
 
@@ -81,7 +81,7 @@ Click <larecipe-button type="secondary" size="sm" rounded>Add Tag</larecipe-butt
 
 ---
 
-![Create a tag with profile](/images/v2/ManageEventsImages/events-manage-tag-create-profile.webp "Create a tag with profile")
+![Create a tag with profile](/images/v3/My-tags-social-edit-preview-image-3.webp "Create a tag with profile")
 
 ---
 
@@ -97,7 +97,7 @@ Click <larecipe-button type="secondary" size="sm" rounded>Add Tag</larecipe-butt
 
 ---
 
-![Show tag no profile](/images/v3/How-to-Check-Tags-(Image-6).webp "Show tag no profile")
+![Show tag no profile](/images/v3/Live-preview-my-tags-event-image-6.webp "Show tag no profile")
 
 ---
 
@@ -113,7 +113,7 @@ Promote your event by sharing it on popular social media platforms directly from
 
 ---
 
-![Show tag profile](/images/v3/How-to-Share-Event.webp "Show tag profile")
+![Show tag profile](/images/v3/How-to-share-events-image-6.webp "Show tag profile")
 
 ---
 

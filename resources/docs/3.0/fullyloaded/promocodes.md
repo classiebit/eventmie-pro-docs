@@ -63,7 +63,7 @@ Organizers can assign promocodes to their event tickets that the Admin has creat
 
     ***
 
-    ![3-promocode-set](/images/v2/EventmieProFullyLoadedV2.0/14.3-promocode-set.webp "3-promocode-set")
+    ![3-promocode-set](/images/v3/How-to-add-promocode-image-25.webp "3-promocode-set")
 
     ***
 

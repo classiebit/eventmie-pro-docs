@@ -12,7 +12,7 @@ Create powerful fundraiser events by enabling donation tickets in your Eventmie 
 
 ---
 
-![1-set-donation-ticket](/images/v2/EventmieProFullyLoadedV2.0/29.1-set-donation-ticket.webp "1-set-donation-ticket")
+![1-set-donation-ticket](/images/v3/How-to-create-fundraiser-ticket-image-28.webp "1-set-donation-ticket")
 
 ---
 
@@ -29,7 +29,7 @@ Create powerful fundraiser events by enabling donation tickets in your Eventmie 
 
 ---
 
-![1-set-donation-ticket](/images/v2/EventmieProFullyLoadedV2.0/29.1-set-donation-ticket.webp "1-set-donation-ticket")
+![1-set-donation-ticket](/images/v3/How-to-create-fundraiser-ticket-image-28.webp "1-set-donation-ticket")
 
 ---
 

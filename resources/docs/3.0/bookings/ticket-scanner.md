@@ -12,7 +12,7 @@ The ticket scanner reads the QR code on each ticket, verifies its validity, and 
 
 ---
 
-![ticket-scanner-laptop-scan](/images/v3/How-to-scan-tickets-EP-EPF-Image-10.webp "ticket-scanner-laptop-scan")
+![ticket-scanner-laptop-scan](/images/v3/Ticket-scanned-image-19.webp "ticket-scanner-laptop-scan")
 
 ---
 
@@ -51,7 +51,7 @@ Eventmie Pro generates event tickets in PDF format, each with a unique QR code f
 
 ---
 
-![ticket-pdf](/images/v2/EventmieProImages/ticket-scan-new-ticket-design.webp "ticket-pdf")
+![ticket-pdf](/images/v3/Ticket-scanner-image-17.webp "ticket-pdf")
 
 ---
 
@@ -101,7 +101,7 @@ To scan a ticket:
 
 ---
 
-![ticket-scanner-laptop](/images/v3/How-to-scan-tickets-image-1.webp "ticket-scanner-laptop")
+![ticket-scanner-laptop](/images/v3/Ticket-scanned-successfully-image-18.webp "ticket-scanner-laptop")
 
 ---
 

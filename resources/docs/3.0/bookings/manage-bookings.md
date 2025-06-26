@@ -57,7 +57,7 @@ Organizers can manage all their event bookings on the `Manage Bookings` page. To
 
 ---
 
-![manage-bookings-organizer](/images/v3/How-Organiser-Can-See-Their-Bookings-(Image-7).webp "manage-bookings-organizer")
+![manage-bookings-organizer](/images/v3/Organiser-my-bookings-section-image-13.webp "manage-bookings-organizer")
 
 ---
 
@@ -76,7 +76,7 @@ Organizers can track all event earnings on the `Manage Earnings` page. To access
 
 ---
 
-![manage-bookings-organizer-earnings](/images/v3/How-to-Check-Organiser-Earnings-(Image-8).webp "manage-bookings-organizer-earnings")
+![manage-bookings-organizer-earnings](/images/v3/Organiser-earnings-preview-image-15.webp "manage-bookings-organizer-earnings")
 
 ---
 
@@ -87,7 +87,7 @@ The Organizer Dashboard provides a quick overview of all event activities, helpi
 
 ---
 
-![organizer-dashboard-front-end](/images/v3/How-to-check-organiser-dashboard-(Image-9).webp "organizer-dashboard-front-end")
+![organizer-dashboard-front-end](/images/v3/Organiser-dashboard-image-14.png "organizer-dashboard-front-end")
 
 ---
 
@@ -98,7 +98,7 @@ Customers can add events to their Google Calendar directly from the **My Booking
 
 ---
 
-![google-calendar](/images/v3/Google-calender-(Image-10).webp "google-calendar")
+![google-calendar](/images/v3/Organiser-select-image-16.webp "google-calendar")
 
 <iframe width="75%" height="500" src="https://www.youtube.com/embed/y0fwpk6t0r0?si=QfjRdgfKeSO3ktVF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

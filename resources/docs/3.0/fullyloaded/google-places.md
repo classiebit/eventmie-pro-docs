@@ -16,11 +16,11 @@ Organizers can search for event venues or places while creating an event, elimin
 
 ---
 
-![google-map-places-autocomplete](/images/v3/google-place-autocomplate-image-2.webp "google-map-places-autocomplete")
+![google-map-places-autocomplete](/images/v3/EPF-Add-Venue-Image-21.webp "google-map-places-autocomplete")
 
 ---
 
-![google-map-directions](/images/v2/EventmieProFullyLoadedV2.0/google-map-directions.webp "google-map-directions")
+![google-map-directions](/images/v3/Google-place-event-image-22.webp "google-map-directions")
 
 ---
 

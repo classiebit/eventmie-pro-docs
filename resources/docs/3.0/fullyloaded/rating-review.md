@@ -12,7 +12,7 @@ Let attendees add ratings and reviews to your events in Eventmie Pro FullyLoaded
 
 ---
 
-![4-show-review](/images/v3/Rating-&-Review-Image-1.webp "4-show-review")
+![4-show-review](/images/v3/Event-rating-reviews-image-29.webp "4-show-review")
 
 ---
 
@@ -66,6 +66,6 @@ By default, ratings and reviews added by customers remain unpublished. The organ
 
 ---
 
-![4-show-review](/images/v3/Rating-&-Review-Image-1.webp "4-show-review")
+![4-show-review](/images/v3/Event-rating-reviews-image-29.webp "4-show-review")
 
 ---

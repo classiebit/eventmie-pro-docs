@@ -20,11 +20,11 @@ Attendee names and details are displayed on the Ticket PDF, along with assigned 
 
 ---
 
-![1-ticket-pdf-attendee-names](/images/v2/EventmieProFullyLoadedV2.0/1-ticket-pdf-attendee-names.webp "1-ticket-pdf-attendee-names")
+![1-ticket-pdf-attendee-names](/images/v3/Event-ticket-image-26.webp "1-ticket-pdf-attendee-names")
 
 ---
 
-![2-ticket-pdf-attendee-names](/images/v2/EventmieProFullyLoadedV2.0/1-ticket-pdf-attendee-names.webp "2-ticket-pdf-attendee-names")
+![2-ticket-pdf-attendee-names](/images/v3/Event-ticket-image-27.webp "2-ticket-pdf-attendee-names")
 
 ---
 
@@ -32,7 +32,7 @@ During ticket scanning, tickets can be scanned multiple times—attendee-wise—
 
 ---
 
-![1-select-attendee-scanning](/images/fullyloaded/1-select-attendee-scanning.webp "1-select-attendee-scanning")
+![1-select-attendee-scanning](/images/v3/Ticket-scanned-successfully-image28.webp "1-select-attendee-scanning")
 
 ---
 
@@ -40,6 +40,6 @@ On the Bookings page, organizers can easily monitor check-in status for each att
 
 ---
 
-![1-scan-attendeewise](/images/v3/Organiser-bookings-page-image-19.webp "1-scan-attendeewise")
+![1-scan-attendeewise](/images/v3/Organiser-check-checkin-status-image-30.webp "1-scan-attendeewise")
 
 ---

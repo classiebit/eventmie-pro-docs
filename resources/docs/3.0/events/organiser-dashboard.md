@@ -4,7 +4,7 @@ The Eventmie Pro Organiser Dashboard provides a comprehensive, real-time overvie
 
 ---
 
-![Organiser Dashboard](/images/v3/Organiser-dashboard-image-42.webp "Organiser Dashboard")
+![Organiser Dashboard](/images/v3/Event-organiser-dashboard-image-10.webp "Organiser Dashboard")
 
 ---
 # Eventmie Pro Fullyloaded Organiser Dashboard
@@ -13,8 +13,8 @@ The Eventmie Pro Fullyloaded Organiser Dashboard provides a comprehensive, real-
 
 ---
 
-![Organiser Dashboard](/images/v3/EPF-organiser-Dashboard-image-6.webp "Organiser Dashboard")
+![Organiser Dashboard](/images/v3/Event-organiser-dashboard-image-EPF-11.webp "Organiser Dashboard")
 
-![Organiser Dashboard](/images/v3/EPF-Organiser-Dashboard-Image-7.webp "Organiser Dashboard")
+![Organiser Dashboard](/images/v3/Event-organiser-statistics-image-12.webp "Organiser Dashboard")
 
 ---

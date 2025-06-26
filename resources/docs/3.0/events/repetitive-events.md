@@ -98,7 +98,7 @@ Create events that repeat every `day` within your selected date range.
 
 ---
 
-![Daily Repetitive Schedules](/images/v2/RepetitiveEventImages/events-repetitive-daily.webp "Daily Repetitive Schedules")
+![Daily Repetitive Schedules](/images/v3/Repetitive-events-preview-image-2.webp "Daily Repetitive Schedules")
 
 ---
 
@@ -106,7 +106,7 @@ Create events that repeat every `day` within your selected date range.
 
 ---
 
-![Daily Repetitive Schedules View](/images/v2/RepetitiveEventImages/events-repetitive-daily-view.webp "Daily Repetitive Schedules View")
+![Daily Repetitive Schedules View](/images/v3/Repetitive-Events-Get-tickets-Image-3.webp "Daily Repetitive Schedules View")
 
 ---
 
@@ -130,7 +130,7 @@ Create events that repeat every `week` within your selected date range.
 
 ---
 
-![Weekly Repetitive Schedules](/images/v2/RepetitiveEventImages/Repetative-Event-Weekly-Basis.webp "Weekly Repetitive Schedules")
+![Weekly Repetitive Schedules](/images/v3/Weekly-repetitive-events-image4.webp "Weekly Repetitive Schedules")
 
 ---
 
@@ -138,7 +138,7 @@ Create events that repeat every `week` within your selected date range.
 
 ---
 
-![Weekly Repetitive Schedules View](/images/v2/RepetitiveEventImages/RepetitiveEventWeeklyPreview.webp "Weekly Repetitive Schedules View")
+![Weekly Repetitive Schedules View](/images/v3/Weekly-repetitive-events-preview-image-5.webp "Weekly Repetitive Schedules View")
 
 ---
 
@@ -162,7 +162,7 @@ Create events that repeat every `month` within your selected date range.
 
 ---
 
-![Monthly Repetitive Schedules](/images/v2/RepetitiveEventImages/Monthly-Repetitive-Schedule-Image.webp "Monthly Repetitive Schedules")
+![Monthly Repetitive Schedules](/images/v3/Monthly-repetitive-events-preview-image-6.webp "Monthly Repetitive Schedules")
 
 ---
 
@@ -170,7 +170,7 @@ Create events that repeat every `month` within your selected date range.
 
 ---
 
-![Monthly Repetitive Schedules View](/images/v2/RepetitiveEventImages/Monthly-Repetitive-Schedule-Preview.webp "Monthly Repetitive Schedules View")
+![Monthly Repetitive Schedules View](/images/v3/Monthly-repetitive-events-image-7.webp "Monthly Repetitive Schedules View")
 
 ---
 

@@ -11,29 +11,62 @@ Eventmie Pro introduces a powerful AI Event Creation feature to help organizers 
 #### Overview
 The AI Event Creation feature allows you to quickly set up events by simply describing them in plain language. For example, you can type: 
 
-> "Create a music concert in Mumbai on 20th August with VIP and General tickets."
+---
 
+> {primary} **Prompt:** "I want to organise an event for old age peoples about how to look fit in old age. We only allowed 50+ age peoples in this event. This event will happen on 30th June 2025."
+
+---
+
+<a name="how-it-works"></a>
+
+## How It Works
+
+**First:** In organiser dashboard, Go to events section, click create event & Then navigate to <larecipe-button type="primary" size="sm" rounded>Create With AI</larecipe-button> to create event with AI.
+
+![Eventmie Pro Platform](/images/v3/AI-event-creation-image-1.webp "Eventmie Pro Platform")
+
+**Second:** A popup will open, Now enter your event prompt here.
+
+![Eventmie Pro Platform](/images/v3/Ai-event-creation-image-2.webp "Eventmie Pro Platform")
+
+**Third:** You can see it has generated Event Name, Event URL, Excerpt, Description, Why to Attend, etc Content in just minutes.
+
+![Eventmie Pro Platform](/images/v3/AI-event-creation-image-3.webp "Eventmie Pro Platform")
+
+**Fourth:** Now you have to fill other details like: Event Timings, tickets, location, media, SEO boost & then publish the event.
+
+![Eventmie Pro Platform](/images/v3/AI-event-creation-image-4.webp "Eventmie Pro Platform")
+
+**Fifth:** Congratulations! Your event is live now.
+
+![Eventmie Pro Platform](/images/v3/AI-Event-creation-image-5.webp "Eventmie Pro Platform")
+
+---
+
+<a name="it-is-for-whom"></a>
+
+## It is for Whom
 The AI will generate the event details for you, making it perfect for:
 - First-time organizers
 - Small events (meetups, classes, local shows, community events)
 - Quick event listings with simple ticketing
 
-#### Key Benefits
+<a name="key-benefits"></a>
+
+## Key Benefits
 - **Quick and easy setup:** Just type a prompt like "Create a 3‑day virtual marketing summit with breakout sessions and networking slots." The AI handles schedules, venues, ticket types, pricing, and session tracks.
 - **Faster time-to-market:** Reduce manual setup and launch events faster, so you can focus on promotion and engagement.
 - **Industry-standard defaults:** AI presets include tiered ticketing (Early Bird, General, VIP), secure payment gateway links, and attendee capacity planning.
 
-#### How it Works
-1. **Prompt input:** Enter a concise event brief.
-2. **AI-generated draft:** The assistant auto-populates title, description, agenda, venue, ticket tiers, and dates.
-3. **Quick review & tweak:** Adjust any field in the familiar Eventmie UI.
-4. **Launch:** Publish instantly or schedule for later.
+<a name="use-cases"></a>
 
-#### Use Cases
+## Use Cases
 - Small-scale meetups, charity fundraisers, or community events needing fast setup
 - First-time users exploring event automation
 
-#### Status
+<a name="status"></a>
+
+## Status
 - **Beta feature** included in Eventmie Pro v3.0. Ideal for organizers seeking efficient, guided event setup without advanced configurations.
 
 ---
@@ -45,31 +78,70 @@ The AI will generate the event details for you, making it perfect for:
 #### Overview
 The advanced AI assistant in Eventmie Pro FullyLoaded is designed for professional organizers who need to plan detailed, large-scale events. Whether it's a multi-day conference, online event, or trade fair, the AI understands your requirements and builds a comprehensive event structure.
 
-For example, you can prompt:
-> "Plan a 3-day hybrid tech summit in Delhi with workshops, speakers, and live streaming."
+---
 
-#### Ideal For
+> {primary} **Prompt:** "Plan a 3-day hybrid tech summit in Delhi with workshops, speakers, and live streaming. We only allowed 20+ age peoples in this event. This event will happen on 10th July 2025"
+
+---
+
+<a name="how-it-works"></a>
+
+## How It Works
+
+**First:** In organiser dashboard, Go to events section, click create event & Then navigate to <larecipe-button type="primary" size="sm" rounded>Create With AI</larecipe-button> to create event with AI.
+
+![Eventmie Pro Fullyloaded Platform](/images/v3/EPF-AI-Event-Creation-Image-1.webp "Eventmie Pro Fullyloaded Platform")
+
+**Second:** A popup will open, Now enter your event prompt here.
+
+![Eventmie Pro Fullyloaded Platform](/images/v3/EPF-AI-Event-Creation-Image-2.webp "Eventmie Pro Fullyloaded Platform")
+
+**Third:** You can see it has generated Event Name, Event URL, Excerpt, Description, Why to Attend, etc Content in just minutes.
+
+![Eventmie Pro Fullyloaded Platform](/images/v3/EPF-AI-Event-Creation-Image-3.webp "Eventmie Pro Fullyloaded Platform")
+
+**Fourth:** Now you have to fill other details like: Event Timings, tickets, location, media, SEO boost & then publish the event.
+
+![Eventmie Pro Fullyloaded Platform](/images/v3/EPF-AI-Event-Creation-Image-4.webp "Eventmie Pro Fullyloaded Platform")
+
+**Fifth:** Congratulations! Your event is live now.
+
+![Eventmie Pro Fullyloaded Platform](/images/v3/EPF-AI-Event-Creation-Image-5.webp "Eventmie Pro Fullyloaded Platform")
+
+---
+
+<a name="ideal-for"></a>
+
+## Ideal For
 - Event agencies
 - Exhibition planners
 - Corporate and educational events
 - High-volume organizers
 
-#### Pro-Level Features
+<a name="pro-level-features"></a>
+
+## Pro-Level Features
 - **Context-aware customization:** Specify details like "venue with capacity 500, breakout rooms, hybrid streaming, catering," and the AI creates complex session maps, seating charts, venue layouts, registration flows, and sponsor options.
 - **Ticketing intelligence:** AI suggests dynamic ticket types (Group, Early Bird, VIP + Add‑ons), pricing strategies, discount codes, and waitlist logic.
 - **Integrated marketing & analytics:** Automatically generates event meta tags, SEO-friendly descriptions, revenue projections, and suggests promotional plans for email and social platforms.
 
-#### Workflow
+<a name="workflow"></a>
+
+## Workflow
 1. **Prompt with context:** e.g., "Plan a 2‑day hybrid tech expo with keynote, workshops, virtual booths, networking."
 2. **AI blueprint output:** Get agenda, sessions, ticket scopes, streaming setup, floor layout, sponsor tiers, and capacity thresholds.
 3. **Deep customization:** Use FullyLoaded's advanced UI to tailor sponsorship, seating plans, livestream endpoints, and access codes.
 4. **Publish & monitor:** Launch with confidence and track registrations, venue occupancy, ticket sales, and virtual engagement via the dashboard.
 
-#### Ideal For
+<a name="suitable-for"></a>
+
+## Suitable For
 - High-scale, multi-track conferences, corporate events, educational symposiums
 - Agencies and enterprises needing faster event iteration, revenue optimization, and deep usability
 
-#### Availability
+<a name="availability"></a>
+
+## Availability
 - Introduced in Eventmie Pro FullyLoaded v3.0. This is a premium, advanced AI-powered event creation workflow for professionals seeking total control and automation.
 
 ---

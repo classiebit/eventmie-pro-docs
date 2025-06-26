@@ -12,7 +12,7 @@ Boost ticket sales and create urgency with the On Sale Timer feature in Eventmie
 
 ---
 
-![1-add-sale-price](/images/v2/EventmieProFullyLoadedV2.0/25.1-add-sale-price.webp "1-add-sale-price")
+![1-add-sale-price](/images/v3/Ticket-sale-timer-image-26.webp "1-add-sale-price")
 
 ---
 
@@ -33,7 +33,7 @@ You can put any ticket on sale using these steps, creating multiple limited time
 
 ---
 
-![1-add-sale-price](/images/v2/EventmieProFullyLoadedV2.0/25.1-add-sale-price.webp "1-add-sale-price")
+![1-add-sale-price](/images/v3/How-to-set-ticket-on-sale-image-27.webp "1-add-sale-price")
 
 ---
 

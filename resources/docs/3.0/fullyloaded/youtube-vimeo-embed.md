@@ -29,7 +29,8 @@ You can enter both YouTube and Vimeo embed codes at the same time, or just one, 
 
 ---
 
-![bookings-youtube-vimeo-button](/images/v2/EventmieProFullyLoadedV2.0/7.bookings-youtube-vimeo-button.webp "bookings-youtube-vimeo-button")
+![bookings-youtube-vimeo-button](/
+images/v3/EPF-Customer-My-Bookings-Image-20.webp "bookings-youtube-vimeo-button")
 
 ---
 

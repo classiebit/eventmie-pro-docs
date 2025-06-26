@@ -50,7 +50,7 @@ After completing the initial event creation steps, go to the `Location` tab and 
 
     ---
 
-    ![Customer bookings page](/images/v2/onlineEvent/events-online-customer-bookings.webp "Customer bookings page")
+    ![Customer bookings page](/images/v3/Customer-my-bookings-page-image-8.webp "Customer bookings page")
 
     ---
 

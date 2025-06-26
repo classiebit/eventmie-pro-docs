@@ -4,7 +4,7 @@ In Eventmie Pro, you can easily create single-day or multi-day events. Each even
 
 ---
 <small>**Eventmie Pro Fullyloaded Event Page Preview**</small>
-<img src="/images/v3/EPF-Simple-Event-Preview-Image-45.webp" alt="Simple event view" title="Simple event view" class="medium-zoom-image">
+<img src="/images/v3/Screenshot 2025-06-24 at 4.14.49 PM.webp" alt="Simple event view" title="Simple event view" class="medium-zoom-image">
 
 ---
 
