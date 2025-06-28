@@ -12,7 +12,7 @@ Easily duplicate existing events to speed up new event creation in your Eventmie
 
 ---
 
-![clone-event](/images/v3/Clone-event-feature-image-20.webp "clone-event")
+![clone-event](/images/v3/Clone-event-image-35.webp "clone-event")
 
 ---
 

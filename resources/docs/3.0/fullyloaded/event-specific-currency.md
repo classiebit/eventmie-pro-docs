@@ -13,6 +13,6 @@ Easily set a different currency for each event in Eventmie Pro FullyLoaded. This
 
 ---
 
-![event-specific-currency](/images/v3/Event-specific-currency-image-21.webp "event-specific-currency")
+![event-specific-currency](/images/v3/Event-specific-currency-image-38.webp "event-specific-currency")
 
 ---

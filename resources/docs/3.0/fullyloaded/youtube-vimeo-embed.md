@@ -16,7 +16,7 @@ You can enter YouTube or Vimeo private or public video embed codes while setting
 
 ---
 
-![youtube-vimeo-setup](/images/v2/EventmieProFullyLoadedV2.0/youtube-vimeo-setup.webp "youtube-vimeo-setup")
+![youtube-vimeo-setup](/images/v3/Youtube-vimeo-embed-image-17.webp "youtube-vimeo-setup")
 
 ---
 
@@ -52,7 +52,7 @@ You can also add multiple YouTube videos as event promos or trailers to showcase
 
     ***
 
-    ![1-add-more-youtube-video](/images/v2/EventmieProFullyLoadedV2.0/8.1-add-more-youtube-video.webp "1-add-more-youtube-video")
+    ![1-add-more-youtube-video](/images/v3/Embed-youtube-video-image-18.webp "1-add-more-youtube-video")
 
     ***
 

@@ -12,7 +12,7 @@ Create private, invite-only events with or without password protection in your E
 
 ---
 
-![4-access-private-event](/images/v2/EventmieProFullyLoadedV2.0/17.4-access-private-event.webp "4-access-private-event")
+![4-access-private-event](/images/v3/Private-events-EPF-image-22.webp "4-access-private-event")
 
 ---
 
@@ -32,7 +32,7 @@ Both Admin and Organizer can set an event as private.
 
     ***
 
-    ![1-set-private-event](/images/v2/EventmieProFullyLoadedV2.0/15.1-set-private-event.webp "1-set-private-event")
+    ![1-set-private-event](/images/v3/How-to-make-private-event-image-24.webp "1-set-private-event")
 
     ***
 
@@ -40,7 +40,7 @@ Both Admin and Organizer can set an event as private.
 
     ***
 
-    ![3-private-event-lock](/images/v2/EventmieProFullyLoadedV2.0/17.3-private-event-lock.webp "3-private-event-lock")
+    ![3-private-event-lock](/images/v3/How-to-make-private-event-image-24.webp "3-private-event-lock")
 
     ***
 
@@ -58,7 +58,7 @@ To access a private event, use the unique Event URL. If the event is password pr
 
 ---
 
-![4-access-private-event](/images/v2/EventmieProFullyLoadedV2.0/17.4-access-private-event.webp "4-access-private-event")
+![4-access-private-event](/images/v3/Private-event-preview-image-23.webp "4-access-private-event")
 
 ---
 

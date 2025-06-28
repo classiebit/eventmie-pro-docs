@@ -13,6 +13,6 @@ Generate short, easy-to-share event URLs in Eventmie Pro FullyLoaded. Short link
 
 ---
 
-![event-short-url](/images/v3/Event-short-url-image-22.webp "event-short-url")
+![event-short-url](/images/v3/Event-short-URL-image-39.webp "event-short-url")
 
 ---

@@ -55,7 +55,7 @@ The first step is required to proceed. Enter the following event details:
 
 ---
 
-![Event Detail Form](/images/v3/Simple-event-creation-process-image-32.webp "Event Detail Form")
+![Event Detail Form](/images/v3/How-to-edit-event-in-EP-Image-1.webp "Event Detail Form")
 
 ---
 
@@ -76,7 +76,7 @@ Set the timing for your single-day or multi-day event.
 
 ---
 
-![Event Timing Form](/images/v3/Simple-event-timing-image-24.webp "Event Timing Form")
+![Event Timing Form](/images/v3/How-to-edit-timing-in-EP-image-2.webp "Event Timing Form")
 
 ---
 
@@ -109,17 +109,17 @@ Create tickets for your event to maximize attendance and revenue.
 
     ---
 
-    ![Set custom Ticket order](/images/v2/1-ticket-order.webp "Set custom Ticket order")
+    ![Set custom Ticket order](/images/v3/How-to-edit-ticket-in-EP-image-3.webp "Set custom Ticket order")
 
     ---
 
-    ![Show tickets on checkout page in custom order](/images/v2/2-ticket-order.webp "Show tickets on checkout page in custom order")
+    ![Show tickets on checkout page in custom order](/images/v3/Preview-of-tickets-in-EP-images-4.webp "Show tickets on checkout page in custom order")
 
     ---
 
 ---
 
-![Events free & paid tickets with taxes](/images/v2/EventmieProEventCreationFile/events-simple-event-ticket.webp "Events free & paid tickets with taxes")
+![Events free & paid tickets with taxes](/images/v3/Edit-particular-ticket-in-EP-image-5.webp "Events free & paid tickets with taxes")
 
 ---
 
@@ -144,7 +144,7 @@ Add event location details to help attendees find your venue easily. Enter `Goog
 
 ---
 
-![Events venue & google map location](/images/v3/Simple-event-location-image-33.webp "Events venue & google map location")
+![Events venue & google map location](/images/v3/How-to-edit-location-in-EP-image-6.webp "Events venue & google map location")
 
 ---
 
@@ -173,7 +173,7 @@ Upload your event poster, thumbnail, and gallery images. Use the recommended ima
 
 ---
 
-![Upload Event cover images & youtube video URL](/images/v3/Event-media-image-42.webp "Upload Event cover images & youtube video URL")
+![Upload Event cover images & youtube video URL](/images/v3/How-to-edit-media-in-EP-image-7.webp "Upload Event cover images & youtube video URL")
 
 ---
 
@@ -191,7 +191,7 @@ Optimize your event for search engines by adding meta titles, keywords, and desc
 
 ---
 
-![Event seo](/images/v3/Event-SEO-Image-34.webp "Event seo")
+![Event seo](/images/v3/How-to-edit-SEO-in-EP-images-8.webp "Event seo")
 
 ---
 
@@ -212,7 +212,7 @@ Final step:
 
 ---
 
-![Event Tags & Publish](/images/v3/Publish-event-page-image-35.webp "Event Tags & Publish")
+![Event Tags & Publish](/images/v3/How-to-publish-event-in-EP-image-9.webp "Event Tags & Publish")
 
 ---
 

@@ -13,7 +13,7 @@ Organizers can easily create and manage separate guestlists for every event in E
 
 ---
 
-![3-create-guest](/images/v3/Guest-list-form-image-23.webp "3-create-guest")
+![3-create-guest](/images/v3/Guestlist-image-40.webp "3-create-guest")
 
 ---
 
@@ -31,7 +31,7 @@ Follow these steps to create a guestlist:
 
     ***
 
-    ![1-manage-guestlist](/images/v3/Click-create-guest-list-image-23.webp "1-manage-guestlist")
+    ![1-manage-guestlist](/images/v3/Click-create-guestlist-image-41.webp "1-manage-guestlist")
 
     ***
 
@@ -39,7 +39,7 @@ Follow these steps to create a guestlist:
 
     ***
 
-    ![2-create-guestlist](/images/v3/Enter-guest-list-name-image-24.webp "2-create-guestlist")
+    ![2-create-guestlist](/images/v3/Guestlist-image-40.webp "2-create-guestlist")
 
     ***
 
@@ -66,7 +66,7 @@ You can also add event attendees' emails to a guestlist you've created.
 
     ***
 
-    ![4-manage-events-guestlist](/images/v3/Add-event-guest-list-image-26.webp "4-manage-events-guestlist")
+    ![4-manage-events-guestlist](/images/v3/Add-to-guestlist-image-42.webp "4-manage-events-guestlist")
 
     ***
 
@@ -74,6 +74,6 @@ You can also add event attendees' emails to a guestlist you've created.
 
     ***
 
-    ![5-add-event-attendees-to-guestlist](/images/v3/Enter-guest-list-name-image-27.webp "5-add-event-attendees-to-guestlist")
+    ![5-add-event-attendees-to-guestlist](/images/v3/Add-to-guestlist-image-43.webp "5-add-event-attendees-to-guestlist")
 
     ***

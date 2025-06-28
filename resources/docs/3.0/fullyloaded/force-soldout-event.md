@@ -21,10 +21,10 @@ Admins and Organizers can also set a specific ticket as sold out from the Event 
 
 ---
 
-![1-event-sold-out](/images/v3/Event-sold-out-image-28.webp "1-event-sold-out")
+![1-event-sold-out](/images/v3/Event-force-soldout-image-45.webp "1-event-sold-out")
 
 ---
 
-![2-ticket-sold-out](/images/v3/Ticket-force-soldout-image-29.webp "2-ticket-sold-out")
+![2-ticket-sold-out](/images/v3/Ticket-force-soldout-image-46.webp "2-ticket-sold-out")
 
 ---

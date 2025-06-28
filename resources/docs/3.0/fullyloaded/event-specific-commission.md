@@ -19,6 +19,6 @@ Admins can set the commission to 0 to make an event commission-free. If the `Eve
 
 ---
 
-![event-specific-admin-commission](/images/v3/Event-specific-commission-image-6.webp "event-specific-admin-commission")
+![event-specific-admin-commission](/images/v3/Event-specific-admin-fe-image-37.webp "event-specific-admin-commission")
 
 ---

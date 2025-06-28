@@ -4,6 +4,7 @@
     - [1.3 Configuration](/{{route}}/{{version}}/configuration)
     - [1.4 Update <small class="v">v3.0</small>](/{{route}}/{{version}}/update)
     - [1.5 What's New <small class="v">v3.0</small>](/{{route}}/{{version}}/changelog/changes)
+    <!-- - [1.6 Codecanyon <small class="v">v2.0</small>](/{{route}}/{{version}}/eventmie-pro-content-codecanyon) -->
 
 
 - ## 2. Admin Panel

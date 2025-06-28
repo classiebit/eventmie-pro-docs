@@ -16,7 +16,7 @@ The Manager role has more privileges than POS and Scanner. Managers can perform 
 
 ---
 
-![3-create-suborganizer](/images/v2/EventmieProFullyLoadedV2.0/21.3-create-suborganizer.webp "3-create-suborganizer")
+![3-create-suborganizer](/images/v3/Pos-scanner-manager-image-25.webp "3-create-suborganizer")
 
 ---
 
@@ -43,7 +43,7 @@ The Manager role has more privileges than POS and Scanner. Managers can perform 
 
     ***
 
-    ![2-admin-create-suborganizer](/images/v2/EventmieProFullyLoadedV2.0/21.3-create-suborganizer.webp "2-admin-create-suborganizer")
+    ![2-admin-create-suborganizer](/images/v3/Add-sub-organiser-image-26.webp "2-admin-create-suborganizer")
 
     ***
 
@@ -51,7 +51,7 @@ The Manager role has more privileges than POS and Scanner. Managers can perform 
 
     ***
 
-    ![3-create-suborganizer](/images/v2/EventmieProFullyLoadedV2.0/21.3-create-suborganizer.webp "3-create-suborganizer")
+    ![3-create-suborganizer](/images/v3/Pos-scanner-manager-image-25.webp "3-create-suborganizer")
 
     ***
 
@@ -68,7 +68,7 @@ The Manager role has more privileges than POS and Scanner. Managers can perform 
 
     ***
 
-    ![4-organizer-manager-events](/images/v2/EventmieProFullyLoadedV2.0/8-assign-suborganizer.webp "4-organizer-manager-events")
+    ![4-organizer-manager-events](/images/v3/Add-sub-organiser-image-27.webp "4-organizer-manager-events")
 
     ***
 
@@ -76,7 +76,7 @@ The Manager role has more privileges than POS and Scanner. Managers can perform 
 
     ***
 
-    ![10-manage-suborganizers](/images/v2/EventmieProFullyLoadedV2.0/10-manage-suborganizers.webp "10-manage-suborganizers")
+    ![10-manage-suborganizers](/images/v3/Create-sub-organiser-dashboard-image-28.webp "10-manage-suborganizers")
 
     ***
 
@@ -88,7 +88,7 @@ POS users can make bookings and sell tickets on behalf of the Organizer at the e
 
 ---
 
-![5-pos](/images/v2/EventmieProFullyLoadedV2.0/23.5-pos.webp "5-pos")
+![5-pos](/images/v3/Sub-organiser-details-image-29.webp "5-pos")
 
 ---
 
@@ -99,7 +99,7 @@ POS users can make bookings and sell tickets on behalf of the Organizer at the e
 
     ***
 
-    ![8-assign-suborganizer](/images/v2/EventmieProFullyLoadedV2.0/8-assign-suborganizer.webp "8-assign-suborganizer")
+    ![8-assign-suborganizer](/images/v3/Add-sub-organiser-image-27.webp "8-assign-suborganizer")
 
     ***
 
@@ -107,7 +107,7 @@ POS users can make bookings and sell tickets on behalf of the Organizer at the e
 
     ***
 
-    ![9-assign-suborganizer](/images/v2/EventmieProFullyLoadedV2.0/18.3-create-suborganizer.webp "9-assign-suborganizer")
+    ![9-assign-suborganizer](/images/v3/Add-sub-organiser-image-26.webp "9-assign-suborganizer")
 
     ***
 
@@ -122,7 +122,7 @@ You can assign multiple POS users to each event. POS can only book tickets for e
 
     ***
 
-    ![12-pos-make-booking](/images/v2/EventmieProFullyLoadedV2.0/12-pos-make-booking.webp "12-pos-make-booking")
+    ![12-pos-make-booking](/images/v3/POS-booking-ticket-image-31.webp "12-pos-make-booking")
 
     ***
 
@@ -130,7 +130,7 @@ You can assign multiple POS users to each event. POS can only book tickets for e
 
     ***
 
-    ![13-pos-manage-bookings](/images/v2/EventmieProFullyLoadedV2.0/13-pos-manage-bookings.webp "13-pos-manage-bookings")
+    ![13-pos-manage-bookings](/images/v3/Pos-bookings-image-30.webp "13-pos-manage-bookings")
 
     ***
 
@@ -138,7 +138,7 @@ You can assign multiple POS users to each event. POS can only book tickets for e
 
     ***
 
-    ![14-pos-update-booking](/images/v2/EventmieProFullyLoadedV2.0/14-pos-update-booking.webp "14-pos-update-booking")
+    ![14-pos-update-booking](/images/v3/POS-booking-status-image-31.webp "14-pos-update-booking")
 
     ***
 
@@ -170,7 +170,7 @@ You can assign multiple Scanners to each event. Scanners can only scan tickets f
 
 ---
 
-![15-scanner-view-booknigs](/images/v2/EventmieProFullyLoadedV2.0/15-scanner-view-booknigs.webp "15-scanner-view-booknigs")
+![15-scanner-view-booknigs](/images/v3/Scanner-bookings-image-32.webp "15-scanner-view-booknigs")
 
 ---
 
@@ -192,6 +192,6 @@ Managers can log in with their email and password and manage everything for the 
 
 ---
 
-![16-manager-manage-everything](/images/v2/EventmieProFullyLoadedV2.0/16-manager-manage-everythings.webp "16-manager-manage-everything")
+![16-manager-manage-everything](/images/v3/POS-manager-events-image-34.webp "16-manager-manage-everything")
 
 ---

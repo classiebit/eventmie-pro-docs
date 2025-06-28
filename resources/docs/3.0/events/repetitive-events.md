@@ -182,7 +182,7 @@ To skip a month in your schedule, simply leave the specific **Schedule** input b
 
 ---
 
-![Skip Repetitive Schedules](/images/v2/RepetitiveEventImages/SkipScheduleImage.webp "Skip Repetitive Schedules")
+![Skip Repetitive Schedules](/images/v3/How-to-skip-schedule-image-10.webp "Skip Repetitive Schedules")
 
 ---
 
@@ -190,7 +190,7 @@ To skip a month in your schedule, simply leave the specific **Schedule** input b
 
 ---
 
-![Skip Repetitive Schedules View](/images/v2/RepetitiveEventImages/SkipSchedulePreviewImage.webp "Skip Repetitive Schedules View")
+![Skip Repetitive Schedules View](/images/v3/How-it-appears-in-event-image-11.webp "Skip Repetitive Schedules View")
 
 ---
 
@@ -225,7 +225,7 @@ To enable this, check the `Seasonal Ticket` box (e.g., for `Repetitive Type: Mon
 
 ---
 
-![Monthly Repetitive Schedules Monthly Payment](/images/v2/RepetitiveEventImages/Monthly-Repetitive-Schedule-Image.webp "Monthly Repetitive Schedules  Monthly Payment")
+![Monthly Repetitive Schedules Monthly Payment](/images/v3/Repetitive-event-monthly-image-12.webp "Monthly Repetitive Schedules  Monthly Payment")
 
 ---
 
@@ -233,7 +233,7 @@ To enable this, check the `Seasonal Ticket` box (e.g., for `Repetitive Type: Mon
 
 ---
 
-![Monthly Repetitive Schedules  Monthly Payment View](/images/v2/RepetitiveEventImages/Monthly-Repetitive-Schedule-Preview.webp "Monthly Repetitive Schedules  Monthly Payment View")
+![Monthly Repetitive Schedules  Monthly Payment View](/images/v3/Repetitive-events-preview-image-13.webp "Monthly Repetitive Schedules  Monthly Payment View")
 
 ---
 
@@ -247,7 +247,7 @@ Easily check available timeslots for recurring event schedules. See if a timeslo
 
 ---
 
-![Live Timeslots Availability Check](/images/v2/RepetitiveEventImages/repetitive-events-availability.webp "Live Timeslots Availability Check")
+![Live Timeslots Availability Check](/images/v3/Timeslots-availability-image-14.webp "Live Timeslots Availability Check")
 
 ---
 
@@ -257,7 +257,7 @@ This ensures only limited ticket availability is displayed, protecting your inve
 
 ---
 
-![Live Timeslots Availability Vacant Seats Per Ticket](/images/v2/RepetitiveEventImages/repetitive-events-vacant.webp "Live Timeslots Availability Vacant Seats Per Ticket")
+![Live Timeslots Availability Vacant Seats Per Ticket](/images/v3/Checkout-popup-in-EP-image-15.webp "Live Timeslots Availability Vacant Seats Per Ticket")
 
 ---
 

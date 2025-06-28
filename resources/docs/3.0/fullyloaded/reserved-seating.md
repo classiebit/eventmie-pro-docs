@@ -113,22 +113,16 @@ Follow these steps to add reserved seating tickets:
 
     ***
 
-    ![11-seating-executive](/images/v2/11-seating-executive.webp "11-seating-executive")
+    ![11-seating-executive](/images/v3/Reserved-seating-system-image-20.webp "11-seating-executive")
 
     ***
 
-    ![12-seating-club](/images/v3/reserved-seating-system-image-3.webp "12-seating-club")
+    ![12-seating-club](/images/v3/Latest-reserved-seating-image-21.webp "12-seating-club")
 
     ***
 
 10. For general seating (no reserved seats), simply do not add seats for that ticket.
 11. Go to the **Media Tab** and upload the full seating arrangement image as the Seating Chart Image.
-
-    ***
-
-    ![15-seatingchart-image-upload](/images/v2/EventmieProFullyLoadedV2.0/11-seatingchart-image-upload.webp "15-seatingchart-image-upload")
-
-    ***
 
 <a name="Booking-Seats"></a>
 

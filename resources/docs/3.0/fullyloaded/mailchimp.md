@@ -33,6 +33,6 @@ After obtaining your API credentials, follow these steps:
 
 ---
 
-![mailchimp-setup](/images/v2/EventmieProFullyLoadedV2.0/mailchimp-setup.webp "mailchimp-setup")
+![mailchimp-setup](/images/v3/Mail-chimp-integration-image-19.webp "mailchimp-setup")
 
 ---

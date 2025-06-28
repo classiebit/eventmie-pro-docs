@@ -53,7 +53,7 @@ Each venue has a dedicated detail page displaying all relevant information, incl
 
 ---
 
-![1-venue-page](/images/v2/ManageVenuesImages/1-venue-page.webp "1-venue-page")
+![1-venue-page](/images/v3/Venue-page-in-EP-image-16.webp "1-venue-page")
 
 ---
 
