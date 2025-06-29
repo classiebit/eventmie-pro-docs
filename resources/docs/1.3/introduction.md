@@ -19,7 +19,6 @@ Welcome to Eventmie Pro documentation.
 - [What is Eventmie](#What-is-Eventmie)
 - [Pro Version](#Pro-version)
 - [Lite Version](#Lite-version)
-- [Credits](#Credits)
 
 <a name="What-is-Eventmie"></a>
 ## What is Eventmie
@@ -55,20 +54,3 @@ Just **install** it into a brand new Laravel application or an existing one and 
 + [Live](https://eventmie.classiebit.com) - Visit lite version live.
 + [Github](https://github.com/classiebit/eventmie) - Give us a Star.
 + [Download](https://classiebit.com/eventmie) - Visit here to download.
-
-
-<a name="credits"></a>
-## Credits
-
-To enhance the performance, security and scalability of Eventmie, internally we've integrated some open-source third-party libraries/packages.
-
-+ [Laravel](https://laravel.com/) - The PHP Framework for Web Artisans
-+ [Laravel Voyager](https://github.com/the-control-group/voyager) - The Missing Laravel Admin
-+ [VueJs](https://vuejs.org/) - The Progressive JavaScript Framework
-+ [VueX](https://vuex.vuejs.org/) - State management pattern + library for Vue.js applications
-+ [Laravel Ziggy](https://github.com/tightenco/ziggy) - Laravel Named Routes inside JavaScript
-+ [Bootstrap](https://getbootstrap.com/) - Responsive CSS framework
-+ [Fontawesome](https://github.com/FortAwesome/Font-Awesome/) - Open source icon set and toolkit.
-+ [Sass](https://sass-lang.com/) - CSS with superpowers
-+ [Vue-Croppa](https://github.com/zhanziyang/vue-croppa) - Online Image Cropper
-+ [Intervention Image](https://github.com/Intervention/image) - PHP Image Manipulation.
