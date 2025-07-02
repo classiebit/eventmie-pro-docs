@@ -1,13 +1,13 @@
 # Eventmie Pro & FullyLoaded Web + App v3.0.x – Changelog & What's New
 
-- [v3.0 (08-July-2025)](#v3.0)
+- [v3.0 (02-Jul-2025)](#v3.0)
 
 <a name="v3.0"></a> 
-## v3.0 <small>Released on 08-Jul-2025</small>
+## v3.0 <small>Released on 02-Jul-2025</small>
 
 ---
 
-> {primary} **Released: 08-Jul-2025**  
+> {primary} **Released: 02-Jul-2025**  
 > [Upgrade Now – See the Update Guide](../update.md)
 
 ---

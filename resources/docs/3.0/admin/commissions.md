@@ -1,37 +1,40 @@
-# Commissions
+# Commissions & Payouts Management
 
-Eventmie Pro is a flexible event hosting solution that supports both Multi-organization (multi-vendor) and single organization event websites. With Eventmie Pro, you can easily manage commissions, payouts, and even offer 0% Commission on Ticket Sales for your organizers.
+A flexible, transparent commission and payout system is essential for building trust, attracting organizers, and scaling your event platform. Eventmie Pro & FullyLoaded offers industry-leading commission management—supporting both single-organization and multi-vendor (marketplace) business models, with options for 0% commission, custom admin fees, and seamless payout tracking.
 
-<br>
+---
 
-In multi-vendor mode, you as the website owner can invite event organizers to sign up and create events on your platform. This is where the commission system comes into play, allowing you to share profits to attract more organizers.
+> {primary} **Why It Matters:** Leading event platforms (Eventbrite, Universe, Ticketmaster) use robust commission and payout systems to incentivize organizers, maximize platform revenue, and ensure regulatory compliance.
 
-<br>
+---
 
-Eventmie Pro features a semi-automatic commission system. Set your `commission percentage (%)` from the Admin Panel, and commissions on each booking are calculated automatically.
+- [How Commissions Work](#how-commissions-work)
+- [Commission Setup](#commission-setup)
+- [Commission Processing & Payouts](#commission-processing-payouts)
+- [Commission Calculations & Scenarios](#commission-calculations--scenarios)
+- [Refunds & Settlements](#refunds--settlements)
+- [Organizer Bank Details](#organizer-bank-details)
+- [Cancelled Bookings](#cancelled-bookings)
+- [Multi-Vendor & Single-Org Modes](#multi-vendor--single-org-modes)
+- [Become Organiser](#become-organiser)
+- [Zero Commission Use Cases](#zero-commission-use-cases)
 
-<br>
 
-Initially, all booking payments are credited to the website owner's (Admin) account. The Admin then manually distributes organizer payouts and can update the `Payout Transfer` status in the Admin Panel.
+<a name="how-commissions-work"></a>
+## How Commissions Work
 
-<br>
+- **Multi-Vendor Model:** Invite organizers to sell events on your platform. Set a commission percentage to share profits and attract more organizers.
+- **Single-Organization Model:** Run your own events and keep 100% of ticket sales, or set custom admin fees for internal accounting.
+- **Flexible Admin Fees:** Offer 0% commission to attract new organizers, or set custom rates for premium support, marketing, or platform maintenance.
+- **Semi-Automatic System:** All payments are credited to the Admin account. Admins manually process payouts and update transfer statuses for full control and compliance.
 
-Eventmie Pro makes the payout transfer and commission management process seamless. Follow the guidelines below to master commission settings, including how to enable 0% Commission on Ticket Sales for your event platform.
+<a name="commission-setup"></a>
+## Commission Setup
 
--   [Set Commission](#set-commission)
--   [Commission Processing & Payouts](#commission-processing-payouts)
--   [Commission Calculations](#commission-calculations)
--   [Refunds Settlements](#refunds-settlements)
--   [Organiser Bank Details](#organiser-bank-details)
--   [Cancelled Booking](#cancelled-booking)
--   [Multi-Vendor On](#multi-vendor-on)
--   [Become Organiser](#become-organiser)
--   [Multi-Vendor Off](#multi-vendor-off)
--   [ZERO Commission](#zero-commission)
+Set your commission percentage in just a few clicks:
 
-<a name="set-commission"></a>
-
-## Set-Commission
+1. Go to `Admin Panel → Settings → Multi-vendor` tab.
+2. Set the `Admin Commission` (e.g., 5 for 5%).
 
 ---
 
@@ -39,22 +42,14 @@ Eventmie Pro makes the payout transfer and commission management process seamles
 
 ---
 
-<br>
-
-1. Go to `Admin Panel -> Settings -> Multi-vendor` tab.
-2. Set the `Admin Commission` e.g. `5` (in percent)
-
----
-
-> {primary} Commissions are recorded only if `Multi-vendor mode` is On & `Admin Commission` is set.
+> {primary} Commissions are only recorded if Multi-vendor mode is ON and Admin Commission is set.
 
 ---
 
 <a name="commission-processing-payouts"></a>
-
 ## Commission Processing & Payouts
 
-After setting the `Admin Commission`, Eventmie Pro will automatically record commissions on each ticket sale, including when you offer 0% Commission on Ticket Sales.
+Eventmie Pro will automatically record commissions on every ticket sale, including when you offer 0% Commission on Ticket Sales.
 
 1. Go to `Admin Panel -> Commissions`.
 2. Click on &nbsp;<larecipe-button type="info" size="sm" rounded>View</larecipe-button>
@@ -66,7 +61,7 @@ After setting the `Admin Commission`, Eventmie Pro will automatically record com
     ***
 
 3. View each organizer's monthly `Total Bookings`, `Organizer earnings`, and `Admin Commission`.
-4. After transferring an organizer's payout for a particular month, check the `Transferred` checkbox and click &nbsp;<larecipe-button type="info" size="sm" rounded>Update</larecipe-button> to update the transfer status.
+4. After transferring an organizer's payout for a particular month, check the `Transferred` checkbox and click &nbsp;<larecipe-button type="info" size="sm" rounded>Update</larecipe-button> to update the transfer status. - Mark payouts as transferred and keep a full audit trail for compliance and transparency.
 
     ***
 
@@ -78,13 +73,20 @@ After setting the `Admin Commission`, Eventmie Pro will automatically record com
 
     ***
 
-<a name="commission-calculations"></a>
+---
 
-## Commission Calculations
+> {success} **Best Practice:** Keep detailed payout records for every organizer to build trust and simplify accounting.
 
-Here's how Admin Commission and Organizer earnings are calculated, including scenarios with 0% Commission on Ticket Sales.
+---
 
-<br>
+> {primary} Tip: Offer 0% commission to select organizers or for special campaigns.
+
+---
+
+<a name="commission-calculations--scenarios"></a>
+## Commission Calculations & Scenarios
+
+Eventmie Pro supports a wide range of commission and payout models:
 
 | Payables              | Rates   | Calculations                | Total |
 | :-------------------- | :------ | :-------------------------- | :---- |
@@ -95,7 +97,7 @@ Here's how Admin Commission and Organizer earnings are calculated, including sce
 
 ---
 
-> {primary} Admin Commission = 5% of (Ticket Price + Organizer Tax).
+> {primary} **Formula:** Admin Commission = % of (Ticket Price + Organizer Tax). Admin Tax is not included in organizer earnings.
 
 ---
 
@@ -108,20 +110,18 @@ Here's how Admin Commission and Organizer earnings are calculated, including sce
 | TP + OT + AC + AT           | (TP + OT) - AC          | AC + AT                |
 | $100 + $10 + $6 + $5 = $121 | $110 - $5.5 = 104.5     | $5.5 + $6 = $11.5      |
 
+- **Online Payments:** Marked as paid automatically. Offline/Direct payments must be marked as paid by Admin/Organizer.
+- **Un-Transferred Payouts:** New bookings after a payout is marked transferred appear as new entries for the same month.
+- **Floating-Point Precision:** All calculations are accurate, even for 0% commission scenarios.
+
 ---
 
-1. For **Online Payment**, **Is Paid** is set to **Yes**. For Offline/Direct payment, Organizer or Admin must update **Is Paid** to **Yes**. Bookings appear in Commissions only after **Is Paid = Yes**.
-2. If a booking is made after the Organizer Earning's **Transferred** status is set to **Yes**, the new booking for the same month appears as a new entry in Commission as **Un-Transferred** payout.
-3. Once the **Un-Transferred** Organizer earning for the same month is set to **Transferred**, it merges into a single **Transferred** Payout for the month.
-4. All commission records and calculations are shown with floating-point precision, including 0% Commission on Ticket Sales.
+<a name="refunds--settlements"></a>
+## Refunds & Settlements
 
-<a name="refunds-settlements"></a>
-
-## Refunds Settlements
-
-For booking cancellations and refunds after organizer payouts have been transferred, the refunded amount appears in **Refund Settlement** and must be claimed back from the organizer.
-
-- Admin can mark a Refund Settlement status to **Yes** to indicate the refunded booking has been claimed back from the organizer payout.
+Handle refunds and cancellations with full transparency:
+- Refunded bookings after payout are tracked in **Refund Settlement** and must be claimed back from the organizer.
+- Mark refund settlements as claimed for accurate financial records.
 
 ---
 
@@ -129,11 +129,10 @@ For booking cancellations and refunds after organizer payouts have been transfer
 
 ---
 
-<a name="organiser-bank-details"></a>
+<a name="organizer-bank-details"></a>
+## Organizer Bank Details
 
-## Organiser Bank Details
-
-Organizers can add their bank account details from their profile page on the front-end for easy payout transfers.
+Streamline payouts by collecting organizer bank details directly from their profile page. Admins can view these details in the Commissions panel for fast, secure transfers.
 
 ---
 
@@ -141,40 +140,68 @@ Organizers can add their bank account details from their profile page on the fro
 
 ---
 
-Admins can view Organizer Bank Details directly from the `Admin Panel -> Commissions` page to process payouts efficiently.
-
----
-
 ![Admin Panel bank details](/images/commissions-bank-details-button.webp "Admin Panel bank details")
 
 ---
 
-<a name="cancelled-booking"></a>
+<a name="cancelled-bookings"></a>
+## Cancelled Bookings
 
-## Cancelled Booking
-
-When a booking is canceled, its commission is automatically excluded and will not be included in Organizer earnings.
-
----
-
-> {primary} Always set the booking `status` to `Disabled` after processing a refund.
+Cancelled bookings are automatically excluded from organizer earnings and commission calculations.
 
 ---
 
-<a name="multi-vendor-on"></a>
+> {primary} Always set the booking status to Disabled after processing a refund to ensure accurate records.
 
-## Multi Vendor On
+---
+
+<a name="multi-vendor--single-org-modes"></a>
+## Multi-Vendor & Single-Org Modes
 
 Eventmie Pro supports both single organization and multi-organization (multi-vendor, SaaS-style) event platforms. Toggle between these modes from the `Admin Panel -> Settings -> Multi-vendor` tab.
 
-<br>
+- **Multi-Vendor On (Marketplace):**
+  - Organizers can sign up, create events, and receive payouts.
+  - Admin sets commission rates and manages all payouts.
+  - Organizers can never revert to customer status for security and audit purposes.
+  - Organizers can book events for others but not for themselves.
 
-With `multi-vendor` mode enabled, users can sign up as customers and then become organizers, benefiting from features like 0% Commission on Ticket Sales.
+- **Multi-Vendor Off (Single-Organization):**
+  - Admin manages all events and bookings.
+  - Organizers are created and managed by Admin only.
+  - All multi-vendor features are hidden from the front-end.
+
+---
+
+> {success} **Use Case:** Use multi-vendor mode to build a marketplace like Eventbrite. Use single-org mode for in-house event management or private ticketing platforms.
+
+---
+
+#### With `multi-vendor` mode enabled, users can sign up as customers and then become organizers, benefiting from features like 0% Commission on Ticket Sales.
 
 1. After signing up as a `customer`, go to `Profile`.
 2. Click on &nbsp;<larecipe-button radius="half" type="black">Become Organizer</larecipe-button>
 3. In the popup, enter your `Organization name/Brand name` and click &nbsp;<larecipe-button radius="half" type="info">Submit</larecipe-button>
 4. After submission, the user's `Group` changes from `Customer` to `Organizer`.
+
+<br>
+
+#### When multi-vendor mode is `Off`, all options for `Become Organizer`, `Create Event`, or other multi-vendor features are hidden on the front-end. In this mode, Admin manages everything on behalf of organizers.
+
+<br>
+
+Admins can create a separate `User` from the admin panel and assign the `Organizer - Role`. Follow these steps:
+
+1. Go to `Admin Panel -> Manage Users`.
+2. Click on &nbsp;<larecipe-badge type="primary" rounded>Add New</larecipe-badge>
+3. Enter the organizer's name, email, and password (you can use your own).
+4. Set the `Default Role` to `Organizer`.
+
+    ***
+
+    > {primary} After creating an organizer, Admin can select the organizer wherever required.
+
+    ***
 
 <a name="become-organiser"></a>
 
@@ -198,34 +225,20 @@ There are specific rules for what an Organizer **CAN** and **CANNOT** do:
 
     ***
 
-<a name="multi-vendor-off"></a>
+<a name="zero-commission-use-cases"></a>
+## Zero Commission Use Cases
 
-## Multi Vendor Off
+- **Attract New Organizers:** Offer 0% commission to onboard new organizers and grow your platform.
+- **Promotional Campaigns:** Temporarily set commission to zero for special events or marketing pushes.
+- **Non-Profit & Community Events:** Support charity or community events by waiving platform fees.
+- **Hybrid Models:** Combine 0% commission with admin taxes or service fees for flexible revenue strategies.
 
-When multi-vendor mode is `Off`, all options for `Become Organizer`, `Create Event`, or other multi-vendor features are hidden on the front-end. In this mode, Admin manages everything on behalf of organizers.
+All payout details, including 0% commission scenarios, are visible in the Admin Panel for full transparency.
 
-<br>
+---
 
-Admins can create a separate `User` from the admin panel and assign the `Organizer - Role`. Follow these steps:
+> {primary} **Pro Tip:** Regularly review your commission and payout settings to stay competitive, compliant, and attractive to top organizers—just like the industry leaders.
 
-1. Go to `Admin Panel -> Manage Users`.
-2. Click on &nbsp;<larecipe-badge type="primary" rounded>Add New</larecipe-badge>
-3. Enter the organizer's name, email, and password (you can use your own).
-4. Set the `Default Role` to `Organizer`.
-
-    ***
-
-    > {primary} After creating an organizer, Admin can select the organizer wherever required.
-
-    ***
-
-<a name="zero-commission"></a>
-
-## ZERO Commission
-
-When you set the Admin Commission to ZERO, Eventmie Pro automatically calculates organizer payouts with 0% Commission on Ticket Sales. All payout details are displayed on the **Admin Panel -> Commissions** page.
-
-- With 0% Commission on Ticket Sales, Admin can still set Admin Tax, and all payout details are shown on the Admin Commission & Organizer earnings page.
-- If a booking is deleted, refunded, or disabled, the changes are reflected in both Admin Commission and Organizer Earnings.
+---
 
 <iframe width="75%" height="500" src="https://www.youtube.com/embed/0Pb277xuKzY?si=QnOtOo-idyQS3p4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
