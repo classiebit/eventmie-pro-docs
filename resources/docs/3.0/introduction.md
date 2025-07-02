@@ -96,7 +96,7 @@ Prefer a single-organization setup? Simply **disable multi-organization mode** a
 - **Secure & Compliant:** Host on your own servers for maximum privacy, data ownership, and regulatory compliance.
 - **No Hidden Fees:** 100% profit, zero commission—your revenue, your rules.
 - **Constantly Evolving:** We release regular updates, new features, and improvements based on your feedback and the latest industry trends.
-- **Automated Workflows:** Save time with automated notifications, reminders, and attendee management.
+- **AI-Powered Event Creation:** Create events with AI assistance, automated SEO-optimized content generation, and intelligent event descriptions that boost discoverability.
 
 ---
 
