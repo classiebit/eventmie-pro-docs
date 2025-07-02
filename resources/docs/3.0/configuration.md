@@ -1,13 +1,12 @@
-# Configuration
+# Eventmie Pro & FullyLoaded Configuration Guide
 
 ---
 
->{primary} Eventmie Pro publishes its config file at `config/eventmie.php`
+>{primary} Eventmie Pro publishes its config file at `config/eventmie.php`.
 
 ---
 
-If you wanna change any of default configurations, simply follow the below guidelines.
-
+Easily tailor your Eventmie Pro or FullyLoaded installation to your business needs. This guide covers all essential configuration options, best practices, and professional tips to ensure your platform is secure, scalable, and ready for global audiences.
 
 - [Route Prefix](#route-prefix)
 - [Multiple Languages](#multiple-languages)
@@ -20,63 +19,51 @@ If you wanna change any of default configurations, simply follow the below guide
 <a name="route-prefix"></a>
 ## Route Prefix
 
-The prefix is, whether to run Eventmie Pro as a base site e.g `example.com` or on a specific URL e.g `example.com/event-website`.
-
-<br>
-In case, you're installing it on the existing Laravel website, you'll want to set a URL prefix
-e.g `example.com/event-website`. And `admin_prefix` is for changing the Admin Panel URL.
-
+Control whether Eventmie Pro runs at your domain root (e.g. `example.com`) or under a subdirectory (e.g. `example.com/events`). This is essential for integrating with existing Laravel sites or customizing your admin panel URL.
 
 ```php
 'route' => [
-    'prefix'            => 'event-website',
-    'admin_prefix'      => 'secret-admin',
+    'prefix'            => 'event-website', // Main site prefix
+    'admin_prefix'      => 'secret-admin',  // Admin panel prefix
 ],
 ```
 
+---
+
+> {info} For multi-site or white-label setups, use unique prefixes for each deployment.
+
+---
 
 <a name="multiple-languages"></a>
 ## Multiple Languages
 
-Eventmie supports multiple languages including **RTL**. Add/remove language to add/remove language from the language dropdown.
+Eventmie Pro supports global audiences with multi-language and RTL support. Add or remove languages from the dropdown by editing the `locales` array:
 
 ```php
 'locales'   => [
-    'en',
-    'ar',
-    'de',
-    'fr',
-    'hi',
-    'it',
-    'ja',
-    'nl',
-    'ru',
-    'zh_CN',
-    'zh_TW',
+    'en', 'ar', 'de', 'fr', 'hi', 'it', 'ja', 'nl', 'ru', 'zh_CN', 'zh_TW',
 ],
 ```
 
+---
+
+> {success} All translations are stored in `resources/lang/vendor/eventmie-pro`.
+
+---
 
 <a name="rtl-languages"></a>
 ## RTL Languages
 
----
-
->{success} Eventmie Pro auto-detects RTL languages from the `rtl_langs` list and changes website direction to RTL. 
-
----
-
-We've added some pre-defined RTL languages. If you're adding a new RTL language that is not included in the `rtl_langs` list, make sure you add it there.
-
+Eventmie Pro auto-detects RTL languages from the `rtl_langs` list and switches the UI direction. Add any new RTL language codes here:
 
 ```php
 'rtl_langs'     => [
-    'ar', // arabic
-    'fa', // persian
-    'he', // hebrew
-    'ms', // malay
-    'ur', // urdu
-    'ml' // malayalam
+    'ar', // Arabic
+    'fa', // Persian
+    'he', // Hebrew
+    'ms', // Malay
+    'ur', // Urdu
+    'ml'  // Malayalam
 ],
 ```
 
@@ -84,74 +71,47 @@ We've added some pre-defined RTL languages. If you're adding a new RTL language 
 <a name="default-language"></a>
 ## Default Language
 
-
----
-
->{success} Eventmie Pro publishes its languages to your application `resources/lang/vendor/eventmie-pro` directory. You can change the translations from there. 
-
----
-
-The default language is English `en`. You can change it to any other. Make sure that the language that you're setting as default, must be in the above `locales` list.
+Set your default site language. Ensure it exists in the `locales` array.
 
 ```php
 'default_lang'  => 'en',
 ```
 
+---
+
+> {primary} Edit translations in `resources/lang/vendor/eventmie-pro/<lang>/em.php`.
+
+---
 
 <a name="add-new-language"></a>
 ## Add New Language
 
+1. Duplicate the `en` folder in `resources/lang/vendor/eventmie-pro` and rename it to your new language code (e.g. `ro` for Romanian).
+- Suppose you wanna add `Romanian` language. Simply duplicate `en` folder and rename duplicated folder to `ro`.
 
-1. Go to the language directory `resources/lang/vendor/eventmie-pro`.
-2. Duplicate the `en` directory and rename it to `<new_language_shortname>`. 
+    ```bash
+    resources
+        │
+        ├── lang
+            ├── vendor
+                ├── eventmie-pro
+                    ├── en
+                    └── ro
+    ```
+2. Translate all values in the new `em.php` file.
+3. Repeat for `resources/lang/vendor/voyager` for admin panel translations.
+- Suppose you wanna add `Romanian` language. Simply duplicate `en` folder and rename duplicated folder to `ro`.
 
-    - Suppose you wanna add `Romanian` language. Simply duplicate `en` folder and rename duplicated folder to `ro`.
-
-        ```bash
-        resources
-            │
-            ├── lang
-                ├── vendor
-                    ├── eventmie-pro
-                        ├── en
-                        └── ro
-        ```
-
-3. Translate all the variable's **VALUES** (right-side only) inside the new language folder's `em.php` file.
-
-    ---
-
-    >{primary} The below language files are for Admin Panel translations.
-
-    ---
-
-4. Go to the language directory `resources/lang/vendor/voyager`.
-5. Duplicate the `en` directory and rename it to `<new_language_shortname>`. 
-
-    - Suppose you wanna add `Romanian` language. Simply duplicate `en` folder and rename duplicated folder to `ro`.
-
-        ```bash
-        resources
-            │
-            ├── lang
-                ├── vendor
-                    ├── voyager
-                        ├── en
-                        └── ro
-        ```
-
-6. Translate all the variable's **VALUES** (right-side only) inside the new language folder's `*all` files.
-
----
-
->{success} Tip! You can find the **voyager** translations into your language here- **[Voyager Translations](https://github.com/the-control-group/voyager/tree/1.4/publishable/lang)**
-
----
-
-
-
-7. Add the language short name to the `config/eventmie.php` `locales` list.
-
+    ```bash
+    resources
+        │
+        ├── lang
+            ├── vendor
+                ├── voyager
+                    ├── en
+                    └── ro
+    ```
+4. Add the new language code to the `locales` array in `config/eventmie.php`.
     ```php
     'locales'   => [
         'en',
@@ -161,20 +121,20 @@ The default language is English `en`. You can change it to any other. Make sure 
     ],
     ```
 
-8. And finally, this one will update the database -> `translations` table that's responsible for showing the Admin Panel in multiple languages.
+---
 
-    ```php
-    php artisan eventmie-pro:translate-admin-panel
-    ```
+> {success} Find more admin translations at [Voyager Translations](https://github.com/the-control-group/voyager/tree/1.4/publishable/lang)
 
+---
 
-<a name="Delete-Language"></a>
+<a name="delete-language"></a>
 ## Delete Language
 
-1. Delete the language folder from `resources/lang/vendor/eventmie-pro/` & `resources/lang/vendor/voyager`.
-2. Remove the language short name from the `config/eventmie.php` `locales` list.
-3. And run this-
+1. Remove the language folder from both `resources/lang/vendor/eventmie-pro/` and `resources/lang/vendor/voyager/`.
+2. Remove the language code from the `locales` array.
+3. Run:
 
-    ```php
+    ```bash
     php artisan eventmie-pro:translate-admin-panel
     ```
+

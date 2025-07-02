@@ -1,49 +1,117 @@
-# What's New <small>changelog</small> v3.0.x
+# Eventmie Pro & FullyLoaded Web + App v3.0.x – Changelog & What's New
 
-- [v3.0 (24-Jun-2025)](#v3.0)
+- [v3.0 (08-July-2025)](#v3.0)
 
 <a name="v3.0"></a> 
-## v3.0 <small>Released on 24-Jun-2025</small>
-
-v3.0 is a major release. It includes a lot of new & most requested features, improvements, optimizations, and bug fixes.
-
-### New Features
+## v3.0 <small>Released on 08-Jul-2025</small>
 
 ---
 
-> {primary} New in v3.0 🔥
+> {primary} **Released: 08-Jul-2025**  
+> [Upgrade Now – See the Update Guide](../update.md)
 
 ---
 
-- **A VERY BIG Update**, **Create Event with AI** with ChatGPT integration. <br>
-- **Laravel 11 & PHP 8.3**. Upgraded to Laravel 11 & compatible with PHP 8.3.<br>
-- **New Modern Look & Feel**, the theme is now more modern and responsive according to 2025 design trends.<br>
-- **Dark, Light & System Theme** added with default theme option setting in Admin Panel.<br>
-- **Hands-Free Ticket Scanner** new improved Ticket Scanner with QR Code & Laser scanner devices like Zebra, Honeywell, etc. support. Ticket sacnning now records check-ins for multiple days and allow attendee to check-in once per day in case of Seasonal, Multiple Days & Recurring events.<br>
-- **Minimal Ticket PDF Design**. The most widely used standard ticket size that works well for both purposes is 5.5" × 2" (standard ticket size) or slightly taller at 5.5" × 2.125" to accommodate more information while still being print-friendly. <br>
-- **Stripe Connect Marketplace** now supports multiple currencies, multiple payment methods and default country according to platform default Region.<br>
-- **Venue** now shows events related to that venue on the venue page.<br>
-- **MercadoPago Payment Gateway** added.<br>
-- **POS** added option for POS to create new attendees on the Checkout.<br>
-- **New Checkout Flow**, checkout is not integrated into the Event page, for a quick & smooth checkout experience.<br>
-- **Two Way Organiser & Attendee** communication. Organiser can contact Attendee and Attendee can contact Organiser.<br>
-- **Ticket Resend** feature added. Admin and Organisers can resend tickets to attendees.<br>
-- **Organisers** can create and manage their Promocodes.<br>
-- **Consolidated Ticket PDF** for multiple tickets in a single PDF. <br>
-- **Complimentary Tickets** now comes with a Distribute/Partner tag option. Admin can add the name of Distributor/Partner at the time of creating complimentary tickets which will be shown on the ticket . <br>
-- **Early Check-in** feature added in which, Organiser can decide to allow attendees to check-in before the event start time. <br>
+## 🚀 Major Release: v3.0
 
-### Improvements
+v3.0 is our biggest, most ambitious update ever—designed to empower event organizers, agencies, and businesses with next-generation tools, a modern user experience, and enterprise-grade scalability. This release brings powerful new features, a fresh look, and dozens of improvements based on your feedback.
 
-- Rich Text Editor for Event Description & Venue Description now supports image upload
-- In Donation/Fundraiser event, you can now set a minimum ticket price and on the basis on that it shows incremental donation suggestion amount.
-- Event Filters improved on Browse Events page.
-- New Organiser Page URL example.com/organiser
+---
 
+### ✨ New Features
 
-### Bugs Resolved
+- **Create Events with AI (ChatGPT Integration) for Eventmie Pro & FullyLoaded:**  
+  Effortlessly generate event details, descriptions, and marketing copy using built-in AI. [Learn more](../features/artificial-intelligence/ai-event-creation.md)
 
-- Custom page builder body size increased to add more content.
-- Fixed Venue SEO issues.
-- Phone number set to optional in case of Guest Checkout.
+- **Upgraded to Laravel 11 & PHP 8.3 for Eventmie Pro & FullyLoaded:**  
+  Enjoy the latest security, speed, and compatibility.
+
+- **Apps are updated to React Native version 0.77:**  
+  It's the latest stable version of React Native with new architecture. This speeds up the app performance and stability by 5x. 
+  The App now supports iOS 18, Android 16 and above.
+
+- **Modern UI/UX for Eventmie Pro & FullyLoaded Web + Apps:**  
+  A completely redesigned, responsive theme for 2025 and beyond.
+
+- **Dark, Light & System Themes for Eventmie Pro FullyLoaded Web + Apps:**  
+  Instantly switch between themes or use system default, with admin default options.
+
+- **Hands-Free Ticket Scanner for Eventmie Pro FullyLoaded Web + Apps:**  
+  Advanced QR & laser scanner support (Zebra, Honeywell, etc.), multi-day check-ins, and seasonal event support.    
+
+- **User Impersonation for Eventmie Pro FullyLoaded:**  
+  Admins can log in as any user for support and troubleshooting.
+
+- **Minimal Ticket PDF Design for Eventmie Pro & FullyLoaded:**  
+  New industry-standard ticket sizes for print and digital.
+
+- **Stripe Connect Marketplace for Eventmie Pro FullyLoaded:**  
+  Multi-currency, multi-method, and region-aware payments.
+
+- **Venue Pages with Linked Events for Eventmie Pro FullyLoaded:**  
+  Venues now showcase all related events.
+
+- **MercadoPago Payment Gateway for Eventmie Pro FullyLoaded:**  
+  Expanded payment options for Latin America.
+
+- **POS: Create New Attendees at Checkout for Eventmie Pro & FullyLoaded:**  
+  Streamline on-site sales and attendee management.
+
+- **POS & Scanner now available in Eventmie Pro**  
+  POS & Scanner feature is now available in Eventmie Pro as well.
+
+- **New Integrated Checkout Flow for Eventmie Pro & FullyLoaded:**  
+  Checkout is now integrated into the event page, for a quick & smooth checkout experience.
+
+- **Two-Way Organiser & Customer Emailing for Eventmie Pro FullyLoaded:**  
+  Secure, direct communication for better engagement.
+
+- **Ticket Resend for Eventmie Pro FullyLoaded:**  
+  Admins and organisers can resend tickets instantly.
+
+- **Organiser Promo Codes for Eventmie Pro FullyLoaded:**  
+  Organisers can create and manage their own promo codes from their Dashboard.
+
+- **Consolidated Ticket PDF for Eventmie Pro FullyLoaded:**  
+  Multiple tickets in a single PDF for convenience.
+
+- **Complimentary Tickets with Distributor Tag for Eventmie Pro FullyLoaded:**  
+  Track and brand complimentary tickets.
+
+- **Early Check-in for Eventmie Pro FullyLoaded:**  
+  Organisers can allow attendees to check in before event start.
+
+---
+
+### 🛠️ Improvements
+
+- **Rich Text Editor for Eventmie Pro & FullyLoaded:**  
+  Event and venue descriptions now support image uploads.
+
+- **Donation/Fundraiser Events for Eventmie Pro FullyLoaded:**  
+  Set minimum ticket prices and suggest donation amounts.
+
+- **Event Filters for Eventmie Pro & FullyLoaded Web + Apps:**  
+  Enhanced filtering on the Browse Events page.
+
+- **New Organiser Page URLs for Eventmie Pro FullyLoaded:**  
+  Improved SEO and navigation.
+
+---
+
+### 🐞 Bug Fixes
+
+- **Custom Page Builder for Eventmie Pro & FullyLoaded:**  
+  Increased body size for more content flexibility.
+
+- **Venue SEO for Eventmie Pro & FullyLoaded:**  
+  Resolved SEO issues for better discoverability.
+
+- **Guest Checkout for Eventmie Pro FullyLoaded:**  
+  Phone number now optional for guest users.
+
+---
+
+> {success} **Ready to experience the new Eventmie Pro & FullyLoaded?**  
+> [See the Update Guide](../update.md) or [Contact Support info@classiebit.com](mailto:info@classiebit.com) for a seamless upgrade.
 

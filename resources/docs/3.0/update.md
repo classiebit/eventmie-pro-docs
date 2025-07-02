@@ -1,28 +1,63 @@
-<!--
-Meta Description: Step-by-step guide to update Eventmie Pro from v2.0.x to v3.0.x. Learn how to upgrade your Laravel event management platform safely, including config, language, and database updates.
-Meta Keywords: Eventmie Pro update, upgrade Eventmie, Laravel event management, update guide, v2.0.x to v3.0.x, Eventmie Pro FullyLoaded, update service, composer update, vendor publish, language files, admin panel translation
--->
-# Update Eventmie Pro from v2.0.x to v3.0.x
+# Update Eventmie Pro & FullyLoaded: v2.0.x → v3.0.x
+
+Upgrade your Eventmie Pro or FullyLoaded platform with confidence. This guide provides a step-by-step, industry-standard process to ensure a seamless, secure, and future-proof update—whether you're a developer, agency, or business owner.
 
 ---
 
->{info} This comprehensive guide will help you seamlessly update your Eventmie Pro or Eventmie Pro FullyLoaded installation from version 2.0.x to 3.0.x. Follow each step to ensure a smooth and secure upgrade of your Laravel event management platform.
-<!-- >{success} Updating will **NEVER MODIFY OR DELETE** your website's existing users' data (file uploads) & database tables data.  -->
+>{success} Updating will **NEVER MODIFY OR DELETE** your website's existing user data, file uploads, or database tables.
 
 ---
 
-<!-- - [Prerequisites](#prerequisites)
-- [Update Service](#update-service)
-- [Steps to update](#Steps-to-update)
-- [Update Config](#update-config)
-- [Update Languages](#update-languages)
+### 🚀 Unlock the Complete Power of Eventmie Pro by upgrading to FullyLoaded Web + App Bundle – and Save Big!
 
-<a name="prerequisites"></a> 
-## Prerequisites for Updating Eventmie Pro
+**Already using Eventmie Pro?** Unlock advanced features, premium support, and enterprise scalability by upgrading to FullyLoaded. Save big on your Eventmie Pro website by upgrading to FullyLoaded.
 
-To upgrade to Eventmie Pro v3.0.x, please follow these prerequisites:
+**How to Upgrade:**
+1. Contact our team at [info@classiebit.com](mailto:info@classiebit.com) or via your Classiebit account.
+2. Pay only the difference (e.g., if you paid $69 for Pro, upgrade to FullyLoaded for just $430 more).
+3. Receive your FullyLoaded license and upgrade instructions.
+4. Follow the [FullyLoaded Upgrade Guide](./fullyloaded/upgrade) for any additional steps.
 
-1. Download the latest Eventmie Pro version from the [Classiebit.com - Downloads page](https://classiebit.com/downloads). Ensure you have a valid license and backup your website files and database before proceeding.
+---
+
+> {primary} **Seamless Upgrades:** Your data, settings, and customizations remain intact. Our team can assist with the upgrade process.
+
+---
+
+- [Server Requirements](#server-requirements)
+- [Prerequisites & Backup](#prerequisites-backup)
+- [Professional Update Services](#professional-update-services)
+- [Step-by-Step Update Process](#step-by-step-update-process)
+- [Post-Update: Configuration & Language Files](#post-update-configuration--language-files)
+- [Troubleshooting & Checklist](#troubleshooting--checklist)
+- [Need Help?](#need-help)
+
+<a name="server-requirements"></a>
+## Server Requirements
+
+Before you begin, make sure your hosting/server meets these minimum requirements. Eventmie Pro & FullyLoaded is built on Laravel 11. (Laravel 12 support is coming soon)
+- PHP >= 8.2
+- MySQL >= 8.0 or MariaDB >= 10.3
+
+---
+
+> {primary} **Tip:** You can get started in minutes with Hostinger.com web hosting. Use our referral link to get 50% off + extra 20% off. 👉 [Click here to get started](https://www.hostinger.com/web-hosting?REFERRALCODE=classiebit) <br> Hostinger has all the features you need to get started with Eventmie Pro.
+
+---
+
+<a name="prerequisites-backup"></a> 
+## Prerequisites & Backup
+
+To upgrade to Eventmie Pro or FullyLoaded v3.0.x, please follow these prerequisites and backup your website:
+
+--- 
+
+> {warning} **Never skip backups!** This is your safety net in case of unexpected issues.
+
+---
+
+1. **Download the Latest Version:**
+   - Get the latest Eventmie Pro or FullyLoaded from your [Classiebit.com Downloads](https://classiebit.com/downloads) account.
 
     ---
 
@@ -30,93 +65,103 @@ To upgrade to Eventmie Pro v3.0.x, please follow these prerequisites:
 
     ---
 
-<a name="update-service"></a> 
-## Eventmie Pro Update Service Options
+2. **Backup Your Website:**
+   - Backup all website files and your database.
+   - Test your backup by restoring it on a staging server if possible.
 
-You can update your Eventmie Pro website to the latest version by following this guide. If you prefer expert assistance, Classiebit offers a paid update service for both Eventmie Pro and Eventmie Pro FullyLoaded.
+3. **Check Customizations:**
+   - Note any code customizations or third-party integrations.
 
-### Eventmie Pro Update Service
 
-1. **Simple Update Service (USD 50):** For websites with **NO CODE CUSTOMISATIONS**.
-2. **Advanced Update Service (USD 150):** For websites with **CODE CUSTOMISATIONS**.
+<a name="professional-update-services"></a>
+## Professional Update Services
 
-### Eventmie Pro FullyLoaded Update Service
+Prefer expert assistance? Classiebit offers paid update services for all scenarios:
 
-1. **Simple Update Service (USD 100):** For websites with **NO CODE CUSTOMISATIONS**.
-2. **Advanced Update Service (USD 300):** For websites with **CODE CUSTOMISATIONS**.
+**Eventmie Pro**
+- Simple Update (No Code Customizations): **$50**
+- Advanced Update (With Code Customizations): **$150**
 
-To request a paid update service, email us at `info@classiebit.com` and our team will assist you with the upgrade process.
+<br>
+**FullyLoaded Web**
+- Simple Update: **$100**
+- Advanced Update: **$300**
 
-<a name="Steps-to-update"></a> 
-## Step-by-Step Guide: How to Update Eventmie Pro
+<br>
+**FullyLoaded Web + App**
+- Simple Update: **$300**
+- Advanced Update: **$500**
 
-You can update your Eventmie Pro or Eventmie Pro FullyLoaded website by following these essential steps. Please ensure you **DO NOT** skip any step for a successful upgrade.
+<br>
+👉 To request a professional update, email [info@classiebit.com](mailto:info@classiebit.com). Our team ensures a zero-downtime, stress-free upgrade.
 
-* Extract the `eventmie-pro-v2.0.x.zip` file and then extract the package file `eventmie-pro.zip`.
-* Copy the new `eventmie-pro` folder to your website directory.
-* Delete the existing `eventmie-pro` folder and replace it with the new one.
-* Run the Composer update command to update dependencies:
 
-    ```php
-    composer update
-    ```
 
-* On your production (live) server, optimize the autoloader and skip dev dependencies:
+<a name="step-by-step-update-process"></a>
+## Step-by-Step Update Process
 
-    ```php
-    composer install --optimize-autoloader --no-dev
-    ```
+Follow these steps for a successful upgrade:
 
-* Finally, run the Eventmie Pro auto-updater command to complete the upgrade:
-
-    ```php
-    php artisan eventmie-pro:update
-    ```
-
-<a name="update-config"></a> 
-## Update Eventmie Pro Configuration File
-
----
-
->{danger} The following command will override your existing `config/eventmie.php` file. Backup your configuration before proceeding.
-
----
-
-Eventmie Pro v3.0.x introduces changes to the configuration file. Update your base app `config/eventmie.php` file with the latest version using:
-
-```php
-php artisan vendor:publish --tag=eventmie-pro-config --force
-```
-
-<a name="update-languages"></a> 
-## Update Eventmie Pro Language Files
-
----
-
->{danger} The following command will override your existing `lang/vendor/eventmie-pro/*` language files. Backup your language files before proceeding.
+1. **Extract the Update Package**
+   - Unzip the downloaded package (`eventmie-pro-webinstaller-v3.0.zip` or `eventmie-pro-fullyloaded-3.0.zip`).
+   - Overwrite your existing website directory with the new files.
+2. **Update Composer Dependencies**
+   - Run:
+     ```bash
+     composer update
+     ```
+   - On production/live servers, optimize for performance:
+     ```bash
+     composer install --optimize-autoloader --no-dev
+     ```
+3. **Run the Eventmie Pro Auto-Updater**
+   - Complete the upgrade with:
+     ```bash
+     php artisan eventmie-pro:update
+     ```
+4. **Clear & Optimize Cache**
+   - Ensure your site loads the latest changes:
+     ```bash
+     php artisan config:cache
+     php artisan route:cache
+     php artisan view:cache
+     ```
 
 ---
 
-Update your base app `lang/vendor/eventmie-pro/*` language files to the latest version:
+<a name="post-update-configuration--language-files"></a>
+## Post-Update: Configuration & Language Files
 
-```php
-php artisan vendor:publish --tag=eventmie-pro-lang --force
-```
+1. **Review Configuration:**
+- Update your `config/eventmie.php` as needed. See the [Configuration Guide](./configuration.md) for all options and best practices.
+
+2. **Update Language Files:**
+- Sync your language files in `resources/lang/vendor/eventmie-pro` and `resources/lang/vendor/voyager`.
+- For new languages or admin panel translations, follow the [Add New Language](./configuration.md#add-new-language) section.
+
+
+<a name="troubleshooting--checklist"></a>
+## Troubleshooting & Checklist
+
+- [ ] Did you backup your files and database before starting?
+- [ ] Did you overwrite all files with the new version?
+- [ ] Did you run all Composer and Artisan commands?
+- [ ] Did you update your configuration and language files?
+- [ ] Are all features working as expected on your staging/live site?
 
 ---
 
->{danger} The following command will override your existing `lang/vendor/voyager/*` language files. Backup your Voyager language files before proceeding.
+> {success} If you encounter issues, restore your backup and contact support for assistance.
 
 ---
 
-Eventmie Pro v3.0.x improves Admin Panel translations. Update the Admin Panel language files:
+<a name="need-help"></a>
+## Need Help?
 
-```php
-php artisan vendor:publish --tag=eventmie-pro-voyager-lang --force
-```
+**Support Email:** [info@classiebit.com](mailto:info@classiebit.com). Priority support and live event coverage available for enterprise clients.
+  
+---
 
-And finally, update the database `translations` table to ensure the Admin Panel supports multiple languages:
+> {primary} **Stay up to date:** Regularly check for new releases and follow best practices for security, performance, and deliverability.
 
-```php
-php artisan eventmie-pro:translate-admin-panel
-```
+---

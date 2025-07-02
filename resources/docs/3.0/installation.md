@@ -1,207 +1,123 @@
-# Installation
+# Installation Guide
 
-Eventmie Pro can be installed easily via Composer or through the user-friendly web installer.
+Welcome to the Eventmie Pro installation guide! This step-by-step documentation will help you install Eventmie Pro quickly and easily, whether you're a developer or a non-technical user.
 
----
 
-> {primary.fa-youtube} For a step-by-step video guide, watch **[Eventmie Pro Academy](https://classiebit.com/academy/eventmie-pro/eventmie-pro-installation-with-installer)** 👈
-
----
-
+- [Quick Start](#quick-start)
 - [Server Requirements](#server-requirements)
-- [Download Eventmie-pro](#download-eventmie-pro)
-- [Install via Composer](#install-via-composer)
-- [Install via Web-Installer](#install-via-web-installer)
-- [Purchased From Codecanyon](#purchased-from-codecanyon)
-- [Installation Errors](#installation-errors)
-- [Signup Error](#signup-error)
-- [Update Admin Email](#update-admin-email)
+- [Download Eventmie Pro](#download-eventmie-pro)
+- [Install via Web Installer](#install-via-web-installer)
+- [Purchased from Codecanyon?](#purchased-from-codecanyon)
+- [Troubleshooting & Common Errors](#troubleshooting--common-errors)
+- [Post-Installation Checklist](#post-installation-checklist)
+- [Need Help?](#need-help)
+- [Enterprise-Grade Hosting](#enterprise-grade-hosting)
 
+---
 
-<a name="server-requirements"></a> 
+<a name="quick-start"></a>
+## Quick Start
+
+1. **Check server requirements** (see below)
+2. **Download Eventmie Pro** from our website [classiebit.com/downloads](https://classiebit.com/downloads) or Codecanyon.
+3. **Extract and upload** the web installer to your server
+4. **Set up your database**
+5. **Run the website** in your browser and go through the installation process.
+6. **Complete the post-installation checklist**
+
+---
+
+<a name="server-requirements"></a>
 ## Server Requirements
 
-Before installing Eventmie Pro, ensure your server meets the following minimum requirements. **(MUST HAVE!)**
+Before you begin, make sure your hosting/server meets these minimum requirements. Eventmie Pro is built on Laravel 11. (Laravel 12 support is coming soon)
+- HTTPS enabled (SSL certificate) is required. Or else the Ticket scanner will not work and site will not load properly.
+- PHP >= 8.2
+- MySQL >= 8.0 or MariaDB >= 10.3
+- Composer >= 2.0
+- PHP Extensions:
+    - **BCMath** | **Ctype** | **Fileinfo** | **JSON** | **Mbstring** | **OpenSSL** | **PDO** | **Tokenizer** | **XML** | **Curl** | **Intl** | **Zip** | **GD** or **Imagick** | **Iconv**
 
 ---
 
->{primary} Before purchasing hosting, confirm these requirements with your provider's support team.
+> {primary} **Tip:** You can get started in minutes with Hostinger.com web hosting. Use our referral link to get 50% off + extra 20% off. 👉 [Click here to get started](https://www.hostinger.com/web-hosting?REFERRALCODE=classiebit) <br> Hostinger has all the features you need to get started with Eventmie Pro.
 
 ---
 
-- PHP >= 8.1
-- MySQL >= 5.7.7 or MariaDB >= 10.2.2
-- BCMath PHP Extension
-- Ctype PHP Extension
-- JSON PHP Extension
-- fileinfo PHP Extension
-- Mbstring PHP Extension
-- OpenSSL PHP Extension
-- PDO PHP Extension
-- Tokenizer PHP Extension
-- XML PHP Extension
-- iconv PHP Extension
-- Imagick PHP Extension
+<a name="download-eventmie-pro"></a>
+## Download Eventmie Pro
 
-
-
-
-<a name="download-eventmie-pro"></a> 
-## Download Eventmie-pro
+1. Log in to your [Classiebit account](https://classiebit.com/downloads) (or Codecanyon, if purchased there).
+2. Download the latest Eventmie Pro package.
+3. Add your domain for license authorization (not required for localhost or **Enterprise** license).
+4. Unzip the downloaded ZIP. Inside, you'll find:
+    - `eventmie-pro-webinstaller.zip` – the complete Laravel website for web installer installation.
 
 ---
 
-<iframe width="75%" height="500" src="https://www.youtube.com/embed/a-eaCkehFe4?si=DcapZsjbL6ouMun-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> {primary} **Note:** `eventmie-pro-webinstaller.zip` is a full Laravel project. You do NOT need to install Laravel separately.
 
 ---
-
-* Download Eventmie Pro from `classiebit.com/downloads`.
-* On the same page, add your domain name to authorize the domain where you will install Eventmie Pro.
-* If you have an Enterprise license, domain authorization is not required; you can install on unlimited domains.
-* No domain authorization is needed for `localhost`.
-* Unzip the downloaded Eventmie Pro package.
-* Inside, you'll find two ZIP files:
-    1. `eventmie-pro.zip` – Laravel package for **Composer installation**.
-    2. `eventmie-pro-webinstaller.zip` – Complete web installer for **Web-installer installation**.
-
----
-
->{primary} `eventmie-pro-webinstaller.zip` is a complete Laravel website. Extract it in your web directory and follow the **Install via Web-installer** guide below.
-
----
-
-
-<a name="install-via-composer"></a>
-## Install via Composer
-
-### Prerequisites
-
-* Laravel version 6.x / 7.x / 8.x / 9.x
-
----
-
->{success} Eventmie Pro can be installed on a **fresh** or **existing** Laravel application.
-
----
-
-> {primary} For Laravel installation instructions, see **[Laravel Installation](https://laravel.com/docs/)** 👈
-
----
-
-
-### Start Eventmie Pro installation
-
-
-1.  Unzip the `eventmie-pro.zip` file, copy the `eventmie-pro` folder, and place it in your Laravel application's root directory.
-
-    ---
-
-    >{primary} The folder name must be `eventmie-pro` in your Laravel website directory.
-    
-    ---
-
-    ![Install via Composer](/images/installation-directories.webp "Install via Composer")
-
-    ---
-    
-
-2. Open your Laravel application's `composer.json` file and add the following code at the end (right before the last curly `}` bracket):
-
-    ```json
-    "repositories": [{
-        "type": "path",
-        "url": "eventmie-pro/"
-    }]
-    ```
-
-3. Install Eventmie Pro via Composer:
-
-    ```php
-    composer require classiebit/eventmie-pro
-    ```
-
-4. Run the Eventmie Pro install command:
-
-    ```php
-    php artisan eventmie-pro:install
-    ```
-
-5. During installation, you will be prompted for your license code. Enter it to complete the process.
-
-    ---
-
-    >{primary} One license code is valid for one domain only, except for the Enterprise license. Read the license agreement here - **[Classiebit Licenses](https://classiebit.com/license)** 👈.
-
-    ---
-
 
 <a name="install-via-web-installer"></a>
-## Install via Web-Installer
+## Install via Web Installer
 
-Eventmie Pro also offers a web-installer for users unfamiliar with Laravel. The web-installer allows you to set up Eventmie Pro directly on your web server in just a few clicks—no coding required.
+The web installer is designed for all users—no coding required!
 
----
+### Step 1: Upload Files
+- Extract `eventmie-pro-webinstaller.zip` to your web directory (e.g., `public_html`, `www`, or your project root).
 
->{primary} Extract `eventmie-pro-webinstaller.zip` inside your website directory, e.g., `public_html` or `www`.
+### Step 2: Set Up Database
+- Create a new MySQL/MariaDB database and user in your hosting control panel (e.g., cPanel, Plesk).
+- Note the database name, username, and password.
 
----
+### Step 3: Configure Environment
+- Open the `.env` file in the root directory.
+- Enter your database credentials:
 
-![Eventmie Web Installer](/images/v2/pro-installer.webp "Eventmie Web Installer")
-
----
-
->{primary} The web-installer sets up everything: Laravel Framework, Eventmie Pro package, and composer dependencies.
-
----
-
-Follow these steps to get started with the web-installer:
-
-1. Create a database on your cPanel/server and note the credentials: `database name`, `username`, and `password`.
-2. After extracting `eventmie-pro-webinstaller.zip` in your website directory, go to that directory.
-3. Open the `.env` file at the root (e.g., `public_html/.env`) and enter your database credentials:
-
-    ```php
-        DB_DATABASE=<database-name>
-        DB_USERNAME=<database-user-username>
-        DB_PASSWORD=<database-user-password>
+    ```env
+    DB_DATABASE=your_db_name
+    DB_USERNAME=your_db_user
+    DB_PASSWORD=your_db_password
     ```
 
-3. Visit your website URL. When prompted, enter your license code and click Proceed.
-4. After successful license verification, you'll be redirected to the Eventmie Pro web-installer steps form.
-5. Follow the on-screen steps:
+### Step 4: Run the Installer
+- Visit your website URL in a browser (e.g., `https://yourdomain.com`).
+- Enter your license code when prompted and click **Proceed**.
+- Follow the on-screen steps:
+    1. **Check Server Requirements** – Installer will highlight any missing PHP extensions.
+    2. **Check Folder Permissions** – Set correct permissions for `storage` and `bootstrap` folders if needed.
+    3. **Finalize Setup** – Enter your website name and URL, then click **Install**.
 
-    * **Step-1: Check server requirements** <br>
-    The installer will automatically check your server requirements and highlight any missing PHP extensions. If any are missing, install them or contact your hosting provider. Refresh the page after resolving any issues.
+---
 
-    
-    * **Step-2: Check Folder Permissions** <br> 
-    If you see a red cross, change the permissions for the `storage` and `bootstrap` folders (details provided on the installer page.)
+> {primary} The installer will automatically set up Laravel, Eventmie Pro, and all dependencies.
 
-    * **Step-3: Final Step** <br>
-    Enter your Website Name & URL and click Install.
+---
 
+> {primary.fa-youtube} **Prefer video?** Watch our [step-by-step installation video](https://classiebit.com/academy/eventmie-pro/eventmie-pro-installation-with-installer) for a visual walkthrough.
 
+---
+
+<iframe width="75%" height="500" src="https://www.youtube.com/embed/a-eaCkehFe4?si=DcapZsjbL6ouMun-" title="Eventmie Pro step-by-step installation video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 <a name="purchased-from-codecanyon"></a>
-## Purchased From Codecanyon
+## Purchased from Codecanyon?
 
-If you purchased Eventmie Pro from Codecanyon (`codecanyon.net`), follow these steps:
+1. Use your Codecanyon **Purchase Code** as the **license key** during installation.
+2. Register at [classiebit.com](https://classiebit.com) and go to [Downloads](https://classiebit.com/downloads).
+3. Click **Purchased from Codecanyon?** and enter your purchase code to access downloads and domain authorization.
+4. Add the authorized domain where you will install Eventmie Pro, and you're ready to go. 👍
 
-1. Enter your `Purchase-code` as the License key in the Eventmie Pro installer.
-2. Visit [classiebit.com](https://classiebit.com), sign up as a new user, and go to [Downloads](https://classiebit.com/downloads).
-3. Click on <larecipe-button radius="half" type="black">Purchased from Codecanyon?</larecipe-button>
-4. In the popup, enter your Purchase-code and submit. The product will appear in your download list.
-5. Add the authorized domain where you will install Eventmie Pro, and you're ready to go. 👍
+---
 
+<a name="troubleshooting--common-errors"></a>
+## Troubleshooting & Common Errors
 
-
-<a name="installation-errors"></a>
-## Installation Errors
-
-1. If you encounter the error `1071 Specified key was too long;` during installation, it's due to an older MySQL version. To resolve:
-
-* Go to `config/database.php` and update the `mysql` section as follows:
-
+### 1. `1071 Specified key was too long;`
+- Caused by older MySQL versions. In `config/database.php`, update the `mysql` section:
     ```php
     'charset'   => 'utf8',
     'collation' => 'utf8_unicode_ci',
@@ -209,67 +125,66 @@ If you purchased Eventmie Pro from Codecanyon (`codecanyon.net`), follow these s
     'engine'    => 'InnoDB ROW_FORMAT=DYNAMIC',
     ```
 
+### 2. MySQL Strict Mode
+- For MySQL 5.7 or older, set `'strict' => false` in `config/database.php`.
 
-2. If you're running MySQL `5.7` or older, disable strict mode in the `mysql` section of `config/database.php`:
+### 3. `classiebit/eventmie-pro package not found`
+- Delete the `classiebit` folder in `vendor` and run `composer update` in your project root.
 
-    ```php
-    'strict'    => false,
-    ```
-
-3. If you get a `classiebit/eventmie-pro package not found error`, it may be due to the `symlink` feature being disabled on some hosts. To fix:
-
-- Delete the `classiebit` folder inside the `vendor` directory and run `composer update` in your website's root directory.
-
-
-<a name="signup-error"></a>
-## Signup Error
-
-After installation, ensure you add your Mail server SMTP credentials in the Admin Panel.
-
-- Go to the Admin Panel
-- **Update the Admin email (admin@admin.com) to a real email address.**
-- Click on Settings -> Mail tab
-- Enter your mail server credentials.
-- Test your SMTP credentials at [smtper.net](https://www.smtper.net) if emails are not being delivered.
+### 4. Signup or Email Issues
+- After installation, update your admin email and SMTP settings in the Admin Panel (see below).
 
 ---
 
->{warning} If some emails are sending but booking emails are not, it's likely due to the default admin@admin.com email. Please update it to a real email address.
+<a name="post-installation-checklist"></a>
+## Post-Installation Checklist
+
+1. **Update Admin Email**
+    - Log in to the Admin Panel
+    - Change the default email (`admin@admin.com`) to your real email address
+    - Go to **Settings → Mail** and enter your SMTP credentials
+    - Test your SMTP at [smtper.net](https://www.smtper.net)
+
+2. **Change Admin Password**
+    - For security, update the default admin password
+
+3. **Test Your Installation**
+    - Create a test event and booking to ensure everything works
+
+4. **Set Up Backups**
+    - Configure regular backups for your files and database
 
 ---
 
-![Admin email update](/images/update-admin-email.png "Admin email update")
+<a name="need-help"></a>
+## Need Help?
+
+- **Documentation:** Explore the rest of the docs for advanced configuration, features, and troubleshooting.
+- **Support:** Contact [info@classiebit.com](mailto:info@classiebit.com) for technical support or customization services.
+
+---
+
+> {success} **You're all set!** Enjoy your new Eventmie Pro platform. If you need help, we're here for you—before, during, and after your event.
 
 ---
 
 
-<a name="update-admin-email"></a>
-## Update Admin Email
+---
 
-After installation, update the Admin email and password:
+<a name="enterprise-grade-hosting"></a>
+## Need Enterprise-Grade Hosting?
 
-- Go to the Admin Panel and click the Profile icon at the top-right.
+Looking for high-performance, managed hosting for your Eventmie Pro platform? Our premium cloud hosting solutions provide:
 
-    ---
+- **AWS-powered infrastructure** with Laravel Forge management
+- **24/7 monitoring and support** for peace of mind
+- **Automatic scaling** to handle traffic spikes during major events
+- **Zero-downtime migrations** from your current hosting
+- **Priority live event support** for mission-critical events
 
-    ![Admin email update](/images/1-admin-email.webp "Admin email update")
+Perfect for high-traffic events, enterprise clients, and organizations that need reliability and performance.
 
-    ---
+👉 **[Learn more about our Cloud Hosting & Managed AWS Solutions →](/{{route}}/{{version}}/fullyloaded/cloud-hosting)**
 
-- Click Profile, then Edit Profile on the next page.
+---
 
-    ---
-
-    ![Admin email update](/images/2-admin-email.webp "Admin email update")
-
-    ---
-
-- Update **admin@admin.com** to your real email address.
-
-    ---
-
-    ![Admin email update](/images/3-admin-email.webp "Admin email update")
-
-    ---
-
-- Also change the Admin password.
