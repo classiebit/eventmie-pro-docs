@@ -1,16 +1,16 @@
 # Introduction
 
-Welcome to **Eventmie Pro** and **Eventmie Pro FullyLoaded** documentation— your gateway to the world's most advanced, flexible, scalable, secure and customizable self-hosted event management and ticketing platform. 
+Welcome to **Eventmie Pro** and **Eventmie Pro FullyLoaded** documentation—your gateway to the world's most advanced, flexible, scalable, secure, and customizable self-hosted event management and ticketing platform. 
 
 <br>
-Since our launch, we have been relentlessly innovating, releasing constant updates, and listening to our global community to make Eventmie Pro and FullyLoaded the best event platform for organizers, businesses, and educators worldwide.
+Since our launch, we have been relentlessly innovating, releasing constant updates, and listening to our global community to make Eventmie Pro and FullyLoaded the best event platform for organizers, businesses, and educators worldwide. With the latest release, **AI-driven features** take center stage—empowering you to create, manage, and promote events faster and smarter than ever before.
 
 <br>
 Whether you're an event organizer or small/medium/large/enterprise event organization, running a global conference, a local workshop, online classes, or a multi-organizer marketplace, 
 Eventmie Pro and FullyLoaded adapts to your needs and scales with your ambitions. Our mission is to empower you with total control, unlimited growth potential, and a business model that puts you first. 
 
 <br>
-Eventmie Pro and FullyLoaded empowers you to launch, manage, and grow your event business—anywhere in the world.
+Eventmie Pro and FullyLoaded empowers you to launch, manage, and grow your event business—anywhere in the world—with the latest in **AI-powered event creation, SEO optimization, and intelligent automation**.
 
 ---
 
@@ -18,23 +18,23 @@ Eventmie Pro and FullyLoaded empowers you to launch, manage, and grow your event
 
 ---
 
-> {primary} **Since day one, we've been committed to continuous improvement—releasing new features, enhancements, and optimizations based on your feedback and the latest industry trends. Our roadmap is ambitious: in the coming years, we aim to make Eventmie Pro and FullyLoaded the best self-hosted event ticketing platform ever built.**
+> {primary} **Since day one, we've been committed to continuous improvement—releasing new features, enhancements, and optimizations based on your feedback and the latest industry trends. Our roadmap is ambitious: in the coming years, we aim to make Eventmie Pro and FullyLoaded the best self-hosted event ticketing platform ever built, with AI at its core.**
 
 ---
 
 **Real-World Use Cases**
 
-1. **Event Organizers:** Conferences, expos, festivals, concerts, private parties with password protected access, and more.
-2. **Educators & Coaches:** Recurring online classes, yoga sessions, training, and workshops.
-3. **Businesses:** Internal events, seminars, product launches, and team-building.
-4. **Agencies & Developers:** Deliver white-label event solutions to clients worldwide.
-5. **Festivals & Seasonal Events:** Festivals, fairs, carnivals, and seasonal events. Let attendees access the whole season with a single ticket.
+1. **Event Organizers:** Conferences, expos, festivals, concerts, private parties with password protected access, and more—now with AI-assisted event setup and marketing.
+2. **Educators & Coaches:** Recurring online classes, yoga sessions, training, and workshops—leverage AI to generate course/event content and reminders.
+3. **Businesses:** Internal events, seminars, product launches, and team-building—use AI for automated event descriptions and attendee engagement.
+4. **Agencies & Developers:** Deliver white-label, AI-powered event solutions to clients worldwide.
+5. **Festivals & Seasonal Events:** Festivals, fairs, carnivals, and seasonal events. Let attendees access the whole season with a single ticket, and use AI to optimize event listings and discoverability.
 
     and many more.
 
 ---
 
-> {success} **Join thousands of successful organizers and businesses who trust Eventmie Pro to power their events.**
+> {success} **Join thousands of successful organizers and businesses who trust Eventmie Pro to power their events—with the latest in AI-driven automation.**
 
 ---
 
@@ -52,7 +52,7 @@ Eventmie Pro and FullyLoaded empowers you to launch, manage, and grow your event
 <a name="what-is-eventmie-pro"></a>
 ## What is Eventmie Pro?
 
-**Eventmie Pro** is a powerful event planning, management, and ticketing platform that empowers you to launch your own dedicated event website on your domain. As a self-hosted, multi-organizational event management system, it streamlines every aspect of event planning and ticket sales through automation. Eventmie Pro is secure, scalable, fully customizable, and ready for production use. 
+**Eventmie Pro** is a powerful event planning, management, and ticketing platform that empowers you to launch your own dedicated event website on your domain. As a self-hosted, multi-organizational event management system, it streamlines every aspect of event planning and ticket sales through automation—including the latest **AI-powered event creation and content generation**. Eventmie Pro is secure, scalable, fully customizable, and ready for production use. 
 <br>
 **Eventmie Pro** is a next-generation, self-hosted event management software built on Laravel. Trusted by businesses and organizers globally.
 
@@ -109,6 +109,7 @@ Prefer a single-organization setup? Simply **disable multi-organization mode** a
 
 **Eventmie Pro FullyLoaded** is the ultimate upgrade to **Eventmie Pro** for high-growth organizations and ambitious event marketplaces. **Eventmie Pro Fullyloaded** includes all the benefits and features of Eventmie Pro, plus the following:
 
+- **AI-Powered Event Creation & Automation:** Instantly generate event details, marketing content, and SEO-optimized descriptions with built-in AI tools.
 - **Advanced Analytics & Reporting:** Real-time dashboards and deep insights.
 - **Marketing Automation:** Email campaigns, reminders, and promotional tools.
 - **Expanded Payment Options:** More gateways, more flexibility.
@@ -128,7 +129,7 @@ Prefer a single-organization setup? Simply **disable multi-organization mode** a
 <a name="why-eventmie-pro-fullyloaded"></a>
 ## Why Eventmie Pro FullyLoaded? 🚀
 
-**Eventmie Pro FullyLoaded** unlocks the most advanced features for high-growth organizations and enterprise-level event management and ticketing. It provides you complete peace of mind that you are ahead of your competitors in terms of security, scalability, features availability and future-proofing.
+**Eventmie Pro FullyLoaded** unlocks the most advanced features for high-growth organizations and enterprise-level event management and ticketing. It provides you complete peace of mind that you are ahead of your competitors in terms of security, scalability, features availability and future-proofing—with the added advantage of **AI-powered automation and content generation**.
 
 <br>
 
@@ -138,6 +139,7 @@ Prefer a single-organization setup? Simply **disable multi-organization mode** a
 - CRM and marketing integrations
 - Workflow automation
 - Advanced attendee engagement with push notifications, real-time updates, and broadcast messages.
+- **AI-powered event creation and marketing tools**
 - And much more!
 
 ---
@@ -156,13 +158,12 @@ Prefer a single-organization setup? Simply **disable multi-organization mode** a
 | **Ownership**           | Self-hosted                                                                      | Self-hosted                                                                                                   | Self-hosted, integrates with FullyLoaded                    |
 | **License Types**       | Developer, Non-Developer, Enterprise                                             | Developer, Non-Developer, Enterprise                                                                          | Developer, Non-Developer, Enterprise (requires FullyLoaded) |
 | **Customization**       | Customizable                                                                     | Fully customizable with extended modules                                                                      | Customizable branding and features                          |
-| **Key Features**        | - Create/manage events<br>- Ticket booking<br>- Payment gateways<br>- Multilingual<br>- Calendar & search filters | ✅ All Eventmie Pro features **PLUS:**<br>- Reserved Seating<br>- POS System<br>- WhatsApp & SMS Booking Alerts<br>- Android & iOS Scanner Apps<br>- Promo Codes<br>- Multi-color themes<br>- Embedded Live Streaming<br>- Hands-free Auto Check-in<br>- Ecommerce Shop & Addons<br>- Two-Way Communication<br>- Advanced Reporting & Dashboard | - Mobile ticket scanning & check-in<br>- Attendee app<br>- Push notifications<br>- Real-time updates<br>- Offline support |
+| **Key Features**        | - Create/manage events<br>- Ticket booking<br>- Payment gateways<br>- Multilingual<br>- Calendar & search filters<br>- **AI-powered event creation** | ✅ All Eventmie Pro features **PLUS:**<br>- Reserved Seating<br>- POS System<br>- WhatsApp & SMS Booking Alerts<br>- Android & iOS Scanner Apps<br>- Promo Codes<br>- Multi-color themes<br>- Embedded Live Streaming<br>- Hands-free Auto Check-in<br>- Ecommerce Shop & Addons<br>- Two-Way Communication<br>- Advanced Reporting & Dashboard<br>- **AI-powered event creation & marketing** | - Mobile ticket scanning & check-in<br>- Attendee app<br>- Push notifications<br>- Real-time updates<br>- Offline support |
 | **Mobile App Support**  | No                                                                               | Yes (optional with Web + Apps bundle)                                                                         | Native Android & iOS apps built with React Native           |
 | **Installation Support**| with Non-Developer & Enterprise licenses in which we install the platform on <br> your domain & server/hosting.  | with Non-Developer & Enterprise licenses in which we install the platform on <br> your domain & server/hosting.  | with Non-Developer & Enterprise licenses in whcih we publish the apps on your Play Store & App Store accounts. |
 | **Pricing**             | From $69 to $299 ~~$1999~~                                              | From $499 to $999 ~~$5999~~                                                                         | From $1499 to $3999 ~~$12999~~                    |
 | **Best For**            | Getting started with selling tickets online                                      | Running your own full-featured ticketing platform with branding, apps & complete control                      | Enhancing attendee experience and on-the-go event management|
 | **Best Value Offer**    |  | 🎁 When you buy Eventmie Pro FullyLoaded Web + App bundle, you get the Web version for free. It's like USD 499 discount. <br> Read the limited time offer below. 💰|
-
 
 ### 🚀 Unlock the Complete Power of Eventmie Pro FullyLoaded Web + App Bundle – and Save Big!
 
@@ -193,6 +194,7 @@ Prefer a single-organization setup? Simply **disable multi-organization mode** a
 - ✅ Fully customizable mobile apps (Android + iOS)
 - ✅ Complete source code
 - ✅ One seamless event management experience
+- ✅ **Open AI Integration for event creation and automation**
 
 
 ---
