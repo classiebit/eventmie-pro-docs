@@ -1,9 +1,9 @@
-# Simple Events
+# Simple Events: Effortless Event Creation for Any Occasion
 
-In Eventmie Pro, you can easily create single-day or multi-day events. Each event is associated with an organizer, and both Admins and Organizers can create events directly from the front-end for a seamless event management experience.
+Create, manage, and publish single-day or multi-day events with Eventmie Pro's Simple Events feature—designed for maximum flexibility, business growth, and attendee engagement. Whether you're hosting a conference, workshop, performance, or community gathering, Simple Events empower you to launch professional event pages in minutes, with all the tools you need to succeed.
 
 ---
-<small>**Eventmie Pro Fullyloaded Event Page Preview**</small>
+
 <img src="/images/v3/Screenshot 2025-06-24 at 4.14.49 PM.webp" alt="Simple event view" title="Simple event view" class="medium-zoom-image">
 
 ---
@@ -17,13 +17,13 @@ In Eventmie Pro, you can easily create single-day or multi-day events. Each even
 ---
 
 -   [Create Simple Event](#create-simple-event)
--   [Details <small class="v">v1.7</small>](#Details)
+-   [Details](#Details)
 -   [Timing](#Timing)
--   [Tickets <small class="v">v2.0</small>](#Tickets)
+-   [Tickets](#Tickets)
 -   [Location](#Location)
 -   [Media](#Media)
 -   [SEO](#SEO)
--   [Powered By](#powered-by)
+-   [Publish](#publish)
 
 <a name="create-simple-event"></a>
 
@@ -33,22 +33,21 @@ A simple event refers to a single-day or multi-day event. Click on <larecipe-but
 
 <a name="Details"></a>
 
-## Details <small class="v">v1.7</small>
+## Details
 
 The first step is required to proceed. Enter the following event details:
 
--   Select Organizer (if logged in as Admin)
--   Category
--   Event name
--   Event excerpt (optional)
--   Event URL (auto-generated)
--   Description
--   Why attend this event? (optional)
--   Offline Payment Instructions (displayed under **Offline Payment** option) <small class="v">v1.7</small>
+- **Organizer:** (Admins only) Assign or create an organizer profile.
+- **Category:** Choose the most relevant event category for discoverability.
+- **Event Name & Excerpt:** Clear, compelling titles and summaries boost engagement and SEO.
+- **Event URL:** Auto-generated, but can be customized for branding and SEO.
+- **Description:** Use rich formatting to highlight value, agenda, and speakers.
+- **Why Attend:** (Optional) Persuade visitors with unique selling points.
+- **Offline Payment Instructions:** (If enabled)
 
 <br>
 
-**(Only Admin can modify these two options)**
+**Featured & Status: (Admins only) Highlight or control event visibility**
 
 -   Event Featured (if logged in as Admin) (set Event as Featured)
 -   Event Status (if logged in as Admin) (force Enable/Disable event)
@@ -59,20 +58,17 @@ The first step is required to proceed. Enter the following event details:
 
 ---
 
+> {success} **SEO Tip:** Use keywords in your event name, description, and excerpt for better search rankings. Try the Create with AI feature to generate SEO-optimized content automatically.
+
+---
+
 <a name="Timing"></a>
 
 ## Timing
 
-Set the timing for your single-day or multi-day event.
+Define when your event starts and ends. Supports both single-day and multi-day formats.
 
-<br>
-
-**Form Fields**
-
--   Start date
--   Start time
--   End date
--   End time
+- **Start/End Date & Time:** Ensure accuracy for attendee trust and calendar sync.
 
 ---
 
@@ -80,32 +76,38 @@ Set the timing for your single-day or multi-day event.
 
 ---
 
-> {warning} Do not check the `Add Repetitive Schedules` option here. This will be explained in its own section.
+> {warning} **Note:** For recurring schedules, use [Repetitive Events](./repetitive-events).
 
 ---
 
 <a name="Tickets"></a>
 
-## Tickets <small class="v">v2.0</small>
+## Tickets
 
-Create tickets for your event to maximize attendance and revenue.
+Create free or paid tickets, set capacities, and apply taxes for transparent pricing.
 
 -   Tickets can be `Free` or `Paid`.
 -   Apply taxes to each ticket individually for accurate pricing.
 -   Multiple taxes can be applied to a single ticket.
 -   Set a custom ticket order to display tickets on the Checkout Page in your preferred sequence.
 
-<br>
+---
 
-**Form Fields**
+![Events free & paid tickets with taxes](/images/v3/Edit-particular-ticket-in-EP-image-5.webp "Events free & paid tickets with taxes")
 
--   Title
--   Price (set 0 for Free ticket)
--   Capacity (maximum bookings per ticket)
--   Booking Limit Per Customer (how many times the same customer can purchase this ticket) <small class="v">v1.7</small>
--   Description (ticket amenities info) (optional)
--   Taxes (optional)
--   Order (set to 0, 1, 2, 3, etc. to control display order on checkout page) <small class="v">v2.0</small>
+---
+
+
+**Ticket Settings:**
+
+- **Title:** Set the ticket title e.g "Early Bird", "VIP", "Group", "Standard", etc.
+- **Price:** Set the ticket price. Set to 0 for free tickets. Set a higher value than 0 for paid tickets.
+- **Total Ticket Quantity (Capacity):** Limit bookings per ticket per customer. (unique email address)
+- **Booking Limit Per Customer:** Prevent scalping or overbooking.
+- **Description:** Highlight ticket perks or amenities.
+- **Taxes:** Apply one or more taxes per ticket.
+- **Sequence No.:** Set to 0, 1, 2, 3, etc. to control display order on checkout page. (**FullyLoaded only**)
+
 
     ---
 
@@ -117,30 +119,16 @@ Create tickets for your event to maximize attendance and revenue.
 
     ---
 
----
-
-![Events free & paid tickets with taxes](/images/v3/Edit-particular-ticket-in-EP-image-5.webp "Events free & paid tickets with taxes")
-
----
 
 <a name="Location"></a>
 
 ## Location
 
-Add event location details to help attendees find your venue easily. Enter `Google map Lat-long` to display a pinned venue on the event page map.
+Add event location details to help attendees find your venue easily. Enter `Google map Lat-long` to display a pinned venue on the event page map. Supports both physical and hybrid events.
 
-<br>
-
-**Form Fields**
-
--   Venue
--   Google Map Lat (optional)
--   Google Map Long (optional)
--   Address (optional)
--   City (optional)
--   State (optional)
--   Zipcode (optional)
--   Country (optional)
+- **Venue Name & Address:** Accurate details improve trust and navigation.
+- **Google Map Lat/Long:** Pin your venue for easy discovery.
+- **City, State, Zip, Country:** For local SEO and filtering.
 
 ---
 
@@ -148,7 +136,7 @@ Add event location details to help attendees find your venue easily. Enter `Goog
 
 ---
 
-> {warning} Do not check the `Online Event` option here. This will be explained in its own section.
+> {warning} **Online Events:** For virtual-only events, see [Online Events](./online-events).
 
 ---
 
@@ -156,24 +144,19 @@ Add event location details to help attendees find your venue easily. Enter `Goog
 
 ## Media
 
-Upload your event poster, thumbnail, and gallery images. Use the recommended image sizes for best results. Crop and adjust images as needed for a professional look.
+Make your event stand out with professional images and videos. Upload your event image, and gallery images. Use the recommended image sizes for best results. Crop and adjust images as needed for a professional look.
 
-<br>
-
-**Form Fields**
-
--   Thumbnail
--   Poster Image
--   Images Gallery (optional)
--   YouTube Video ID (optional)
-
----
-
-> {success} You can now manage gallery images easily by adding or removing them one by one.
+- **Thumbnail:** Upload mentioned image size (512x512px) or any square size for event thumbnail. You can upload any square size image as well. The cropper will crop itself.
+- **Gallery:** Showcase past events or speakers.
+- **YouTube Video URL:** Embed promo or highlight reels. (**FullyLoaded only**)
 
 ---
 
 ![Upload Event cover images & youtube video URL](/images/v3/How-to-edit-media-in-EP-image-7.webp "Upload Event cover images & youtube video URL")
+
+---
+
+> {success} **Pro Tip:** Use images with text overlays for key info (date, location, call-to-action).
 
 ---
 
@@ -183,11 +166,9 @@ Upload your event poster, thumbnail, and gallery images. Use the recommended ima
 
 Optimize your event for search engines by adding meta titles, keywords, and descriptions. These tags are specific to each event and help improve event-specific SEO.
 
-**Form Fields**
-
--   Meta Title (optional)
--   Meta Tags/Keywords (optional)
--   Meta Description (optional)
+- **Meta Title:** Appears in browser tabs and search results.
+- **Meta Tags/Keywords:** Target relevant search queries.
+- **Meta Description:** Persuasive summary for higher click-through rates.
 
 ---
 
@@ -195,20 +176,21 @@ Optimize your event for search engines by adding meta titles, keywords, and desc
 
 ---
 
-<a name="powered-by"></a>
-
-## Powered By
-
-Final step:
-
-1. Select tags (optional).
-2. Click &nbsp;<larecipe-button type="info" size="sm" rounded>Save</larecipe-button>
-3. Then click &nbsp;<larecipe-button type="success" size="sm" rounded>Publish</larecipe-button>
-4. You can `Un-publish` / `Publish` your event at any time.
+> {primary} **SEO Best Practice:** Keep meta titles under 60 characters and descriptions under 160 characters.
 
 ---
 
-> {primary} You can also create new Tags directly from the Powered By tab. More details are available in the Tags section.
+<a name="publish"></a>
+
+## Finalize & Publish
+
+- **Tags:** Add or create tags for discoverability and filtering. Tags can be used to categorize speakers, sponsors, VIPs, hosts, or any other key participants and highlights of your event. Create custom tag groups to organize and showcase important people and elements that make your event special.
+- **Save & Publish:** Instantly preview and publish your event.
+- **Unpublish/Republish:** Control event visibility at any time.
+
+---
+
+> {info} **Checklist:** An event can be published only after completing Details, Timings, Tickets, Location, and Media steps.
 
 ---
 
@@ -216,14 +198,40 @@ Final step:
 
 ---
 
-> {success} View your `Published` event on the listing page &nbsp;<larecipe-button type="secondary" size="sm" rounded>Browse Events</larecipe-button>
+> {primary} **Tip:** You can manage tags from the Dashboard > Tags.
 
 ---
 
-> {primary} An event can be `published` only after completing the following steps: `Details`, `Timings`, `Tickets`, `Location`, and `Media`.
+> {success} **Next Steps:** View your published event on the listing page <larecipe-button type="secondary" size="sm" rounded>Browse Events</larecipe-button>
 
 ---
 
 <iframe width="75%" height="500" src="https://www.youtube.com/embed/F8skElY3xAQ?si=aE2lTTinQFKusJfP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+
+
+## Troubleshooting & FAQ
+
+**Q: Why can't I publish my event?**
+A: Ensure all required steps (Details, Timing, Tickets, Location, Media) are complete.
+
+**Q: How do I create a recurring or online event?**
+A: Use [Repetitive Events](./repetitive-events) or [Online Events](./online-events) for advanced scheduling and virtual options.
+
+**Q: How do I optimize my event for search engines?**
+A: Use relevant keywords in your event name, description, and meta tags.
+
+**Q: Can I duplicate or clone an event?** (**available in FullyLoaded**)
+A: Yes, use the event clone feature to save time on similar events.
+
+**Q: Where can I get more help?**
+A: See [Support & Customizations](../customisations-support) or contact our team.
+
+
+
+## Upgrade Callouts & Advanced Features
+
+- **Repetitive Events:** For weekly, monthly, or custom schedules, see [Repetitive Events](./repetitive-events).
+- **Online/Hybrid Events:** For virtual or hybrid formats, see [Online Events](./online-events).
+- **AI-Powered Event Creation:** Use AI to generate event descriptions, images, and more (see [AI Features](../artificial-intelligence/ai-event-creation)).
