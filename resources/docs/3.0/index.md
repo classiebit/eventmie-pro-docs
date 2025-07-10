@@ -5,7 +5,8 @@
     - [1.4 Update <small class="v">v3.0</small>](/{{route}}/{{version}}/update)
     - [1.5 What's New <small class="v">v3.0</small>](/{{route}}/{{version}}/changelog/changes)
     - [1.6 Customisations Support](/{{route}}/{{version}}/customisations-support)
-    - [1.7 Demo Accounts](/{{route}}/{{version}}/demo-accounts)
+    - [1.7 Cloud Hosting <small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/cloud-hosting)
+    - [1.8 Demo Accounts](/{{route}}/{{version}}/demo-accounts)
     
     <!-- - [1.6 Codecanyon <small class="v">v2.0</small>](/{{route}}/{{version}}/eventmie-pro-content-codecanyon) -->
 
@@ -17,32 +18,31 @@
     - [2.4 Dashboard](/{{route}}/{{version}}/admin/dashboard)
     - [2.5 Administration](/{{route}}/{{version}}/admin/administration)
     - [2.6 Commissions](/{{route}}/{{version}}/admin/commissions)
-    - [2.7 Manual Approval](/{{route}}/{{version}}/admin/organiser-approval)
+    - [2.7 Organizer Approval](/{{route}}/{{version}}/admin/organiser-approval)
     - [2.8 Menu Builder](/{{route}}/{{version}}/admin/menu-builder)
 
+
 - ## 3. Events
-    - [3.1 Simple Events <small class="v">v2.0</small>](/{{route}}/{{version}}/events/simple-events)
-    - [3.2 Repetitive Events <small class="v">v2.0</small>](/{{route}}/{{version}}/events/repetitive-events)
+    - [3.1 Simple Events](/{{route}}/{{version}}/events/simple-events)
+    - [3.2 Repetitive Events](/{{route}}/{{version}}/events/repetitive-events)
     - [3.3 Online Events](/{{route}}/{{version}}/events/online-events)
     - [3.4 Manage Events](/{{route}}/{{version}}/events/manage-events)
     - [3.5 Manage Venues](/{{route}}/{{version}}/events/manage-venues)
-    - [3.6 Organiser Dashboard <small class="v">v2.0</small>](/{{route}}/{{version}}/events/organiser-dashboard)
+    - [3.6 Organiser Dashboard](/{{route}}/{{version}}/events/organiser-dashboard)
 
 
 - ## 4. Bookings
-    - [4.1 Booking Tickets <small class="v">v2.0</small>](/{{route}}/{{version}}/bookings/booking-tickets)
+    - [4.1 Booking Tickets](/{{route}}/{{version}}/bookings/booking-tickets)
     - [4.2 Email Notifications](/{{route}}/{{version}}/bookings/email-notifications)
     - [4.3 Manage Bookings](/{{route}}/{{version}}/bookings/manage-bookings)
     - [4.4 Cancellation & Refund](/{{route}}/{{version}}/bookings/cancellation-refund)
-    - [4.5 Ticket Scanner <small class="v">v2.0</small>](/{{route}}/{{version}}/bookings/ticket-scanner)
-
-- ## 5. Artificial Intelligence
-    - [5.1 AI Event Creation <small class="v">v3.0</small>](/{{route}}/{{version}}/artificial-intelligence/ai-event-creation)
+    - [4.5 Ticket Scanner](/{{route}}/{{version}}/bookings/ticket-scanner)
 
 - ## 6. Eventmie Pro FullyLoaded
     - [6.1 Introduction <small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/introduction)
     - [6.2 Installation <small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/installation)
     - [6.3 Upgrade <small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/upgrade)
+    - [6.4 Cloud Hosting <small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/cloud-hosting)
     - [6.4 Stripe <small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/stripe)
     - [6.5 Stripe Direct](/{{route}}/{{version}}/fullyloaded/stripe-direct)
     - [6.6 Authorize.Net](/{{route}}/{{version}}/fullyloaded/authorize.net)
