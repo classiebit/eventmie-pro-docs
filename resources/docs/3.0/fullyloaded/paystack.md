@@ -3,9 +3,27 @@ Meta Description: Learn how to enable and configure Paystack Payment Gateway in 
 Meta Keywords: Paystack, payment gateway, Eventmie Pro FullyLoaded, Laravel Paystack integration, secure payments, merchant account, Africa, Nigeria, online payments, event management, Classiebit
 -->
 
+# Paystack Integration (FullyLoaded)
+
+Eventmie Pro FullyLoaded integrates with Paystack—accept payments in Africa, support local currencies, and expand your reach to new markets.
+
+
+1. **African Payment Gateway:**
+  - Accept payments from Nigeria, Ghana, South Africa, and more
+  - Support for local currencies and mobile money
+2. **Seamless Checkout:**
+  - Fast, secure, and mobile-friendly payment flows
+  - Reduce barriers for African attendees
+3. **Reporting & Settlement:**
+  - Track payments and settlements in real time
+  - Export data for accounting and compliance
+
+---
+
 >{success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
-<br>
+---
+
 
 # Paystack Payment Gateway Integration for Eventmie Pro FullyLoaded
 

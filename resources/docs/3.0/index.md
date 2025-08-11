@@ -5,7 +5,7 @@
     - [1.4 Update <small class="v">v3.0</small>](/{{route}}/{{version}}/update)
     - [1.5 What's New <small class="v">v3.0</small>](/{{route}}/{{version}}/changelog/changes)
     - [1.6 Customisations Support](/{{route}}/{{version}}/customisations-support)
-    - [1.7 Cloud Hosting <small class="v">v2.0</small>](/{{route}}/{{version}}/fullyloaded/cloud-hosting)
+    - [1.7 Cloud Hosting](/{{route}}/{{version}}/fullyloaded/cloud-hosting)
     - [1.8 Demo Accounts](/{{route}}/{{version}}/demo-accounts)
     
     <!-- - [1.6 Codecanyon <small class="v">v2.0</small>](/{{route}}/{{version}}/eventmie-pro-content-codecanyon) -->

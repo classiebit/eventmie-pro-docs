@@ -3,13 +3,22 @@ Meta Description: Learn how to set event-specific currencies in Eventmie Pro Ful
 Meta Keywords: event-specific currency, multiple currencies, Eventmie Pro FullyLoaded, Laravel currency settings, international events, event management, multi-currency, Classiebit
 -->
 
-> {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
+# Event-Specific Currency (FullyLoaded)
 
-<br>
+Eventmie Pro FullyLoaded lets you set different currencies for each event—enabling global reach and attendee convenience for international audiences.
 
-# Event-specific Currency
+---
 
-Easily set a different currency for each event in Eventmie Pro FullyLoaded. This feature allows you to host and manage multiple events in various currencies, making your platform ideal for international and multi-region event management.
+1. **Per-Event Currency:**
+  - Assign a unique currency to each event
+  - Display prices and process payments in the attendee's local currency
+2. **Global Reach:**
+  - Attract international attendees with familiar pricing
+  - Simplify accounting for multi-country operations
+3. **Seamless Integration:**
+  - Works with Stripe Connect and other payment gateways
+  - Automatic currency conversion and reporting
+
 
 ---
 

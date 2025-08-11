@@ -7,9 +7,17 @@ Meta Keywords: create attendee, Eventmie Pro FullyLoaded, Laravel attendee regis
 
 <br>
 
-# Create Attendee
+# Create Attendee (FullyLoaded)
 
-Easily create new attendees directly from the checkout popup in Eventmie Pro FullyLoaded. This feature allows admins and organizers to add attendees instantly during the booking process, eliminating the need for separate attendee registration steps.
+Eventmie Pro FullyLoaded lets you manually add attendees to any event—perfect for on-site registration, group bookings, or last-minute changes.
+
+---
+
+1. Add attendees directly from the admin or organizer dashboard
+2. Capture all required details and assign tickets instantly
+3. Walk-in registrations at the event entrance
+4. Print or email tickets on the spot
+
 
 ---
 

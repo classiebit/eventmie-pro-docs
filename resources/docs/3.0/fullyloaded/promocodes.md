@@ -8,6 +8,10 @@ Meta Keywords: promocodes, discount codes, Eventmie Pro FullyLoaded, Laravel pro
 
 # Promocodes & Discount Codes in Eventmie Pro FullyLoaded
 
+Eventmie Pro FullyLoaded gives you powerful tools to create, manage, and analyze promo codes—helping you boost sales, reward loyal customers, and run targeted marketing campaigns.
+
+---
+
 Create and manage discount promocodes that customers can apply to event tickets during checkout in your Eventmie Pro FullyLoaded Laravel event management platform. Boost ticket sales and event marketing with flexible coupon options for both admins and organizers.
 
 As Admin, you can create multiple promocodes with different configurations—fixed or percentage-based discounts, usage limits, and more.
@@ -15,6 +19,22 @@ As Admin, you can create multiple promocodes with different configurations—fix
 Organizers can assign any of these promocodes to their event tickets, even using different codes for each ticket. They can then promote these codes to their audience for special discounts.
 
 Attendees can apply promocodes at checkout to receive instant ticket discounts.
+
+---
+
+1. **Organizer-Level Management:**
+  - Organizers can create and manage their own promo codes
+  - Set start/end dates, usage limits, and eligibility criteria
+2. **Flexible Discount Options:**
+  - Percentage, fixed amount, or custom discounts
+  - Apply to specific events, ticket types, or attendee groups
+3. **Usage Analytics:**
+  - Track promo code performance and ROI
+  - Exportable reports for marketing analysis
+4. **Integration with Marketing Automation:**
+  - Combine promo codes with email, WhatsApp, and SMS campaigns
+  - Automated reminders for expiring or unused codes
+
 
 ---
 
@@ -83,5 +103,3 @@ Customers can apply promocodes on the **Checkout Popup** for instant discounts.
     ***
 
 <iframe width="75%" height="500" src="https://www.youtube.com/embed/dWhBahO3YgU?si=WcIzbEQ72hmGIq7R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
