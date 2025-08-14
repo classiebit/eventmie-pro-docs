@@ -14,7 +14,7 @@ Eventmie Pro and FullyLoaded empowers you to launch, manage, and grow your event
 
 ---
 
-![Eventmie Pro Documentation Banner](/images/v2/EventmieProFullyLoadedV2.0/eventmie-pro-docs-banner-zoom-googlemeet.webp "Eventmie Pro Documentation Banner")
+![Eventmie Pro Documentation Banner](/images/v3/Eventmie-Pro-Thumbnail-Image.webp "Eventmie Pro Documentation Banner")
 
 ---
 

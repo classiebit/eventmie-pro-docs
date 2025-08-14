@@ -4,7 +4,7 @@ Effortlessly schedule and manage daily, weekly, or monthly recurring events with
 
 ---
 
-<img src="/images/v3/EPF-Repetitive-Event-Preview-Image-46.webp" alt="Repetitive event view" title="Repetitive event view" class="medium-zoom-image">
+<img src="/images/v3/Repetitive-events-image-2.webp" alt="Repetitive event view" title="Repetitive event view" class="medium-zoom-image">
 
 ---
 

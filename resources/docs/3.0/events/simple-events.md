@@ -4,7 +4,7 @@ Create, manage, and publish single-day or multi-day events with Eventmie Pro's S
 
 ---
 
-<img src="/images/v3/Screenshot 2025-06-24 at 4.14.49 PM.webp" alt="Simple event view" title="Simple event view" class="medium-zoom-image">
+<img src="/images/v3/Simple-event-image-1.webp" alt="Simple event view" title="Simple event view" class="medium-zoom-image">
 
 ---
 

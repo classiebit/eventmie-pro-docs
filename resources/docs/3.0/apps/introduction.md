@@ -8,7 +8,7 @@ We are excited to announce the release of Eventmie Pro FullyLoaded 2.0 Android &
 
 ---
 
-![eventmie-pro-fullyloaded-app](/images/v2/EventmieProFullyLoadedV2.0/eventmie-pro-fullyloaded-app.webp "eventmie-pro-fullyloaded-app")
+![eventmie-pro-fullyloaded-app](/images/v3/Eventmie-Pro-Fullyloaded-Apps-Thumbnail-Image.webp "eventmie-pro-fullyloaded-app")
 
 ---
 

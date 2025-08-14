@@ -6,7 +6,7 @@ Add private event details such as secret URLs, passwords, or access codes. This 
 
 ---
 
-<img src="/images/v3/EPF-Online-Event-Preview-Image-47.webp" alt="Online event view" title="Online event view" class="medium-zoom-image">
+<img src="/images/v3/Online-event-image-3.webp" alt="Online event view" title="Online event view" class="medium-zoom-image">
 
 ---
 
