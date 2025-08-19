@@ -22,6 +22,14 @@ Eventmie Pro and FullyLoaded empowers you to launch, manage, and grow your event
 
 ---
 
+> {success} **Privacy & Compliance (GDPR Ready):** Eventmie Pro and Eventmie Pro FullyLoaded—across both the website and mobile apps—are designed to support GDPR and global privacy requirements. Built-in capabilities include consent management, cookie banner, email unsubscribe, data export/delete on request, and audit logging. We also support DPA arrangements for enterprises.
+
+---
+
+> {success} **SEO & Structured Data (Schema.org):** Eventmie Pro and FullyLoaded ship with SEO-ready architecture and JSON-LD structured data using [Schema.org](https://schema.org/) across key pages—`Organization`, `Website` (with `SearchAction`), `Event`, `Offer/PriceSpecification`, `BreadcrumbList`, and `FAQPage/Article` where applicable. This improves crawlability, enables rich results, and boosts click-through rates.
+
+---
+
 **Real-World Use Cases**
 
 1. **Event Organizers:** Conferences, expos, festivals, concerts, private parties with password protected access, and more—now with AI-assisted event setup and marketing.
@@ -93,7 +101,9 @@ Prefer a single-organization setup? Simply **disable multi-organization mode** a
 - **Global Reach:** Multi-language and multi-currency support to serve audiences worldwide.
 - **White-Label & Customizable:** Make the platform truly yours with full branding, design, and workflow customization.
 - **Mobile-Optimized & SEO-Friendly:** Reach your audience anywhere, rank higher in search engines, and drive more ticket sales.
+- **Schema.org Structured Data:** JSON-LD markup on key pages (Organization, Website/SearchAction, Event, Offers, Breadcrumbs, FAQ/Article) to enable Google-rich results and faster indexing.
 - **Secure & Compliant:** Host on your own servers for maximum privacy, data ownership, and regulatory compliance.
+- **GDPR-Compliant Website & Apps:** Built-in consent tools (cookie banner and email opt-in), data subject requests (export/delete), unsubscribe management, and audit logs to support GDPR and global privacy standards.
 - **No Hidden Fees:** 100% profit, zero commission—your revenue, your rules.
 - **Constantly Evolving:** We release regular updates, new features, and improvements based on your feedback and the latest industry trends.
 - **AI-Powered Event Creation:** Create events with AI assistance, automated SEO-optimized content generation, and intelligent event descriptions that boost discoverability.
@@ -253,6 +263,7 @@ Every business is unique. That's why we offer:
 - **Global Ready:** Multi-language and multi-currency support for worldwide reach.
 - **Trusted Worldwide:** Used by thousands of businesses, educators, and agencies.
 - **Tailored to Your Business:** With Eventmie Pro & FullyLoaded Web + Apps, we offer customization services to adapt the platform precisely to your unique business needs — something no SaaS competitor will ever allow.
+- **Privacy & Compliance:** GDPR-supporting features across website and apps (consent, cookie banner, data export/delete, unsubscribe) to help you meet global privacy obligations.
 
 
 ---

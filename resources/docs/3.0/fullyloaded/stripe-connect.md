@@ -1,14 +1,14 @@
 <!--
-Meta Description: Learn how to enable and configure Stripe Direct Payment (split payments) in Eventmie Pro FullyLoaded. Step-by-step guide for admin and organizer setup, automated payouts, and secure commission management in your Laravel event management platform.
-Meta Keywords: Stripe Direct, split payments, Eventmie Pro FullyLoaded, Laravel Stripe integration, payout automation, organizer earnings, admin commission, payment gateway, event management, Classiebit
+Meta Description: Learn how to enable and configure Stripe Connect Payment (split payments) in Eventmie Pro FullyLoaded. Step-by-step guide for admin and organizer setup, automated payouts, and secure commission management in your Laravel event management platform.
+Meta Keywords: Stripe Connect, split payments, Eventmie Pro FullyLoaded, Laravel Stripe integration, payout automation, organizer earnings, admin commission, payment gateway, event management, Classiebit
 -->
 > {success} This Feature only available in [Eventmie Pro FullyLoaded](https://classiebit.com/eventmie-pro-fullyloaded)
 
 <br>
 
-# Stripe Direct Integration (FullyLoaded)
+# Stripe Connect Integration (FullyLoaded)
 
-Eventmie Pro FullyLoaded offers Stripe Direct integration—enable direct payouts to organizers, simplified setup, and global reach for your event platform.
+Eventmie Pro FullyLoaded offers Stripe Connect integration—enable direct payouts to organizers, simplified setup, and global reach for your event platform.
 
 ---
 
@@ -29,17 +29,17 @@ Eventmie Pro FullyLoaded offers Stripe Direct integration—enable direct payout
 
 <br>
 
-# Stripe Direct Payment (Split Payments) for Eventmie Pro FullyLoaded
+# Stripe Connect Payment (Split Payments) for Eventmie Pro FullyLoaded
 
 Enable Stripe Direct Payment to automate split payments between event organizers and admin in your Eventmie Pro FullyLoaded Laravel event management platform. Organizers receive their event earnings and admin receives commission directly into their respective Stripe accounts, ensuring fast and secure payouts.
 
 <br>
 
-With Stripe Direct, when a customer purchases a ticket, the organizer instantly receives their share (Organizer Earning) in their Stripe Account, while the admin receives their commission and tax (Admin Commission + Admin Tax) in the admin Stripe Account.
+With Stripe Connect, when a customer purchases a ticket, the organizer instantly receives their share (Organizer Earning) in their Stripe Account, while the admin receives their commission and tax (Admin Commission + Admin Tax) in the admin Stripe Account.
 
 <br>
 
-We have integrated the **[Stripe Direct Payment Gateway](https://stripe.com/docs/connect/enable-payment-acceptance-guide?platform=web)** for seamless split payments.
+We have integrated the **[Stripe Connect Payment Gateway](https://stripe.com/docs/connect/enable-payment-acceptance-guide?platform=web)** for seamless split payments.
 
 <br>
 
@@ -56,9 +56,9 @@ Organizers must sign up for a Stripe account and connect their Stripe profile on
 
 <a name="admin-setup"></a>
 
-## Admin Setup: Enable Stripe Direct Payment
+## Admin Setup: Enable Stripe Connect Payment
 
-Admin should follow these steps to enable Stripe Direct split payments:
+Admin should follow these steps to enable Stripe Connect split payments:
 
 <br>
 
@@ -107,7 +107,7 @@ If the Admin has entered Stripe **Test** keys, the Organizer can connect a **Tes
 
 ## Admin Payout: Automated Commission & Payouts
 
-With Stripe Direct, both Organizer and Admin receive direct payments into their bank accounts via Stripe. Payouts and admin commission processing are fully automated for efficient event management.
+With Stripe Connect, both Organizer and Admin receive direct payments into their bank accounts via Stripe. Payouts and admin commission processing are fully automated for efficient event management.
 
 <br>
 
@@ -123,7 +123,7 @@ Admin will see the `Transferred` status as `Checked` in the Admin Commission sec
 
 ## Organizer Payout: Manage Earnings
 
-If the Admin has enabled `Stripe Direct` but the Organizer has not connected their Stripe account, all payments will go to the Admin Stripe account. The Admin will then need to transfer the Organizer's payment manually via an external method.
+If the Admin has enabled `Stripe Direct/Connect` but the Organizer has not connected their Stripe account, all payments will go to the Admin Stripe account. The Admin will then need to transfer the Organizer's payment manually via an external method.
 
 <br>
 
@@ -135,6 +135,6 @@ Organizer will see the `Transferred` status as `Paid` in the `Manage Earnings` s
 
 ---
 
-> {primary} To disable Stripe Direct, simply turn off the `Stripe Direct` checkbox in your Admin Panel settings.
+> {primary} To disable Stripe Direct/Connect, simply turn off the `Stripe Direct/Connect` checkbox in your Admin Panel settings.
 
 ---
