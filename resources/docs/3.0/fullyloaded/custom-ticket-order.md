@@ -23,16 +23,3 @@ Eventmie Pro FullyLoaded lets you control the order in which tickets appear—op
 - Optimizing for mobile and desktop sales
 
 ---
-
-## Comparison: Pro vs. FullyLoaded
-- **Eventmie Pro:** Default ticket order only
-- **FullyLoaded:** Custom, flexible ticket sorting and display
-
-> {info} **Upgrade from Pro to FullyLoaded to unlock custom ticket order. [Learn more &rarr;](../features/ticketing.md)**
-
----
-
-## Next Steps
-- [Ticketing & Registration Features](../features/ticketing.md)
-- [Upgrade Guide](../upgrade-guide.md)
-- [Support](../support.md)

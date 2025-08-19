@@ -1,25 +1,25 @@
 <hr>
-<h2><strong>Click Here For Live Preview- <br><a href="https://eventmie-pro-demo.classiebit.com">eventmie-pro-demo.classiebit.com</a></strong></h2>
+<h2><strong>Click Here For Live Preview-</strong> <br><a href="https://eventmie-pro-demo.classiebit.com">eventmie-pro-demo.classiebit.com</a></h2>
 <hr>
 
 <hr>
-<h2><strong>Android & iOS Apps are now available, send us an email at info@classiebit.com to get it.<br></h2>
+<h2><strong>Android & iOS apps are now available</strong> — email info@classiebit.com to get them.<br></h2>
 <hr>
 
 
-<h2><strong>Eventmie Pro 3.0 - Create a dedicated multi-organization platform for Event Planning & management</strong></h2>
+<h2><strong>Eventmie Pro 3.0</strong> - Create a dedicated multi-organization platform for Event Planning & management</h2>
 Event Planning Platform Reimagined. Start selling events on your own domain.
 
-<strong>Online + Offline Events & Classes Tickets Selling & Management Multi-vendor Platform for both Organizers & Attendees.<strong>
+<strong>Online + Offline Event & Class Ticketing and Management</strong> — Multi‑vendor platform for Organizers & Attendees.
 
 <h3><strong>What is Eventmie Pro?</strong></h3>
-Eventmie Pro is an Event planning and management Laravel package. With Eventmie Pro, launch a self-hosted platform for Event management & selling on your own domain. Streamline the event planning process through automation. Eventmie Pro is secure, scalable, production-ready.
+Eventmie Pro is premium event management and online ticketing software. Launch your own white‑label marketplace on your domain, streamline planning and promotion, and sell more tickets with an effortless checkout. Eventmie Pro is secure, reliable, and built for growth.
 
 <br>
-Just purchase Eventmie Pro at a one-time cost, install it and start selling your events with ZERO commission & 100% PROFIT.
+Purchase Eventmie Pro once, launch on your domain, and start selling with zero commission — keep 100% of your revenue.
 
 <br>
-<strong>Unlimited Users, events, tickets. No limits at all. Just one-time cost and you get full source-code. (fully open-source and no code encryption)</strong>
+<strong>Unlimited users, events, and tickets. No limits. One‑time cost with full ownership and lifetime access.</strong>
 
 <br>
 
@@ -39,7 +39,7 @@ Just purchase Eventmie Pro at a one-time cost, install it and start selling your
 <br><br><br>
 
 <hr>
-<h2><strong>Customization Support</h2>
+<h2><strong>Customization Support</strong></h2>
 <hr>
 
 - We provide full customization support for any kind of new custom features.
@@ -57,8 +57,8 @@ Contact us at <strong>info@classiebit.com</strong> or submit a support ticket at
 Streamline the event planning process through automation. Eventmie is secure, scalable, production-ready & has got everything you need.
 <br>
 
-* <strong>Laravel Package</strong><br>
-Eventmie is a Laravel Package. Hence, you can create a brand new website or install it onto an existing Laravel website at your desired URL prefix.
+* <strong>Flexible Setup</strong><br>
+Launch a brand‑new website or add Eventmie to your existing site at the URL that fits your brand.
 <br>
 
 * <strong>Global Usability</strong><br>
@@ -66,12 +66,12 @@ Multi-regional, timezones, languages including RTL support. Set default regional
 <br>
 
 * <strong>Extra Responsive & Friendly UI</strong><br>
-Fully responsive design, optimized for a mobile-first experience, including iPad, iPad-pro, small screen laptop & large desktops.
+Fully responsive design, optimized for a mobile‑first experience across phones, tablets, small‑screen laptops, and large desktops.
 <br>
 
 
 * <strong>Online/Virtual Events & Classes</strong><br>
-COVID-19, no offline events, no business, no issue. Start earning from online events & classes with Eventmie Pro, it's compatible with Zoom, Google Meet, and all others.
+Run paid online events and classes with smooth access links for your attendees.
 
 <br>
 <img src="/images/v3/Online-event-image-11.webp" alt="Online/Virtual Events & Classes">
@@ -102,7 +102,7 @@ Scan & validate customers' tickets at the event entrance & check them in with th
 Want a dedicated website for your events? Eventmie is a one-stop solution to publish, promote, and make your event a success.
 
 <br>
-<img src="http://127.0.0.1:8000/images/v3/Screenshot%202025-06-24%20at%204.14.49%E2%80%AFPM.webp" alt="eventmie-Setup. Publish. Promote.">
+<img src="/images/v3/Screenshot%202025-06-24%20at%204.14.49%E2%80%AFPM.webp" alt="eventmie-Setup. Publish. Promote.">
 <br>
 
 
@@ -117,7 +117,7 @@ Set up a seasonal ticket for your daily events and check-in attendees with a sin
 Whether an organizer has a one-time event or desires repetitive scheduling, they can easily customize its frequency with the touch of a button.
 
 <br>
-<img src="http://127.0.0.1:8000/images/v3/Repetitive-events-preview-image-2.webp" alt="eventmie-Customize Event Frequency">
+<img src="/images/v3/Repetitive-events-preview-image-2.webp" alt="eventmie-Customize Event Frequency">
 <br>
 
 * <strong>More Control Over Repetitive Schedules</strong><br>
@@ -132,19 +132,19 @@ Skip months from a series of monthly, weekly & daily repetitive schedules.
 Sell out an event with our seamless booking process that increases conversions and maximizes customer retention.
 
 <br>
-<img src="http://127.0.0.1:8000/images/v3/Ticket-booking-image-11.webp" alt="eventmie-Trouble-Free Checkout Process">
+<img src="/images/v3/Ticket-booking-image-11.webp" alt="eventmie-Trouble-Free Checkout Process">
 <br>
 
 
-* <strong>Auto-generated PDF Ticket with QrCode</strong><br>
-After checkout, customers get PDF tickets with unique QrCode on each.
+* <strong>Auto‑generated PDF Tickets with QR code</strong><br>
+After checkout, customers receive PDF tickets with a unique QR code on each.
 
 <br>
-<img src="http://127.0.0.1:8000/images/v3/Ticket-scanner-image-17.webp" alt="eventmie-PDF Ticket with QrCode">
+<img src="/images/v3/Ticket-scanner-image-17.webp" alt="eventmie-PDF Ticket with QrCode">
 <br>
 
 * <strong>Stunning New Theme <small>new in v2.0</small></strong><br>
-A complete new stunning user-interface designed with latest Bootstrap 5 for a perfect web & mobile experience.
+A modern, polished interface designed for a beautiful web and mobile experience.
 
 <br>
 <img src="/images/v3/Stunning-new-theme-image-3.webp" alt="eventmie-PDF Ticket with QrCode">
@@ -176,10 +176,10 @@ Create multiple taxes that can be applied by organizers & admin separately.
 
 
 * <strong>Advanced Analytics Organizer Dashboard </strong><br>
-Harness the power of data of your event through advanced analytics and dashboard. Get insights on Attendee check-ins, sales, active events and so much more.
+Track check‑ins, sales, active events, and performance trends with real‑time insights.
 
 <br>
-<img src="http://127.0.0.1:8000/images/v3/Event-organiser-dashboard-image-10.webp" alt="eventmie-Organizer Dashboard">
+<img src="/images/v3/Event-organiser-dashboard-image-10.webp" alt="eventmie-Organizer Dashboard">
 <br>
 
 
@@ -225,19 +225,11 @@ Create free or paid sponsored events by adding sponsors to your events.
 <br>
 
 
-* <strong>You’re in Control</strong><br>
-Adjust settings like commission rates, default currency, timezone, language, and so much more from the convenience of your admin panel.
-
-<br>
-<img src="https://classiebit.com/storage/features/March2021/HyIVyZPAXd3NgmT3SwYV.jpg" alt="eventmie-You’re in Control">
-<br>
-
-
 * <strong>Toggle Multi-Vendor</strong><br>
 Whether you want to use Eventmie as a Saas platform or as a single organization website, enable or disable the multi-vendor option in one click.
 
 <br>
-<img src="https://classiebit.com/storage/features/March2021/8jy3tLRtuGkXU6ETJyNt.jpg" alt="eventmie-Toggle Multi-Vendor">
+<img src="/images/v3/Toggle-Multi-Vendor-Image-1.webp" alt="eventmie-Toggle Multi-Vendor">
 <br>
 
 
@@ -245,7 +237,7 @@ Whether you want to use Eventmie as a Saas platform or as a single organization 
 Spread the word about your brand and boost search engine optimization by easily generating content for your website.
 
 <br>
-<img src="https://classiebit.com/storage/features/December2023/07szny4Bzloc6DT3XPQu.webp" alt="eventmie-Add Pages & Blog Posts">
+<img src="/images/v3/Add-Pages-&-Blog-Posts-Image-2.webp" alt="eventmie-Add Pages & Blog Posts">
 <br>
 
 
@@ -264,28 +256,28 @@ Create custom front-end header & footer menu items from the convenience of the n
 Create Venues lists and add them to your events.
 
 <br>
-<img src="https://classiebit.com/storage/features/December2023/UNXt2QtFvEU4giSlJQjj.webp" alt="eventmie-Venues Listing & Pages">
+<img src="/images/v3/Venues-Listing-&-Pages-Image-3.webp" alt="eventmie-Venues Listing & Pages">
 <br>
 
 
-* <strong>Laravel Voyager Admin Panel</strong><br>
-We've integrated the Laravel Voyager package into the Eventmie package in a way that you can still upgrade Voyager with new upcoming versions.
+* <strong>Powerful Admin Panel</strong><br>
+Manage events, orders, payouts, pages, posts, menus, and more from a clean and intuitive control panel.
 
 <br>
-<img src="https://classiebit.com/storage/features/July2020/hxWT5N7Q7OctPMdKRi4k.jpg" alt="eventmie-Laravel Voyager Admin Panel">
+<img src="/images/v3/Powerful-Admin-Panel-Image-4.webp" alt="eventmie-Laravel Voyager Admin Panel">
 <br>
 
 
-* <strong>Install via Composer</strong><br>
-Install Eventmie in a matter of minutes with no experience required. Simply install it like a Laravel Package.
+* <strong>Quick Setup</strong><br>
+Get up and running in minutes with a guided setup. No technical expertise required.
 
 <br>
 <img src="https://classiebit.com/storage/features/July2020/P9lsdUAvz08x67NLbETE.jpg" alt="eventmie-Install via Composer">
 <br>
 
 
-* <strong>Or. Install via Installer</strong><br>
-For non-developers. Eventmie Pro comes with a web-installer which makes the installation process fully automated.
+* <strong>One‑Click Installer</strong><br>
+Simple, step‑by‑step web installation for non‑technical teams.
 
 <br>
 <img src="https://classiebit.com/storage/features/December2023/KaNqfzAXy8aoUF2tv27P.webp" alt="eventmie-Or. Install via Installer">
@@ -293,8 +285,8 @@ For non-developers. Eventmie Pro comes with a web-installer which makes the inst
 
 
 
-* <strong>Clean & Clear Online docs</strong><br>
-Read the online docs from start to end without skipping anything and you'll become a master in it in an hour or less.
+* <strong>Clear Online Guides</strong><br>
+Step‑by‑step guides and tutorials help your team get the most out of Eventmie fast.
 
 <br>
 <img src="https://classiebit.com/storage/features/December2023/3PRKS1VzoZQwDaDzOwZ3.webp" alt="eventmie-Clean & Clear Online docs">
@@ -308,18 +300,18 @@ Read the online docs from start to end without skipping anything and you'll beco
 
 
 * <strong>Simplify your Event Planning Process</strong><br>
-Eventmie Pro is a Laravel based multi-organization online event ticketing management system that helps in growing your online event business by automating online event bookings, scheduling, registration, selling concert & other event tickets.<br> <br> 
+Eventmie Pro is an all‑in‑one, multi‑organization event management and online ticketing platform that grows your business with automated bookings, scheduling, registration, and ticket sales.<br> <br> 
                                     
-Our event ticket platform is 100% secure and production-ready to integrate with your event planning apps or websites. <br> <br> 
+Our platform is secure and ready for real‑world demand. <br> <br> 
                                 
-Boost your online event ticket sales and deliver a successful event. Eventmie handles the entire process from start to finish, providing value to both organizers and customers. <br> <br> 
+Boost online ticket sales and deliver successful events. Eventmie covers the entire journey from discovery to check‑in, creating value for both organizers and attendees. <br> <br> 
                                 
 Sign up today for a free demo!<br>
 
 
 
-* <strong>Get The Source Code & Deploy On Your Server</strong><br>
-Our all-inclusive event planning solution gives organizers everything they need to deliver a successful event. Eventmie handles the entire process from start to finish, providing value to both organizers and customers. With Eventmie, you’ll create an experience that participants will talk about for a long time.
+* <strong>Full Ownership — Host on Your Own Server</strong><br>
+Run a white‑label platform you control. Keep your brand front and center while Eventmie powers your operations.
 <br>
 
 * <strong>Boost Event Attendance</strong><br>
@@ -331,11 +323,11 @@ Stop paying unnecessary commissions on every sale. With Eventmie, sell out your 
 <br>
 
 * <strong>Responsive. Secure. Robust</strong><br>
-Protecting your customers with state-of-the-art security and a clean and attractive user-interface regardless of screen size. Optimized for all devices in an increasingly mobile-friendly world.
+Protect customers with enterprise‑grade security and a modern interface on every screen size. Optimized for a mobile‑first world.
 <br>
 
-* <strong>Full Support From Installation to Deployment</strong><br>
-Whether you want us to install it on your server, manage it every month, want to request a new feature, or have any other query, our support team is here for you every step of the way.<br>
+* <strong>Full Support From Setup to Launch</strong><br>
+Whether you want us to set it up on your server, manage it monthly, request a new feature, or ask a question — our team is here for you every step of the way.<br>
 
 
 <br><br><br>
@@ -355,97 +347,9 @@ You get 6 months free premium support on all premium products<br>
 You can add reviews & ratings on products to express your thoughts.<br>
 
 * <strong>Support Tickets</strong><br>
-You can submit Support Tickets for any kind of personalized support.<be>
+You can submit Support Tickets for any kind of personalized support.<br>
 
 
-
-<br><br><br>
-<h3><strong>Looking for more advanced custom features?</strong></h3>
-<p>The below Advanved custom features are not included in Eventmie Pro, they're available at extra cost. We've a custom Eventmie Pro FullyLoaded custom package ready, which you can plug-n-play.<strong>Simply e-mail us on <a href="mailto:info@classiebit.com"><strong>info@classiebit.com</strong></a> for more information about advanced custom features.</strong></p>
-
-* <strong>Reserved Seating System</strong><br>
-Add any kind of seating arrangement e.g Stadiums, Townhalls, Cinema, Restaurants, Lounges, etc.
-
-* <strong>Stripe Connect</strong><br>
-Stripe Direct Payment For Split payment option. Organizer receives their event earning and admin receives their commission directly into their bank accounts.
-
-* <strong>Payment Gateways</strong><br>
-Stripe 3D Checkout, Authorize.net, and BitPay Payment gateway to accept Cryptocurrencies.
-
-* <strong>Twilio SMS</strong><br>
-Send booking notifications via SMS to attendees.
-
-* <strong>Embed YouTube & Vimeo player</strong><br>
-Add Youtube & Vimeo Public/Private video URL to let attendees attend virtual events or watch pre-loaded event videos directly from within the website.
-
-* <strong>Clone Event</strong><br>
-Duplicate existing events to speed up creating a new event, rather than creating them from scratch.
-
-* <strong>MailChimp Integration</strong><br>
-Subscribe event attendees directly to MailChimp account with event tag, so that you can manage to send email to event attendees event-wise.
-
-* <strong>Booking emails with attached ticket PDF & Invoice</strong><br>
-Send booking emails to attendees with Ticket PDF and Ticket Invoice attached.
-
-* <strong>Guest Checkout</strong><br>
-Auto-login and checkout for unregistered users.
-
-* <strong>Google Search Places Autocomplete</strong><br>
-To search and auto-fill Google Map location for Event venues.
-
-* <strong>Google Search MapDirection</strong><br>
-To show the user directions to the Event venue from their current location.
-
-* <strong>Event Specific Commission</strong><br>
-Set different Admin Commission for each event separately.
-
-* <strong>Discount PromoCodes</strong><br>
-Create a Discount promo code that customers can apply to tickets while checkout.
-
-* <strong>Event-specific Currency</strong><br>
-Set different currency for each event to add multiple currency events.
-
-* <strong>Event Short URL</strong><br>
-Shorten Event URLs to promote them easily.
-
-* <strong>Private Password Protected Event</strong><br>
-Create private events with or without passwords to invite specific people with a unique link and password.
-
-* <strong>Organizer profile page</strong><br>
-To show a public Organizer profile page with all the Organizer's active events listing.
-
-* <strong>Advanced Booking Filters</strong><br>
-To filter bookings with more options.
-
-* <strong>POS, Manager, Scanner</strong><br>
-Create separate user groups with limited access like a sub-organizer who can manage things like bookings, check-in, selling on behalf of Organizer. POS can sell tickets on Event entrance, Scanner can scan tickets and Manager can manage everything on behalf of Organizer.
-
-* <strong>Attendee Custom Fields</strong><br>
-To add partner Attendee details like attendee name, email & phone.
-
-* <strong>Create Attendee while Checkout</strong><br>
-Option for Admin & Organizer to create a new Attendee directly from Checkout popup instead of Registering them first.
-
-* <strong>Force sold out for the Event and Ticket</strong><br>
-See event or tickets as sold-out in just one click.
-
-* <strong>On Sale Timer on all Tickets</strong><br>
-Put tickets on sale with discounted prices and a sale timer.
-
-* <strong>Event GuestList</strong><br>
-Organizers can create separate Guestlists for every event to export their emails CSV and send them Bulk emails about Event promotions or any other updates.
-
-* <strong>Complimentary Bookings</strong><br>
-Admin and Organizer can create bulk/complementary bookings of any events that can be excluded from the normal bookings finances. Bulk booking is something that's not part of Admin commission calculation and organizer earning payouts, these are kinds of free bookings that are sold outside of the website.
-
-* <strong>Fundraiser Event</strong><br>
-Make fundraiser events by creating free donation tickets to accept any custom amount of donation. The attendee can pay for a ticket price as much as they want to donate.
-
-* <strong>Tickets Invoice</strong><br>
-Send ticket invoices along with booking emails.
-
-* <strong>Event Ratings & Reviews</strong><br>
-Let attendees add ratings and reviews to the event, that can be reviewed and approved by the Event organizer before publishing.
 
 
 <br>

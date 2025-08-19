@@ -49,23 +49,3 @@ The FullyLoaded ticket scanner is built for high-traffic, high-security events, 
 4. For group check-in, one scan checks in all linked tickets.
 
 ---
-
-## Comparison: Pro vs. FullyLoaded
-1. **Eventmie Pro:** Standard QR code scanning, mobile check-in, and manual validation.
-2. **FullyLoaded:** Advanced, automated, and hands-free scanning with visual feedback and group check-in.
-
-Note: Upgrade from Pro to FullyLoaded to unlock these advanced scanning features. Learn more → (../features/ticketing.md)
-
----
-
-## Next Steps
-1. [Ticketing & Registration Features](../features/ticketing.md)
-2. [Upgrade Guide](../upgrade-guide.md)
-3. [Support](../support.md)
-
----
-
-## Group Check-In: Real-World Example
-Imagine a family of five arrives at your event. Instead of scanning five separate tickets, the parent scans one group QR code—instantly checking in the entire family. This saves time, reduces entry lines, and improves the guest experience for large groups or teams.
-
-See more about attendee check-in in [Attendee Docs](../attendee/check-in.md) and [Ticketing Features](../features/ticketing.md).
