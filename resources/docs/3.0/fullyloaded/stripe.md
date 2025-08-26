@@ -38,7 +38,7 @@ You can use Stripe **Test** keys to try payments with Stripe Test Cards, or Stri
 
 <a name="Webhook"></a>
 
-## Stripe Payment Alerts (Automatic Confirmations)
+# Stripe Payment Alerts (Automatic Confirmations)
 In Eventmie Pro FullyLoaded v3.0 and above, Stripe payment alerts help prevent failed payments and missed bookings. Even if a guest closes the payment tab or loses internet right after paying, your website will still confirm the booking automatically through Stripe’s payment notifications.
 
 ### How to Turn On Stripe Payment Alerts in Eventmie Pro FullyLoaded
