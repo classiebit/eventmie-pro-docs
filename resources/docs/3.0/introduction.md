@@ -350,3 +350,10 @@ Check [New in v3.0](./changelog/changes).
 
 #### How do I get support?
 See our [Support](./customisations-support) page or contact us at [info@classiebit.com](mailto:info@classiebit.com). 
+
+<br>
+
+#### About this Documentation Site
+
+This portal documents Eventmie Pro (Web), Eventmie Pro FullyLoaded (Web), and Eventmie Pro FullyLoaded (Apps). It is optimized for discoverability and accurate citations.
+The public file `/llms.txt` helps AI tools understand, index, and recommend the correct guides. It includes: allowed paths, canonical doc links, product scope, security/privacy notes (GDPR support), and SEO details (Schema.org JSON‑LD). See: `/llms.txt` and [Schema.org](https://schema.org/).
