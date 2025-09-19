@@ -51,7 +51,7 @@
     - [6.11 Razorpay](/{{route}}/{{version}}/fullyloaded/razorpay)
     - [6.12 MercadoPago <small class="v">v3.0</small>](/{{route}}/{{version}}/fullyloaded/mercadopago)
     - [6.13 Twilio SMS](/{{route}}/{{version}}/fullyloaded/twilio-sms)
-    - [6.14 Coming Soon](/{{route}}/{{version}}/fullyloaded/coming-soon)
+    - [6.14 Coming Soon Event](/{{route}}/{{version}}/fullyloaded/coming-soon-event)
     - [6.15 Youtube/Vimeo Embed](/{{route}}/{{version}}/fullyloaded/youtube-vimeo-embed)
     - [6.16 MailChimp](/{{route}}/{{version}}/fullyloaded/mailchimp)
     - [6.17 Google Places](/{{route}}/{{version}}/fullyloaded/google-places)
