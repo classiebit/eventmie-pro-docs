@@ -30,7 +30,7 @@ You can use `Authorize.Net Test Mode` to try payments safely. Turn off Test Mode
 
 ---
 
-![authorize.net-payment](/images/v2/EventmieProFullyLoadedV2.0/authorize.net-paymen.webp "authorize.net-payment")
+![authorize.net-payment](/images/v3/Authorizenet-Payment-Gateway-Image.webp "authorize.net-payment")
 
 ---
 

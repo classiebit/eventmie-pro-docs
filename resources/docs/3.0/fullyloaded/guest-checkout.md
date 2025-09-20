@@ -37,3 +37,22 @@ Later, guests can log in with the same email by resetting their password using t
 ![1-guest-checkout](/images/v2/EventmieProFullyLoadedV2.0/1-guest-checkout.webp "1-guest-checkout")
 
 ---
+
+## How it works (Admin setup)
+Give buyers a faster path to purchase by enabling Guest Checkout from your admin settings. This simple switch helps reduce drop‑offs and increases completed orders. For added security, you can also require email OTP verification to confirm the guest’s email before issuing tickets.
+
+1. Go to Admin Panel → Settings → Multi‑Vendor.
+
+![guest-checkout-step-1](/images/v3/Multi-Vendor-Image.webp "guest-checkout-step-1")
+
+2. Turn Guest Checkout On or Off as needed for your marketplace.
+
+![guest-checkout-step-1](/images/v3/Guest-checkout-option-image.webp "guest-checkout-step-1")
+
+3. Toggle Guest Email OTP Verification On or Off beneath Guest Checkout.
+
+![guest-checkout-step-1](/images/v3/Guest-Email-Otp-Verification-Image.webp "guest-checkout-step-1")
+
+4. Save changes. Guests can now complete bookings without creating an account, and — if enabled — verify their email via OTP during checkout.
+
+---

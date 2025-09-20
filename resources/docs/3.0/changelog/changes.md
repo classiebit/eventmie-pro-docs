@@ -33,6 +33,9 @@ v3.0 is our biggest, most ambitious update ever—designed to empower event orga
 - **Modern UI/UX for Eventmie Pro & FullyLoaded Web + Apps:**  
   A completely redesigned, responsive theme for 2025 and beyond.
 
+- **Coming Soon Event for FullyLoaded Web + Apps:**  
+  Launch hype‑ready countdowns, waitlists, and pre‑sale alerts to capture demand and convert fans the moment tickets go live.  
+
 - **Dark, Light & System Themes for Eventmie Pro FullyLoaded Web + Apps:**  
   Instantly switch between themes or use system default, with admin default options.
 
@@ -53,6 +56,9 @@ v3.0 is our biggest, most ambitious update ever—designed to empower event orga
 
 - **MercadoPago Payment Gateway for Eventmie Pro FullyLoaded:**  
   Expanded payment options for Latin America.
+
+- **Flutterwave Payment Gateway for Eventmie Pro FullyLoaded:**  
+  Expanded payment options across Africa with local cards, bank transfers, and mobile money via Flutterwave.  
 
 - **POS: Create New Attendees at Checkout for Eventmie Pro & FullyLoaded:**  
   Streamline on-site sales and attendee management.

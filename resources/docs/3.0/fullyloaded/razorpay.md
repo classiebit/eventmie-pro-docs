@@ -42,6 +42,8 @@ To start accepting Razorpay payments, first create a Razorpay Business Account a
 - `RazorPay Key ID`
 - `RazorPay Key Secret`
 
+![razorpay](/images/v3/Razorpay-Payment-Gateway-Image-5.webp "razorpay")
+
 <br>
 
 You can use Razorpay **Test** keys to try payments and Razorpay **Live** keys to accept real payments from customers.

@@ -30,7 +30,7 @@ You can utilize `MercadoPago Test Mode` to safely test payment processes. Disabl
 
 ---
 
-![mercadopago-setup](/images/v3/MercadoPago-payment-gateway-image-1.webp "mercadopago-setup")
+![mercadopago-setup](/images/v3/Marcadopago-Payment-Gateway-Image-1.webp "mercadopago-setup")
 
 ---
 

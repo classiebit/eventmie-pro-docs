@@ -36,6 +36,25 @@ To enable Paystack payments, first create a Paystack Merchant Account at **[Pays
 
 ---
 
+## How organisers can activate Paystack (Admin)
+Set up Paystack in minutes from your admin settings to start accepting payments across supported African markets. This quick setup helps you offer a local, trusted payment option and improve checkout conversion.
+
+1. Open Admin Panel → Settings → Apps.
+2. Paste your `PayStack Public Key` and `PayStack Secret Key`.
+3. Add your `PayStack Merchant Email`.
+4. Save Settings. Toggle test/live mode in your Paystack dashboard as needed.
+
+![paystack-admin](/images/v3/Paystack-Payment-Gateway-Image-2.webp "paystack-admin")
+
+---
+
+## How it looks on your site (Live checkout)
+Attendees choose Paystack at checkout, complete the payment in a fast, mobile‑friendly flow, and return to your site with instant confirmation. Orders, invoices, and tickets are issued immediately.
+
+![paystack-live](/images/v3/Paystack-Payment-Gateway-Image.webp "paystack-live")
+
+---
+
 >{primary} To disable Paystack, simply remove the `PayStack Public Key`, `PayStack Secret Key`, and `PayStack Merchant Email` from your settings.
 
 ---

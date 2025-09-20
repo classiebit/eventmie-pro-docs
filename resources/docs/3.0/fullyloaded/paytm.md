@@ -37,12 +37,14 @@ To enable PayTM payments, first create a PayTM Business Account at **[PayTM Busi
 1. Go to Admin Panel -> Settings -> Apps
 2. Enter the following PayTM API credentials:
 
--   `PayTM Merchant ID`
--   `PayTM Merchant Key`
--   `PayTM Merchant Website`
--   `PayTM Channel`
--   `PayTM Industry Type`
--   `PayTM Live Mode` - turn On/Off for Live/Test payment
+![paytm](/images/v3/Paytm-Payment-Gateway-Image-2.webp "paytm")
+
+1.   `PayTM Merchant ID`
+2.   `PayTM Merchant Key`
+3.   `PayTM Merchant Website`
+4.   `PayTM Channel`
+5.   `PayTM Industry Type`
+6.   `PayTM Live Mode` - turn On/Off for Live/Test payment
 
 <br>
 

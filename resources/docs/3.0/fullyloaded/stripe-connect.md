@@ -89,15 +89,15 @@ Organizers should follow these steps to start receiving payouts directly into th
 
 ---
 
-![stripe-direct-organizer-connect](/images/v2/EventmieProFullyLoadedV2.0/stripe-direct-organizer-connectd.webp "stripe-direct-organizer-connect")
+![stripe-direct-organizer-connect](/images/v3/Stripe-Payment-Gateway-Image-1.webp "stripe-direct-organizer-connect")
 
 ---
 
-![stripe-direct-organizer-connected](/images/v2/EventmieProFullyLoadedV2.0/stripe-direct-organizer-connect.webp "stripe-direct-organizer-connected")
+![stripe-direct-organizer-connected](/images/v3/Stripe-Payment-Gateway-Image-2.webp "stripe-direct-organizer-connected")
 
 ---
 
-![stripe-payment](/images/v2/EventmieProFullyLoadedV2.0/stripe-payment.webp "stripe-payment")
+![stripe-payment](/images/v3/Stripe-Payment-Gateway-Image.webp "stripe-payment")
 
 ---
 
@@ -131,7 +131,7 @@ Organizer will see the `Transferred` status as `Paid` in the `Manage Earnings` s
 
 ---
 
-![organizer-earning-payout](/images/v3/Organiser-payout-manage-earnings-image-48.webp "organizer-earning-payout")
+![organizer-earning-payout](/images/v3/Organiser-Earnings-Image-1.webp "organizer-earning-payout")
 
 ---
 
