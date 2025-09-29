@@ -79,18 +79,18 @@ To upgrade to Eventmie Pro or FullyLoaded v3.0.x, please follow these prerequisi
 Prefer expert assistance? Classiebit offers paid update services for all scenarios:
 
 **Eventmie Pro**
-- Simple Update (No Code Customizations): **$50**
-- Advanced Update (With Code Customizations): **$150**
+- Simple Update (No Code Customizations): **$100**
+- Advanced Update (With Code Customizations): **$250**
 
 <br>
 **FullyLoaded Web**
-- Simple Update: **$100**
-- Advanced Update: **$300**
+- Simple Update: **$200**
+- Advanced Update: **$350**
 
 <br>
 **FullyLoaded Web + App**
-- Simple Update: **$450**
-- Advanced Update: **$750**
+- Simple Update: **$500**
+- Advanced Update: **$850**
 
 <br>
 👉 To request a professional update, email [info@classiebit.com](mailto:info@classiebit.com). Our team ensures a zero-downtime, stress-free upgrade.
