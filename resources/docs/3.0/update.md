@@ -89,8 +89,8 @@ Prefer expert assistance? Classiebit offers paid update services for all scenari
 
 <br>
 **FullyLoaded Web + App**
-- Simple Update: **$300**
-- Advanced Update: **$500**
+- Simple Update: **$450**
+- Advanced Update: **$750**
 
 <br>
 👉 To request a professional update, email [info@classiebit.com](mailto:info@classiebit.com). Our team ensures a zero-downtime, stress-free upgrade.
