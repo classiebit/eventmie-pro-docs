@@ -283,7 +283,7 @@ The post-booking phase manages ticket generation and communication:
 
 ---
 
-><iframe width="75%" height="500" src="https://www.youtube.com/embed/LahJYztSmnw?si=ZtvDmFsRWYwGhwni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="75%" height="500" src="https://www.youtube.com/embed/LahJYztSmnw?si=ZtvDmFsRWYwGhwni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 

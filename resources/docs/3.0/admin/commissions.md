@@ -61,7 +61,7 @@ Eventmie Pro will automatically record commissions on every ticket sale, includi
     ***
 
 3. View each organizer's monthly `Total Bookings`, `Organizer earnings`, and `Admin Commission`.
-4. After transferring an organizer's payout for a particular month, check the `Transferred` checkbox and click &nbsp;<larecipe-button type="info" size="sm" rounded>Update</larecipe-button> to update the transfer status. - Mark payouts as transferred and keep a full audit trail for compliance and transparency.
+4. After transferring an organizer's payout for a particular month, check the `Transferred` checkbox and click &nbsp;<larecipe-button type="info" size="sm" rounded>Update</larecipe-button> to update the transfer status. This marks payouts as transferred and keeps a full audit trail for compliance and transparency.
 
     ***
 

@@ -1,4 +1,4 @@
-# Premium Cloud Hosting & Managed AWS Solutions
+<!-- # Premium Cloud Hosting & Managed AWS Solutions
 
 ## Enterprise-Grade Hosting for High-Traffic Eventmie Pro & FullyLoaded Websites
 
@@ -81,7 +81,7 @@ For mission-critical events, we offer dedicated, real-time support:
 - **Future-Proof:** Easily scale as your business grows, with no need to re-platform.
 - **Competitive Edge:** Outperform competitors with a faster, more reliable, and more secure event platform.
 
----
+--- -->
 
 <a name="get-started-free-consultation"></a>
 ## Get Started: Free Consultation Call
@@ -91,7 +91,7 @@ Ready to upgrade to enterprise-grade hosting and support?
 - **Contact us at [info@classiebit.com](mailto:info@classiebit.com) for a free consultation call and custom quote.**
 - We'll assess your needs, recommend the best AWS setup, and handle everything from migration to ongoing management.
 
---- 
+---
 
 > {primary} Join our world class support team and get zero downtime and world-class support.
 
