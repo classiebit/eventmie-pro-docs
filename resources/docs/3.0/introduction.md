@@ -17,6 +17,13 @@ Eventmie Pro and FullyLoaded empowers you to launch, manage, and grow your event
 ![Eventmie Pro Documentation Banner](/images/v3/Eventmie-Pro-Thumbnail-Image.webp "Eventmie Pro Documentation Banner")
 
 ---
+> {primary.fa-youtube} **Prefer video?** Watch our [step-by-step installation video](https://classiebit.com/academy/eventmie-pro/eventmie-pro-installation-with-installer) for a visual walkthrough.
+
+---
+
+<iframe width="75%" height="500" src="https://www.youtube.com/embed/_npZx7tRwGQ?si=VjyqOBUn3QM5kiR6" title="How to Launch Event Ticketing Website in 2025 Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 > {primary} **Since day one, we've been committed to continuous improvement—releasing new features, enhancements, and optimizations based on your feedback and the latest industry trends. Our roadmap is ambitious: in the coming years, we aim to make Eventmie Pro and FullyLoaded the best self-hosted event ticketing platform ever built, with AI at its core.**
 
