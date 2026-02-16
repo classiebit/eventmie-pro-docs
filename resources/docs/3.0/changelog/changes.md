@@ -1,13 +1,80 @@
 # Eventmie Pro & FullyLoaded Web + App v3.0.x – Changelog & What's New
 
+- [v3.0.1 (16-Feb-2026)](#v3.0.1)
 - [v3.0 (23-Sep-2025)](#v3.0)
 
-<a name="v3.0"></a> 
-## v3.0 <small>Stable version released on 23-Sep-2025</small>
+<a name="v3.0.1"></a> 
+## v3.0.1 <small>Enhanced Features released on 16-Feb-2026</small>
 
 ---
 
-> {primary} **v3.0 Beta Released: 02-Jul-2025**  
+> {primary} **v3.0.1 Enhanced Features Released: 16-Feb-2026**  
+
+---
+
+## 🚀 Enhanced Features Release: v3.0.1
+
+v3.0.1 is a minor patch release. It includes a few minor but important bug fixes reported by clients. 
+Besides, there are also a few improvements & optimizations.
+
+---
+
+### ✨ New Features
+
+- **Google Recaptcha for Eventmie Pro & FullyLoaded with latest version:**  
+  Google Recaptcha is now updated to the latest version.
+
+- **Enhanced Booking Cancellation Logic for Eventmie Pro & FullyLoaded:**  
+  Improved cancellation policy enforcement to accurately use event start date and time for eligibility checks. This ensures precise calculation of remaining time before the cutoff deadline, enabling organisers to set stricter or more flexible cancellation windows based on event timing.
+
+- **Conditional All-in-One Ticket PDF Attachment for Eventmie Pro FullyLoaded:**  
+  The consolidated all-in-one ticket PDF is now intelligently attached only when a booking contains multiple tickets. Single-ticket bookings will receive individual ticket PDFs only, reducing email attachment size and improving user experience.
+
+- **Smart Guest Checkout Auto-Fill for Eventmie Pro FullyLoaded:**  
+  Guest checkout forms now feature intelligent auto-population. If attendee details are entered first, the guest checkout form automatically fills from this information. Conversely, if the guest checkout form is completed first, the attendee details auto-populate accordingly, eliminating duplicate data entry.
+
+- **Check-in Timestamp Data for Complimentary Bookings for Eventmie Pro FullyLoaded:**  
+  Complimentary ticket bookings now include check-in date and time data in CSV exports and analytics graphs, providing complete visibility into check-in patterns and attendance metrics for complimentary attendees.
+
+- **Complimentary Ticket Check-in Analytics Graph for Eventmie Pro FullyLoaded:**  
+  New dedicated analytics graph on the organiser dashboard tracks complimentary ticket check-ins separately from regular ticket check-ins, enabling organisers to analyze complimentary attendance patterns and make data-driven decisions.
+
+- **Direct Organiser Signup in Multi-Vendor Mode for Eventmie Pro & FullyLoaded:**  
+  Multi-vendor instances now support direct signup as an organiser during account creation. Users can register directly as event organisers without requiring separate admin approval, streamlining the onboarding process and accelerating vendor growth.
+
+---
+
+### Improvements
+
+- **Event Update Email Notifications for Eventmie Pro & FullyLoaded:**  
+  Event update notification emails are now sent only after an event is published and the organiser makes subsequent updates to event information. This prevents unnecessary notifications for unpublished events and ensures attendees only receive updates about live events.
+
+- **Promo Code Application in Manage Bookings for Eventmie Pro & FullyLoaded:**  
+  Organisers can now directly utilize and apply promo codes from the manage bookings section, streamlining the discount application process and improving booking management efficiency.
+
+- **Password Hide/Show Toggle for Eventmie Pro & FullyLoaded:**  
+  A password visibility toggle has been added across all password input fields throughout the platform, allowing users to securely toggle between hidden and visible password states for improved usability.
+
+---
+
+### Bug Fixes
+
+- **Event Card Organiser Image for Eventmie Pro & FullyLoaded:**  
+  Fixed incorrect profile avatar display; now correctly shows Organisation Logo.
+
+- **Admin Navigation Text for Eventmie Pro FullyLoaded:**  
+  Corrected "Return to Admin" text display for admin, organiser, customer, and other user roles during Impersonation.
+
+- **Checkout Modal Display for Eventmie Pro & FullyLoaded:**  
+  Fixed login/sign-up modal positioning on Details page checkout to open in center.
+
+- **Offline Payment Email for Eventmie Pro & FullyLoaded:**  
+  Resolved issue where tickets were sent via email even when offline payment status was unpaid.
+
+ - **Dark/Light Mode Consistency for Eventmie Pro & FullyLoaded:**  
+  Fixed dark and light mode display issues across multiple device types and screen sizes, ensuring consistent theme application and proper element visibility throughout the platform.
+
+
 
 ---
 
