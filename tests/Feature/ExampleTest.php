@@ -2,20 +2,22 @@
 
 namespace Tests\Feature;
 
-use Illuminate\Foundation\Testing\RefreshDatabase;
 use Tests\TestCase;
 
 class ExampleTest extends TestCase
 {
-    /**
-     * A basic test example.
-     *
-     * @return void
-     */
-    public function testBasicTest()
+    public function test_root_redirects_to_docs(): void
     {
         $response = $this->get('/');
 
-        $response->assertStatus(200);
+        $response->assertRedirect('/docs');
+    }
+
+    public function test_docs_introduction_page_loads(): void
+    {
+        $response = $this->get('/docs/3.0/introduction');
+
+        $response->assertOk();
+        $response->assertSee('Eventmie Pro Docs', false);
     }
 }

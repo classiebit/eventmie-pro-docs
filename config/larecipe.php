@@ -86,8 +86,8 @@ return [
     */
 
     'cache'       => [
-        'enabled' => false,
-        'period'  => 5
+        'enabled' => env('LARECIPE_CACHE', false),
+        'period'  => env('LARECIPE_CACHE_PERIOD', 60),
     ],
 
     /*
@@ -131,7 +131,7 @@ return [
 
     'ui'                 => [
         'code_theme'     => 'dark', // or: light
-        'fav'            => 'eventmie-pro-logo.webp',     // eg: fav.webp
+        'fav'            => 'images/eventmie-pro-logo.webp',     // eg: fav.webp
         'fa_v4_shims'    => true, // Add FontAwesome v4 shims prevent BC break
         'show_side_bar'  => true,
         'colors'         => [
