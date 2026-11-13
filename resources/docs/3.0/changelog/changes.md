@@ -18,7 +18,7 @@
 
 v3.0.2 is our **most secure release ever**. We went through the whole platform, from login to checkout to the admin panel, and hardened it so you can sell tickets with complete peace of mind.
 
-It also brings a faster, smarter AI event writer, a beautiful new homepage, sharper admin reports, and dozens of fixes requested by our customers. **Your events, your data and your revenue have never been better protected.**
+It also brings a faster, smarter AI event writer, a beautiful new homepage, sharper admin reports, a brand-new organiser payouts dashboard, and dozens of fixes requested by our customers. **Your events, your data and your revenue have never been better protected.**
 
 ---
 
@@ -48,6 +48,21 @@ It also brings a faster, smarter AI event writer, a beautiful new homepage, shar
   - See check-in progress for each booking (e.g. *Yes (2/3)*)
 
   **Find any number you need in seconds.**
+
+- **New Organiser Payouts Dashboard for Admins for Eventmie Pro FullyLoaded:**  
+  The admin **Commissions** page has been rebuilt into an event-by-event payouts dashboard. Every event's organiser earnings now have a clear status: **Not due yet** (the event hasn't ended), **Awaiting payout** (the event has ended but the organiser hasn't been paid) and **Paid**. Admins can now:
+  - See at a glance how much is awaiting payout, how much was paid this month, what's coming up and what the platform has earned, split by currency
+  - Open the **Awaiting payout** tab to see every ended event that still needs paying, longest waiting first
+  - Filter by organiser, currency, event end date or paid date, and search by event, organiser or email
+  - Mark one or many payouts as **Paid** in one click, with the organiser's bank details shown right in the confirmation, so there's no switching between screens
+  - Export the list, including bank details, to CSV for bulk bank transfers
+  - Open a page for each event with its payout history and a breakdown by event date, so recurring events can be paid date by date
+  - Spot organisers who are waiting for money but haven't added their payout details yet
+
+  Marking a payout as paid can't be undone, and the organiser automatically gets an email and an in-app notification. **Pay every organiser on time, without the spreadsheets.**
+
+- **Clearer "My Earnings" Page for Organisers for Eventmie Pro FullyLoaded:**  
+  Organisers can now see exactly where their money is. The **My Earnings** page shows total sales, platform fees, their earnings, and how much is paid out, awaiting payout and not due yet, split by currency. They can switch between **All events**, **Upcoming & live** and **Past events**, filter by payout status, search, pick an event or a date range, and see the date each payout was made. A banner explains how they get paid (Stripe or bank account), with a quick link to add bank details if they're missing. Available in all 13 supported languages. **Fewer "where's my money?" emails for you, more trust from your organisers.**
 
 - **Built-in Security Health Check for Eventmie Pro FullyLoaded:**  
   A new one-click security scan checks your server for suspicious files, exposed secrets and other warning signs, and tells you exactly how to fix anything it finds. **Like an antivirus for your event website.**
